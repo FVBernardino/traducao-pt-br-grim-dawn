@@ -1,0 +1,56 @@
+Quade
+Eu ouvi dizer que Darius está morto. Que bom que estamos do mesmo lado neste conflito.
+Adeus.
+Você é sempre [[ms]bem-vindo[fs]bem-vinda] em nosso acampamento.
+Adeus.
+[[ms]Bem-vindo[fs]Bem-vinda] ao nosso acampamento. Se você não sacar suas armas, nós também não o faremos. Nossa luta é contra a gangue de Cronley.
+Adeus.
+Como vai a caçada?
+"Ricaço" Martin está morto.
+Você é implacável. Espero que ele tenha gritado por socorro, com seus prantos sem resposta naqueles velhos túneis de mina. Obrigado, você me deixou mais tranquilo.
+De nada.
+Como vai a caçada?
+Onde eu devo procurar?
+Você deve encontrar "Ricaço" Martin no Esconderijo de Cronley, embaixo das Quatro Colinas.
+Irei até lá agora.
+Ainda estou procurando.
+[[ms]Pronto[fs]Pronta] para causar mais destruição?
+O que você quer que eu faça?
+Em algum lugar no Esconderijo de Cronley, embaixo das Quatro Colinas, vive um bastardo chamado "Ricaço" Martin. Ele ganhou esse apelido explorando viajantes indefesos como o meu antigo grupo.{^n}{^n}Há alguns meses, Martin e seu bando nos encontraram na estrada e exigiram todos os nossos objetos de valor. Eu recusei... e então, ele me arrancou um olho. Aquele foi o dia em que deixei os meus anciães Nômades, não mais disposto a aturar que este mundo cruel cuspisse em nosso estilo de vida pacífico. Juntamente com os meus irmãos e irmãs, eu luto contra o inimigo em vez de me esconder e rezar.{^n}{^n}Mas eu não posso simplesmente deixar que eles busquem vingança por mim. É por isso que eu gostaria que você fosse [[ms]o meu vingador[fs]a minha vingadora]. Encontre Martin e deixe seu cadáver apodrecendo naqueles túneis. Em seguida, retorne até mim.
+Vou encontrar "Ricaço" Martin.
+Hum... não, [[ms]obrigado[fs]obrigada].
+Eu já matei "Ricaço" Martin.
+Você é implacável. Espero que ele tenha gritado por socorro, com seus prantos sem resposta naqueles velhos túneis de mina. Obrigado, você me deixou mais tranquilo.
+De nada.
+Não estou [[ms]interessado[fs]interessada].
+Como vai a sua missão?
+Eu destruí as forjas.
+Eu pude ouvir daqui o tumulto que você causou. Bom trabalho. Aqui está o seu pagamento, como prometido. Agora... eu queria saber se você aceita outra tarefa.
+O que você tem em mente?
+
+Não estou [[ms]interessado[fs]interessada].
+Volto logo.
+Como vai a sua missão?
+Você pode repetir a localização das forjas?
+A gangue de Cronley tem várias forjas de armas nas Quatro Colinas, ao leste daqui. Se você destruir um número suficiente delas, impedirá que eles se rearmem.
+Vou cuidar disso agora mesmo.
+Ainda estou trabalhando nisso.
+Você voltou. Poderia nos ajudar?
+De que você precisa?
+A gangue de Cronley é bem armada e experiente. Nós... não somos. Não vamos ganhar esta batalha com um ataque frontal. Temos que enfraquecê-los.{^n}{^n}É aí que você entra. Os bandidos têm uma série de forjas, semelhantes a esta que está atrás de mim, espalhadas pelas Quatro Colinas. Se você as destruir, os homens de Darius não serão capazes de se rearmar. Eu sei que isso não é problema seu, mas estou disposto a fazer com que seja por um pouco de Ferro. O que me diz?
+Fechado.
+Você está certo. Não é problema meu.
+[[ms]Bem-vindo[fs]Bem-vinda] ao nosso acampamento. O que [[ms]o[fs]a] traz aqui?
+Mornay me enviou.
+Ah, então ele conseguiu atravessar o rio. Ele é um baita filho de um slith. Ainda há uma bala nele que prova isso.{^n}{^n}Se Mornay enviou você é porque ele deve achar que podemos nos ajudar mutuamente. Você não se importaria de usar suas armas, não é?
+De que você precisa?
+A gangue de Cronley é bem armada e experiente. Nós... não somos. Não vamos ganhar esta batalha com um ataque frontal. Temos que enfraquecê-los.{^n}{^n}É aí que você entra. Os bandidos têm uma série de forjas, semelhantes a esta que está atrás de mim, espalhadas pelas Quatro Colinas. Se você as destruir, os homens de Darius não serão capazes de se rearmar. Eu sei que isso não é problema seu, mas estou disposto a fazer com que seja por um pouco de Ferro. O que me diz?
+Fechado.
+Você está certo. Não é problema meu.
+Eu já destruí as forjas deles.
+Mornay sabe como atingi-los. Bom trabalho. Aqui está o seu pagamento, como prometido. Agora... eu queria saber se você aceita outra tarefa.
+
+Não estou [[ms]interessado[fs]interessada].
+Estou só de passagem.
+[[ms]Bem-vindo[fs]Bem-vinda] ao nosso acampamento. Se você não sacar suas armas, nós também não o faremos. Nossa luta é contra a gangue de Cronley.
+Estou só de passagem.

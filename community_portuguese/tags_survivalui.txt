@@ -1,0 +1,105 @@
+#Survival Mode Tags
+
+#Main
+tagSurvivalMode_Desc=Entre na Provação, os campos de prova onde força e bravura são testadas contra ondas de inimigos implacáveis. Aqueles que sobrevivem são recompensados com tesouros abundantes.
+tagSurvivalDeath=Você está morto, mas seus aliados ainda podem levar a cabo esta onda. Se tiverem sucesso, você será ressuscitado no final do encontro.
+tagSurvivalLastDeath=Seu grupo foi derrotado.
+
+#Achievements
+achGroupSurvival=A Provação
+
+achS001Title=Campeão da Provação
+achS001Desc=Complete a Provação até a Onda 150.
+
+achS002Title=Conquistador da Provação
+achS002Desc=Complete a Provação até a Onda 150 na Dificuldade Desafiante.
+
+achS003Title=Senhor da Provação
+achS003Desc=Complete a Provação até a Onda 150 na Dificuldade Gladiador.
+
+achS004Title=Acima de 900.000!
+achS004Desc=Consiga uma pontuação na Provação de pelo menos 900.000.
+
+achS005Title=Subindo os Degraus
+achS005Desc=Consiga uma pontuação na Provação de pelo menos 5.000.000.
+
+achS006Title=Melhor Pontuação
+achS006Desc=Consiga uma pontuação na Provação de pelo menos 10.000.000.
+
+achS007Title=Senhor Imparável da Provação
+achS007Desc=Complete a Provação na Dificuldade Gladiador com o sexto Ponto de Aparição ativo.
+
+achS008Title=Postura Defensiva
+achS008Desc=Construa uma Estrutura Defensiva.
+
+achS009Title=Sobrecarga na Defesa
+achS009Desc=Construa 50 Defesas.
+
+achS010Title=Toque Celestial
+achS010Desc=Ative uma Bênção Celestial.
+
+achS011Title=Orientação Celestial
+achS011Desc=Ative 25 Bênçãos Celestiais.
+
+achS012Title=Intervenção Celestial
+achS012Desc=Ative todas as 4 Bênçãos Celestiais em uma única Provação.
+
+
+#Mutators
+
+tagNewMutator=Novo Mutador Ativo
+tagNewMutators=Novos Mutadores Ativos
+tagMutatorGained={%s0} ganhou o Mutador {^r}{%s1}
+tagMutatorPlayers=Jogadores
+tagMutatorMonsters=Monstros
+
+# Survival HUD Rollovers
+
+tagHUDScore01=Pontuação
+tagHUDScore01Info=A Pontuação na Provação que você conseguiu nesta sessão; baseada no número de ondas que você derrotou, nos monstros abatidos, na dificuldade do jogo e no Multiplicador de Pontuação.
+
+tagHUDMultiplier01=Multiplicador de Pontuação
+tagHUDMultiplier01Info=O Multiplicador de Pontuação que você alcançou; baseado no número de Cronômetros Bônus consecutivos que você superou. Se você não supera o Cronômetro Bônus, o Multiplicador reinicia.
+
+tagHUDTribute01=Tributos
+tagHUDTribute01Info=O número de Tributos que você ganhou na Provação. Tributos são uma moeda que pode ser gasta em várias Bênçãos Celestiais, Defesas e para retomar em vários pontos de controle. Você não pode ter mais de 100 Tributos por vez.
+
+tagHUDTimer01=Cronômetro Bônus
+tagHUDTimer01Info=Se você derrotar uma Onda na Provação antes de este cronômetro chegar ao fim, o Multiplicador de Pontuação aumentará.
+
+tagHUDWaveTier01=Onda Atual
+tagHUDWaveTier01Info=A Onda de Monstros com que você está lutando.
+
+
+
+#Tutorials
+tagTutorialTip62Title=A Provação Chama...
+tagTutorialTip62TextA=Você entrou na Provação, uma maquinação tortuosa do misterioso Lokarr. Aqui, o seu talento na batalha será testado contra alguns dos seres mais vis de Grim Dawn.
+tagTutorialTip62TextB=Quando estiver pronto para começar, fale com Lokarr, o Mestre da Provação.
+tagTutorialTip62SubtitleA=Servos de Lokarr
+tagTutorialTip62TextC=A qualquer momento entre ondas de monstros da Provação, você pode falar com os servos de Lokarr para tirar proveito de serviços básicos, como um Comerciante, um Ferreiro e um Guia Espiritual.
+tagTutorialTip62SubtitleB=Tributos da Provação
+tagTutorialTip62TextD=Os Tributos são ganhos combatendo-se na Provação. Eles podem, por sua vez, ser gastos em vários recursos, tais como a construção de Defesas em torno da arena ou ativação de poderosas Bênçãos Celestiais.
+tagTutorialTip62SubtitleC=A Arquimaga Imortal
+tagTutorialTip62TextE=Torralia oferece serviços exclusivos, disponíveis apenas na Provação. Fale com ela para gastar seus preciosos Tributos em Bênçãos Celestiais e para desbloquear Pontos de Devoção.
+
+tagTutorialTip63Title=Defesas da Provação
+tagTutorialTip63TextA=Você construiu uma Defesa da Provação. Essas estruturas ajudam você na batalha contra os lacaios de Lokarr.
+tagTutorialTip63TextB=As Defesas não podem ser destruídas e não geram ameaça.
+tagTutorialTip63SubtitleA=Melhorando Defesas
+tagTutorialTip63TextC=As Defesas podem ser melhoradas, fortalecendo seus efeitos e até mesmo desbloqueando uma nova habilidade, mas o custo em Tributos e Pedaços de Ferro sobe a cada vez. Cada Defesa pode ser melhorada duas vezes.
+
+tagTutorialTip64Title=Finalizando a Provação
+tagTutorialTip64TextA=Seus esforços na Provação chegaram ao fim, seja por ter morrido diante de suas maquinações cruéis, seja por ter vencido de forma valente, mas isso não é o fim.
+tagTutorialTip64TextB=Você agora pode entrar na Câmara do Tesouro e reivindicar a recompensa ganha pelo seu progresso, pontuação e quaisquer bônus adicionais que você tenha ativado no início.
+tagTutorialTip64SubtitleA=Resetando a Provação
+tagTutorialTip64TextC=Se quiser competir novamente na mesma Provação, você pode falar com Lokarr para resetar o evento na primeira onda.
+tagTutorialTip64TextD=Note que isso removerá todos os baús na Sala do Tesouro e resetará quaisquer Defesas que você tenha construído.
+tagTutorialTip64SubtitleB=Reiniciando em um Ponto de Controle
+tagTutorialTip64TextE=Se passar da Onda 50, você também terá a opção de gastar Tributos para reiniciar no Ponto de Controle mais próximo, que é 20 ondas antes de onde você parou, arredondando para baixo para a décima mais próxima (ex. terminar na Onda 55 fará você reiniciar na Onda 30).
+tagTutorialTip64TextF=Cada vez que você reinicia, o custo em Tributos aumenta. Você pode reiniciar até 3 vezes.
+tagTutorialTip64TextG=Note que isso removerá todos os baús na Sala do Tesouro e resetará quaisquer Defesas que você tenha construído.
+
+tagQuickTip62={^z}A Provação Chama...{^-}{^n}{^n}Quando você estiver pronto para começar, fale com Lokarr, ou antes tire proveito dos serviços dos PNJs próximos.{^n}{^n}Clique aqui para obter mais informações sobre a Provação.
+tagQuickTip63={^z}Defesas da Provação{^-}{^n}{^n}Você construiu uma Defesa da Provação. Essas estruturas ajudam você na batalha contra os lacaios de Lokarr. Cada uma delas pode ser melhorada duas vezes.
+tagQuickTip64={^z}Finalizando a Provação{^-}{^n}{^n}Ao finalizar a Provação, você pode entrar na Câmara do Tesouro e reivindicar sua recompensa. Você também tem a opção de reiniciar desde o início, ou em um Ponto de Controle, caso tenha desbloqueado algum.

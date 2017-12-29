@@ -1,0 +1,21 @@
+Isaac
+Você... encontrou?
+Sim, [[ms]obrigado[fs]obrigada]. Descanse agora.
+Estou tão... cansado...
+Descanse agora.
+Estou tão... cansado...
+Descanse agora.
+O que... é?
+Você pode repetir onde o estoque está?
+Siga o rio ao lado da cabana até onde ele deságua no lago e procure na costa. Meus bens estão escondidos embaixo de um toco de árvore desenraizado.
+[[ms]Obrigado[fs]Obrigada]. Descanse agora.
+Descanse em paz.
+Ah, meu socorro chegou! Porém, receio que seja tarde demais. Esses bastardos sanguinários já colocaram minhas melhores partes sobre o altar.
+Deve haver algo que eu possa fazer.
+Já estou praticamente morto. Não perca seu tempo comigo. Meus objetos de valor não ajudarão ninguém enquanto estiverem escondidos sob o toco de uma árvore. Você matou meus captores e, portanto, merece uma recompensa.{^n}{^n}Siga o rio ao lado da cabana até o delta e procure na costa. Quando o mundo desceu pela toca slith, eu escondi os meus bens mais valiosos embaixo de um toco de árvore desenraizado. Pegue o que quiser. Só peço que esmague a cabeça de alguns cultistas por mim, hã?
+[[ms]Obrigado[fs]Obrigada]. Eu vou encontrar.
+Não vale o meu tempo.
+Eu já encontrei o estoque.
+Ah... Eu acho que... eu deveria ter escondido... melhor, hã?{^n}{^n}*Isaac faz cara de dor.*{^n}{^n}Espero que... as minhas coisas... lhe sejam úteis...
+Descanse em paz.
+Sinto muito. Descanse em paz.

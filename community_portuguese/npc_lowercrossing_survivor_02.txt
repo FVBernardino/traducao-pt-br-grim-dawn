@@ -1,0 +1,30 @@
+Faldis
+O Capitão disse para manter a calma, mas como posso ficar calmo quando algo como *aquilo* pode atravessar aquele maldito portal a qualquer momento?{^n}{^n}Estamos todos apenas esperando para morrer.
+Nós estamos lidando com isso da melhor maneira possível.
+Você precisa se acalmar.
+O Capitão disse para manter a calma, mas como posso ficar calmo quando algo como *aquilo* pode atravessar aquele maldito portal a qualquer momento?{^n}{^n}Estamos todos apenas esperando para morrer.
+Nós estamos lidando com isso da melhor maneira possível.
+Você precisa se acalmar.
+Eu nunca mais vou ir lá fora.
+E quanto aos suprimentos?
+Nem resta muita coisa para recolher nas redondezas.{^n}{^n}Além disso, eu estaria morto agora se você não tivesse me resgatado.
+
+Nós só precisamos procurar com mais vontade.
+Tem razão.
+Você disse que veio de Burrwitch?
+Sim, eu tinha uma casa na Rota Lamacenta antes de a cidade ser tomada pelos Etéreos.{^n}{^n}Foi terrível. Fogo e mortos por todos os lados. Eu vi os meus vizinhos sendo dilacerados por aquelas coisas.{^n}{^n}Se não fosse pelo Capitão Bourbon...
+O Capitão Bourbon salvou vocês?
+Foi o Capitão Bourbon que nos encontrou escondidos na pensão.{^n}{^n}Ele reuniu pessoalmente os sobreviventes e nos trouxe aqui atravessando terras selvagens.{^n}{^n}Mesmo com a ajuda dele, nem todos nós conseguimos atravessar o pântano...
+Parece que você tem o hábito de precisar ser resgatado.
+O capitão é um herói.
+Parece ter sido uma jornada difícil.
+Parece terrível.
+Ótimo, não se pode correr riscos.
+Você ficará seguro aqui.
+Caramba, você me ajudou mesmo.{^n}{^n}O portal me trouxe de volta ao Cruzamento do Diabo, exatamente como você tinha prometido.
+De nada.
+Eu... eu gostaria de lhe agradecer.{^n}{^n}Aqui, pegue tudo o que encontrei lá fora. Não é muito, mas talvez você possa usar para alguma coisa.
+[[ms]Obrigado[fs]Obrigada].
+O mundo que conhecíamos já era... tudo já era...
+Nós vamos dar um jeito de sobreviver.
+Nós vamos nos virar com o que temos.

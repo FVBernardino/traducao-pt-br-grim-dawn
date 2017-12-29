@@ -1,0 +1,23 @@
+Recompensas
+R: Goelardente
+Recompensa
+A Legião pede ajuda para caçar um monstro.{^n}{^n}Um Espinhoso conhecido como Goelardente provou ser surpreendentemente resistente às chamas. Ele foi visto pela última vez na Bacia Sombreada, espalhando grandes incêndios por onde quer que fosse.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+
+
+
+Mate Goelardente
+
+Retorne
+Você concluiu a tarefa para a Legião Negra e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Legião Negra
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+Canteiro de Obras
+Esta ponte conectava o Cruzamento do Diabo aos Sopés Arkovianos, ao noroeste. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 6 unidades de Sucata e 12000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para os Sopés Arkovianos.
+Sair.
+Esta ponte conectava o Cruzamento do Diabo aos Sopés Arkovianos, ao noroeste. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 6 unidades de Sucata e 7000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para os Sopés Arkovianos.
+Sair.
+Esta ponte conectava o Cruzamento do Diabo aos Sopés Arkovianos, ao noroeste. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 6 unidades de Sucata e 3000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para os Sopés Arkovianos.
+Sair.
+Você reparou esta ponte.
+Ok.

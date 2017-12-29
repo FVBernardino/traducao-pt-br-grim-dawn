@@ -1,0 +1,18 @@
+Ulgrim
+Prepare-se. O pesadelo enterrado sob a Necrópole é bem real.
+Tenho algumas perguntas.
+Vá em frente.
+Você parece estranhamente abalado com o retorno do Logorreano.
+Não é nada. Só estou triste de descobrir que esse mal nunca poderá realmente ser contido.{^n}{^n}*Ulgrim dá um sorriso irônico.*{^n}{^n}Se eu ficar muito emotivo durante a luta, é só me entregar um lenço.
+Tenho outra pergunta.
+Vou ter isso em mente.
+Quer dizer que essa coisa já foi evocada antes?
+Sim, há muitos séculos, na Batalha de Ikon. Ninguém sabe ao certo se eram os Carineanos realizando uma última e desesperada manobra ou se o Logorreano foi atraído por todo aquele sangue derramado, mas os resultados foram catastróficos.{^n}{^n}E agora sabemos qual era o verdadeiro propósito por trás da Necrópole.
+Tenho outra pergunta.
+Erros do passado voltando.
+Qual é o nosso plano de ação?
+Estou preparando uma equipe de elite para se infiltrar na Necrópole e pegar o inimigo de surpresa lá dentro.{^n}{^n}Quando você estiver [[ms]pronto[fs]pronta], fale com Creed para obter mais detalhes.
+Tenho outra pergunta.
+Vou fazer isso.
+Deixe pra lá.
+Adeus.

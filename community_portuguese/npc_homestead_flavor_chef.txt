@@ -1,0 +1,13 @@
+Chefe Brackham
+Agora que os Dermápteros não mais constituem uma ameaça, a Capitã Somer requisitou alguns suprimentos para fazermos uma cozinha funcionar por aqui.{^n}{^n}Graças à comida que chega dos campos que você reivindicou, finalmente podemos começar a nos alimentar de maneira decente.
+Eu gostaria de uma refeição.
+Claro. Bom apetite.
+[[ms]Obrigado[fs]Obrigada].
+Desculpe, mas eu não posso lhe oferecer mais.{^n}{^n}A Legião Negra quer que nós racionemos.
+Tudo bem.
+Podemos mandar comida para o Cruzamento do Diabo?
+Você vai ter que conversar sobre isso com o Douglass.
+Está bem.
+Adeus.
+Desculpe, mas a cozinha ainda não está pronta.{^n}{^n}Por favor, volte mais tarde.
+Adeus.

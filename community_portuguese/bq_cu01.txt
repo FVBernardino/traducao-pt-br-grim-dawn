@@ -1,0 +1,5 @@
+RecompensasRecompensa: Ancião Wendigo
+RecompensaO culto de Wendigo tem atormentado o Pacto há muito tempo.{^n}{^n}Eliminar Anciãos Wendigo em Ugdenbog pode atrasar seus ataques por um tempo.{^n}{^n}Seus esforços serão recompensados com ferro.
+
+Matar Anciãos Wendigos.Ativar
+Você completou uma tarefa para o Pacto de Ugdenbog e deve retornar à mesa de recompensas para sua recompensa.Retornar à mesa de recompensas Pacto de Ugdenbog

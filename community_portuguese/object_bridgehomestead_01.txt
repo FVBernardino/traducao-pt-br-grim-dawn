@@ -1,0 +1,19 @@
+Canteiro de Obras
+Esta ponte conectava a Velha Arkóvia à Herdade. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}Infelizmente, esse conteúdo ainda não está pronto e por isso você ainda não pode atravessá-la!
+O quê! Onde está o resto?!
+Ainda estamos trabalhando no conteúdo para além deste ponto. Visite o nosso site para atualizações!
+Está bem.
+Esta ponte conectava a Velha Arkóvia à Herdade. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 30 unidades de Sucata e 15000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para a Herdade.
+Sair.
+Esta ponte conectava a Velha Arkóvia à Herdade. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 30 unidades de Sucata e 15000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para a Herdade.
+Sair.
+Esta ponte conectava a Velha Arkóvia à Herdade. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 30 unidades de Sucata e 15000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para a Herdade.
+Sair.
+Você reparou esta ponte.
+Ok.

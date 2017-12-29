@@ -1,0 +1,21 @@
+Markiv
+Eu vou está bem.{^n}{^n}Obrigado por sua ajuda.
+Adeus.
+Certifique-se de matar mais alguns desses bastardos para mim.
+Eu tenho certeza.
+Venha e termine o trabalho, você está sujo!
+Com licença?
+Oh, você matou todos?{^n}{^n}Perdoe-me, pensei que tivesse terminado.{^n}{^n}Não achava que alguém viria e aquelas monstruosidades tinham me encurralado.
+O quê você está fazendo aqui em baixo?
+Fui enviado pelo capitão Wilfor, bem, ele enviou um grupo de nós. Eu sou o único que restou.{^n}{^n}Nós deveríamos estar procurando por sobreviventes. Lidamos o caminho até aqui para este centro de drenagem, mas fomos emboscados. Um grupo deles se arrastou diretamente do chão ao nosso redor. Não havia muito que pudéssemos fazer.{^n}{^n}Conor e Nane eram pessoas corajosas, a resistência certamente sentirá falta deles.
+A resistência?
+Espere, você não é daqui, é? É o primeiro em meses.{^n}{^n}Sim, o que resta do guarda da cidade e de alguns civis. Aqueles que não foram corrompidos ou mortos no primeiro ataque. Embora hoje não tenhamos muita resistência. Não foram muitos que partiram. Passamos a maior parte do nosso tempo escondidos e eliminando provisões.{^n}{^n}Os Aetherials nos obrigaram a recuar aqui há algum tempo. O que resta de nós está escondido em uma antiga estação de bombeamento, ao norte daqui.{^n}{^n}Se você conseguir lutar pelo seu caminho, você deve falar com o capitão Wilfor.
+Você ficará bem?
+Eu vou fazer isso.{^n}{^n}Apenas se certifique de matar alguns desses bastardos para mim.
+Tudo bem, mantenha-se seguro.
+Boa sorte.
+Ok, vou encontrar o capitão Wilfor.
+
+Desculpe preciso ir.
+Desculpe mas preciso ir.
+Tudo bem.

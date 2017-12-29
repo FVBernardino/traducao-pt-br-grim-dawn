@@ -1,0 +1,33 @@
+Sybil Hart
+Ele matou tanta gente...{^n}{^n}Como podemos esperar sobreviver contra um inimigo tão implacável?
+Vamos encontrar uma maneira.
+Ele matou tanta gente...{^n}{^n}Como podemos esperar sobreviver contra um inimigo tão implacável?
+Vamos encontrar uma maneira.
+Ele matou tanta gente...{^n}{^n}Como podemos esperar sobreviver contra um inimigo tão implacável?
+Vamos encontrar uma maneira.
+Ele matou tanta gente...{^n}{^n}Como podemos esperar sobreviver contra um inimigo tão implacável?
+Vamos encontrar uma maneira.
+Obrigada por ter ajudado o meu irmão. O sofrimento dele está no fim.
+Gostaria de poder ter feito mais.
+Diga aos seus amigos que sou grata pela devolução do amuleto do meu irmão.
+Adeus.
+Olá, [[ms]forasteiro[fs]forasteira]. Meu nome é Sybil Hart. O que posso fazer por você?
+Eu encontrei um amuleto com o seu nome.
+Eu dei esse amuleto ao meu irmão, Milton. Onde você o encontrou?
+O seu irmão era um dos Mortos. Ele está em paz agora.
+Isso é... difícil de aceitar. Milton, sinto muito, irmão. Obrigada, [[ms]forasteiro[fs]forasteira]. Pelo menos eu posso viver sabendo que meu irmão está livre de todo esse sofrimento. O amuleto foi encantado para manter meu irmão forte. Acho que você precisará dele mais do que eu. Pegue-o, espero que lhe traga sorte.
+Sinto muito pela sua perda.
+Eu encontrei um amuleto com o seu nome, mas o perdi.
+Minha nossa. Bem, se você o encontrar novamente, peço que me devolva.
+Vou fazer isso.
+Você voltou! Vejo que tem o amuleto do meu irmão. É como eu temia?
+Infelizmente, Milton era um dos Mortos.
+Isso é... difícil de aceitar. Milton, sinto muito, irmão. Obrigada, [[ms]forasteiro[fs]forasteira]. Pelo menos eu posso viver sabendo que meu irmão está livre de todo esse sofrimento. O amuleto foi encantado para manter meu irmão forte. Acho que você precisará dele mais do que eu. Pegue-o, espero que lhe traga sorte.
+Sinto muito pela sua perda.
+Por favor, ajude o meu irmão. Eu o vi pela última vez no Vale Encharcado, em Wightmire, antes do Alvorecer Sombrio.{^n}{^n}Caso ele tenha se tornado uma daquelas coisas, por favor... liberte-o desse sofrimento. Traga o amuleto que ele usa como prova. Talvez me proporcione um pouco de consolo.
+Estou indo.
+Desculpe o incômodo, mas, caso esteja indo em direção a Wightmire, poderia procurar o meu irmão?
+Quem é ele?
+O nome dele é Milton... Milton Hart. Ele era um soldado no exército imperial. Quando fugimos de Burrwitch, ele se ofereceu para nos dar cobertura. Ele sempre teve um quê de herói.{^n}{^n}Mas já se passaram semanas e não temos notícias dele. Não quero nem pensar que ele pode ter se tornado um dos Mortos. Ele sempre usava um amuleto que dei a ele anos atrás para mantê-lo seguro. Agora eu temo que o amuleto esteja mantendo-o como um morto-vivo. Só quero que meu irmão descanse em paz. Você faria isso por mim? A última vez que nos vimos foi no Vale Encharcado, em Wightmire. Acho que ele ainda está por lá.
+Farei o que deve ser feito.
+Sinto muito. Não posso ajudá-la.

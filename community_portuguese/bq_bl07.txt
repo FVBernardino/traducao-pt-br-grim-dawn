@@ -1,0 +1,22 @@
+Recompensas
+R: A Primeira Matriarca
+Recompensa
+A Legião pede ajuda para caçar um monstro.{^n}{^n}Uma matriarca mantícora conhecida como Mogara provou ser um alvo difícil e muitas vezes transforma seus caçadores em presas. Parece que o Deserto Dentado, ao sul, é uma área onde ela costuma caçar.{^n}{^n}Qualquer ajuda será recompensada com pedaços de ferro.
+
+Mate Mogara
+
+Retorne
+Você concluiu a tarefa para a Legião Negra e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Legião Negra
+
+
+
+
+
+
+
+
+
+
+
+

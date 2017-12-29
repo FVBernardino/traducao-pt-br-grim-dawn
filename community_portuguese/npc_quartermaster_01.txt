@@ -1,0 +1,27 @@
+Armeiro Edric
+Eu não sei o que você pensa que está fazendo, mas que bem você acha que aqueles suprimentos farão quando a Legião cair e as pessoas na Herdade forem deixadas à própria sorte?{^n}{^n}Nós somos a última linha de defesa da humanidade e você nos combaliu.
+A Legião vai dar um jeito.
+Aquelas pessoas precisavam mais dos suprimentos.
+Obrigado por ter recuperado aqueles suprimentos. Eles serão úteis para repararmos nossas defesas danificadas.
+Fico contente em ajudar.
+Desculpe, eu tenho que fazer um inventário do que nos restou após o ataque.{^n}{^n}Talvez em outra ocasião.
+Adeus.
+Você recuperou os suprimentos?
+Sim, aqui estão eles.
+Ah, excelente. Eu tinha medo de que eles tivessem sido destruídos após as recentes explosões na armaria.{^n}{^n}Obrigado por ter recuperado os suprimentos. Aqui, pegue um pouco desta sucata. Tenho certeza de que pode servir para você também.
+[[ms]Obrigado[fs]Obrigada]. Faça bom uso desses suprimentos.
+Você recuperou os suprimentos?
+Você pode repetir onde eles estão?
+Os suprimentos foram armazenados na armaria, na extremidade norte do forte. Com o comandante possuído preso lá embaixo, eu não posso simplesmente enviar qualquer um, então eu deposito a minha confiança em você.
+Irei até lá agora.
+Ainda estou trabalhando nisso.
+Como você já deve ter percebido, o forte já viu dias melhores.{^n}{^n}Serão necessários todos os homens e mulheres fisicamente aptos para trazer o Forte Ikon de volta à sua antiga glória. Importa-se de dar uma mão?
+De que você precisa?
+Eu preciso de alguém capaz de entrar na armaria e recuperar o que sobrou da nossa sucata e dos nossos materiais de construção. Os suprimentos foram originalmente designados para a Herdade, mas, com os recentes ataques, não podemos nos dar ao luxo de ceder nenhum recurso.{^n}{^n}Depois que Lucius abriu os portões e os Etéreos começaram a entrar, eu não tive escolha a não ser colapsar os nossos próprios portões com explosivos. O conserto vai levar semanas, mas não podemos começar sem aqueles suprimentos. Infelizmente, o comandante possuído fugiu para a armaria, talvez para terminar de sabotar o que resta do nosso arsenal. Eu ouvi dizer que você tem experiência em lidar com Etéreos, então eu pensei que você poderia dar um jeito nisso.
+Vou recuperar os suprimentos.
+Envie outro. Eu estou [[ms]ocupado[fs]ocupada].
+Eu estou com os suprimentos. Aqui estão.
+
+Desculpe. Não posso agora.
+Desculpe, eu tenho que fazer um inventário do que nos restou após o ataque.{^n}{^n}Talvez em outra ocasião.
+Adeus.

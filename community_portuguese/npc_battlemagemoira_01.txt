@@ -1,0 +1,34 @@
+Quebra-feitiços Moira
+A Legião está em dívida com você. Seria uma honra lutar ao seu lado.
+Adeus.
+Poucos desbravariam a Imolação como você o fez.{^n}{^n}A Legião lhe agradece.
+Adeus.
+Moira da Divisão dos Quebra-feitiços, ao seu dispor.
+
+Adeus.
+Você desbravou a Imolação?
+O Arauto da Destruição está morto.
+Você nos fez um grande favor. Com o Arauto fora do caminho, os Etéreos não serão capazes de espalhar fogo etéreo no sul.{^n}{^n}Eu também gostaria de lhe agradecer pessoalmente por ter vingado os meus companheiros soldados. Vou dormir melhor sabendo que a coisa que os matou já era.
+Adeus.
+Você desbravou a Imolação?
+Onde ela está localizada?
+Os Etéreos infestaram uma área da Ravina do Morto que nós começamos a chamar de Imolação. É um lugar terrível, cheio de fogo etéreo e corrupção. Um dos obeliscos deles, o Arauto da Destruição, está lá.
+Vou cuidar disso.
+Ainda estou trabalhando nisso.
+[[ms]Senhor[fs]Senhora], Moira da Divisão dos Quebra-feitiços se apresentando.{^n}{^n}Eu queria saber se poderia ter um momento da sua atenção.
+De que você precisa?
+Antes de eu vir para o Forte Ikon, fui designada para uma divisão que marchava para o sul em direção à Velha Arkóvia. Com a ponte ruída, não tivemos escolha a não ser ir pela Ravina do Morto.{^n}{^n}Nós jamais suspeitaríamos que o inimigo estivesse lá em grande número. Os Etéreos estavam fortemente entrincheirados nos penhascos e ocupados espalhando fogo etéreo usando um obelisco conhecido como Arauto da Destruição. O local foi literalmente transformado num inferno. Nós o chamamos agora de Imolação. Poucos de nós conseguiram sair de lá com vida, mas conseguimos selar a mina. Eu ouvi falar das suas façanhas. Se você puder entrar na Imolação e destruir o Arauto, prejudicará imensamente a capacidade do inimigo de terraformar o nosso mundo e eu terei vingança por todas as vidas perdidas no meu batalhão.{^n}{^n}Você vai fazer esse serviço para a Legião?
+Vou lidar com essa ameaça.
+Sinto muito. Não posso ajudá-la.
+Eu já matei o Arauto da Destruição.
+
+O que é um Quebra-feitiços?
+Nós somos arcanistas sancionados pela Legião e especialistas em interromper a capacidade de lançar feitiços dos inimigos. Nosso dever primário é anular e eliminar as capacidades arcanas dos inimigos.{^n}{^n}Com a crescente ameaça dos Etéreos, nossas fileiras estão diminuindo.
+O que você queria de mim?
+Intrigante.
+Não agora.
+Moira da Divisão dos Quebra-feitiços, ao seu dispor.
+O que é um Quebra-feitiços?
+Nós somos arcanistas sancionados pela Legião e especialistas em interromper a capacidade de lançar feitiços dos inimigos. Nosso dever primário é anular e eliminar as capacidades arcanas dos inimigos.{^n}{^n}Com a crescente ameaça dos Etéreos, nossas fileiras estão diminuindo.
+Intrigante.
+Adeus.

@@ -1,0 +1,19 @@
+Faldis
+Vamos todos morrer aqui.
+A ajuda está chegando.
+Vamos todos morrer aqui.
+Calma, de onde você é?
+Eu estava com um grupo de sobreviventes no Cruzamento do Diabo, você sabe... a velha prisão, mas os suprimentos começaram a se esgotar. Eu me ofereci para recolher mais no Cruzamento Inferior. Achei que era seguro o suficiente, mas estava errado.{^n}{^n}Eu fui perseguido até aqui por um bando de flagelos abissais vorazes, mas não consigo mais ouvir o barulho enlouquecedor que eles fazem quando andam. É a você que devo agradecer por isso?{^n}{^n}Mas não importa. A região está lotada de mortos. Não podemos nem dar cinco passos que ficamos cercados.
+O caminho de volta deve estar livre agora.
+Eu não vou voltar lá.{^n}{^n}Os mortos vão nos encontrar e nos dilacerar.
+Bem, eu acho que posso abrir um portal.
+Tudo bem, você está sozinho nessa.
+Eu acho que posso abrir um portal.
+Um o quê? Não é disso que essas... essas coisas estão vindo?
+Bem, mais ou menos, mas o meu levará você para casa.
+É difícil acreditar nisso depois do que eu vi em Burrwitch.{^n}{^n}Mas você não aparenta ser [[ms]um "Possesso"[fs]uma "Possessa"]. Acho que essa é a minha única opção.
+Vejo você no Cruzamento do Diabo. (Abrir Portal)
+Esqueça. Encontre seu próprio caminho de casa.
+Deixe pra lá.
+Você está sozinho nessa.
+Você está sozinho nessa.

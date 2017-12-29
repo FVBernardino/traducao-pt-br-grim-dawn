@@ -1,0 +1,10 @@
+Vig
+Encoste um dedo no Benevald e você morre.
+Você pode me dizer algo sobre a região?
+Nada que você provavelmente não tenha visto por si [[ms]mesmo[fs]mesma].{^n}{^n}O Culto de Ch'thon e seus terrores do vazio infestaram Valescuro.{^n}{^n}O Forte Haron está sob constante ataque, quer pelos necromantes, quer pelos zelotes de Kymon. Nenhum dos dois lados consegue controlá-lo por muito tempo.{^n}{^n}As Montanhas de Asterkarn, para além de Valescuro, ficaram muito perigosas para viagens. Se as feras não atacarem você, os Jurassangue atacarão.
+[[ms]Obrigado[fs]Obrigada] pelo aviso.
+Você está protegendo esse homem?
+O Benevald ganhou fama por coletar mercadorias raras e preciosas, então já teve que lidar com vários ladrões e assassinos.{^n}{^n}Hoje em dia, creio que ladrões sejam a menor das nossas preocupações.
+Entendo.
+Não quero arrumar confusão.
+Tudo bem.

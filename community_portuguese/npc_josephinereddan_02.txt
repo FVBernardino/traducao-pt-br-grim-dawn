@@ -1,0 +1,33 @@
+Josephine Reddan
+Se você estiver à procura de mercadorias, fale com o meu pai.
+Adeus.
+Talvez eu estivesse errada sobre você.
+Eu tento fazer o melhor.
+Olá, o meu pai me falou de você. Não é todo dia que se encontra uma pessoa amigável e compreensiva lá fora nas terras selvagens.
+O seu pai parece ser um bom homem.
+Ele está sempre cuidando de mim, principalmente agora que a minha mãe faleceu.
+Lamento por ouvir isso.
+Prazer em conhecê-la.
+Eu ouvi falar de você. Você extorquiu dinheiro do meu pai na estrada. Pessoas como você não merecem estar aqui.
+Só fiz o que eu achava certo.
+É isso? Se você está tão [[ms]seguro[fs]segura], devolva-nos o que roubou.
+Está bem, pegue. (Dar-lhe 1000 Pedaços de Ferro)
+Ó! Bem... hum... eu não esperava que você devolvesse.{^n}{^n}Obrigada.
+Considere isso como um mal-entendido.
+Está bem, pegue. (Dar-lhe 4000 Pedaços de Ferro)
+Ó! Bem... hum... eu não esperava que você devolvesse.{^n}{^n}Obrigada.
+Considere isso como um mal-entendido.
+Está bem, pegue. (Dar-lhe 9000 Pedaços de Ferro)
+Ó! Bem... hum... eu não esperava que você devolvesse.{^n}{^n}Obrigada.
+Considere isso como um mal-entendido.
+Desculpe. Não posso fazer isso.
+Eu sempre soube que você era [[ms]um[fs]uma] miserável. Deixe-nos em paz.
+Adeus.
+Hum, eu acho que já gastei.
+O seu pai roubou do Drew.
+Foi isso que aquele slith repulsivo disse a você?{^n}{^n}O Drew tentou me estuprar enquanto eu dormia e o meu pai me defendeu dele!
+
+Sinto muito. Talvez tenha havido um mal-entendido.
+Adeus.
+Olá. O meu pai ainda está abrindo a tenda. Fale com ele caso precise comprar alguma coisa.
+Adeus.

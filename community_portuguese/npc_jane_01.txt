@@ -1,0 +1,38 @@
+Jane
+A senhora Constance disse que não podemos deixar a prisão até que seja seguro.{^n}{^n}Já é seguro? Eu estou entediada.
+Será seguro em breve, prometo.
+Fique aí por enquanto.
+A senhora Constance disse que não podemos deixar a prisão até que seja seguro.{^n}{^n}Já é seguro? Eu estou entediada.
+Será seguro em breve, prometo.
+Fique aí por enquanto.
+A senhora Constance disse que temos comida da fazenda para comer.{^n}{^n}Só que eu não gosto de legumes.
+Bem, você terá que comê-los se quiser ficar grande e forte.
+Isso não parece muito divertido.{^n}{^n}Tudo o que os adultos fazem é se preocupar.
+Tomara que eles não precisem se preocupar por muito mais tempo.
+Tome cuidado agora.
+Eu estou com fome. Você tem algo para comer?
+Lamento. Vou tentar encontrar alguma coisa.
+A senhora Constance disse que você matou o homem mau que estava fazendo todos os monstros. Nós já podemos ir lá fora?
+Ainda há monstros, mas vou cuidar deles.
+Bem, você poderia fazer a gentileza de se apressar? O Alex e eu queremos sair para brincar!
+Irei agora mesmo!
+Ainda não...
+A senhora Constance disse que não há mais problema em falar com você. Oi!
+Olá!
+Você sabia que a senhora Constance, ela não é a minha verdadeira mamãe. Ela diz que somos uma família agora, mas eu sinto falta da minha verdadeira família. Ela é uma mulher estranha. Você sabe onde estão a minha mamãe e o meu papai?
+Sinto muito, não sei. Onde foi que você os viu pela última vez?
+Na casa onde moramos. É no Vilarejo de Burrwitch, que é um lugar muito melhor do que este. Na última vez que vi o meu papai, ele teve que sair tarde da noite para ser um soldado.{^n}{^n}Então a mamãe, ela nos trancou no quarto e mandou que ficássemos quietos. Tinha barulhos assustadores lá fora, além de gritos. Ouvimos a mamãe gritar e, então, tudo ficou quieto e ficamos com medo. Peguei no sono e, na manhã seguinte, a porta ainda estava trancada e tudo estava quieto lá fora, mas então o senhor Bourbon chegou e abriu a porta com um chute. No começo eu pensei que ele era um ladrão, mas logo percebi que era uma boa pessoa. Ele pediu que vendássemos nossos olhos e disse que iríamos para um lugar especial.{^n}{^n}Mas este lugar não parece muito especial. Estamos aqui há muito tempo e eu quero voltar para casa.{^n}{^n}Quero ver a mamãe e o papai de novo. Se você os vir, pode pedir a eles que venham nos buscar?
+Se eu os vir, sim.
+Não. Desculpe.
+Você parece cruel.
+Sou [[ms]o[fs]a] mais cruel.
+O quê? Mas por quê?
+Para manter você a salvo dos monstros.
+Ó! Tudo bem, então. Não gosto dos monstros.
+Nem eu.
+Preciso ir.
+Hmph! Não falo com você.
+Mas você já está falando comigo.
+Ó não! Não diga nada à senhora Constance! Eu não devia ter feito isso.
+O seu segredo está seguro comigo.
+Tudo bem.

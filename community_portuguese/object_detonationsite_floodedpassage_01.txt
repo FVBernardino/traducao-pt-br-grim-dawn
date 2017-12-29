@@ -1,0 +1,7 @@
+Local de Detonação
+Parece que uma parte da Passagem Inundada desmoronou. Você pode liberar o caminho usando explosivos potentes. As velhas minas abandonadas na Velha Arkóvia são provavelmente o melhor lugar para encontrá-los.{^n}{^n}A desobstrução requer 3 unidades de Dinamite.
+Dinamite insuficiente.
+Explodir a Obstrução.
+Sair.
+Você explodiu esta obstrução.
+Ok.

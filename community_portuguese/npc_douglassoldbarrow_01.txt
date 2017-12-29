@@ -1,0 +1,126 @@
+Douglass Sullivan Oldbarrow
+Estes são tempos difíceis, mas nós vamos perseverar.
+Adeus.
+Até mesmo ouvir sobre aquela coisa que vivia sob a Necrópole me dá calafrios.{^n}{^n}E pensar que você lutou contra aquilo...{^n}{^n}Ou você é muito [[ms]corajoso[fs]corajosa] ou [[ms]um verdadeiro[fs]uma verdadeira] idiota, mas todos nós lhe devemos as nossas vidas.
+
+Eu só quero fazer a minha parte.
+De nada.
+Acredito que, em conjunto, a Herdade e o Cruzamento do Diabo podem prosperar em meio a esta calamidade.
+Tenho algumas perguntas.
+O que você gostaria de saber?
+O que é que vocês vão negociar com o Cruzamento do Diabo?
+Nós, obviamente, temos a comida, mas o Cruzamento do Diabo tem acesso a sucata, tecido e outros materiais encontrados em vilarejos.{^n}{^n}Ambos os assentamentos prosperarão com este acordo.
+
+Adeus.
+Qual é a história da Herdade?
+Acho que não há muito o que contar. Meu tataravô, Cullis Oldbarrow, veio morar nestas terras quando a peste carmesim assolava a capital. Ele não era um fazendeiro. Na verdade, era um banqueiro, mas queria manter sua família fora e longe de áreas densamente povoadas.{^n}{^n}Os Oldbarrows não foram os primeiros a vir morar nesta área, mas nós fizemos dela a nossa casa por gerações em meio à coesa comunidade agrícola. Em tempos de dificuldade, nós todos nos reunimos aqui e tomamos conta uns dos outros.
+
+Adeus.
+Como é que estão as coisas com a Legião Negra?
+As relações estão frias como sempre. Às vezes eu me pergunto se Somer simplesmente tomaria toda a comida à força se não estivéssemos produzindo o suficiente para alimentar a nós e aos soldados.{^n}{^n}Mas eu tento não pensar muito nessa possibilidade. Graças a você, nós não precisamos mais nos preocupar com isso.
+
+Adeus.
+Deixe pra lá.
+Eu também espero.
+Espero que a comida tenha chegado em segurança ao Cruzamento do Diabo.
+Eu ainda preciso verificar com a minha gente.
+Eu estive ponderando a sua situação no Cruzamento do Diabo ultimamente, e acho que a Herdade finalmente está em condições de retribuir o favor por todo o seu trabalho duro.{^n}{^n}A Capitã Somer argumentou contra, mas nós não podemos fechar os olhos para os problemas dos outros, especialmente quando você fez tanto por nós.
+Fico feliz em ouvir isso.
+Você fez muita coisa para nos ajudar aqui na Herdade. Eu quero retribuir o favor.{^n}{^n}Eu mandei que a comida fosse entregue no Cruzamento do Diabo imediatamente.{^n}{^n}Considere a primeira remessa como um agradecimento e um indício de um futuro próspero entre os dois assentamentos.
+[[ms]Obrigado[fs]Obrigada]. Vou informar isso à minha gente imediatamente.
+[[ms]Obrigado[fs]Obrigada]. Vou falar com você sobre isso em breve.
+Você é de grande ajuda ao pessoal da Herdade.
+A minha gente, no Cruzamento do Diabo, precisa de comida.
+Você fez muita coisa para nos ajudar a recuperar os nossos campos, mas eu não posso enviar nada enquanto a minha gente não tiver mais tempo para cultivar a terra.{^n}{^n}Se você continuar nos ajudando, vai liberar as pessoas de que preciso para cuidar da colheita. Além disso, poderemos trabalhar em paz se as feras que vagam por aí forem eliminadas.
+Está bem.
+Parece que a sua gente está numa situação grave, de fato. Você fez tanto por nós, acho que temos o dever de ajudar.{^n}{^n}A Capitã Somer pode não concordar em compartilhar os nossos recursos, mas nós não podemos fechar os olhos para os problemas dos outros, especialmente quando você fez tanto por nós.
+Fico feliz em ouvir isso.
+Eu vou mandar que a comida seja entregue no Cruzamento do Diabo imediatamente.{^n}{^n}Considere a primeira remessa como um agradecimento e um indício de um futuro próspero entre os dois assentamentos.
+[[ms]Obrigado[fs]Obrigada]. Vou informar isso à minha gente imediatamente.
+[[ms]Obrigado[fs]Obrigada]. Vou falar com você sobre isso em breve.
+O que mais eu poderia fazer para ajudar?
+Qualquer coisa que você puder fazer para aliviar a carga sobre os fazendeiros será de grande ajuda. Quanto mais tempo eles dedicarem às lavouras, melhor. Além disso, poderemos trabalhar em paz se as feras que vagam por aí forem eliminadas.
+Adeus.
+Adeus.
+Você cuidou da rainha Dermáptera?
+O ciclo dos Dermápteros foi interrompido.
+Essa foi a melhor notícia que eu ouvi em semanas. Tenho que falar com a Capitã Somer sobre a montagem de uma cozinha adequada.{^n}{^n}O seu apoio contínuo está garantindo que a Herdade produza comida suficiente para todos.
+E quanto ao Cruzamento do Diabo?
+Você fez muita coisa para nos ajudar a recuperar os nossos campos, mas eu não posso enviar nada enquanto a minha gente não tiver mais tempo para cultivar a terra.{^n}{^n}Se você continuar nos ajudando, vai liberar as pessoas de que preciso para cuidar da colheita. Além disso, poderemos trabalhar em paz se as feras que vagam por aí forem eliminadas.
+Está bem.
+Adeus.
+Essa foi a melhor notícia que eu ouvi em semanas. Tenho que falar com a Capitã Somer sobre a montagem de uma cozinha adequada.{^n}{^n}Você fez tanto por nós, acho que temos o dever de retribuir o favor.
+Fico feliz em ouvir isso.
+
+Você cuidou da rainha Dermáptera?
+A minha gente, no Cruzamento do Diabo, precisa de comida.
+Sinto muito, mas nós não podemos nos dar ao luxo de enviar nada enquanto não pudermos cultivar mais. E não podemos fazer isso com os Dermápteros infestando tudo.{^n}{^n}Ajude-nos e vou fazer com que o Cruzamento do Diabo receba a comida de que necessita.
+
+Está bem.
+Onde está a colmeia?
+Sabemos que a Colmeia Real está em algum lugar nas Terras Agrícolas Putrefatas, ao oeste da Herdade. A rainha está sempre protegida por dois Grandes Vizires, então você terá que obter as glândulas de feromônio deles para poder entrar na câmara dela.{^n}{^n}Tenha cuidado. Os Vizires são a última linha de defesa da rainha. Eles não serão derrotados facilmente.
+Vou tomar cuidado.
+Ainda não.
+É impressionante o que você fez nos campos infestados. Você nos ajudou quando a Legião Negra se recusou. Isso é louvável.{^n}{^n}Será que você estaria [[ms]disposto[fs]disposta] a nos ajudar numa tarefa bem mais complicada?
+O que é?
+As colmeias dos Dermápteros são cíclicas por natureza. A cada sete anos, mais ou menos, eles dão à luz uma nova rainha, a qual prolifera rapidamente o seu número e faz com que se multipliquem em todo o campo.{^n}{^n}No passado, nós costumávamos nos reunir para exterminar a rainha enquanto ela ainda fosse jovem, mas, depois do Alvorecer Sombrio, deixamos os Dermápteros crescerem. A atual rainha é uma criatura enorme e cria novos Dermápteros às dúzias todos os dias. Ela deve ser destruída, caso contrário, os Dermápteros acabarão ficando sem comida e nos atacarão com força total. A rainha está sempre protegida por dois Grandes Vizires, então você terá que obter as glândulas de feromônio deles para poder entrar na câmara dela. Sabemos que a Colmeia Real está em algum lugar nas Terras Agrícolas Putrefatas, ao oeste da Herdade.{^n}{^n}Depois de ver o que você fez nos campos infestados, eu estou confiante em suas habilidades. Você vai nos ajudar a deter o ciclo reprodutivo dos Dermápteros? Caso faça isso, eu vou lhe dar com o maior prazer todos os nossos pedaços de ferro.
+Vou matar a rainha Dermáptera.
+Não há como fazer isso.
+Eu já cuidei da rainha.
+Essa foi a melhor notícia que eu ouvi em semanas. Tenho que falar com a Capitã Somer sobre a montagem de uma cozinha adequada.{^n}{^n}O seu apoio contínuo está garantindo que a Herdade produza comida suficiente para todos.
+E quanto ao Cruzamento do Diabo?
+
+Adeus.
+Essa foi a melhor notícia que eu ouvi em semanas. Tenho que falar com a Capitã Somer sobre a montagem de uma cozinha adequada.{^n}{^n}Você fez tanto por nós, acho que temos o dever de retribuir o favor.
+Fico feliz em ouvir isso.
+
+Essa foi a melhor notícia que eu ouvi em semanas. Tenho que falar com a Capitã Somer sobre a montagem de uma cozinha adequada.
+Fico feliz em ouvir isso.
+Desculpe, mas acho que fiz o suficiente.
+Algum progresso com os Dermápteros?
+Eu limpei os campos, como você havia me pedido.
+É um alívio ouvir isso. E que bom que você conseguiu voltar [[ms]inteiro[fs]inteira]. Os Dermápteros não devem ser menosprezados, principalmente em tal número.{^n}{^n}Eu vou falar com a Capitã Somer sobre o envio de alguns guardas lá para fora, juntamente com alguns dos fazendeiros. Em breve aquele campo estará limpo.{^n}{^n}Enquanto isso, será que você poderia nos ajudar numa tarefa bem mais complicada?
+O que é?
+
+Desculpe, mas acho que fiz o suficiente.
+Algum progresso com os Dermápteros?
+A minha gente, no Cruzamento do Diabo, precisa de comida.
+Sinto muito, mas nós não podemos nos dar ao luxo de enviar nada enquanto não pudermos cultivar mais. E não podemos fazer isso com os Dermápteros infestando tudo.{^n}{^n}Ajude-nos e vou fazer com que o Cruzamento do Diabo receba a comida de que necessita.
+
+Está bem.
+Você pode repetir a localização das fazendas?
+Ao oeste daqui há duas fazendas que seriam ideais para expandirmos a nossa produção de alimentos. Elas pertencem aos Elmsworths e aos Thornsburys. Se você conseguir limpar os aglomerados de ovos de Dermápteros que há por lá, juntamente com os Dermápteros que os protegem, talvez eu possa convencer a capitã a, pelo menos, designar guardas para as fazendas e permitir que os nossos homens trabalhem nos campos.
+Irei até lá agora.
+Eu ainda estou trabalhando numa solução.
+[[ms]Bem-vindo[fs]Bem-vinda] de volta. Você por acaso não mudou de ideia sobre nos ajudar?
+Qual é o problema?
+Após o Alvorecer Sombrio, muitos dos nossos vizinhos foram forçados a abandonar suas casas e se refugiar aqui. Juntos, nós transformamos a Herdade num refúgio, mas acabamos perdendo inúmeras outras fazendas.{^n}{^n}Com a chegada da Legião Negra, nós fomos capazes de recuperar alguns campos, mas não o suficiente para alimentar a todos. A Capitã Somer considera os recursos disponíveis suficientes para a campanha dela e acha que quaisquer esforços para restaurar a terra são secundários para a missão da Legião. Os Dermápteros são uma infestação vil que assola esta terra a cada poucos anos. Eles estão correndo soltos pelas nossas terras, botando ovos e devorando tudo o que veem. Se não agirmos logo, nossa colheita será arruinada e a terra ficará estéril. Ao oeste daqui há duas fazendas que seriam ideais para expandirmos a nossa produção de alimentos. Elas pertencem aos Elmsworths e aos Thornsburys. Se você conseguir limpar os aglomerados de ovos de Dermápteros que há por lá, juntamente com os Dermápteros que os protegem, talvez eu possa convencer a capitã a, pelo menos, designar guardas para as fazendas e permitir que os nossos homens trabalhem nos campos. Eu vou fazer com que você seja bem [[ms]recompensado[fs]recompensada]. O que me diz?
+Vou limpar a infestação.
+Parece ser um trabalho para a Legião.
+
+
+Adeus.
+[[ms]Bem-vindo[fs]Bem-vinda] à Herdade, viajante. O que [[ms]o[fs]a] traz ao nosso refúgio?
+Eu venho do Cruzamento do Diabo. Eu gostaria de saber se poderíamos negociar por comida?
+Eu entendo a situação de vocês, de verdade; mas nós não estamos em condições de ajudá-los agora.{^n}{^n}Para ser sincero, nós também precisamos de ajuda. Com a Legião Negra tão obstinada em destruir todo e qualquer Etéreo e Ctônico que eles veem, eles deixaram de lado as questões que afligem as próprias pessoas que eles estão tentando proteger.
+
+
+
+Entendo.
+Estou só de passagem.
+[[ms]Bem-vindo[fs]Bem-vinda] à Herdade, viajante. Eu lhe daria uma saudação mais calorosa, só que estamos com um problema que requer a minha atenção.{^n}{^n}Com a Legião Negra tão obstinada em destruir todo e qualquer Etéreo e Ctônico que eles veem, eles deixaram de lado as questões que afligem as próprias pessoas que eles estão tentando proteger.
+Qual é o problema?
+Após o Alvorecer Sombrio, muitos dos nossos vizinhos foram forçados a abandonar suas casas e se refugiar aqui. Juntos, nós transformamos a Herdade num refúgio, mas acabamos perdendo inúmeras outras fazendas.{^n}{^n}Com a chegada da Legião Negra, nós fomos capazes de recuperar alguns campos, mas não o suficiente para alimentar a todos. A Capitã Somer considera os recursos disponíveis suficientes para a campanha dela e acha que quaisquer esforços para restaurar a terra são secundários para a missão da Legião. Os Dermápteros são uma infestação vil que assola esta terra a cada poucos anos. Eles estão correndo soltos pelas nossas terras, botando ovos e devorando tudo o que veem. Se não agirmos logo, nossa colheita será arruinada e a terra ficará estéril. Ao oeste daqui há duas fazendas que seriam ideais para expandirmos a nossa produção de alimentos. Elas pertencem aos Elmsworths e aos Thornsburys. Se você conseguir limpar os aglomerados de ovos de Dermápteros que há por lá, juntamente com os Dermápteros que os protegem, talvez eu possa convencer a capitã a, pelo menos, designar guardas para as fazendas e permitir que os nossos homens trabalhem nos campos. Eu vou fazer com que você seja bem [[ms]recompensado[fs]recompensada]. O que me diz?
+Vou limpar a infestação.
+Parece ser um trabalho para a Legião.
+Por que é que a Legião Negra não está ajudando?
+A Capitã Somer só está preocupada com os Etéreos e o Culto de Ch'thon. Ela não entende que precisamos restaurar mais campos para podermos fornecer comida para nós e para todas as tropas dela. Com o mundo em desordem, os Dermápteros se espalharam como gafanhotos, invadindo nossas fazendas e devorando nosso gado.{^n}{^n}Nós já pedimos ajuda à Legião Negra várias vezes, mas a capitã não atende os nossos pedidos.
+Então, qual é o problema?
+
+Adeus.
+O que você pode me dizer sobre a região?
+A Herdade e as terras que a cercam têm fornecido comida para as cidades e vilarejos próximos por séculos. Minha família trabalhou nestas terras por mais de duzentos anos; mas, quando o Alvorecer Sombrio ocorreu, tudo pareceu desmoronar num instante.{^n}{^n}Agora nós lutamos contra Dermápteros, Etéreos e cultistas sanguinários, praticamente ao mesmo tempo. A Herdade se tornou um turbilhão de conflitos, e nós estamos bem no olho do furacão.
+Então, qual é o problema?
+
+Adeus.
+Adeus.

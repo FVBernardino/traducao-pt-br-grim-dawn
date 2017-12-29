@@ -1,0 +1,19 @@
+Frankie "A Faca"
+Espero que você faça aquele louco sofrer por tudo que ele fez.{^n}{^n}A gente vai sair daqui assim que a barra estiver limpa.
+Mexam-se.
+Espere, espere! A gente está do seu lado!{^n}{^n}Não mate a gente.
+Do meu lado, é? Por que é que vocês estão numa jaula?
+As coisas que estão acontecendo aqui fora? Isso não é nada comparado com o que está na mina. O Cronley está montando um exército de "ascendidos" e a gente não quer se envolver nisso.{^n}{^n}Claro, ele não é muito gentil com quem deixa o cultinho dele. A gente foi pego tentando fugir. Agora a gente está aguardando a nossa vez com o Mestre Gladiador. Ele dilacera as pessoas como um animal. Eu não quero estar aqui quando ele cansar de sujar de tripas os muros da arena. Se você deixar a gente ir embora, a gente não vai causar mais nenhum problema. É uma promessa.
+Vocês são fora da lei. Por que é que eu deveria poupá-los?
+Veja... hum... o Cronley pirou completamente. Ele está enlouquecido com o poder daqueles... daqueles cristais verdes.{^n}{^n}Eu vi o que ele faz com os homens de confiança dele. Ele os leva a uma sala secreta, onde introduz fragmentos na carne deles. Foi quando tive a certeza de que queria sair fora desse showzinho.{^n}{^n}Já entendi. Você está aqui pra acabar com isso. Você é uma das pessoas boas. Mas eu posso [[ms]ajudá-lo[fs]ajudá-la]. Se você deixar a gente ir embora, eu vou lhe contar onde ele esconde o cristal grande. Depois, você vai poder acabar com essa loucura pra sempre.
+
+Não me importa. Você ainda é um criminoso. (Atacar)
+Vou lhe dar uma morte rápida. (Atacar)
+Vocês são fora da lei. Por que é que eu deveria poupá-los?
+Veja... hum... a gente não quer mais nada com o Cronley. O cara pirou completamente. Ele está enlouquecido com o poder daqueles... daqueles cristais verdes.{^n}{^n}Eu vi o que ele faz com os homens de confiança dele. Ele os leva a uma sala secreta, onde introduz fragmentos na carne deles. Foi quando tive a certeza de que queria sair fora desse showzinho.{^n}{^n}Já entendi. Você está aqui pra acabar com isso. Você é uma das pessoas boas. Mas eu posso [[ms]ajudá-lo[fs]ajudá-la]. Se você deixar a gente ir embora, eu vou lhe contar onde ele esconde o cristal grande. Depois, você vai poder acabar com essa loucura pra sempre.
+Certo, estou ouvindo.
+Pensei que você ia matar a gente. Tudo bem. O Cronley não sai mais da mina com tanta frequência. Ele está muito ocupado com a criação de mais daqueles "ascendidos".{^n}{^n}Antes mesmo de poder ver a cara feia dele, você vai ter que passar por esses "ascendidos". Caso você consiga sobreviver, dê uma olhada atrás da cama dele. Tem uma abertura na parede que leva a um pequeno esconderijo.{^n}{^n}É onde o Cronley faz todos os experimentos insanos dele. Destrua aquele lugar e nunca mais alguém vai pensar em usar aqueles cristais de novo.
+[[ms]Obrigado[fs]Obrigada]. Agora deem o fora daqui.
+Perfeito. Depois que eu acabar com você, vou cuidar do Cronley. (Atacar)
+Não me importa. Você ainda é um criminoso. (Atacar)
+Morte a todos os bandidos! (Atacá-los)

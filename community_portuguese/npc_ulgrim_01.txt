@@ -1,0 +1,19 @@
+Ulgrim
+Olá.
+Adeus.
+Ah, [[ms]o forasteiro[fs]a forasteira] está de volta! Quer umas costelas de rato ósseo? O gosto é meio ruim, mas elas não fazem mal! Ou você não "confia" em mim?
+Sinto muito pelo que aconteceu antes. (Falar-lhe sobre a prisão)
+
+Desculpe. Estou só de passagem.
+Não acredito, uma pessoa viva! Eu estou desvalido aqui desde a queda de Burrwitch. Eu me fortifiquei nesta pequena península, cozinhando qualquer bicho que se aproximasse enquanto esperava pelo inevitável fim. Você é uma visão abençoada para os meus pobres olhos!
+Burrwitch caiu há meses. Como foi que você sobreviveu por tanto tempo?
+Bem, eu posso cozinhar! Eu trabalhava na capital e tive a honra de preparar refeições para algumas famílias nobres e vários dignitários estrangeiros. Eu não sou um lutador, mas consigo me virar na caça. Dá para sobreviver, só que restos de rato ósseo não são exatamente alta gastronomia. Acima de tudo, eu apenas me mantenho quieto e observo. E quanto a você? De onde você vem?
+Um cozinheiro seria muito útil para nós. (Falar-lhe sobre a prisão)
+Essa sua prisão parece ser um paraíso comparada com a minha morada atual. Acho que eu também poderia fazer a minha parte. Os homens lutam melhor de barriga cheia! Como é que vamos levar todo o meu equipamento para o Cruzamento do Diabo?
+Posso abrir um portal e levá-lo até lá. (Abrir Portal)
+Um portal? Eu só vi um desses antes, e os caras que saíam dele não eram nada legais. Espero que você não esteja tentando fazer nenhuma gracinha. Vamos lá, então... Ou vai ou racha.
+Vejo você no Cruzamento do Diabo.
+Desculpe, mas eu não faço a menor ideia de quem você é. (Não mencionar a prisão)
+Então você quer ficar de segredinho, hã? Tudo bem. Nestes tempos, isso é compreensível. Eu lhe asseguro, sou apenas um velho cozinheiro fazendo o possível para sobreviver aqui. Sinceramente, eu acho que não vou durar muito tempo do jeito que as coisas estão indo.
+
+Não posso arriscar. Boa sorte, meu velho.

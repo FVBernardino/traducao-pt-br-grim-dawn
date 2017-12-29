@@ -1,0 +1,15 @@
+Canteiro de Obras
+Esta ponte conectava o Cruzamento do Diabo ao Velho Bosque, ao sul. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 12 unidades de Sucata e 3000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para a Estrada Costeira.
+Sair.
+Esta ponte conectava o Cruzamento do Diabo ao Velho Bosque, ao sul. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 12 unidades de Sucata e 3000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para a Estrada Costeira.
+Sair.
+Esta ponte conectava o Cruzamento do Diabo ao Velho Bosque, ao sul. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 12 unidades de Sucata e 3000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para a Estrada Costeira.
+Sair.
+Você reparou esta ponte.
+Ok.

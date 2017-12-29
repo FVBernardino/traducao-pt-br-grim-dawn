@@ -1,0 +1,33 @@
+Myla Finegan
+Olá, [[ms]forasteiro[fs]forasteira].
+Adeus.
+Você voltou! Tem a dinamite?
+Aqui está.
+Esplêndido! Para trás agora. Não queremos ser [[ms]atingidos[fs]atingidas] pela explosão.{^n}{^n}Mesmo nestes tempos difíceis, você teve a sensibilidade para ajudar uma completa estranha. Isso é louvável. Por favor, siga-me até o interior para que eu possa [[ms]recompensá-lo[fs]recompensá-la] adequadamente.
+Tudo bem. [[ms]Obrigado[fs]Obrigada].
+Olá, [[ms]amigo[fs]amiga]! Como vai a busca por dinamite?
+Você pode repetir onde eu devo procurar?
+As minas na Velha Arkóvia devem ter dinamite. Ou a pedreira próxima daqui, mas aquela área está repleta de fogo etéreo.
+Vou trabalhar nisso.
+Ainda estou procurando.
+O que é que você está fazendo aqui?
+Eu estava no bosque fazendo uma pesquisa para o meu livro quando o Alvorecer Sombrio ocorreu. Separada da sociedade civilizada, tive que me virar sozinha.{^n}{^n}Consegui sobreviver me servindo da flora e fauna locais, mas devo dizer que o aumento da atividade do culto não tornou a vida aqui nem um pouco mais fácil. E agora parece que até a própria natureza está contra mim. Se você não tivesse me encontrado... Eu não quero nem pensar nisso.
+Vou voltar com a dinamite.
+Olá, [[ms]forasteiro[fs]forasteira]. Você não se parece com [[ms]um cultista[fs]uma cultista].{^n}{^n}O que traz [[ms]um aventureiro[fs]uma aventureira] tão bem [[ms]armado[fs]armada] aqui, no meio do nada?
+Isso é coisa minha. O que é que você está fazendo aqui?
+Eu admito, uma mulher desarmada e sozinha numa terra infestada de cultistas é um tanto estranho.{^n}{^n}Eu estava aqui trabalhando num livro quando o Alvorecer Sombrio ocorreu. Desamparada no bosque em meio a cultistas sanguinários, consegui sobreviver me escondendo em uma caverna nas proximidades, ou pelo menos era o que eu fazia antes de ela colapsar.
+Precisa de ajuda?
+Você é mesmo um presente divino, [[ms]forasteiro[fs]forasteira]. Nós vamos precisar de um pouco de dinamite para liberar a entrada. Você não tem nenhuma aí?{^n}{^n}Se não tiver, talvez encontre em uma das minas. Ou talvez na pedreira próxima daqui.{^n}{^n}Se você me trouxer dinamite, explodiremos as rochas e poderei recuperar meus pertences. Talvez haja algo entre eles que você possa considerar aceitável como recompensa pela ajuda.
+Claro. Vou ajudá-la.
+Você está sozinha nessa.
+Esta dinamite é suficiente?
+Caramba, sim, isso vai servir! Você é [[ms]cheio[fs]cheia] de recursos!
+Aqui está.
+Esplêndido! Para trás agora. Não queremos ser [[ms]atingidos[fs]atingidas] pela explosão.{^n}{^n}Mesmo nestes tempos difíceis, você teve a sensibilidade para ajudar uma completa estranha. Isso é louvável. Por favor, siga-me até o interior para que eu possa [[ms]recompensá-lo[fs]recompensá-la] adequadamente.
+Tudo bem. [[ms]Obrigado[fs]Obrigada].
+Não é problema meu.
+Eu estou aqui para deter o Culto de Ch'thon.
+Que objetivo nobre e audacioso. Depois que o Alvorecer Sombrio me deixou desamparada aqui, eu fiz desta caverna a minha casa; mas a natureza, ao que parece, decretou que eu morra aqui fora.{^n}{^n}Uma avalanche colapsou a entrada há menos de um dia. Toda a minha comida e pertences estão lá dentro.
+
+Não é problema meu.
+Não é da sua conta.

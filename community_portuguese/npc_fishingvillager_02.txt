@@ -1,0 +1,20 @@
+Oscar
+Agora que os bandidos vão nos deixar em paz, eu me pergunto quem vai manter as feras afastadas...
+Você pode se juntar a nós no Cruzamento do Diabo.
+Ah! Eu não vou trocar a casa do meu pai por uma prisão precária. Nós vamos sobreviver. Sempre sobrevivemos.
+Está bem.
+Cuide-se.
+Você tinha que ter estado aqui quando recebemos a notícia. Eu nunca tinha visto Silas correr tão rápido na minha vida. Bom trabalho ao dar àquele bastardo do Cronley o que ele merecia.
+Gostaria de ter visto.
+Deixe-nos em paz. Você já causou muitos estragos.
+Eu fiz a coisa certa. Você vai ver.
+[[ms]Seu[fs]Sua] idiota! A gangue de Silas não vai tolerar isso. Você condenou todos nós!
+Essa extorsão tinha que acabar. Eu fiz o que era preciso.
+[[ms]Seu[fs]Sua] idiota! Silas não vai tolerar isso, tampouco o resto da gangue. Você condenou todos nós!
+Essa extorsão tinha que acabar. Eu fiz o que era preciso.
+Jamais poderemos lhe agradecer o suficiente, [[ms]forasteiro[fs]forasteira]. Teria sido ruim para nós se não tivéssemos pagado a cota.{^n}{^n}Mas você tem que entender, é verdade que sofremos indignidade e certa brutalidade nas mãos desses bandidos, mas pelo menos estamos vivos. Estar à mercê de homens assim é o preço que se paga por proteção nestes tempos horríveis. Sem eles, tenho certeza de que estaríamos mortos agora.
+De nada. Adeus.
+Alicia me disse que você vai nos ajudar a recolher sucata. Sinto muito se menosprezei você, mas a situação é delicada e não queremos provocar os bandidos.
+Farei o que puder para ajudar a aliviar a tensão.
+O que é que você quer? Eu não quero ser mal-educado, mas nós não precisamos de [[ms]nenhum andarilho[fs]nenhuma andarilha] por aqui para nos causar problemas. É melhor que você siga o seu rumo.
+Estou só de passagem. Adeus.

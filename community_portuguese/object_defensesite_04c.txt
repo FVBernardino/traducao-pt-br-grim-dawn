@@ -1,0 +1,13 @@
+Local de Defesa
+Este Local de Defesa pode ser melhorado, fortalecendo as habilidades dele.{^n}{^n}Melhorar este Local?{^n}{^n}(Requer 12 Tributos da Provação e 7500 Pedaços de Ferro)
+Melhorar esta defesa (gastar 12 Tributos + 7500 Pedaços de Ferro)
+Materiais insuficientes.
+Afastar-se
+Este Local de Defesa pode ser melhorado, fortalecendo as habilidades dele.{^n}{^n}Melhorar este Local?{^n}{^n}(Requer 12 Tributos da Provação e 21000 Pedaços de Ferro)
+Melhorar esta defesa (gastar 12 Tributos + 21000 Pedaços de Ferro)
+Materiais insuficientes.
+Afastar-se
+Este Local de Defesa pode ser melhorado, fortalecendo as habilidades dele.{^n}{^n}Melhorar este Local?{^n}{^n}(Requer 12 Tributos da Provação e 30000 Pedaços de Ferro)
+Melhorar esta defesa (gastar 12 Tributos + 30000 Pedaços de Ferro)
+Materiais insuficientes.
+Afastar-se

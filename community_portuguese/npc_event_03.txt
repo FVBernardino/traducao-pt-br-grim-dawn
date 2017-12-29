@@ -1,0 +1,46 @@
+Lokarr, Mestre da Provação
+Você superou tudo o que a Provação tinha para oferecer.{^n}{^n}Onde outros falharam, você triunfou.{^n}{^n}Minha riqueza é sua, [[ms]campeão[fs]campeã].
+Eu quero lutar na Provação novamente.
+Esplêndido! Estou ansioso pelo espetáculo.{^n}{^n}Devo preparar a arena?{^n}{^n}(Ativar a Provação novamente resetará todo o Tesouro. Todos os jogadores serão teletransportados de volta para o ponto de aparição. Só prossiga se tiver terminado de recolher suas recompensas.)
+Sim, prosseguir (Resetar para o início)
+Reiniciar na Onda 150 (Gastar 10 Tributos)
+Reiniciar na Onda 150 (Gastar 20 Tributos)
+Reiniciar na Onda 150 (Gastar 40 Tributos)
+Tributos Insuficientes para Reiniciar no Ponto de Controle (São necessários 10 Tributos)
+Tributos Insuficientes para Reiniciar no Ponto de Controle (São necessários 20 Tributos)
+Tributos Insuficientes para Reiniciar no Ponto de Controle (São necessários 40 Tributos)
+Deixe pra lá
+[[ms]Obrigado[fs]Obrigada].
+A Provação reivindica mais [[ms]um[fs]uma]. Vá, pegue os seus ganhos deploráveis e suma da minha vista.
+Eu quero lutar na Provação novamente.
+Ver você em apuros foi divertido, eu admito.{^n}{^n}Devo preparar a arena?{^n}{^n}(Ativar a Provação novamente resetará todo o Tesouro. Todos os jogadores serão teletransportados de volta para o ponto de aparição. Só prossiga se tiver terminado de recolher suas recompensas.)
+Sim, prosseguir (Resetar para o início)
+Reiniciar no Ponto de Controle (Gastar 5 Tributos)
+Reiniciar no Ponto de Controle (Gastar 15 Tributos)
+Reiniciar no Ponto de Controle (Gastar 30 Tributos)
+Tributos Insuficientes para Reiniciar no Ponto de Controle (São necessários 5 Tributos)
+Tributos Insuficientes para Reiniciar no Ponto de Controle (São necessários 15 Tributos)
+Tributos Insuficientes para Reiniciar no Ponto de Controle (São necessários 30 Tributos)
+Não Restam Reinícios no Ponto de Controle
+Nenhum Ponto de Controle Disponível
+Deixe pra lá
+Está bem.
+A Provação reivindica mais [[ms]um[fs]uma]. Você foi longe, mas não conseguiu vencer o desafio derradeiro.{^n}{^n}Vá, pegue os seus ganhos deploráveis e suma da minha vista.
+
+Está bem.
+Você escolheu acabar com o seu sofrimento. Compreensível.{^n}{^n}Nem todos foram feitos para vencer o que eu concebi.{^n}{^n}Pegue a sua recompensa e vá.
+Eu quero lutar na Provação novamente.
+Talvez você faça melhor desta vez.{^n}{^n}Devo preparar a arena?{^n}{^n}(Ativar a Provação novamente resetará todo o Tesouro. Todos os jogadores serão teletransportados de volta para o ponto de aparição. Só prossiga se tiver terminado de recolher suas recompensas.)
+Sim, prosseguir (Resetar para o início)
+Reiniciar no Ponto de Controle (Gastar 5 Tributos)
+Reiniciar no Ponto de Controle (Gastar 15 Tributos)
+Reiniciar no Ponto de Controle (Gastar 30 Tributos)
+Tributos Insuficientes para Reiniciar no Ponto de Controle (São necessários 5 Tributos)
+Tributos Insuficientes para Reiniciar no Ponto de Controle (São necessários 15 Tributos)
+Tributos Insuficientes para Reiniciar no Ponto de Controle (São necessários 30 Tributos)
+Não Restam Reinícios no Ponto de Controle
+Nenhum Ponto de Controle Disponível
+Deixe pra lá
+Está bem.
+Você está [[ms]atrasado[fs]atrasada] para participar nesta Provação.
+Está bem.

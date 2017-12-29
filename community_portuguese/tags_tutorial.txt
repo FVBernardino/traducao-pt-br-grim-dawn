@@ -1,0 +1,286 @@
+#Loading Tips
+tagLoadingTip01={^g}Dica: {^w}Você pode filtrar itens por qualidade (Mágicos+, Raros+ etc.) com o botão Mostrar Itens no lado esquerdo da HUD.
+tagLoadingTip02={^g}Dica: {^w}Um Santuário de Devoção encontrado e não restaurado na hora tem sua localização marcada no Mapa do Mundo.
+tagLoadingTip03={^g}Dica: {^w}Você pode ver as Dicas do Tutorial a qualquer momento na Janela do Códice; tecla de acesso rápido padrão: H.
+tagLoadingTip04={^g}Dica: {^w}Inimigos significativamente abaixo do seu nível não concedem Experiência nem Reputação com Facções.
+tagLoadingTip05={^g}Dica: {^w}Lembre-se de investir na Barra da Maestria. Ela fornece atributos que ajudam você a sobreviver e se equipar.
+tagLoadingTip06={^g}Dica: {^w}Acesse www.grimdawn.com para ler o "Game Guide" (em inglês) e saber mais sobre a mecânica do jogo.
+tagLoadingTip07={^g}Dica: {^w}Monstros Heróis (marcados por uma Estrela) são inimigos poderosos com habilidades únicas e dropam itens melhores.
+tagLoadingTip08={^g}Dica: {^w}Inimigos significativamente abaixo do seu nível não dropam Materiais Raros, tais como Corações Antigos.
+tagLoadingTip09={^g}Dica: {^w}Na Dificuldade Elite, suas resistências principais são reduzidas em 25%. Essa penalidade sobe para 50% na Supremo.
+tagLoadingTip10={^g}Dica: {^w}Há muitos lugares secretos no mundo de Cairn. Olhe atentamente e você poderá encontrar tesouros escondidos!
+tagLoadingTip11={^g}Dica: {^w}Na Dificuldade Veterano e acima, os Chefes recuperarão uma parte da saúde deles se você morrer.
+tagLoadingTip12={^g}Dica: {^w}Explore o mundo para encontrar Baús Únicos, os quais sempre dropam um item Épico, uma vez por personagem.
+tagLoadingTip13={^g}Dica: {^w}Itens Épicos e Lendários podem lhe conceder habilidades únicas que complementam ou até definem seu personagem.
+tagLoadingTip14={^g}Dica: {^w}Alguns monstros podem dropar equipamentos exclusivos deles, conhecidos como "Monster Infrequents".
+tagLoadingTip15={^g}Dica: {^w}Itens Lendários são muito raros, mas também incrivelmente poderosos. Eles começam a dropar a partir do nível 50.
+tagLoadingTip16={^g}Dica: {^w}Itens de conjunto têm bônus poderosos se usados juntos e podem até conceder novas habilidades.
+tagLoadingTip17={^g}Dica: {^w}Componentes usados em armas concedem uma habilidade ativável que pode complementar seu personagem.
+tagLoadingTip18={^g}Dica: {^w}Relíquias são itens especiais que só podem ser criados por um Ferreiro habilidoso.
+tagLoadingTip19={^g}Dica: {^w}Muitos Componentes só podem ser criados. Aprenda novos Diagramas ganhando o favor de Facções de Cairn.
+tagLoadingTip20={^g}Dica: {^w}Você tem mais chances de encontrar itens excelentes em dificuldades mais altas, mas o desafio também é maior.
+tagLoadingTip21={^g}Dica: {^w}Você pode girar a câmera mantendo pressionado o botão do meio do mouse. Ou você pode definir atalhos de teclado.
+
+#Tutorial Pages
+
+tagTutorialTip06Title=Refeições Intocadas
+tagTutorialTip06TextA=As refeições abandonadas são encontradas pelo mundo de Cairn. Provavelmente deixadas para trás por aventureiros menos afortunados, elas podem ser consumidas para restaurar um pouco da sua constituição.
+
+tagTutorialTip08Title=Bem-vindo(a) a Grim Dawn
+tagTutorialTip08TextA=Obrigado por apoiar a nós e ao nosso trabalho. Grim Dawn foi possível graças à generosidade dos nossos apoiadores, por meio do nosso site, Kickstarter ou Acesso Antecipado no Steam.
+tagTutorialTip08TextB=Se você encontrar um bug, por favor, informe-o no nosso fórum em www.grimdawn.com.
+tagTutorialTip08SubtitleA=Dicas do Tutorial
+tagTutorialTip08TextC=Você pode ativar ou desativar as dicas do tutorial durante o jogo a qualquer momento no menu de opções. Para acessar o menu de opções, pressione {^x}[Escape]{^-}.
+
+tagTutorialTip09Title=Janela do Vendedor
+tagTutorialTip09TextA=Os vendedores compram e vendem armas e equipamentos necessários para se sobreviver aos perigos de Cairn.
+tagTutorialTip09TextB=Nestes tempos de desespero, um bom equipamento não sairá barato. Os vendedores não pagarão muito por itens comuns, mas os imbuídos de magia poderão valer um bom preço.
+
+tagTutorialTip10Title=Portais
+tagTutorialTip10TextA=Os portais assegurados permitem que você viaje rapidamente entre as localidades. Clique com o botão esquerdo em um portal para abrir o Mapa do Mundo e selecione um destino.
+tagTutorialTip10SubtitleA=Portal Pessoal
+tagTutorialTip10TextB=Por ter sido tocado pelo éter, você é capaz de abrir portais pessoais. Para ativar seu portal pessoal, clique no botão Portal Pessoal localizado à direita da sua Barra de Habilidades ou pressione {^x}[%t0]{^-}.
+tagTutorialTip10TextC=Os portais pessoais podem ser abertos em qualquer lugar no mundo e estão conectados à rede de portais. O seu portal permanecerá aberto até que você retorne a ele. Enquanto estiver aberto, os membros do seu grupo poderão viajar até ele. Você só pode ter um portal pessoal aberto por vez.
+
+tagTutorialTip14Title=Poções
+tagTutorialTip14TextA=As poções de saúde e de energia restauram, respectivamente, a saúde e a energia do seu personagem. Para beber uma poção, clique na imagem correspondente na Barra de Habilidades ou pressione a tecla de acesso rápido atribuída.
+tagTutorialTip14TextB=As poções são inicialmente atribuídas aos dois últimos espaços da Barra de Habilidades. Você pode atribuir poções a qualquer espaço da Barra de Habilidades. Para isso, clique com o botão direito em um espaço vazio e selecione uma poção no menu.
+tagTutorialTip14TextC=Para beber uma poção, clique na imagem correspondente na Barra de Habilidades ou pressione a tecla de acesso rápido atribuída.
+tagTutorialTip14TextD=Você encontrará poções em baús e em monstros. Se ficar com poucas, poderá comprar mais de qualquer vendedor.
+
+tagTutorialTip15Title=Subindo de Nível
+tagTutorialTip15TextA=Cada vez que seu personagem subir de nível, você ganhará pontos de habilidade e de atributo.
+tagTutorialTip15TextB=Os pontos de atributo podem ser usados para aumentar sua Astúcia, Físico e Espírito em 8 por ponto.
+tagTutorialTip15TextC=Os pontos de habilidade podem ser usados para aumentar o nível da sua maestria, desbloquear novas habilidades ou melhorar as habilidades que você já desbloqueou.
+tagTutorialTip15TextD=Inicialmente, você ganhará 3 pontos de habilidade por nível, mas, conforme for subindo de nível, esse número diminuirá para 2 (no nível 51+) e, finalmente, para 1 por nível.
+tagTutorialTip15SubtitleA=Atribuindo Pontos
+tagTutorialTip15TextE=Os pontos de atributo são atribuídos na Janela do Personagem. Clique no ícone à esquerda da Barra de Habilidades ou pressione {^x}[%t0]{^-}. Para atribuir um ponto de atributo, clique no botão "+" ao lado do atributo apropriado.
+tagTutorialTip15TextF=Os pontos de habilidade são atribuídos abrindo-se a Janela das Habilidades. Clique no ícone à esquerda da Barra de Habilidades ou pressione {^x}[%t0]{^-}.
+tagTutorialTip15SubtitleB=Experiência
+tagTutorialTip15TextG=Você pode acompanhar a sua experiência na barra amarela abaixo da sua saúde e energia e também na Janela do Personagem. A barra permite visualizar sua experiência atual, o ganho de experiência e a experiência necessária para alcançar o próximo nível. Quando a barra ficar cheia, você subirá de nível.
+
+tagTutorialTip16Title=Janela do Personagem
+tagTutorialTip16TextA=Use a Janela do Personagem para equipar-se com itens, organizar seu inventário, atribuir pontos de atributo e ver um resumo das estatísticas do personagem. Passe o mouse sobre as estatísticas para visualizar informações adicionais.
+tagTutorialTip16SubtitleA=Manejo do Inventário
+tagTutorialTip16TextB=Para equipar seu personagem com um item, clique no item com o botão direito ou mova-o para o espaço correspondente. Para dropar um item, mova-o para fora da Janela do Personagem ou mantenha pressionada a tecla {^x}[{%t0}]{^-} enquanto clica nele.
+tagTutorialTip16SubtitleB=Pontos de Atributo
+tagTutorialTip16TextC=Para atribuir os pontos de atributo, clique nos botões "+" à esquerda do atributo desejado. Cada ponto de atributo aumenta o atributo em 8.
+
+tagTutorialTip17Title=Maestrias
+tagTutorialTip17TextA=A escolha da maestria é uma decisão que define o seu personagem. As diferentes maestrias atendem a diferentes estilos de jogo, portanto, escolha com cautela.
+tagTutorialTip17TextB=Após escolher uma maestria e atribuir-lhe pontos de habilidade, você não poderá reverter sua escolha.
+tagTutorialTip17TextC=Você terá a opção de escolher uma segunda maestria quando seu personagem alcançar o nível 10.
+
+tagTutorialTip20Title=Componentes
+tagTutorialTip20TextA=Os componentes podem ser usados para melhorar seu equipamento. Eles sempre são encontrados na forma de fragmentos, os quais podem ser combinados para gerar bônus mais potentes. Os componentes raros são denotados por uma borda amarelo-clara.
+tagTutorialTip20SubtitleA=Aplicando Componentes
+tagTutorialTip20TextB=Clique com o botão direito em um componente para selecioná-lo e, em seguida, com o botão esquerdo sobre o item no qual você deseja aplicá-lo. Tenha em mente que os componentes só podem ser aplicados em tipos específicos de itens.
+tagTutorialTip20SubtitleB=Combinando Componentes
+tagTutorialTip20TextC=Você pode combinar os fragmentos de um componente para gerar bônus mais poderosos.
+tagTutorialTip20TextD=Os fragmentos de componentes do mesmo tipo poderão ser aplicados em itens após o primeiro fragmento ter sido aplicado.
+
+tagTutorialTip22Title=Janela das Habilidades
+tagTutorialTip22TextA=Você ganhará pontos de habilidade cada vez que subir de nível. Invista esses pontos de habilidade no nível da sua maestria ou em habilidades desbloqueadas.
+tagTutorialTip22SubtitleA=Nível de Maestria
+tagTutorialTip22TextB=Se você investir pontos de habilidade na sua maestria, desbloqueará habilidades superiores. Para aumentar o nível da sua maestria, clique no botão da maestria no canto inferior esquerdo da Janela das Habilidades.
+tagTutorialTip22TextC=Você deve atribuir pelo menos um ponto ao nível da sua maestria para desbloquear a primeira fileira de habilidades.
+tagTutorialTip22SubtitleB=Nível de Habilidade
+tagTutorialTip22TextD=Clique em uma habilidade de uma fileira desbloqueada para adicionar pontos. O primeiro ponto permite que você use a habilidade. Os pontos adicionais tornam a habilidade mais poderosa.
+tagTutorialTip22TextE=Linhas verdes conectam as habilidades aos seus respectivos modificadores. Você deve ter pelo menos um ponto na habilidade de base para poder investir em seus modificadores.
+
+tagTutorialTip23Title=Atribuindo Habilidades
+tagTutorialTip23TextA=As habilidades ativas (ícones quadrados) devem ser atribuídas aos botões do mouse ou à Barra de Habilidades antes de serem utilizadas.
+tagTutorialTip23TextB=Para atribuir uma habilidade, clique com o botão direito em um espaço da Barra de Habilidades ou nos espaços correspondentes aos botões do mouse e selecione a habilidade desejada no menu.
+tagTutorialTip23SubtitleA=Usando Habilidades
+tagTutorialTip23TextC=Para usar uma habilidade na Barra de Habilidades, clique no seu respectivo ícone com o botão esquerdo ou pressione a tecla de acesso rápido atribuída.
+tagTutorialTip23TextD=As habilidades passivas (ícones circulares) ficam sempre ativas e não precisam ser atribuídas à Barra de Habilidades. Assim que você atribuir pontos a elas, receberá os benefícios.
+
+tagTutorialTip24Title=Morte
+tagTutorialTip24TextA=Quando sua saúde chega a zero, seu personagem morre. Ao morrer, você perde experiência e seu personagem reaparece no último refúgio visitado. Você pode recuperar um pouco da experiência perdida tocando na sua lápide.
+tagTutorialTip24TextB=Para evitar a morte, tire vantagem da rápida regeneração de saúde do seu personagem, a qual é ativada ao ficar fora de combate por alguns segundos. Quando a sua constituição se esgotar, lembre-se de usar poções e habilidades para manter-se vivo.
+
+tagTutorialTip26Title=Bate-papo
+tagTutorialTip26TextA=Você pode usar a Janela de Bate-papo para enviar mensagens a outros jogadores em sua sessão de jogo. Para enviar uma mensagem privada, escolha um destinatário ao clicar no botão "Enviar Para".
+tagTutorialTip26SubtitleA=Linkando Itens
+tagTutorialTip26TextB=Para linkar itens no bate-papo, mantenha pressionada a tecla Shift enquanto clica no item desejado sem fechar o bate-papo. A mensagem será enviada automaticamente com um link para o item.
+
+tagTutorialTip27Title=Multijogador
+tagTutorialTip27TextA=Entrar em um grupo com outros jogadores permite que você partilhe experiência e itens. Você pode acessar a Janela do Grupo clicando no ícone ou pressionando {^x}[%t0]{^-}. Os grupos também são importantes para as sessões JxJ.
+tagTutorialTip27TextB=Para iniciar uma troca com outro jogador em seu grupo, clique com o botão direito sobre o retrato dele e escolha "Trocar".
+tagTutorialTip27TextC=Você também pode conversar com outros jogadores por meio da Janela de Bate-papo, que pode ser aberta pressionando-se {^x}[%t0]{^-}.
+
+tagTutorialTip28Title=Troca entre Jogadores
+tagTutorialTip28TextA=Para trocar itens, coloque-os no seu lado da janela de troca. Para trocar pedaços de ferro, digite um valor perto do ícone na parte superior da janela.
+tagTutorialTip28TextB=Ambos os jogadores devem aceitar a troca antes que ela ocorra. Se a troca for cancelada, todos os itens e pedaços de ferro serão devolvidos aos inventários dos jogadores.
+
+tagTutorialTip33Title=Aprendendo Habilidades
+tagTutorialTip33TextA=Ao subir de nível é importante atribuir pontos de habilidade, bem como colocar pontos na barra da sua maestria. Aprender novas habilidades pode fornecer poderosas aptidões ofensivas e defensivas.
+tagTutorialTip33TextB=Para aplicar pontos a uma habilidade, clique no ícone de uma habilidade desbloqueada na Janela das Habilidades. O primeiro ponto permite que você use a habilidade. Os pontos adicionais tornam a habilidade mais poderosa.
+
+tagTutorialTip34Title=Comprando e Vendendo
+tagTutorialTip34TextA=Se seu inventário estiver cheio, você pode visitar um vendedor e vender itens indesejados.
+tagTutorialTip34TextB=Os vendedores podem ser encontrados em refúgios controlados por humanos, mas você também pode encontrar vendedores ambulantes. Busque o símbolo dos vendedores no mapa orientativo ou na Janela do Mapa.
+
+tagTutorialTip35Title=Companheiros
+tagTutorialTip35TextA=Os companheiros viajam e lutam ao seu lado automaticamente. Para dar comandos diretos a um companheiro, mantenha pressionada a tecla {^x}[{%t0}]{^-} enquanto clica no companheiro desejado no canto superior esquerdo da tela e, em seguida, selecione um alvo.
+tagTutorialTip35TextB=Para dispensar um companheiro, clique com o botão direito em sua respectiva imagem e selecione "Dispensar Companheiro".
+tagTutorialTip35TextC=Para ordenar aos companheiros que ataquem ou se movam na direção de um alvo, use a habilidade Ataque de Companheiros. Para atribuir essa habilidade, clique com o botão direito em um espaço da Barra de Habilidades ou nos espaços correspondentes aos botões do mouse e selecione-a no menu.
+
+tagTutorialTip36Title=Realocação de Habilidades
+tagTutorialTip36TextA=Os guias espirituais permitem que você desfaça suas seleções de pontos de habilidade. Clique em uma habilidade na interface do guia espiritual para remover um ponto. O custo aumenta à medida que você remove pontos de habilidade subsequentes.
+tagTutorialTip36TextB=Você não pode remover os pontos investidos no nível da sua maestria. Além disso, você não pode remover o último ponto de uma habilidade se ela tiver um modificador com pontos atribuídos.
+
+tagTutorialTip37Title=Janela do Contrabandista
+tagTutorialTip37TextA=O contrabandista pode armazenar seus itens e até mesmo transferi-los para outros personagens! Você poderá acessar seu baú em qualquer contrabandista que encontrar por Cairn.
+tagTutorialTip37TextB=Para transferir itens rapidamente, mantenha pressionada a tecla Shift enquanto clica com o botão esquerdo sobre eles.
+tagTutorialTip37TextC=Clique em Transferência para compartilhar itens com os seus outros personagens.
+
+tagTutorialTip38Tile=Transferência de Itens
+tagTutorialTip38TextA=Os itens colocados na janela de transferência do contrabandista são compartilhados entre todos os seus personagens (separados em modo Normal e modo Hardcore).
+tagTutorialTip38TextB=Você poderá expandir seu armazenamento compartilhado comprando abas adicionais. Essas abas adicionais são visíveis ao longo do lado esquerdo da janela de transferência.
+tagTutorialTip38SubtitleA=Transferência entre Personagens
+tagTutorialTip38TextC=Para transferir itens, coloque-os na janela de transferência. Ao jogar com outro personagem, você poderá acessar esses itens por meio do contrabandista.
+tagTutorialTip38SubtitleB=Transferência entre Jogadores
+tagTutorialTip38TextD=Para trocar itens com personagens de outros jogadores em jogos multijogador, você deve usar a função Trocar. Clique com o botão direito sobre o retrato do jogador e escolha "Trocar".
+
+tagTutorialTip39Title=Inventor
+tagTutorialTip39TextA=Os inventores são capazes de remover componentes e aprimoramentos de itens. Somente o item ou o componente é preservado no processo. Os aprimoramentos são perdidos.
+tagTutorialTip39SubtitleA=Removendo Componentes
+tagTutorialTip39TextB=O custo para remover componentes de itens é proporcional aos valores do item, do aprimoramento e do componente somados. Para começar, coloque um item com um componente na janela de recuperação.
+tagTutorialTip39TextC=Você pode recuperar o item ou o componente. Se você recuperar o item, o componente será perdido. E vice-versa.
+tagTutorialTip39SubtitleB=Removendo só Aprimoramentos
+tagTutorialTip39TextD=Sempre que você optar por remover apenas o aprimoramento, o item e o componente permanecerão inalterados. Se um aprimoramento vinculado for removido dessa forma e o item não for originalmente um item vinculado, o status de vinculado será removido também.
+
+tagTutorialTip42Title=Ferreiro
+tagTutorialTip42TextA=O ferreiro é capaz de forjar itens de grande poder. Ele já é um artesão experiente e tudo o que ele cria vem com um pequeno bônus de conclusão, mas os conhecimentos dele podem ser aumentados com a descoberta de novos diagramas.
+tagTutorialTip42SubtitleA=Diagramas
+tagTutorialTip42TextB=Quando você descobrir novos diagramas, o ferreiro aprenderá a forjar novos itens. Os diagramas podem ser obtidos por meio de missões ou encontrados pelo mundo.
+tagTutorialTip42SubtitleB=Criando
+tagTutorialTip42TextC=Para começar a criar um item, selecione uma fórmula na interface de criação. Os itens são colocados automaticamente na interface de criação, tirados de seu baú pessoal, baú compartilhado, inventário e itens equipados, nessa ordem.
+tagTutorialTip42TextD=Se você tiver todos os materiais requeridos, poderá pressionar o botão Combinar para criar o item.
+
+tagTutorialTip43Title=Diagramas
+tagTutorialTip43TextA=Os diagramas são modelos esquecidos que servem para a criação de itens poderosos. Um ferreiro pode estudá-los.
+tagTutorialTip43TextB=Para aprender um diagrama, clique com o botão direito sobre ele. Se você ainda não tiver aprendido esse diagrama, ele será adicionado à lista de itens do seu ferreiro.
+tagTutorialTip43TextC=Os diagramas são acessíveis a todos os personagens (separados em modo Normal e modo Hardcore) e cada diagrama só pode ser aprendido uma única vez.
+
+tagTutorialTip44Title=Está Faltando o Ferreiro!
+tagTutorialTip44TextA=Você aprendeu um novo diagrama, mas não há um ferreiro capaz de forjar o item para você.{^n}{^n}Você deve encontrar um ferreiro antes de poder criar itens.{^n}{^n}O ferreiro saberá como forjar esse novo diagrama.
+tagTutorialTip44TextB=
+
+tagTutorialTip45Title=Constituição
+tagTutorialTip45TextA=Quando o combate acabar e sua barra de saúde não estiver cheia, um sistema de regeneração secundário chamado Constituição se ativará.
+tagTutorialTip45TextB=A constituição regenera rapidamente sua barra de saúde, porém é consumida no processo. O indicador amarelo sobre sua barra de saúde é sua constituição.{^N}{^N}
+tagTutorialTip45TextC=A constituição regenera-se automaticamente quando você encontra rações alimentares ou essências vitais e quando seu personagem sobe de nível ou morre.
+tagTutorialTip45TextD=Se sua constituição acabar, sua saúde não vai mais regenerar-se rapidamente quando estiver fora de combate.
+
+tagTutorialTip46Title=Sem Constituição
+tagTutorialTip46TextA=Você ficou sem constituição e sua saúde deixará de regenerar-se rapidamente quando estiver fora de combate. Você pode restaurar sua constituição com rações alimentares ou essências vitais.
+
+tagTutorialTip47Title=Desmantelando
+tagTutorialTip47TextA=Visite o inventor para transformar itens em sucata com chance de gerar um fragmento de componente. Quanto mais poderoso for o item, maior será a probabilidade de gerar componentes poderosos.
+tagTutorialTip47SubtitleA=Desmantelando um Item
+tagTutorialTip47TextB=Para desmantelar um item, você precisa de dinamite e pedaços de ferro. Ao ser desmantelado, o item será destruído para sempre. Para começar, coloque um item de qualidade mágica ou superior na janela de desmantelamento.
+tagTutorialTip47TextC=Ao pressionar o botão Desmantelar, as quantidades requeridas de dinamite e pedaços de ferro serão deduzidas do seu inventário e o item será convertido em partes básicas.
+
+tagTutorialTip49Title=Comparação de Armas
+tagTutorialTip49TextA=Ao passar o mouse sobre um item no seu inventário, você poderá comparar esse item com o item que o seu personagem estiver usando. No caso de armas, você verá informações adicionais comparando o dano por segundo (DPS).
+tagTutorialTip49SubtitleA=Comparando sem Componentes
+tagTutorialTip49TextB=Para comparar duas armas sem os efeitos dos componentes aplicados, mantenha pressionada a tecla {^x}[Ctrl]{^-}.
+
+tagTutorialTip50Title=Aprimoramentos
+tagTutorialTip50TextA=Os aprimoramentos são encontrados na forma de pós encantados e podem ser usados para melhorar seu equipamento. A criação de aprimoramentos é um segredo muito bem guardado pelas várias facções de Cairn.
+tagTutorialTip50TextB=Para usar um aprimoramento, clique com o botão direito sobre ele. Você poderá, em seguida, aplicá-lo em um item apropriado. Uma vez aplicado, o aprimoramento não poderá ser removido, mas poderá ser substituído por outro.
+
+tagTutorialTip51Title=Aplicando Aprimoramentos
+tagTutorialTip51TextA=Clique com o botão direito em um aprimoramento para selecioná-lo e, em seguida, com o botão esquerdo sobre o item no qual você deseja aplicá-lo.
+tagTutorialTip51TextB=Tenha em mente que os aprimoramentos só podem ser aplicados em tipos específicos de itens e não podem ser removidos após a aplicação; no entanto, você pode substituir um aprimoramento aplicado por outro.
+
+tagTutorialTip53Title=Intendente de Facção
+tagTutorialTip53TextA=Os intendentes de facção vendem itens exclusivos da facção à qual pertencem. Esse equipamento estará disponível apenas para aqueles que tiverem provado seu valor para a facção.
+tagTutorialTip53SubtitleA=Equipamento Vinculado
+tagTutorialTip53TextB=O equipamento vendido por intendentes de facção é vinculado ao seu personagem e não pode ser trocado ou colocado na interface de transferência.
+tagTutorialTip53TextC=Se um aprimoramento vinculado for aplicado em um item, esse item se tornará vinculado.
+
+tagTutorialTip55Title=Janela das Facções
+tagTutorialTip55TextA=Use a Janela das Facções para acompanhar seu progresso com as várias facções de Cairn e determinar o que você precisa fazer para ganhar o favor delas.
+tagTutorialTip55SubtitleA=Ganhando Reputação
+tagTutorialTip55TextB=Cada facção tem desejos e objetivos únicos. Você pode ver como ganhar o respeito delas na seção "Reputação Ganha por".
+tagTutorialTip55TextC=Os seus níveis de reputação determinam como as várias facções no mundo de Cairn agem com você. Níveis de reputação mais altos dão direito a produtos com desconto em todos os vendedores da facção e acesso aos melhores equipamentos do respectivo intendente de facção.
+tagTutorialTip55TextD=À medida que você aumenta os seus níveis de reputação, novas missões podem ficar disponíveis. Não se esqueça de procurá-las.
+tagTutorialTip55TextE=Note que, conforme você se tornar mais renomado, precisará derrotar monstros mais difíceis para ganhar reputação ao matar.
+
+tagTutorialTip56Title=Recompensas
+tagTutorialTip56TextA=As recompensas são uma excelente maneira de aumentar sua reputação com as várias facções de Cairn. As missões de recompensa enviam você em tarefas de dificuldade e recompensa variadas e geralmente não são guiadas. Você deve caçar sua presa com assistência limitada.
+tagTutorialTip56SubtitleA=Recompensas são Repetíveis
+tagTutorialTip56TextB=Diferentemente das missões regulares, as missões de recompensa não estão limitadas a uma única vez por personagem. Cada facção lhe oferecerá até 5 missões de recompensa por sessão de jogo e você poderá encontrar missões de recompensa que já concluiu em sessões anteriores.{^N}{^N}
+
+tagTutorialTip59Title=Santuários de Devoção
+tagTutorialTip59TextA=Os santuários de devoção são antigos resquícios de um império há muito tempo perdido. São monumentos dedicados a vários deuses e símbolos celestes. Todos os santuários que você encontrar deverão ser purificados ou restaurados. Se tiver que purificá-lo, você deverá derrotar a presença corruptora aprisionada em seu interior. Se tiver que restaurá-lo, você deverá ofertar materiais raros. Os requisitos variam de santuário para santuário.
+tagTutorialTip59CaptionA=Restaurando Santuários
+tagTutorialTip59TextB=Para restaurar um santuário arruinado, você deve ter os materiais requeridos em seu baú pessoal, baú compartilhado, inventário e itens equipados, tirados automaticamente nessa ordem. Se você tiver todos os materiais requeridos, poderá pressionar o botão Ofertar para restaurar o santuário.
+tagTutorialTip59CaptionB=Pontos de Devoção
+tagTutorialTip59TextC=Quando um santuário é purificado, você ganha um ponto de devoção. Para atribuir seu ponto de devoção, visite a Janela de Devoção, a qual pode ser acessada por meio da Janela das Habilidades. Clique no ícone à esquerda da Barra de Habilidades ou pressione {^x}[%t0]{^-}.
+
+tagTutorialTip60Title=Janela de Devoção
+tagTutorialTip60TextA=A Janela de Devoção permite que você dedique seus pontos de devoção a várias deidades e símbolos celestes de Cairn.
+tagTutorialTip60TextB=Conforme você completar constelações, ganhará afinidade, que, por sua vez, lhe dará acesso a constelações mais poderosas.
+tagTutorialTip60SubtitleA=Afinidade
+tagTutorialTip60TextC=As constelações estão alinhadas com cinco afinidades diferentes, representando diferentes aspectos celestes. Constelações diferentes requerem quantidades diferentes de afinidade para serem desbloqueadas.
+tagTutorialTip60SubtitleB=Atribuindo Pontos de Devoção
+tagTutorialTip60TextD=As constelações iniciais concedem bônus significativos de afinidade, enquanto as constelações mais poderosas não concedem nenhum.
+tagTutorialTip60TextE=Note que, se você desaprender uma parte de uma constelação completa, você perderá seu bônus de afinidade.
+tagTutorialTip60TextF=As estrelas azuis brilhantes indicam onde você pode colocar um ponto de devoção. Clique com o botão esquerdo em uma estrela para desbloquear seu bônus.
+tagTutorialTip60TextG=As estrelas com auréola indicam as localizações dos poderes celestiais, os quais podem ser desbloqueados para melhorar suas habilidades primárias com novos efeitos.
+
+tagTutorialTip61Title=Poderes Celestiais
+tagTutorialTip61TextA=Os poderes celestiais são habilidades poderosas e autoativáveis que podem ser atribuídas às habilidades primárias em suas maestrias e em seu equipamento. Os poderes celestiais atribuídos às suas habilidades ganharão experiência oriunda de combate e de missões, o que fará com que eles alcancem graus mais elevados e fiquem mais fortes. Ao serem atribuídos a habilidades de companheiros, eles variarão conforme o dano do companheiro.
+tagTutorialTip61SubtitleA=Atribuindo a uma Habilidade Primária
+tagTutorialTip61TextB=Para atribuir um poder celestial, você deve desbloqueá-lo na Janela de Devoção e, em seguida, selecionar uma habilidade primária válida na lista. Você pode reatribuir um poder celestial a qualquer momento, sem penalidade. Se você desatribuir um poder celestial, ele reterá qualquer experiência ganha ou grau alcançado.
+
+#Quick Tips
+
+tagQuickTipMainMenu={^z}Bem-vindo(a) a Grim Dawn!{^-}{^n}{^n}As {^w}Dicas {^w}do {^w}Tutorial{^-} estão ativadas. Você pode desativá-las a qualquer momento no menu de opções.{^n}{^n}A {^w}Dificuldade {^w}Normal{^-} é destinada a jogadores de ARPG menos experientes.{^n}{^n}Para uma experiência mais desafiadora selecione a {^w}Dificuldade {^w}Veterano{^-}.
+tagQuickTip06={^z}Refeição Intocada{^-}Coletar uma refeição intocada restaura uma grande quantidade de constituição, a qual permite que você regenere a saúde rapidamente quando fora de combate.
+tagQuickTip07={^z}Você Desbloqueou um Portal!{^-}{^n}{^n}O {^w}Portal {^w}Pessoal{^-} {^x}[%t0]{^-} permite que você crie um portal e se teletransporte para os portais encontrados pelo mundo de Cairn.
+tagQuickTip08={^z}Dicas do Tutorial{^-}{^n}{^n}As {^s}Dicas {^s}do {^s}Tutorial{^-} estão ativadas. Você pode desativá-las a qualquer momento no menu de opções. Para mais informações, basta clicar com o botão esquerdo em uma dica quando ela aparecer. Para fechá-la, clique com o botão direito nela. A ajuda pode ser acessada a qualquer momento na Janela do Códice {^x}[%t0]{^-}.
+tagQuickTip09={^z}Vendedores{^-}{^n}{^n}Os vendedores permitem que você venda seus itens e compre equipamentos e poções. Clicar com o botão direito em um item é a forma mais rápida de comprar e vender.
+tagQuickTip11={^z}Portal Pessoal{^-}{^n}{^n}Use o portal pessoal para abrir o Mapa do Mundo e selecione um portal para viajar até ele.
+tagQuickTip14={^z}Poções{^-}{^n}{^n}As poções têm longos tempos de recarga, mas podem ser usadas para restaurar rapidamente a sua saúde ou energia. Para beber uma poção, clique no ícone da poção na Barra de Habilidades ou pressione a tecla de acesso rápido atribuída.
+tagQuickTip15={^z}Subindo de Nível{^-}{^n}{^n}Ao subir de nível você ganha pontos de habilidade e de atributo, os quais podem ser atribuídos na Janela das Habilidades e na Janela do Personagem, respectivamente.
+tagQuickTip16={^z}Janela do Personagem{^-}{^n}{^n}A Janela do Personagem permite que você maneje seu inventário, seu equipamento e veja suas estatísticas.
+tagQuickTip20={^z}Componentes{^-}{^n}{^n}Os componentes aplicam bônus em itens e equipamentos e podem ser combinados para ficarem mais poderosos.
+tagQuickTip21={^z}Maestria Secundária{^-}{^n}{^n}Você alcançou o nível 10, e agora pode selecionar uma segunda maestria.
+tagQuickTip22={^z}Janela das Habilidades{^-}{^n}{^n}A Janela das Habilidades {^x}[%t0]{^-} permite que você atribua os pontos de habilidade que ganha ao subir de nível.
+tagQuickTip23={^z}Maestria & Habilidades{^-}{^n}{^n}Aumentar o número de pontos atribuídos à barra da maestria permite o acesso a habilidades adicionais e fornece bônus de estatísticas. Lembre-se de aprender novas habilidades e de aumentar a sua maestria.
+tagQuickTip24={^z}A Morte não é o Fim!{^-}{^n}{^n}Ao morrer você perde experiência, mas você pode recuperar um pouco da experiência perdida tocando na sua lápide.
+tagQuickTip26={^z}Bate-papo{^-}{^n}{^n}Pressione {^x}[Enter]{^-} para conversar com outros jogadores ou pressione "Enviar Para" para enviar uma mensagem privada. Mantenha pressionada a tecla Shift enquanto clica em um item para enviar um link visível desse item para outros jogadores no jogo.
+tagQuickTip27={^z}Multijogador{^-}{^n}{^n}Acesse a Janela do Grupo {^x}[%t0]{^-} para formar um grupo. Pressione {^x}[Enter]{^-} para conversar com outros jogadores.
+tagQuickTip30={^z}Habilidades não Atribuídas!{^-}{^n}{^n}As habilidades ativas devem ser atribuídas à Barra de Habilidades antes de serem utilizadas. Clique com o botão direito em um espaço da barra para atribuir uma habilidade a ele.
+tagQuickTip31={^z}Poções de Saúde{^-}{^n}{^n}Quando a sua saúde estiver baixa durante o combate, use uma poção para restaurá-la. As poções de saúde têm um longo tempo de recarga, mas restauram uma grande quantidade de saúde.
+tagQuickTip32={^z}Pontos não Atribuídos!{^-}{^n}{^n}Você tem pontos de atributo ou de habilidade não atribuídos. Lembre-se de atribuir os seus pontos ao subir de nível.
+tagQuickTip33={^z}Aprendendo Habilidades{^-}{^n}{^n}É importante aprender habilidades, bem como aumentar a barra da sua maestria. As habilidades lhe fornecem poderosas aptidões ofensivas e defensivas.
+tagQuickTip34={^z}Inventário Cheio!{^-}{^n}{^n}Abra a Janela do Personagem para manejar seu inventário ou visite um comerciante para vender os itens que você recolheu.
+tagQuickTip35={^z}Companheiros Evocados{^-}{^n}{^n}Para ordenar aos companheiros que ataquem ou se movam na direção de um alvo, use a habilidade Ataque de Companheiros. Eles também podem ser configurados para terem um comportamento agressivo/defensivo e dispensados quando necessário.
+tagQuickTip36={^z}Guia Espiritual{^-}{^n}{^n}O Guia Espiritual permite que você altere suas habilidades e devoções em troca de pedaços de ferro e cristais etéreos. Cada ponto devolvido aumenta o custo do próximo ponto.
+tagQuickTip37={^z}Contrabandista{^-}{^n}{^n}O contrabandista permite que você armazene itens em seu baú privado e dá acesso ao baú de transferência.
+tagQuickTip38={^z}Baú de Transferência{^-}{^n}{^n}O baú de transferência pode ser usado para transferir itens entre seus personagens. Você pode comprar espaço de transferência adicional.
+tagQuickTip39={^z}Inventor{^-}{^n}{^n}O inventor permite que você recupere componentes de itens e desmantele itens indesejados transformando-os em materiais para criação.
+tagQuickTip42={^z}Ferreiro{^-}{^n}{^n}O ferreiro permite que você crie itens poderosos utilizando os diagramas que você aprendeu e vários componentes encontrados pelo mundo.
+tagQuickTip43={^z}Diagramas{^-}{^n}{^n}Visite o ferreiro para criar itens utilizando os diagramas que você aprendeu e os materiais que você encontrou.
+tagQuickTip44={^z}Diagramas{^-}{^n}{^n}Para serem forjados, os diagramas requerem os serviços de um ferreiro. Os diagramas que você coletar serão armazenados até que você recrute um.
+tagQuickTip45={^z}Regeneração Rápida{^-}{^n}{^n}A constituição é convertida em saúde quando fora de combate, permitindo que você se regenere rapidamente entre as lutas enquanto a sua constituição durar.
+tagQuickTip46={^z}Constituição Esgotada!{^-}{^n}{^n}Quando sua constituição se esgota, sua saúde não mais se regenera rapidamente quando fora de combate. Colete refeições intocadas e essências vitais para encher a barra da constituição.
+tagQuickTip47={^z}Desmantelando{^-}{^n}{^n}A janela de desmantelamento permite que você quebre itens indesejados em suas partes constituintes, as quais podem ser usadas para criação.
+tagQuickTip49={^z}Comparação de Equipamento{^-}{^n}{^n}Colocar o cursor sobre um item exibe uma comparação desse item com o seu equipamento atual.
+tagQuickTip50={^z}Aprimoramentos{^-}{^n}{^n}Os aprimoramentos podem ser usados em equipamentos para acrescentar bônus adicionais. Podem ser comprados de intendentes de facção se você tiver a reputação mínima exigida.
+tagQuickTip52={^z}Reputação Obtida{^-}{^n}{^n}Você obteve uma certa reputação com uma das facções de Cairn. Você pode ver o status da sua reputação na Janela das Facções {^x}[%t0]{^-}.
+tagQuickTip53={^z}Intendente de Facção{^-}{^n}{^n}Os intendentes de facção permitem que você compre itens e aprimoramentos relacionados com a facção se você tiver a reputação mínima exigida.
+tagQuickTip54={^z}Reputação{^-}{^n}{^n}O seu nível de reputação com uma das facções de Cairn aumentou. A Janela das Facções {^x}[%t0]{^-} contém informações sobre as recompensas associadas a níveis mais altos de reputação.
+tagQuickTip55={^z}Janela das Facções{^-}{^n}{^n}A Janela das Facções permite que você visualize sua reputação atual com as várias facções amigas e inimigas e leia informações básicas sobre elas.
+tagQuickTip56={^z}Recompensas{^-}{^n}{^n}Diferentemente das missões comuns, as missões de recompensa são repetíveis. Cada facção lhe oferecerá até 5 missões de recompensa por sessão de jogo.
+tagQuickTip57={^z}Santuários de Devoção{^-}{^n}{^n}Purificar santuários concede a você pontos de devoção que podem ser atribuídos acessando-se a Janela das Habilidades {^x}[%t0]{^-}. A Devoção é um nível adicional de customização do personagem em adição ao sistema de maestrias.
+tagQuickTip58={^z}Purificando Santuários{^-}{^n}{^n}Você pode purificar santuários fazendo uma oferenda aos deuses ou derrotando inimigos aprisionados em seu interior, dependendo do tipo de santuário que você encontrar.
+tagQuickTip59={^z}Pontos de Devoção{^-}{^n}{^n}Os pontos de devoção ganhos pela purificação de santuários podem ser atribuídos na Janela de Devoção, a qual pode ser acessada por meio da Janela das Habilidades {^x}[%t0]{^-}.
+tagQuickTip60={^z}Janela de Devoção{^-}{^n}{^n}A Janela de Devoção permite que você atribua pontos de devoção ganhos pela purificação de santuários. Cada ponto atribuído permite que você desbloqueie novos bônus e habilidades.
+tagQuickTip61={^z}Poderes Celestiais{^-}{^n}{^n}Atribua o seu poder celestial a uma habilidade clicando sobre o ícone na Janela de Devoção e selecionando uma habilidade da lista.

@@ -1,0 +1,23 @@
+Recompensas
+R: Velho Espinhorror
+Recompensa
+A Legião pede ajuda para caçar um monstro.{^n}{^n}Um Espinhoso conhecido como Velho Espinhorror eludiu os nossos caçadores. Acredita-se que a sua toca esteja escondida em algum lugar na Bacia Sombreada.{^n}{^n}Qualquer ajuda será recompensada com pedaços de ferro.
+
+Mate o Velho Espinhorror
+
+Retorne
+Você concluiu a tarefa para a Legião Negra e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Legião Negra
+
+
+
+
+
+
+
+
+
+
+
+
+

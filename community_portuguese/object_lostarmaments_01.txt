@@ -1,0 +1,22 @@
+Armamentos Perdidos
+Estes canhões foram tirados dos Etéreos.{^n}{^n}A Legião Negra vai recuperá-los em breve.
+Ok.
+Você tirou estes canhões dos Etéreos.{^n}{^n}Alguém terá que recuperá-los quando a oportunidade surgir.
+Ok.
+Estes canhões foram tirados dos Etéreos.{^n}{^n}Alguém terá que recuperá-los quando a oportunidade surgir.
+Ok.
+Estes devem ser os canhões aos quais o Armeiro Borrov estava se referindo.
+Reivindicar este recurso para a Legião Negra.
+Sair.
+Estes canhões seriam úteis à Legião Negra na Herdade.
+Reivindicar este recurso para a Legião Negra.
+Sair.
+Estes canhões seriam úteis à humanidade se alguém pudesse movê-los.
+Tomar nota deste local para o futuro.
+Sair.
+Estes devem ser os canhões aos quais o Armeiro Borrov estava se referindo.{^n}{^n}Infelizmente, a Legião Negra não será capaz de reivindicá-los enquanto o Arauto das Chamas estiver vivo.
+Ok.
+Estes canhões seriam úteis à Legião Negra na Herdade.{^n}{^n}Infelizmente, a Legião Negra não será capaz de reivindicá-los enquanto o Arauto das Chamas estiver vivo.
+Ok.
+Estes canhões seriam úteis à humanidade.{^n}{^n}Infelizmente, ninguém será capaz de reivindicá-los enquanto o Arauto das Chamas estiver vivo.
+Ok.

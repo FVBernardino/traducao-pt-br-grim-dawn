@@ -1,0 +1,30 @@
+Minova
+Obrigada, mortal. Você demonstrou uma bondade enorme para com a minha filha. Agora eu posso suportar um pouco mais facilmente a minha maldição.
+Como foi que você e sua filha foram atingidas por essa maldição?
+Nós somos de Arkóvia e a resposta mais simples é que desafiamos a ordem natural. Arkóvia cresceu e se tornou o poder preeminente nesta região, mas nosso povo acabou se tornando complacente e obcecado por títulos. Lutamos entre nós e deixamos nosso comércio e nossa civilização entrarem em decadência.{^n}{^n}Por fim, Arkóvia deveria ter aceitado o seu destino e desaparecido, porém nossos líderes se envolveram com os necromantes. Forçamos uma barganha com o mesmo poder que anteriormente havíamos condenado e procurado erradicar. Foi uma barganha traiçoeira e agora pagamos por nossa arrogância e falta de juízo.
+
+Entendo. Vou seguir o meu caminho, então.
+Como foi que sua filha acabou como uma harpia nas Colinas Partidas?
+Ela nasceu assim. Foi um efeito da maldição que assola os Arkovianos. Assustado e com repulsa da natureza monstruosa dela, meu marido a levou para as Colinas Partidas e a deixou exposta aos elementos, achando que ela iria morrer.{^n}{^n}Era assim que se resolviam nascimentos indesejados em Arkóvia. E é aí que está o meu maior pecado e o pior aspecto da nossa maldição. Durante os vários anos que se passaram desde a queda de Arkóvia, as harpias se multiplicaram e se espalharam para outras regiões. As harpias originais são imortais e as circunstâncias de seu nascimento e abandono fizeram delas criaturas ressentidas e odiosas. Elas atacam viajantes, tentando constantemente preencher o vazio em seus corações com coisas materiais.{^n}{^n}Elas e os Rhowari são os últimos descendentes vivos de Arkóvia.
+
+Devo continuar a minha jornada agora.
+Adeus.
+Seus aliados demonstraram uma bondade enorme para com a minha filha. Agora eu posso suportar um pouco mais facilmente a minha maldição.
+Adeus.
+Eu não consigo mais sentir a presença angustiada da minha filha. Acabou?
+Está feito. Ela não sofre mais.
+Obrigada. Você libertou a minha filha de uma eternidade de sofrimento recluso, medo e ódio. Agora eu vou [[ms]recompensá-lo[fs]recompensá-la] da única maneira que posso.
+[[ms]Obrigado[fs]Obrigada].
+Você salvou a minha filha da angústia dela?
+Você pode repetir onde Lutra está?
+Ela vive nas Colinas Partidas, em meio às ruínas da nossa cidade.
+Irei até lá agora mesmo.
+Ainda estou à procura dela.
+Por favor, abaixe sua arma, mortal. Só peço que ouça o meu apelo.
+De que você precisa?
+Muitas eras atrás, meu povo cometeu um grave erro e agora pagamos por nossa arrogância, vinculados eternamente a esta terra. Mas nossos filhos não merecem o destino que a maldição colocou sobre eles.{^n}{^n}Minha filha, Lutra, é agora uma harpia horrível à espreita nas Colinas Partidas. Ela sofre pelos meus pecados no corpo de um monstro; está ressentida, amargurada e nunca conheceu o amor de uma mãe. Por favor, mortal, encontre a minha filha. Ponha um fim rápido e misericordioso ao tormento eterno dela.{^n}{^n}Se você fizer isso por mim, terei o maior prazer em partilhar da minha essência para fortalecer a sua.
+Vou fazer o que você me pediu.
+Não posso fazer isso.
+Lutra já está descansando em paz.
+
+Não faço acordo com os mortos.

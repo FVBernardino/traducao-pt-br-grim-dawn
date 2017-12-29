@@ -1,0 +1,60 @@
+Harmond
+Às vezes, quando fecho os olhos, eu ainda a vejo.{^n}{^n}Posso sentir o cheirinho daquele cabelo ruivo e aquela mão delicada em minha bochecha.{^n}{^n}Mas então eu abro os olhos e tudo o que vejo é esta toca slith. Este mundo é muito cruel para um anjo como Annabel. Ela iria definhar em meio a tanta corrupção.
+Sinto muito.
+Levaram a minha Annabel. Eles ainda vão pagar por isso!
+Vou... deixá-lo com os seus pensamentos.
+Levaram a minha Annabel. Eles ainda vão pagar por isso!
+Vou... deixá-lo com os seus pensamentos.
+Parece que você tem visto muitos horrores. Diga-me, como foi a batalha?
+Foi terrível e sangrenta. Do jeito que eu gosto.
+Espero que eles tenham sofrido. Ninguém merece ser partido ao meio por monstros como aqueles, e agora há alguns deles a menos no mundo. Tudo graças a você.{^n}{^n}Aqui, pegue o seu ferro.
+[[ms]Obrigado[fs]Obrigada]. Eu fiz o que precisava ser feito.
+Eram monstros horríveis. Acabei com eles rapidamente.
+Você tem menos estômago do que eu pensava, mas pelo menos ele ainda está dentro de você e não caído em alguma estrada, hã?{^n}{^n}De qualquer forma, aqui está o seu ferro.
+[[ms]Obrigado[fs]Obrigada].
+Foi triste ver homens transformados daquela maneira. Acabei com eles por misericórdia.
+Talvez eles não merecessem o destino que tiveram, mas pelo menos agora há menos deles por aí colocando vidas em risco.{^n}{^n}Você fez a coisa certa. Aqui está o seu ferro.
+[[ms]Obrigado[fs]Obrigada].
+Você não vai me convencer de que matou os mutantes sem me contar algumas experiências pessoais como prova!
+Onde eu devo procurá-los?
+Balros e Hagra perseguiram os sobreviventes de Burrwitch até os Campos Podres, um pouco além dos Arredores de Burrwitch. Comece sua caçada lá.
+Vou fazer o que você me pediu.
+Vou fazer o que você me pediu.
+Você matou um monte de Mortos trôpegos, mas acho que pode fazer melhor. A corrupção Etérea provocou mutações verdadeiramente monstruosas nos Mortos. Eu ouvi histórias dos sobreviventes de Burrwitch que testemunharam uma transformação aterrorizante com os seus próprios olhos.{^n}{^n}Balros e Hagra, eles eram gente boa, administravam a pensão em Burrwitch. Isto é, até o Éter pegá-los. Eles foram transformados em coisas que se costumava ver apenas em pesadelos. Aqueles que escaparam falaram sobre carne inchada e lâminas de osso. Eu não consigo nem imaginar.{^n}{^n}Dizem que eles perseguiram os sobreviventes até os Campos Podres, ao sul de Burrwitch. Vá lá fora e mate-os. Depois, venha me contar como foi o massacre; vou fazer com que valha a pena.
+Está bem.
+Eu acho que já foi o suficiente.
+Eu já lidei com eles.
+Então diga-me, como foi a batalha?
+
+
+
+Há um fogo em seus olhos e sangue em sua roupa. Você acabou com aqueles putrefatos?{^n}{^n}Diga-me, qual foi a sensação?
+De vingança. Vingança e justiça.
+É isso que eu gosto de ouvir! Se não fosse pela minha perna inválida, eu estaria lá fora com você. A alternativa é pagar um bocado de ferro a outros e depois ouvir as histórias.{^n}{^n}Falando nisso, aqui está a sua parte.
+[[ms]Obrigado[fs]Obrigada].
+
+Não senti nada.
+Então você e eu temos algo em comum. Depois que aquelas coisas levaram a minha Annabel, eu não sinto mais nada.{^n}{^n}Aqui, pegue as suas moedas. Você merece.
+[[ms]Obrigado[fs]Obrigada].
+
+Desista... Aquelas coisas já foram pessoas.
+Eu não estou lhe pagando para me dar uma lição de moral. Aquelas coisas são abominações. Abominações que mataram a minha esposa, Annabel, e me deixaram aleijado!{^n}{^n}A única maneira de me vingar delas é pagando a pessoas como você. Então, se você quiser mais ferro, esqueça a moralidade e mate mais alguns Mortos.{^n}{^n}Aqui está o seu pagamento.
+[[ms]Obrigado[fs]Obrigada].
+
+Não tem muito sangue na sua arma, [[ms]forasteiro[fs]forasteira]. Volte aqui quando tiver colocado os mortos no seu devido lugar. Quero ouvir todos os detalhes.
+Onde eu devo procurá-los?
+Procure Farros, Jillius e Neegan em Wightmire. Verifique todas as casas submersas, procure nos campos. Não volte aqui sem o sangue deles na sua roupa.
+Eu vou voltar.
+Eu vou voltar.
+Eu ouvi dizer que você vem fazendo uma limpeza no Cruzamento Inferior. Se você continuar lutando contra aqueles bastardos, vai precisar de um equipamento melhor do que esse.{^n}{^n}Aqui está algo que você provavelmente não verá de novo neste mundo, [[ms]forasteiro[fs]forasteira]. Algo por nada. Pegue umas moedas de ferro; eu não preciso mais delas.
+Por que é que você está me ajudando?
+Veja bem, mataram a minha Annabel quando o vilarejo foi invadido pela primeira vez. Nada vai trazê-la de volta; e se algo tentar, vai levar uma bala na cabeça.{^n}{^n}Não me resta nada além de vingança, então eu pago um bocado de ferro a pessoas dispostas a acabar com aquelas abominações.{^n}{^n}Farros, Jillius e Neegan, por exemplo. Costumavam ser caras bons, defensores do império; agora não são nada além de demônios trôpegos rondando os pântanos de Wightmire.{^n}{^n}Mate-os. Afunde-os na lama onde deveriam estar e eu vou lhe dar mais ferro.
+Vou acabar com eles.
+Não confio em doações.
+Eu já cuidei deles.
+É isso que eu gosto de ouvir.{^n}{^n}Diga-me, qual foi a sensação?
+
+
+
+Vejam só, é [[ms]o possesso[fs]a possessa]. Ouça, eu tenho algo que precisa ser feito e vou pagar muito bem a quem o fizer por mim.{^n}{^n}Eu não tenho certeza se você tem as qualidades necessárias, mas volte aqui com um pouco de sangue em suas botas e talvez eu reconsidere. Apenas tente se certificar de que não seja o seu próprio sangue...
+Tudo bem, então.

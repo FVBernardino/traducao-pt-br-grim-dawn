@@ -1,0 +1,23 @@
+Recompensas
+R: Sicrix
+Recompensa
+A Legião pede ajuda para caçar um monstro.{^n}{^n}Um rastejante das cavernas conhecido como Sicrix fugiu dos caçadores da Legião, mas eles rastrearam-no até as perigosíssimas Profundezas da Montanha. Precisamos de mais reforços para acabar com a criatura.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+
+
+
+Mate Sicrix
+
+Retorne
+Você concluiu a tarefa para a Legião Negra e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Legião Negra
+
+
+
+
+
+
+
+
+
+
+

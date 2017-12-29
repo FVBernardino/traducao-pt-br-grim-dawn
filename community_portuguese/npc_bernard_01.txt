@@ -1,0 +1,23 @@
+Bernard
+[[ms]Bem-vindo[fs]Bem-vinda] de volta ao nosso humilde acampamento. Que o seu caminho seja sempre seguro e que o vento esteja sempre a seu favor.
+Adeus.
+Seus aliados prestaram um grande serviço à região ao destruírem aquela barricada.
+Adeus.
+Você voltou. Teve êxito na sua empreitada?
+Eu destruí a barricada.
+Bom trabalho!{^n}{^n}Obrigado. Você nos deu uma grande ajuda e não nos esqueceremos disso.
+Não há de quê.
+Olá novamente! Como vai a sua busca por dinamite?
+Você pode repetir onde eu devo procurar?
+Deve haver dinamite em algum lugar na Mina Staunton, ao oeste.
+[[ms]Obrigado[fs]Obrigada]. Vou encontrá-la.
+Ainda estou procurando. Adeus.
+Saudações, [[ms]forasteiro[fs]forasteira]. É um prazer conhecer alguém que não sai apontando a arma para os outros. Não posso dizer o mesmo do bando lá no alto da colina, ao leste.
+Vocês estão tendo problemas com os bandidos?
+Eles são todos uns assassinos violentos e sanguinários. Tudo o que nós mais desprezamos neste mundo. Agora ergueram uma barricada na estrada para interceptar viajantes como nós. Montamos acampamento aqui enquanto decidimos o que fazer.{^n}{^n}A melhor solução seria explodir aquela barricada, permitindo que os nossos irmãos e irmãs da estrada viajassem em paz; no entanto, não temos os meios para fazê-lo. Você parece uma pessoa capaz, então vamos fazer um acordo. A Mina Staunton, ao oeste daqui, está abandonada, mas pode haver alguns explosivos lá. Se você recolher um pouco de dinamite e a usar para destruir aquele maldito bloqueio, eu lhe pagarei pelo esforço. O que me diz?
+Claro. Vou ajudá-los.
+Não estou [[ms]interessado[fs]interessada].
+O bloqueio foi destruído.
+Estou impressionado, [[ms]forasteiro[fs]forasteira].{^n}{^n}Obrigado. Você nos deu uma grande ajuda e não nos esqueceremos disso.
+É sempre um prazer arruinar o dia de um bandido.
+Adeus.

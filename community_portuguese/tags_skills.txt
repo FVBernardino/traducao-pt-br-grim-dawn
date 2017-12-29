@@ -1,0 +1,2907 @@
+tagSkillClassName01=[ms]Soldado[fs]Soldada
+tagSkillClassName02=Demolicionista
+tagSkillClassName03=Ocultista
+tagSkillClassName04=Lâmina Noturna
+tagSkillClassName05=Arcanista
+tagSkillClassName06=Xamã
+tagSkillClassName07=?
+tagSkillClassName08=?
+tagSkillClassName09=?
+
+tagSkillClassName0102=Comando
+tagSkillClassName0103=Lâmina Embruxada
+tagSkillClassName0104=[ms]Mestre das Lâminas[fs]Mestra das Lâminas
+tagSkillClassName0105=[ms]Mago de Batalha[fs]Maga de Batalha
+tagSkillClassName0106=Guarda
+tagSkillClassName0107=
+tagSkillClassName0108=
+tagSkillClassName0109=
+tagSkillClassName0203=Piromante
+tagSkillClassName0204=[ms]Sabotador[fs]Sabotadora
+tagSkillClassName0205=[ms]Feiticeiro[fs]Feiticeira
+tagSkillClassName0206=Elementalista
+tagSkillClassName0207=
+tagSkillClassName0208=
+tagSkillClassName0209=
+tagSkillClassName0304=[ms]Caçador de Bruxos[fs]Caçadora de Bruxos
+tagSkillClassName0305=[ms]Mestre da Magia[fs]Mestra da Magia
+tagSkillClassName0306=[ms]Conjurador[fs]Conjuradora
+tagSkillClassName0307=
+tagSkillClassName0308=
+tagSkillClassName0309=
+tagSkillClassName0405=Quebra-feitiços
+tagSkillClassName0406=[ms]Embusteiro[fs]Embusteira
+tagSkillClassName0407=
+tagSkillClassName0408=
+tagSkillClassName0409=
+tagSkillClassName0506=Druida
+tagSkillClassName0507=
+tagSkillClassName0508=
+tagSkillClassName0509=
+tagSkillClassName0607=
+tagSkillClassName0608=
+tagSkillClassName0609=
+tagSkillClassName0708=
+tagSkillClassName0709=
+tagSkillClassName0809=
+
+tagSkillDevotion=Devoção
+
+tagSkillClassDescription01=Os Soldados do exército imperial eram treinados para sobreviver nas condições mais desesperadoras e aguentar firme contra os inimigos mais mortais do império. Preferem o uso de armamento corpo a corpo, como espada e escudo, mas também podem ser formidáveis com armas de fogo. O que pode faltar a um Soldado em ofensividade é compensado por fortitude e liderança.
+
+tagSkillClassDescription02=Mestres pirotécnicos do exército imperial, os Demolicionistas são parte engenheiros e parte feiticeiros. Eram usados para romper fileiras inimigas e abrir brechas em fortificações com sua devastadora variedade de explosivos e magia destrutiva. Geralmente preferem lutar a distância, enfrentado os inimigos com armas de fogo, armadilhas e explosivos, mas também podem ser proficientes em armas corpo a corpo.
+
+tagSkillClassDescription03=Outrora caçados pelas forças imperiais em um esforço para controlar o poder sobrenatural, o ofício do Ocultista foca fortemente na evocação e no empréstimo de poderes concedidos pelos três "deuses" bruxos Bysmiel, Solael e Dreeg. Suas diversas artes incluem maldições abomináveis e feitiços que infligem dano por veneno, ácido e energia entrópica. Não se destacam com espadas nem com armas de fogo, mas podem usar ambas para aumentar sua ofensividade.
+
+tagSkillClassDescription04=Os Lâminas Noturnas eram guerreiros clandestinos que vendiam seus serviços às grandes famílias do império. Destacam-se com todos os tipos de armas marciais, mas são ainda mais temidos pela mortal magia das lâminas que é o segredo do seu ofício. Os Lâminas Noturnas não são adequados para lutar de igual para igual contra inimigos difíceis e confiam em ilusões para se aproximar e desferir ataques rápidos e devastadores ou lutam a distância com lâminas fantasmagóricas.
+
+tagSkillClassDescription05=Para os Arcanistas, a manifestação da magia não é um mistério inexplicável ou a vontade dos deuses, mas uma ciência a ser desvendada. A busca por conhecimento impulsiona todos os Arcanistas, sempre ansiosos por descobrir uma nova técnica para batizar com seu nome. Distorcem as energias etéreas e elementais como bem entendem, criando devastadoras demonstrações de poder que rivalizam com pequenos exércitos. No entanto, toda essa força bruta os deixa com pouco em termos defensivos.
+
+tagSkillClassDescription06=Oriundos das terras selvagens do norte, os Xamãs eram os líderes espirituais e guardiões de sua gente. Possuindo uma espantosa conexão com a selva e sua deidade padroeira Mogdrogen, os Xamãs são capazes de usar as terríveis forças da natureza contra seus inimigos ou até mesmo evocar feras selvagens para auxiliá-los. Destacam-se no uso de armas corpo a corpo brutais de duas mãos, mas podem se adaptar facilmente a outros instrumentos de guerra quando conjuram seus poderes primevos.
+
+tagSkillClassDescription07=
+
+tagSkillClassDescription08=
+
+tagSkillClassDescription09=
+
+#Default
+
+tagSkillDefaultAttackName01=Ataque de Arma
+tagSkillDefaultAttackDescription01=Ataca com sua arma equipada.
+
+tagSkillDefaultMoveTo=Mover-se Para
+tagSkillDefaultMoveToDescription=Mova-se para o local selecionado.
+
+tagSkillDefaultPetAttack=Ataque de Companheiros
+tagSkillDefaultPetAttackDescription=Comande todos os companheiros controláveis para o ataque.
+
+tagSkillInnate=Habilidade Inata
+tagSkillSumLVL=Aumenta com o nível do companheiro.
+
+tagSkillUsableReady=Habilidade Preparada
+
+#Class01
+
+tagClass01SkillName00A=Soldado
+tagClass01SkillDescription00A=O condicionamento físico intenso e necessário para enfrentar a dura realidade de Cairn.
+
+tagClass01SkillName01A=Cadência
+tagClass01SkillDescription01A=O uso de técnicas de combate dá aos seus ataques uma cadência natural com ápices e quedas que, embora previsível, é eficaz e difícil de ser contida. ^oAo ser usada como ataque de arma padrão, Cadência amplia o poder de cada terceiro golpe único de arma.
+tagClass01SkillName01B=Forma de Combate
+tagClass01SkillDescription01B=A fúria de Cadência ressoa no alvo, causando sangramento intenso e atacando alvos próximos adicionais. ^oCom armas de longo alcance, Cadência tem chance de atravessar inimigos.
+tagClass01SkillName01C=Ímpeto Mortal
+tagClass01SkillDescription01C=Você tira vantagem após um golpe de Cadência, fazendo brevemente com que todos os seus golpes sejam desferidos com força mortal adicional. ^oÍmpeto Mortal afeta todos os ataques enquanto ativa.
+tagClass01SkillName01D=Discórdia
+tagClass01SkillDescription01D=A discórdia de uma alma colérica flui para a cadência de puro combate do Soldado e a preenche com energia elemental.
+
+tagClass01SkillName02A=Onda de Força
+tagClass01SkillDescription02A=Tal força é canalizada para o ataque de modo a comprimir o próprio ar, projetando uma onda de energia que atordoa e causa dano aos inimigos. ^oEste ataque requer um escudo ou uma arma corpo a corpo de duas mãos.
+tagClass01SkillName02B=Força Despedaçadora
+tagClass01SkillDescription02B=Onda de Força destrói as defesas dos inimigos, infligindo danos graves aos pontos fracos expostos.
+tagClass01SkillName02C=Trauma Interno
+tagClass01SkillDescription02C=Onda de Força fratura ossos e rompe órgãos, causando hemorragia interna e externa em abundância.
+tagClass01SkillName02D=Tremor
+tagClass01SkillDescription02D=Com a vontade de Menhir, golpeie o chão com uma poderosa arma de duas mãos e libere devastadoras ondas de energia na direção dos inimigos. ^oEsta técnica requer uma arma corpo a corpo de duas mãos. Tremor não é um intensificador de ataques de arma padrão e não pode desencadear efeitos como Vantagem de Markovian.
+
+tagClass01SkillName03A=Ataque Relâmpago
+tagClass01SkillDescription03A=Arremeta com um ímpeto devastador contra seus inimigos, pegando-os de surpresa. ^oRequer uma arma corpo a corpo. Ao ser usada com um escudo, o dano do escudo é adicionado.
+tagClass01SkillName03B=Ponto Cego
+tagClass01SkillDescription03B=A rapidez e a ferocidade do seu ataque deixam os inimigos desorientados, reduzindo a destreza deles em combate.
+
+tagClass01SkillName04A=Grito de Guerra
+tagClass01SkillDescription04A=Um grito de guerra de gelar o sangue enfraquece a determinação dos seus inimigos e faz com que percam o foco.
+tagClass01SkillName04C=Aterrorizar
+tagClass01SkillDescription04C=Os inimigos menos resolutos fugirão ao ouvir o som deste temível desafio.
+tagClass01SkillName04B=Desmoralizar
+tagClass01SkillDescription04B=Grito de Guerra abala o moral dos inimigos, tornando-os impotentes contra você.
+
+tagClass01SkillName05A=Arco Cortante
+tagClass01SkillDescription05A=Um movimento em arco que corta vários inimigos ao seu redor. ^oRequer uma arma corpo a corpo.
+tagClass01SkillName05B=Dilaceração
+tagClass01SkillDescription05B=Uma técnica avançada que faz com que Arco Cortante golpeie mais inimigos e os dilacere, causando sangramento.
+tagClass01SkillName05C=Golpe Impetuoso
+tagClass01SkillDescription05C=Uma forma mais poderosa de Arco Cortante, em que o Soldado acumula energia entre um ataque e outro e a libera em uma explosão concentrada de dano capaz de derrubar os inimigos no chão.
+
+tagClass01SkillName06A=Vantagem de Markovian
+tagClass01SkillDescription06A=O renomado estrategista Markovian sempre manobrou para atacar do terreno mais alto. Este clássico ataque, inspirado nas táticas de batalha de Markovian, é caracterizado por um poderoso golpe descendente que deixa os inimigos desorientados, enfraquecendo as defesas deles. ^oPode ativar-se com todos os ataques de arma padrão.
+tagClass01SkillName06B=Técnica de Zolhan
+tagClass01SkillDescription06B=Este ataque, que leva o nome do famoso mestre de combate, usa um baixo centro de massa e um poderoso movimento para desequilibrar seus oponentes. ^oPode ativar-se com todos os ataques de arma padrão. Ao ser usado com uma arma corpo a corpo, este ataque atinge vários alvos próximos.
+
+tagClass01SkillName07A=Espírito de Combate
+tagClass01SkillDescription07A=Longe de deixarem você submisso, os golpes dos inimigos despertam a sua ira, fazendo com que os seus ataques sejam mais fortes. ^oAtiva-se ao receber dano.
+tagClass01SkillName08A=Vontade de Menhir
+tagClass01SkillDescription08A=À medida que você se aproxima da morte, a vontade inabalável de Menhir o preenche com força renovada. ^oRequer um escudo ou uma arma corpo a corpo de duas mãos.
+
+tagClass01SkillName09A=Comando de Campo
+tagClass01SkillDescription09A=Um senso superior de disciplina e conhecimentos de táticas de batalha fazem de você um líder natural no calor da batalha. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagClass01SkillName09B=Táticas de Esquadrão
+tagClass01SkillDescription09B=Inspira os aliados para que deem o melhor de suas habilidades.
+
+tagClass01SkillName10A=Condicionamento Militar
+tagClass01SkillDescription10A=Um treinamento militar fortemente regimentado fortalece e fortifica o corpo contra as agruras da guerra.
+tagClass01SkillName11A=Veteranice
+tagClass01SkillDescription11A=A experiência em alguns dos piores cenários das guerras coloniais deu a você a capacidade de sobreviver a situações que seriam fatais para outros.
+tagClass01SkillName12A=Soldado Condecorado
+tagClass01SkillDescription12A=A capacidade de manter a calma e pensar com clareza no calor da batalha permite que veteranos detectem mais facilmente as brechas na defesa do inimigo ou prevejam o fluxo de seus ataques para que possam ser facilmente contidos.
+
+tagClass01SkillName13A=Baluarte de Menhir
+tagClass01SkillDescription13A=Invoque à divindade da terra, Menhir. Menhir é um aspecto ancestral que abençoa seus seguidores com a tenacidade da própria terra. ^oRequer um escudo. Esta habilidade deve ser ativada para manter seu efeito.
+
+tagClass01SkillName14A=Raiva de Oleron
+tagClass01SkillDescription14A=Invoque à divindade da guerra, Oleron. Oleron é um aspecto ancestral que concede uma ferocidade inabalável a seus seguidores. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagClass01SkillName15A=Guarda Total
+tagClass01SkillDescription15A=Assuma uma postura defensiva que aumenta significativamente sua concentração em combate. Você só pode manter esse foco por um curto período de tempo. ^oRequer um escudo.
+tagClass01SkillName15B=Defesa de Markovian
+tagClass01SkillDescription15B=Markovian tornou-se uma lenda no campo de batalha por seu conhecimento tático, mas era o seu domínio do escudo que lhe permitia suportar inúmeros conflitos e sair vitorioso. Com concentração e treinamento suficientes, Markovian era capaz de manter uma postura defensiva quase indefinidamente ao custo de sua ofensividade, optando por esgotar seus oponentes antes de desferir o golpe mortal.
+
+tagClass01SkillName16=Cicatrizes de Batalha
+tagClass01SkillDescription16=Após inúmeros encontros violentos, você já viu o pior que a batalha tem a oferecer. Os horrores da guerra não mais dificultam suas ações e um pouco de sangue derramado não o impressiona.
+
+tagClass01SkillName17=Contra-ataque
+tagClass01SkillDescription17=Entre em um estado de profunda concentração que permite que você contra-ataque rapidamente. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagClass01SkillName18=Treinamento de Escudo
+tagClass01SkillDescription18=Um estudo extensivo de técnicas de combate com escudo propicia um melhor manejo e uma capacidade de manobra profissional; garantindo que o seu escudo não seja um entrave. ^oRequer um escudo.
+
+
+
+#Class02
+
+tagClass02SkillName00A=Demolicionista
+tagClass02SkillDescription00A=A perícia na combinação de ciência e magia para desencadear um inferno ardente no campo de batalha.
+
+tagClass02SkillName01A=Granada
+tagClass02SkillDescription01A=A granada é uma invenção recente que se espalhou muito rápido no campo de batalha, deixando em pé de igualdade bruxaria e armas convencionais.
+tagClass02SkillName01B=Alto Impacto
+tagClass02SkillDescription01B=Um projeto melhorado da Granada padrão faz com que ela libere calor intenso no momento da explosão e espalhe estilhaços muito afiados.
+tagClass02SkillName01C=Granada Celesfogo
+tagClass02SkillDescription01C=Quando explodir os inimigos não for suficiente, esta alteração alquímica da química da Granada desencadeará um turbilhão de eletricidade no momento da detonação.
+tagClass02SkillName01D=Explosão Destruidora
+tagClass02SkillDescription01D=A intensa onda de impacto criada pela explosão da Granada propaga-se entre seus inimigos, infligindo danos internos graves.
+
+tagClass02SkillName02A=Estouro de Luz
+tagClass02SkillDescription02A=Uma luz cegante temporariamente confunde os inimigos e interrompe a capacidade deles de se defender.
+tagClass02SkillName02B=Luz Calcinante
+tagClass02SkillDescription02B=Imagens consecutivas que ardem na retina dos inimigos reduzem a capacidade deles de atacar.
+
+tagClass02SkillName03A=Golpe Ígneo
+tagClass02SkillDescription03A=Uma técnica alquímica mortal faz com que os ataques marciais inflamem o ar ao redor do inimigo. ^oAo ser usada como ataque de arma padrão, Golpe Ígneo inflige dano adicional.
+tagClass02SkillName03B=Golpe Explosivo
+tagClass02SkillDescription03B=Aumenta a potência de Golpe Ígneo com uma carga explosiva que inflige danos adicionais a inimigos próximos.
+tagClass02SkillName03C=Golpe Estático
+tagClass02SkillDescription03C=Mais alterações alquímicas fazem com que Golpe Ígneo eletrocute o alvo, tendo chance de derrubá-lo.
+tagClass02SkillName03D=Enxofre
+tagClass02SkillDescription03D=A piromancia com um toque de ocultismo imbui Golpe Ígneo do poder caótico do enxofre. ^oAtaques a distância se estilhaçarão em fragmentos incandescentes.
+tagClass02SkillName03E=Golpe Calcinante
+tagClass02SkillDescription03E=Concentrar o poder destrutivo de Golpe Ígneo permite que ela golpeie com mais intensidade e requeira menos energia, mas esta técnica só pode ser executada com o manejo adequado de armas corpo a corpo de uma mão. ^oRequer uma arma corpo a corpo de uma mão.
+tagClass02SkillName03F=Poder Calcinante
+tagClass02SkillDescription03F=Ao ser canalizada através de uma poderosa arma corpo a corpo de duas mãos ou de longo alcance de duas mãos, Golpe Ígneo inflige danos devastadores. ^oRequer uma arma corpo a corpo de duas mãos ou uma arma de longo alcance de duas mãos.
+
+tagClass02SkillName04A=Bomba Cilíndrica
+tagClass02SkillDescription04A=Um explosivo carregado com outros explosivos, esta geringonça diabólica é capaz de devastar um campo inteiro de inimigos.
+tagClass02SkillName04B=Invólucro Melhorado
+tagClass02SkillDescription04B=Um ajuste no invólucro da Bomba Cilíndrica melhora o poder de concussão, infligindo um imenso trauma em um raio de explosão maior.
+tagClass02SkillName04C=Bomba de Concussão
+tagClass02SkillDescription04C=Carregada para uma explosão de impacto maior, a Bomba de Concussão causa um pouco menos de dano, mas deixa os inimigos atordoados.
+
+tagClass02SkillName05A=Armadilha de Morteiro
+tagClass02SkillDescription05A=Posiciona um morteiro que arremessa explosivos no ar continuamente, até se esgotar. ^oO dano da armadilha varia conforme os bônus para o dano do jogador.
+tagClass02SkillName05B=Artilharia Pesada
+tagClass02SkillDescription05B=Uma bruxaria potente aumenta o poder de dano dos projéteis do morteiro e infunde-os com eletricidade. ^oAfeta tanto o Morteiro de base quanto "O Grande".
+tagClass02SkillName05C="O Grande"
+tagClass02SkillDescription05C=Carrega a Armadilha de Morteiro com uma bomba devastadora conhecida apenas como "O Grande", que é disparada logo antes do início do bombardeio da armadilha. A explosão colossal resultante deixará os inimigos aturdidos, caso sobrevivam.
+tagClass02SkillName05D=Morteiro de Fogo
+tagClass02SkillDescription05D=Lança um morteiro explosivo contra os inimigos.
+tagClass02SkillName05E=Morteiro Elétrico
+tagClass02SkillDescription05E=Lança um morteiro carregado de eletricidade contra os inimigos.
+
+tagClass02SkillName06A=Mina de Termite
+tagClass02SkillDescription06A=Solta um trio de cargas pirotécnicas pequenas, porém mortais, que calcinam os inimigos com intensos jatos de chama. ^oO dano das minas varia conforme os bônus para o dano do jogador.
+tagClass02SkillName06B=Mina de Fogo Infernal
+tagClass02SkillDescription06B=Esta melhoria letal, metade pirotécnica, metade alquímica, faz com que a Mina de Termite queime os inimigos com chamas extraterrenas que torram o próprio ser.
+tagClass02SkillName06C=Jato de Chamas
+tagClass02SkillDescription06C=Emite um jato mortal de chamas ardentes que incineram os inimigos que passam por cima delas.
+tagClass02SkillName06D=Detonação
+
+tagClass02SkillName07A=Escudo de Impacto
+tagClass02SkillDescription07A=Uma combinação de equipamentos militares e piromancia cria uma proteção capaz de defletir uma quantidade fixa de todo o dano recebido enquanto reduz os danos por fogo e perfurantes. Os inimigos que atacarem sofrerão o contragolpe ardente do escudo.
+tagClass02SkillName07B=Escolhido de Ulzuin
+tagClass02SkillDescription07B=Aqueles que se sacrificam muito para dominar a pirotecnia acabam como favoritos de Ulzuin, recebendo sua bênção para causarem uma devastação ardente sobre o mundo. ^o[Afeta Estrepes Atordoantes, Granada e Bomba Cilíndrica e requer uma dessas habilidades para ser desbloqueada]
+
+tagClass02SkillName08A=Coquetel de Blackwater
+tagClass02SkillDescription08A=Os Coquetéis de Blackwater eram preparados quando explosivos mais convencionais escasseavam. Ao impactarem, essas bombas incendiárias improvisadas espalham chamas autoalimentadas e são particularmente eficazes contra inimigos agrupados.
+tagClass02SkillName08B=Fogo Demoníaco
+tagClass02SkillDescription08B=Uma bruxaria imbui as chamas de poder caótico que derrete a carne dos inimigos.
+tagClass02SkillName08C=Chamas Agonizantes
+tagClass02SkillDescription08C=Intensifica o fogo e a chama infernal até atingirem uma temperatura que reduz seus inimigos a cinzas.
+tagClass02SkillName08D=Alta Potência
+tagClass02SkillDescription08D=Esta formulação mais potente queima por mais tempo e degrada a capacidade dos seus inimigos de lutar.
+
+tagClass02SkillName09A=Estrepes Atordoantes
+tagClass02SkillDescription09A=Lance uma série de pequenos estrepes carregados de eletricidade que pararão temporariamente os inimigos.
+tagClass02SkillName09B=Propagação Total
+tagClass02SkillDescription09B=Aumenta a capacidade elétrica de cada estrepe atordoante e aumenta o número de estrepes que podem ser lançados de uma só vez.
+tagClass02SkillName09C=Estrepes Velozes
+tagClass02SkillDescription09C=Perdem o poder paralisante de Estrepes Atordoantes, mas podem ser lançados em rápida sucessão para propagar danos elétricos devastadores em grandes grupos de inimigos.
+
+tagClass02SkillName12A=Tocado pelas Chamas
+tagClass02SkillDescription12A=Ao se envolver, como muitos Demolicionistas acabam fazendo, com os aspectos mágicos da piromancia, você desbloqueia a capacidade de imbuir a si e a aliados próximos de uma chama vivente que potencializa ataques e retalia inimigos. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagClass02SkillName12B=Têmpera
+tagClass02SkillDescription12B=Pesquisar a fundo os segredos da piromancia confere um controle tão refinado sobre o fogo que ele pode ser usado para temperar as armas e armaduras dos aliados de uma maneira inconvencional e imbuí-las de uma chama vivente.
+
+tagClass02SkillName13A=Chama Víndice
+tagClass02SkillDescription13A=A eterna chama de Ulzuin outrora trazia vida e cura para o mundo, mas traição e tormento transformaram esse presente em um instrumento de vingança. Os devotos de Ulzuin recebem vigor em batalha e retaliação ardente aos inimigos. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagClass02SkillName13B=Ira de Ulzuin
+tagClass02SkillDescription13B=Enquanto a chama de Ulzuin calcina inimigos adjacentes, raios de fogo e eletricidade golpeiam inimigos mais distantes.
+
+tagClass02SkillName10A=Carga Elétrica
+tagClass02SkillDescription10A=Arremessa uma poderosa bomba carregada de eletricidade contra os inimigos. Eficaz contra alvos difíceis e isolados.
+tagClass02SkillName10B=Sobrecarga
+tagClass02SkillDescription10B=Aumenta o dano elétrico de Carga Elétrica.
+tagClass02SkillName11A=Artilharia Pesada
+tagClass02SkillDescription11A=Aumenta o poder de fogo de Granada e Bomba Cilíndrica.
+tagClass02SkillName14A=Alto Impacto
+tagClass02SkillDescription14A=Um poderoso ataque que causa dano aumentado e derruba a maioria dos inimigos de pequeno a médio porte.
+
+
+
+#Class03
+
+tagClass03SkillName00=Ocultista
+tagClass03SkillDescription00=Um estudo aprofundado sobre a manipulação e o controle do ocultismo.
+
+tagClass03SkillName01A=Evocar Familiar
+tagClass03SkillDescription01A=Evoque um mítico corvo da tempestade para ajudar você. Os corvos da tempestade são criaturas feéricas dotadas de uma misteriosa inteligência e habilidades mágicas, muito diferentes de corvos mundanos. Alguns acreditam que eles não são aves, mas sim algum tipo de espírito antigo do céu, para o qual o corvo é a manifestação preferida. ^oVocê só pode evocar um corvo por vez. O dano do corvo varia conforme os Bônus para Companheiros.
+tagClass03SkillName01B=Orbe da Tempestade
+tagClass03SkillDescription01B=Ataque Inato.
+tagClass03SkillName01C=Recompor Carne
+tagClass03SkillDescription01C=O corvo canaliza energias feéricas para recompor a carne de aliados feridos.
+tagClass03SkillName01D=Espírito da Tempestade
+tagClass03SkillDescription01D=O corvo projeta seu espírito feérico nos aliados selecionados, dando-lhes um poder que vai além da capacidade dos mortais.
+tagClass03SkillName01E=Golpe com Raio
+tagClass03SkillDescription01E=O corvo da tempestade evoca um poderoso raio que eletrocuta inimigos próximos.
+
+tagClass03SkillName02A=Evocar Cão Infernal
+tagClass03SkillDescription02A=Evoca um Cão Infernal dos reinos feéricos para atacar ferozmente os inimigos do Ocultista. Esta fera atroz lutará ao seu lado até que a vida dela seja extinta em chamas. ^oVocê só pode evocar um cão infernal por vez. O dano do cão infernal varia conforme os Bônus para Companheiros.
+tagClass03SkillName02B=Garra Incandescente
+tagClass03SkillDescription02B=Garras de enxofre rasgam em um arco de chamas os inimigos que estiverem ao alcance do Cão Infernal.
+tagClass03SkillName02C=Fogo Infernal
+tagClass03SkillDescription02C=Uma aura de fogo infernal envolve o Cão Infernal, concedendo a ele o poder de seu próprio reino e calcinando os inimigos que golpeiam sua carne. Esse poder se estende a aliados próximos.
+tagClass03SkillName02D=Sopro Infernal
+tagClass03SkillDescription02D=O Cão Infernal sopra fogo infernal, incinerando seus inimigos.
+tagClass03SkillName02E=Ataques com Garras e Presas
+tagClass03SkillDescription02E=Ataque Inato.
+tagClass03SkillName02F=Morte Ardente
+tagClass03SkillDescription02F=A carne do Cão Infernal erupciona enquanto ele retorna a seu reino de origem, incinerando inimigos próximos.
+
+tagClass03SkillName03A=Vínculos de Bysmiel
+tagClass03SkillDescription03A=Fortalece os vínculos de controle com seus asseclas, fazendo com que lutem com mais vigor e determinação. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagClass03SkillName03B=Manipulação
+tagClass03SkillDescription03B=A manipulação sutil dos vínculos de controle persuade os asseclas a sentir uma avassaladora devoção a você, fazendo com que lutem com força e velocidade incríveis.
+
+tagClass03SkillName04A=Sangue de Dreeg
+tagClass03SkillDescription04A=Uma vinculação com o grande guardião confere alguns dos poderes regenerativos de Dreeg e faz com que as feridas infligidas pelos inimigos pulverizem sangue cáustico como se tivessem sido infligidas ao próprio Dreeg. ^oEste efeito também é aplicado a aliados próximos.
+tagClass03SkillName04B=Aspecto do Guardião
+tagClass03SkillDescription04B=Aprofundar a conexão com Dreeg faz com que ataques inimigos contra o ocultista impactem como se tivessem atingido as escamas espinhosas do guardião.
+tagClass03SkillName04C=Espinhos do Guardião
+tagClass03SkillDescription04C=Sacrifique todo o seu poder regenerativo para aumentar o potencial cáustico do sangue de Dreeg.
+
+tagClass03SkillName05A=Fogo Embruxado de Solael
+tagClass03SkillDescription05A=Utilize-se do poder sobrenatural de Solael, queimando seus inimigos com energia entrópica a cada golpe de arma. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagClass03SkillName05B=Segundo Rito
+tagClass03SkillDescription05B=Aprofunda o vínculo do Ocultista com o reino oculto, intensificando o poder do fogo embruxado de tal modo que até o mais leve toque queima a essência vital dos inimigos.
+tagClass03SkillName05C=Lâmina Consagrada
+tagClass03SkillDescription05C=Fogo embruxado consome sua arma, transformando-a em um ponto de concentração de poderes caóticos.
+
+tagClass03SkillName06A=Maldição da Fragilidade
+tagClass03SkillDescription06A=Uma cruel palavra de poder que priva os inimigos de sua força, tornando-os lentos e frágeis.
+tagClass03SkillName06B=Vulnerabilidade
+tagClass03SkillDescription06B=Aumenta a potência da maldição para que ela também enfraqueça a constituição dos seus inimigos, tornando-os mais suscetíveis a feitiçaria e venenos.
+
+tagClass03SkillName10A=Signo de Consumo
+tagClass03SkillDescription10A=Cria no solo um signo ocultista que consome a força vital de inimigos apanhados dentro de seu raio de ação, transferindo para a saúde do Ocultista uma parte do dano causado.
+tagClass03SkillName10B=Destruição
+tagClass03SkillDescription10B=Imbui o signo dos poderes destrutivos do próprio caos.
+
+tagClass03SkillName11A=Olho Maléfico de Dreeg
+tagClass03SkillDescription11A=Evoca um dos infinitos olhos de Dreeg, o grande guardião do reino oculto. O olho avança rapidamente em direção ao alvo e, em seguida, explode.
+tagClass03SkillName11B=Estouro Sangrento
+tagClass03SkillDescription11B=O místico olho estoura com o impacto, jorrando sangue vitriólico nos inimigos próximos.
+tagClass03SkillName11C=Olhar Aterrorizante
+tagClass03SkillDescription11C=O terrível olhar do místico e imortal Dreeg pode fazer com que os inimigos fiquem paralisados de medo ou simplesmente corram aterrorizados.
+tagClass03SkillName11D=Erupção Vil
+tagClass03SkillDescription11D=Pedaços pútridos irrompem do olho no momento do impacto, infligindo mais dor a quaisquer inimigos desafortunados que estejam perto da detonação.
+tagClass03SkillName11E=Olhar Focado
+tagClass03SkillDescription11E=Canalize os sórdidos poderes de Dreeg para cada olho, fazendo com que estourem com maior intensidade e causem mais danos, mas exigindo uma pausa mais longa entre os lançamentos.
+
+tagClass03SkillName12A=Possessão
+tagClass03SkillDescription12A=Você permite que seu corpo seja um veículo mortal para o deus bruxo Solael. O espírito de Solael irradia através de seu corpo, fortalecendo você contra ataques ao ampliar seu poder ocultista. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagClass03SkillName13A=Infecção Sangrenta
+tagClass03SkillDescription13A=Evitada por muitos Ocultistas por causa do sofrimento prolongado que inflige, esta abominável maldição evoca uma peste virulenta que se espalha entre os inimigos, consumindo sua força vital e fazendo com que sangrem por todos os poros.
+tagClass03SkillName13B=Deterioração
+tagClass03SkillDescription13B=Faz com que a Infecção destrua a vitalidade do seu inimigo e transforme feridas purulentas em pontos de sangramento. Tal feitiçaria insidiosa rendeu aos Ocultistas sua reputação sombria e fez com que muitos deles fossem queimados na fogueira.
+tagClass03SkillName13C=Morte Negra
+tagClass03SkillDescription13C=Ardendo em febre e sofrendo a liquefação de seus órgãos internos, os infectados podem ser acometidos por crises súbitas de confusão e vagar pelo campo de batalha, atacando o ar ou até mesmo seus próprios aliados.
+tagClass03SkillName13D=Raiva Febril
+tagClass03SkillDescription13D=Esta transmutação da Infecção pode ser tão perigosa para o Ocultista quanto para o inimigo. A peste se espalha rapidamente e seu dano mais do que duplica, mas, conforme os acometidos ardem em febre, eles ficam enlouquecidos, movendo-se com velocidade anormal e atacando com uma fúria de berserker que os torna mais letais, mas também mais vulneráveis.
+
+tagClass03SkillName14A=Raio Arruinador
+tagClass03SkillDescription14A=Um raio de energia entrópica atravessa o tecido da realidade e inflige um dano enorme a qualquer inimigo atingido.
+
+
+tagClass03SkillName07A=Bagata da Anulação
+tagClass03SkillDescription07A=Anula os encantamentos dos inimigos e inflige dano de queima de energia com base na quantidade de energia restante do inimigo.
+tagClass03SkillName08A=Raio do Caos
+tagClass03SkillDescription08A=Emite um enxame de energia entrópica que atravessa a própria essência do seu inimigo.
+tagClass03SkillName08B=Queima de Energia
+tagClass03SkillDescription08B=Aumenta o dano por caos e ao mesmo tempo queima uma parte da energia do alvo, causando dano adicional de queima de energia.
+tagClass03SkillName09A=Círculo de Proteção
+tagClass03SkillDescription09A=Cria um círculo mágico ao redor do lançador que regenera vida e repele aqueles com má intenção.
+tagClass03SkillName15A=Santuário de Bysmiel
+tagClass03SkillDescription15A=Sela o alvo dentro de um santuário protetor e curativo que o deixa incapaz de se mover, mas protegido contra todos os danos.
+
+
+
+#Class04
+
+tagClass04SkillName00=Lâmina Noturna
+tagClass04SkillDescription00=A prática nas artes da ilusão e lâminas giratórias.
+
+tagClass04SkillName01A=Lâminas Fantasmagóricas
+tagClass04SkillDescription01A=Uma lendária técnica dos Lâminas Noturnas. Arremesse lâminas conjuradas infundidas com magia das sombras que atravessam a carne como se fosse papel.
+tagClass04SkillName01B=Rasga-peito
+tagClass04SkillDescription01B=Com uma técnica refinada, as lâminas fantasmagóricas são conjuradas tão afiadas que podem atravessar vários alvos enquanto fios fantasmagóricos invisíveis absorvem a vitalidade das vítimas.
+tagClass04SkillName01C=Gume do Submundo
+tagClass04SkillDescription01C=Fortalece a lâmina fantasma com magia obscura. É uma técnica detestável, utilizada apenas em circunstâncias extremas.
+tagClass04SkillName01X=Arremesso Focado
+tagClass04SkillDescription01X=Um arremesso mais controlado e forte, que combina a letalidade das lâminas fantasmagóricas em um único golpe cruel.
+tagClass04SkillName01D=Arremesso Frenético
+tagClass04SkillDescription01D=Lance contínuas saraivadas de lâminas fantasmagóricas com velocidade frenética, mas com menos poder de dano por lâmina.
+
+tagClass04SkillName02A=Golpe das Sombras
+tagClass04SkillDescription02A=Uma combinação inteligente de ilusão e deflexão mental permite que você aparentemente suma e reapareça junto a sua vítima como um terrível espectro. ^oRequer uma arma corpo a corpo.
+tagClass04SkillName02B=Fins Justificáveis de Nidalla
+tagClass04SkillDescription02B=Como especialista em venenos, tidos como repulsivos pela maioria dos Lâminas Noturnas, Nidalla sustentava que os fins justificavam os meios. Esta alteração tóxica do tradicional Golpe das Sombras garantirá a morte de qualquer inimigo que sobreviva ao ataque inicial.
+tagClass04SkillName02C=Cair da Noite
+tagClass04SkillDescription02C=No momento em que você reaparece e ataca o alvo principal, um manto de escuridão cai sobre os inimigos circundantes como a noite mais escura e fria, gelando seu sangue e invadindo suas mentes com uma fadiga incontrolável.
+
+tagClass04SkillName03A=Barreira de Lâminas
+tagClass04SkillDescription03A=Havia rumores de que, para um mestre Lâmina Noturna, Belgothian não tinha um controle excelente de suas conjurações; mas ele tinha a incessante força de vontade para evocar tantas lâminas que estas formavam um escudo impenetrável em torno dele, dando-lhe um momento de trégua de seus inimigos. ^oEsta habilidade imobiliza você durante sua duração.
+
+tagClass04SkillName04A=Anel de Aço
+tagClass04SkillDescription04A=Em um piscar de olhos, centenas de lâminas fantasmagóricas rodeiam você com uma velocidade letal, cortando inimigos adjacentes.
+tagClass04SkillName04B=Círculo da Matança
+tagClass04SkillDescription04B=Lâminas fantasmagóricas atrozes cortam profundamente os inimigos apanhados no interior do anel, derramando copiosas quantidades de sangue.
+tagClass04SkillName04C=Anel de Gelo
+tagClass04SkillDescription04C=Uma poderosa técnica pneumática faz com que o anel de aço absorva energia do ar circundante, ampliando o dano por frio e congelando inimigos, mas ao custo de dano perfurante.
+
+tagClass04SkillName05A=Lâminas Duplas
+tagClass04SkillDescription05A=Entre as habilidades mais fundamentais do Lâmina Noturna estão a maestria no manejo de duas armas corpo a corpo, favorecendo o uso de lâminas perfurantes, e a arte de extrair frio elemental do ferro e do aço. ^oEste bônus se aplica ao ser usado com duas armas corpo a corpo. Também permite que você empunhe duas armas corpo a corpo simultaneamente.
+tagClass04SkillName05B=Tesoura de Belgothian
+tagClass04SkillDescription05B=O musculoso Belgothian era uma anomalia entre os ágeis mestres Lâminas Noturnas, mas ele superou todos eles em força bruta. Aproveitando sua força em ataques diretos e letais como a tesoura, Belgothian podia, muitas vezes, acabar com um inimigo com um único movimento. ^oEsta técnica é usada com duas armas corpo a corpo e se ativa com ataques de arma padrão.
+tagClass04SkillName05C=Corte Rápido de Amarasta
+tagClass04SkillDescription05C=A velocidade de Amarasta era lendária e dizia-se que suas lâminas soavam como um chicote no ar, deixando apenas traços de luz rápidos demais para o olho humano acompanhar. Os mestres desta técnica podem golpear três vezes no espaço de um golpe normal. ^oEsta técnica é usada com duas armas corpo a corpo e se ativa com ataques de arma padrão.
+tagClass04SkillName05D=Giro da Morte
+tagClass04SkillDescription05D=Uma técnica devastadora destinada ao combate multialvo. Aqueles que sobrevivem ficam sangrando como se tivessem sofrido mil cortes. ^oEsta técnica é usada com duas armas corpo a corpo e se ativa com ataques de arma padrão.
+tagClass04SkillName05E=Mão Oculta de Nidalla
+tagClass04SkillDescription05E=A controversa mestra Lâmina Noturna Nidalla demonstrou a cruel eficácia dos venenos durante a Era da Irracionalidade ao combinar toxinas repulsivas com outras técnicas dos lâminas noturnas, o que lhe permitia prevalecer quando lutava em grande desvantagem numérica. ^oEsta técnica modifica Tesoura de Belgothian, Corte Rápido de Amarasta e Giro da Morte.
+tagClass04SkillName05F=Execução
+tagClass04SkillDescription05F=Um golpe implacável, desferido quando a oportunidade se apresenta, com o intuito de acabar rapidamente com um inimigo. Aqueles que sobrevivem dificilmente continuam vivos por muito tempo. ^oEsta técnica é usada com duas armas corpo a corpo e se ativa com ataques de arma padrão.
+
+tagClass04SkillName06A=Explosão Pneumática
+tagClass04SkillDescription06A=Técnicas marciais secretas dos Lâminas Noturnas permitem que você inale sopro vital ou "pneuma" dos seus arredores para breves aumentos de velocidade e poder. A aceleração metabólica causada por esses sopros vitais também confere uma leve cura.
+tagClass04SkillName06B=Dança das Sombras
+tagClass04SkillDescription06B=A prática em meditação de combate permite que você alcance uma clareza serena no calor da batalha onde você pode calcular a trajetória dos ataques dos inimigos e se mover sutilmente para diminuir o impacto dos golpes sobre a sua armadura ou defletir projéteis.
+tagClass04SkillName06C=Despertar Elemental
+tagClass04SkillDescription06C=Os Lâminas Noturnas peritos podem absorver energia do ar ou de inimigos atingidos por suas armas para desferir ataques de frio intenso.
+tagClass04SkillName06D=Alento de Belgothian
+tagClass04SkillDescription06D=Belgothian era muito musculoso e lento para os padrões dos Lâminas Noturnas e parte de seu sucesso foi atribuído à sua capacidade de recuperar a saúde e resistir a oponentes por meio de um profundo domínio da técnica de respiração de pneuma. ^oEsta técnica é usada com duas armas corpo a corpo. Também permite que você empunhe duas armas corpo a corpo simultaneamente.
+
+tagClass04SkillName07A=Véu de Sombras
+tagClass04SkillDescription07A=Um véu psiônico nubla as mentes dos inimigos próximos, desacelerando seus movimentos e diminuindo sua eficácia em combate. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagClass04SkillName07B=Frio da Noite
+tagClass04SkillDescription07B=Faz com que os inimigos afetados pelo Véu de Sombras sintam o frio obscuro da noite cair sobre eles, esgotando sua vida e enfraquecendo suas defesas.
+
+tagClass04SkillName08A=Espírito das Lâminas
+tagClass04SkillDescription08A=Conjure uma nuvem de lâminas letais rodopiantes que percorre o campo de batalha cortando inimigos em pedaços até finalmente desaparecer em uma chuva de estilhaços afiados. ^oO dano dos Espíritos das Lâminas varia conforme os bônus para o dano do jogador.
+tagClass04SkillName08PetA=Lâminas Giratórias
+tagClass04SkillName08PetB=Erupção de Lâminas
+tagClass04SkillDescription08PetB=O Espírito das Lâminas arremessa lâminas evisceradoras em todas as direções.
+
+tagClass04SkillName11A=Armadilha de Lâminas
+tagClass04SkillDescription11A=Seu domínio das técnicas dos Lâminas Noturnas permite que você aprisione inimigos em uma prisão de lâminas fantasmagóricas mortíferas.
+tagClass04SkillName11B=Lâminas Devoradoras
+tagClass04SkillDescription11B=As lâminas fantasmagóricas drenam a essência vital dos inimigos aprisionados, transferindo-a para você.
+
+tagClass04SkillName10A=Enxame de Lâminas
+tagClass04SkillDescription10A=Conjure um enxame de lâminas fantasmagóricas que envolvem os inimigos, dilacerando sua carne e deixando os fracos de coração aterrorizados.
+tagClass04SkillName10B=Gume Duplo de Amarasta
+tagClass04SkillDescription10B=Uma técnica suprema que permite que o Enxame de Lâminas faça as armas dos inimigos se voltarem contra eles, causando-lhes mais sofrimento com seus próprios instrumentos de guerra.
+
+tagClass04SkillName13A=Armadura Fantasmagórica
+tagClass04SkillDescription13A=Uma barreira metafísica se forma em torno de você, criada pelo poder concentrado da mente e do espírito. Essa barreira repele dano físico e transfere a energia proveniente de ataques mágicos para suas reservas de pneuma.
+tagClass04SkillName13B=Anatomia do Assassinato
+tagClass04SkillDescription13B=Um conhecimento valorizado pelos assassinos reais, o extenso estudo da anatomia familiariza você com as regiões do corpo mais vulneráveis a uma lâmina.
+tagClass04SkillName13C=Repertório Impiedoso
+tagClass04SkillDescription13C=Apesar de tradicionalmente evitados, conhecimentos sobre venenos e poderes elementais às vezes podem ser o meio mais eficaz de se obter vantagem no combate.
+
+
+tagClass04SkillName04X=Lâminas Devoradoras
+tagClass04SkillDescription04X=Ao cortar a força vital de inimigos próximos, você absorve um pouco dessa vitalidade fugaz através do Anel de Aço.
+tagClass04SkillName07X=Escuridão Copiosa
+tagClass04SkillDescription07X=Sombras copiosas diminuem mais a visibilidade dos inimigos, dificultando suas defesas contra ataques físicos.
+tagClass04SkillName07C=Lâmina Invisível de Amarasta
+tagClass04SkillDescription07C=Ao longo do combate contra o Lâmina Noturna, feridas aparecem nos inimigos onde nenhuma arma pareceu ter atingido.
+tagClass04SkillName09A=Tomador de Vida
+tagClass04SkillDescription09A=Este ataque literalmente tira a vida dos oponentes e a transmite para o Lâmina Noturna, permitindo que ele fique mais forte à medida que a vida da vítima se esgota.
+tagClass04SkillName12A=Toque de Pneuma
+tagClass04SkillDescription12A=Absorva o sopro vital dos inimigos dentro de uma área, ganhando vida e energia à medida que ele deixa seus corpos.
+tagClass04SkillName13D=Repertório Impiedoso
+tagClass04SkillDescription13D=O uso eficiente de venenos e agentes anticoagulantes pode ser, às vezes, a arma mais mortífera de todas.
+
+tagClass04SkillName14A=Explosão de Lâminas de Amarasta
+tagClass04SkillDescription14A=A mestra de assassinos Amarasta, lendária entre os Lâminas Noturnas por causa de sua alacridade, desenvolveu uma técnica pela qual desencadeava uma explosão de lâminas fantasmagóricas mortais que se propagavam a partir do ponto de ataque e empalavam todos os inimigos adjacentes.
+tagClass04SkillName14B=Ataque Letal
+tagClass04SkillDescription14B=Comprometida com a ofensiva, Amarasta continuava seu ataque implacável após uma explosão de lâminas para rápida e decisivamente acabar com qualquer adversário que sobrevivesse usando suas armas imbuídas. ^oAtaque Letal afeta todos os ataques enquanto ativa.
+
+xtagClass04SkillName14A=Artimanha Letal
+xtagClass04SkillDescription14A=Uma técnica arriscada e a preferida da mestra de assassinos Amarasta. Artimanha Letal tem o potencial de infligir danos devastadores quando executada com perfeição, mas há um risco de falhar. ^oRequer uma arma corpo a corpo ou uma arma de longo alcance de duas mãos. Ao ser usada com uma arma corpo a corpo, atinge alvos próximos adicionais.
+xtagClass04SkillName14B=Explosão de Lâminas de Amarasta
+xtagClass04SkillDescription14B=O domínio da técnica Artimanha Letal a aprimora com uma explosão de dezenas de lâminas fantasmagóricas mortais que se propagam a partir do ponto de ataque e causam dano a todos os inimigos adjacentes. ^oPara armas de longo alcance, apenas um projétil desencadeará este efeito.
+
+
+xtagClass04SkillName15A=Eviscerar
+xtagClass04SkillDescription15A=Um corte rápido no abdômen que faz a vítima sangrar ao longo do tempo e reduz sua mobilidade e velocidade de ataque. ^oRequer uma Espada ou um Machado.
+xtagClass04SkillName15B=Artimanha de Amarasta
+xtagClass04SkillDescription15B=Uma técnica suprema que aprimora Eviscerar e tem o potencial de causar um dano devastador se executada com perfeição, mas há um risco de falhar e não causar quase nada.
+xtagClass04SkillName14C=Artimanha Estilhaçante
+xtagClass04SkillDescription14C=Um atirador em desvantagem numérica pode rapidamente fazer com que a sorte fique do seu lado com o uso inteligente de uma bala estilhaçante. Como medida desesperada, este método também pode revelar-se letal à queima-roupa. ^oRequer uma arma de longo alcance de duas mãos para disparar projéteis adicionais.
+
+
+
+#Class05
+
+tagClass05SkillName00=Arcanista
+tagClass05SkillDescription00=O condicionamento do corpo e da mente para resistir ao poder corruptor da magia bruta.
+
+tagClass05SkillName01A=Míssil Replicante de Panetti
+tagClass05SkillDescription01A=O maior dos Arcanistas Cortosianos, Panetti dedicou-se a melhorar o clássico míssil arcano. Seu triunfo é uma alteração que aparentemente desafia as leis de conservação de energia, fazendo com que o míssil seja replicado ao impactar e gere múltiplas cópias de si mesmo.
+tagClass05SkillName01B=Distorção
+tagClass05SkillDescription01B=O Míssil Replicante distorce a essência do seu inimigo, fazendo com que o projétil às vezes atravesse completamente o seu alvo.
+tagClass05SkillName01C=Sobrecarregado
+tagClass05SkillDescription01C=O ar ao redor do Míssil Replicante fica sobrecarregado de energia estática, eletrocutando qualquer inimigo desafortunado o suficiente para entrar em contato com o projétil.
+tagClass05SkillName01D=Proliferação
+tagClass05SkillDescription01D=Uma técnica mais avançada do Míssil Replicante aperfeiçoada por um estudante de Panetti absorve a energia do próprio alvo para criar fragmentos de pura energia arcana.
+tagClass05SkillName01E=Míssil de Concussão
+tagClass05SkillDescription01E=Manifesta o poder do Míssil Replicante no reino corpóreo, fazendo com que ele inflija dano físico e também metafísico.
+
+tagClass05SkillName02A=Troca Elemental de Iskandra
+tagClass05SkillDescription02A=Iskandra ensinava aos seus alunos que o melhor caminho para a vitória era fazer com que a energia de um oponente se voltasse contra ele. Assim sendo, Troca Elemental faz com que as armas dos aliados absorvam avidamente energia arcana dos inimigos e a devolvam sob a forma de dano elemental. ^oEsta habilidade deve ser ativada para manter seu efeito. A conversão de dano só se aplica ao lançador.
+tagClass05SkillName02B=Sobrecarga
+tagClass05SkillDescription02B=O encantamento fica sobrecarregado de forças arcanas, fazendo suas armas crepitarem com os poderes brutos dos elementos.
+tagClass05SkillName02C=Equilíbrio Elemental
+tagClass05SkillDescription02C=Gere um equilíbrio perfeito em seu encantamento, harmonizando as forças opostas do fogo e do gelo com o poder da eletricidade.
+tagClass05SkillName02D=Manifestação
+tagClass05SkillDescription02D=As energias arcanas manifestam-se de várias formas. Os Arcanistas que pesquisam a arte da evocação muitas vezes transferem seu domínio sobre o arcano para seus fiéis asseclas, para que possam melhor servir à vontade de seus mestres. ^oEste efeito é estendido a seus aliados.
+
+tagClass05SkillName03A=Fragmento do Céu de Trozan
+tagClass05SkillDescription03A=Dizia-se que o mítico Trozan era um talento natural; um rebelde que não se sujeitava às doutrinas dos Arcanistas Imperiais. Quando os Imperiais finalmente cercaram seu refúgio no topo da montanha, Trozan os subjugou usando uma técnica desconhecida que fez cair o próprio céu sobre eles. ^oFaz 3 fragmentos caírem sobre a área-alvo.
+tagClass05SkillName03B=Núcleo Congelado
+tagClass05SkillDescription03B=O gelo preso no Fragmento do Céu é liberado no momento da colisão, envolvendo aqueles próximos ao ponto de impacto com um frio congelante.
+tagClass05SkillName03C=Estrela Despedaçada
+tagClass05SkillDescription03C=O Fragmento do Céu fica cada vez mais instável durante a descida, acumulando uma quantidade perigosa de carga conforme passa pelo céu.
+
+tagClass05SkillName04A=Tempestade de Callidor
+tagClass05SkillDescription04A=O Mestre Callidor ficou famoso por servir como um general no exército do Rei Samuel. Enquanto estava nas linhas de frente, Callidor aperfeiçoou uma técnica que, ao criar uma explosão súbita e concentrada de energia etérea bruta, incendiava o ar ao seu redor causando uma tempestade arcana.
+tagClass05SkillName04B=Inferno
+tagClass05SkillDescription04B=A Tempestade torna-se um inferno ardente, calcinando a carne e derretendo a armadura.
+tagClass05SkillName04C=Ira de Agrivix
+tagClass05SkillDescription04C=Agrivix era conhecido por canalizar um poder tão imenso para a Tempestade que a explosão resultante não deixava nada além das cinzas de qualquer um que fosse tolo o suficiente para ficar dentro do raio de alcance. No entanto, sua técnica exigia grande concentração e não podia ser repetida sem descanso.
+
+tagClass05SkillName05A=Esfera de Proteção de Maiven
+tagClass05SkillDescription05A=Uma rara técnica defensiva de magia arcana inventada pela reverenciada Arcanista Maiven. Cria um escudo protetor ao redor do lançador, mas a um custo elevado em concentração. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagClass05SkillName05B=Conversão
+tagClass05SkillDescription05B=A esfera absorve efeitos debilitantes e nocivos e os converte em energia utilizável para você.
+
+tagClass05SkillName06A=Raio Etéreo de Albrecht
+tagClass05SkillDescription06A=Uma poderosa técnica arcana aperfeiçoada pelo Mestre Albrecht nos anos anteriores ao Alvorecer Sombrio que canaliza energias arcanas brutas em um feixe concentrado de destruição. ^oRequer um Foco.
+tagClass05SkillName06B=Desintegração
+tagClass05SkillDescription06B=Coloca toda a sua energia no Raio Etéreo, transformando-o em uma força catastrófica que desintegra tudo o que toca. ^oO aumento do Custo de Energia é por intervalo de dano.
+tagClass05SkillName06C=Poder Contaminado
+tagClass05SkillDescription06C=Corrompe o feixe ao alimentá-lo com os poderes furiosos do vazio caótico.
+
+tagClass05SkillName07A=Anulação
+tagClass05SkillDescription07A=Concentra grandes quantidades de energia negativa dentro da área-alvo, privando todos os inimigos apanhados dentro dela de suas auras e feitiços benéficos e removendo efeitos negativos de aliados, incluindo efeitos de dano ao longo do tempo.
+
+tagClass05SkillName08A=Devastação
+tagClass05SkillDescription08A=Considerada a força destrutiva mais poderosa conhecida pelos Arcanistas, esta técnica abre uma fenda na realidade, da qual caem brasas de energia arcana bruta. Este perigoso feitiço requer muita energia e não deve ser usado levianamente. ^oRequer um Foco. Brasas continuam a cair durante a duração do feitiço. Você só pode lançar uma Devastação por vez.
+
+tagClass05SkillName09A=Concentração Interior
+tagClass05SkillDescription09A=Concentrar a mente e o corpo para que se tornem um locus de energias arcanas é uma das primeiras técnicas meditativas ensinadas aos aspirantes a Arcanista.
+
+tagClass05SkillName10A=Vontade Arcana
+tagClass05SkillDescription10A=A adrenalina é uma poderosa força nas situações mais desesperadoras, capaz de mudar o rumo do combate. Os Arcanistas de batalha aprendem a usar isso a seu favor.
+
+tagClass05SkillName11A=Alacridade Mental
+tagClass05SkillDescription11A=Os mestres Arcanistas aprendem a canalizar seus poderes com grande velocidade e concentração, não mais preocupados com as insignificantes limitações da mente.
+
+tagClass05SkillName12A=Tecido da Realidade
+tagClass05SkillDescription12A=Desvende os segredos do próprio tecido da realidade. Os poderes brutos do éter e do vazio tornam-se como brinquedos para você.
+
+tagClass05SkillName13A=Barreira de Olexra
+tagClass05SkillDescription13A=Olexra preferia feitiços baseados no gelo. Uma de suas táticas consistia em levantar um muro de estacas voláteis de gelo para manter seus inimigos a distância enquanto ela os atacava com segurança do outro lado.
+tagClass05SkillName13B=Aura Gelada
+tagClass05SkillDescription13B=A barreira de gelo congela inimigos próximos.
+tagClass05SkillName13C=Fim Gelado
+tagClass05SkillDescription13C=A barreira de gelo colapsa em uma explosão de gelo.
+
+tagClass05SkillName14A=Espelho de Ereoctes
+tagClass05SkillDescription14A=Em um instante, o ar ao seu redor fica duro como pedra, absorvendo todos os tipos de ataque e refletindo-os de volta ao agressor; uma das técnicas favoritas do Mestre Ereoctes.
+
+tagClass05SkillName15A=Poder Temerário
+tagClass05SkillDescription15A=Transforme seu corpo em um conduto para o éter, manifestando aterrorizantes energias arcanas através de sua forma mortal, as quais incendeiam o ar e enviam ondulações pela realidade. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagClass05SkillName15B=Pacto Estelar
+tagClass05SkillDescription15B=Muitos Arcanistas se sacrificam muito em busca de poder ilimitado. Há alguns que ignoram os antigos avisos e mexem com fontes de poder que outros considerariam inseguras ou mesmo antinaturais. São esses Arcanistas que provocam medo nos corações dos mortais inferiores. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+
+tagClass05SkillName16A=Congelamento Rápido de Olexra
+tagClass05SkillDescription16A=Uma vítima de intriga política, Olexra foi condenada à Legião Negra, onde sua antiga vida de academia arcana transformou-se em uma luta amarga pela sobrevivência nas linhas de frente de uma guerra brutal. Olexra colocou rapidamente seus estudos em prática, desenvolvendo uma técnica capaz de congelar instantaneamente os inimigos que se aproximavam. ^oEste feitiço congela os inimigos durante sua duração. Os inimigos resistentes a efeitos congelantes sofrerão uma duração reduzida.
+tagClass05SkillName16B=Zero Absoluto
+tagClass05SkillDescription16B=Absorva completamente o calor do ar circundante, retardando e debilitando qualquer inimigo atingido pelo Congelamento Rápido, mesmo após os primeiros efeitos desaparecerem.
+
+
+#Class06
+tagClass06SkillName00=Xamã
+tagClass06SkillDescription00=A sintonia com o chamado primevo das terras selvagens.
+
+tagClass06SkillName01A=Selvageria
+tagClass06SkillDescription01A=O calor da batalha desperta impulsos de animal selvagem em você, os quais aumentam sua agressividade e o fortalecem com a fúria da natureza. ^oAo ser usada como ataque de arma padrão, Selvageria aumenta a intensidade dos seus ataques a cada golpe. O acúmulo de cargas aumenta a potência dos bônus.
+tagClass06SkillName01B=Tenacidade do Javali
+tagClass06SkillDescription01B=Abrace o aspecto do javali, tornando-se um inimigo feroz e imparável durante a batalha.
+tagClass06SkillName01C=Tocado pela Tempestade
+tagClass06SkillDescription01C=Ao clamar aos céus, você infunde seus ataques com a fúria de uma tempestade de raios.
+tagClass06SkillName01D=Poder do Urso
+tagClass06SkillDescription01D=Os Xamãs dedicados ao espírito do urso abraçam o uso de armas brutais de duas mãos quando entram em seu estado selvagem de batalha. Sua fúria desenfreada é inigualável entre as tribos do norte. ^oEsta técnica requer uma arma corpo a corpo de duas mãos ou uma arma de longo alcance de duas mãos.
+
+tagClass06SkillName02A=Golpe Primevo
+tagClass06SkillDescription02A=O primeiro rito realizado pelos Xamãs novatos é imbuir sua arma preferida da força bruta de uma tempestade de raios. Aqueles que sobrevivem a essa etapa crítica tornam-se herdeiros da vontade de Mogdrogen e guardiões de sua gente. ^oRequer uma arma corpo a corpo de duas mãos ou uma arma de longo alcance de duas mãos.
+tagClass06SkillName02B=Fluxo de Tempestade
+tagClass06SkillDescription02B=O poder bruto de Golpe Primevo propaga-se em ondas pelo corpo do alvo, rompendo vasos sanguíneos.
+tagClass06SkillName02C=Torrente
+tagClass06SkillDescription02C=Uma força torrencial é liberada pela sua arma, eletrizando seu alvo e saltando para mais inimigos.
+tagClass06SkillName02D=Golpe Trovejante
+tagClass06SkillDescription02D=Os Evocadores de Tempestades, membros de uma seita xamânica devotada aos céus, são conhecidos por invocarem a Ultos, o deus do céu, quando lançam a ira da natureza sobre seus adversários, permitindo que evoquem raios com maior frequência. ^oGolpe Trovejante não é um intensificador de ataques de arma padrão e não pode desencadear efeitos como Fome Selvagem.
+
+tagClass06SkillName03A=Totem Wendigo
+tagClass06SkillDescription03A=Os Totens Wendigos representam um lado mais sombrio dos rituais dos Xamãs, abraçando a cruel dualidade da natureza: alguém deve morrer para que outro possa se alimentar e sobreviver. Uma vez posicionado, o totem drenará a vida de inimigos próximos e, ao mesmo tempo, criará uma aura calmante que curará aliados. Os totens são um tabu para a maioria das tribos, pois o espírito primevo da fome invocado para dar poder ao totem é muito difícil de ser controlado e já levou muitos xamãs à loucura, preenchendo-os com uma fome insaciável que, inevitavelmente, leva ao canibalismo. ^oO dano dos Totens Wendigos varia conforme os bônus para o dano do jogador.
+tagClass06SkillName03B=Pacto de Sangue
+tagClass06SkillDescription03B=Sele um pacto com o espírito wendigo que habita o totem. Enquanto você ficar dentro da aura dele, seu apetite por sangue será insaciável.
+tagClass06SkillName03C=Toque de Vida
+tagClass06SkillName03D=Curar Feridas
+
+tagClass06SkillName04A=Diabo do Vento
+tagClass06SkillDescription04A=Os Xamãs eram muitas vezes chamados para trazer chuva em épocas de grande seca. Esse ritual foi manipulado por Evocadores de Tempestades astutos para conjurar um Diabo do Vento rodopiante que levanta rochas e detritos para os ares, golpeando inimigos e massacrando-os com o poder atroz dos elementos. ^oO dano dos Diabos do Vento varia conforme os bônus para o dano do jogador.
+tagClass06SkillName04B=Tempestade Furiosa
+tagClass06SkillDescription04B=O vórtice aumenta com um poder tumultuário. Ventos congelantes atingem os inimigos com um frio entorpecedor que os deixa mais vulneráveis a exposição elemental adicional.
+tagClass06SkillName04C=Turbilhão
+tagClass06SkillDescription04C=Libere a ira final do céu, instilando no Diabo do Vento uma energia estática que derruba inimigos próximos com raios.
+tagClass06SkillName04_Pet=Vento Uivante
+
+tagClass06SkillName05A=Pacto de Mogdrogen
+tagClass06SkillDescription05A=Clame ao deus das feras, Mogdrogen, para conceder a bênção da natureza a você e aos seus aliados próximos. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagClass06SkillName05B=Pele de Carvalho
+tagClass06SkillDescription05B=Assuma o aspecto de árvores ancestrais, as quais são titânides solenes e atemporais que resistiram mais que civilizações. Concede proteção adicional àqueles sob a bênção de Mogdrogen.
+tagClass06SkillName05C=Coração das Selvas
+tagClass06SkillDescription05C=O espírito selvagem da natureza corre nas suas veias, curando feridas e eliminando venenos rapidamente.
+tagClass06SkillName05D=Coração de Pedra
+tagClass06SkillDescription05D=Ao abraçar a natureza da terra sobre a qual você está, sua saúde não mais se regenera em combate, mas sua pele fica dura como pedra. ^oEste efeito é estendido a seus aliados.
+
+tagClass06SkillName06A=Evocar Espinhoso
+tagClass06SkillDescription06A=Os Espinhosos são feras tenazes, nascidos de arbustos espinhentos e magia selvagem. Os Xamãs proficientes podem evocar essas criaturas para ajudá-los na batalha. ^oVocê só pode evocar um espinhoso por vez. O dano do espinhoso varia conforme os Bônus para Companheiros.
+tagClass06SkillName06B=Casca de Pedra
+tagClass06SkillDescription06B=A carne do Espinhoso endurece e seus espinhos engrossam, transformando-o em uma presença intimidadora no campo de batalha, a qual não pode ser ignorada.
+tagClass06SkillName06C=Batida Terrestre
+tagClass06SkillDescription06C=O Espinhoso bate com suas garras espinhentas no chão, liberando uma onda de espinhos que empalam inimigos próximos.
+tagClass06SkillName06D=Presença Encorajadora
+tagClass06SkillDescription06D=O Espinhoso é uma presença imponente no campo de batalha que encoraja os aliados dele a lutar com maior ferocidade.
+tagClass06SkillName06E=Garras Espinhentas
+tagClass06SkillDescription06E=Ataque Inato.
+
+tagClass06SkillName07A=Fome Selvagem
+tagClass06SkillDescription07A=Abrace o seu lado primevo, estraçalhando seus inimigos e banqueteando-se vorazmente com o sangue derramado. ^oRequer uma arma corpo a corpo de duas mãos ou uma arma de longo alcance de duas mãos e se ativa com ataques de arma padrão. Ao ser usada com uma arma corpo a corpo, o ataque atinge vários alvos próximos.
+
+tagClass06SkillName08A=Pacto do Evocador de Tempestades
+tagClass06SkillDescription08A=Torne-se um com Ultos, o deus do céu, transformando sua forma mortal em um conduto para o poder destrutivo das tempestades de raios. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagClass06SkillName09A=Conjurar Espírito Primevo
+tagClass06SkillDescription09A=As lendas falam de um grande predador, o fiel companheiro de Mogdrogen, que persegue implacavelmente qualquer um que pise nos domínios do deus das feras sem ser convidado. Como seguidor escolhido de Mogdrogen, você evoca esse Espírito Primevo para ajudá-lo na batalha. ^oO dano do espírito primevo varia conforme os Bônus para Companheiros.
+tagClass06SkillName09B_Pet=Golpe de Cauda
+tagClass06SkillDescription09B_Pet=Golpeia o alvo com uma cauda venenosa.
+tagClass06SkillName009C=Ataques com Garras e Presas
+tagClass06SkillDescription09C=Ataque Inato.
+
+tagClass06SkillName10A=Força Bruta
+tagClass06SkillDescription10A=Para muitos Xamãs, uma arma brutal de duas mãos serve como um conduto para seus poderes tempestuosos. Esses especialistas optam por uma conexão mais estreita com as terras selvagens por meio de raiva animalesca e não por meio de frágeis varinhas e tomos, os quais consideram como os brinquedos daqueles que preferem gastar seu tempo lendo livros a praticar seu ofício. ^oRequer uma arma corpo a corpo de duas mãos ou uma arma de longo alcance de duas mãos.
+tagClass06SkillName11A=Xamanismo
+tagClass06SkillDescription11A=Um treinamento rigoroso nas selvas transformou sua mente e seu corpo em uma arma selvagem.
+tagClass06SkillName12A=Ira da Natureza
+tagClass06SkillDescription12A=Torne-se um só com as forças primevas da natureza, partindo seus inimigos em dois com dentes, garras e raios.
+tagClass06SkillName13A=Vinculação Primeva
+tagClass06SkillDescription13A=Abrace o seu lado selvagem ao selar seu vínculo com Mogdrogen. As criaturas dos domínios do deus das feras atenderão prontamente ao seu chamado. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagClass06SkillName14A=Sublevação
+tagClass06SkillDescription14A=Golpeie com a força da terra. Sempre que você acerta um golpe crítico com os seus ataques básicos de arma, o chão treme com a força do golpe, reverberando em torno do ponto de impacto como uma onda de choque. ^oRequer uma arma corpo a corpo de duas mãos ou uma arma de longo alcance de duas mãos e se ativa com ataques de arma padrão.
+
+tagClass06SkillName15A=Enxame Devorador
+tagClass06SkillDescription15A=No meio selvagem, deve-se fazer o que for preciso para sobreviver. Alguns Xamãs Conjuradores levam isso a sério conjurando um enxame voraz que parte ao meio avidamente qualquer coisa que entre em contato com ele, infligindo ferimentos graves e expondo vulnerabilidades.
+tagClass06SkillName15B=Enxame Incapacitante
+tagClass06SkillDescription15B=O enxame ataca áreas sensíveis, dilacerando os olhos, as articulações e os ligamentos, incapacitando efetivamente os inimigos.
+tagClass06SkillName15C=Enxame Voraz
+tagClass06SkillDescription15C=O enxame fica voraz, causando danos ainda maiores ao expor novas vulnerabilidades.
+tagClass06SkillName15D=Enxame Devorador
+tagClass06SkillDescription15D=No meio selvagem, deve-se fazer o que for preciso para sobreviver. Alguns Xamãs Conjuradores levam isso a sério conjurando um enxame voraz que parte ao meio avidamente qualquer coisa que entre em contato com ele e transfere a preciosa força vital para você.
+
+tagClass06SkillName16A=Totem da Tempestade
+tagClass06SkillDescription16A=A canalização do poder da tempestade é um dos ritos mais sagrados dos Evocadores de Tempestades. Com prática suficiente, um Xamã pode imbuir um totem da força destrutiva do raio, fazendo-o disparar rapidamente rajadas elétricas em inimigos próximos. ^oO dano dos Totens da Tempestade varia conforme os bônus para o dano do jogador.
+tagClass06SkillName16B=Tempestade Corrompida
+tagClass06SkillDescription16B=Xamãs sórdidos e obcecados pelo poder dos Wendigos podem corromper um Totem da Tempestade para liberar raios famintos que esgotam a vitalidade dos inimigos.
+tagClass06SkillName16_Pet=Golpe da Tempestade
+
+tagClass06SkillName17A=Videiras Agarradoras
+tagClass06SkillDescription17A=Ao seu comando, videiras espinhosas irrompem da terra sob os inimigos, inibindo seu movimento.
+tagClass06SkillName17B=Videiras Enredadoras
+tagClass06SkillDescription17B=As videiras crescem virulentamente, aprisionando inimigos indefesos em um emaranhado de espinhos.
+
+xtagClass06SkillName13A=Ira de Mogdrogen
+xtagClass06SkillDescription13A=Mogdrogen é frequentemente descrito como uma deidade benevolente que concede bênçãos protetoras a seus seguidores, mas a ira do deus das feras pode ser terrível quando seu santuário está ameaçado.
+
+xtagClass06SkillName08A=Conjurar Diabo do Vento
+xtagClass06SkillDescription08A=O tornado é uma das forças mais destrutivas da natureza. Os Xamãs Evocadores de Tempestades conjuram manifestações desse poder bruto na forma de Diabos do Vento, os quais são redemoinhos de vento destruidores que, aparentemente, se movem com vida própria durante a batalha. ^oOs Diabos do Vento são considerados companheiros e se beneficiam dos bônus para companheiros.
+xtagClass06SkillName08B_Pet=Vento Uivante
+xtagClass06SkillDescription08B_Pet=Um redemoinho de vento destruidor ataca inimigos próximos.
+xtagClass06SkillDescription07A=A canalização do poder da tempestade é um dos ritos mais sagrados dos Evocadores de Tempestades. Com prática suficiente, um Xamã pode imbuir um totem da força destrutiva do raio.
+xtagClass06SkillName03A=Fome Selvagem
+xtagClass06SkillDescription03A=Abrace o seu lado primevo, alimentando-se vorazmente do sangue derramado pelos seus ataques durante o combate.
+xtagClass06SkillName03B=Apetite por Sangue
+xtagClass06SkillDescription03B=O seu apetite por carnificina é insaciável. Enquanto você está sob os efeitos de Fome Selvagem, seus ataques ferem mais e drenam mais da preciosa vitalidade do alvo.
+xtagClass06SkillDescription04C=O domínio da conjuração de tempestades permite que você repita o ritual com maior frequência, cobrindo efetivamente o campo de batalha com uma chuva torrencial.
+xtagClass06SkillName04D=Turbilhão
+xtagClass06SkillDescription04D=O domínio da conjuração de tempestades permite que você concentre os seus poderes em uma Borrasca devastadora em vez de concentrá-los em várias tempestades menores.
+xxtagClass06SkillName03B=Totem da Tempestade
+xxtagClass06SkillDescription03B=A canalização do poder da tempestade é um dos ritos mais sagrados dos Evocadores de Tempestades. Com prática suficiente, um Xamã pode imbuir um Totem Wendigo da força destrutiva do raio, fazendo-o disparar rapidamente rajadas elétricas em inimigos próximos.
+
+#Class07
+
+
+#Class08
+
+
+#Class09
+
+XXXtagClass01SkillName15A=Fúria de Batalha
+XXXtagClass01SkillDescription15A=O calor da batalha desperta impulsos de animal selvagem que aumentam sua força e velocidade, mas diminuem a disciplina e, consequentemente, diminuem suas defesas.
+XXXtagClass01SkillName15B=Furor
+XXXtagClass01SkillDescription15B=A adrenalina e a raiva impulsionam você, dando-lhe uma velocidade quase super-humana, mas também tornando-o mais temerário, reduzindo a capacidade defensiva.
+
+
+XXXtagClass03SkillName09=Treinamento de Fulcro
+XXXtagClass03SkillDescription09=A canalização de energia caótica para distorcer o mundo físico é uma arte volátil que deforma e pode acabar destruindo o corpo dos praticantes. A canalização através de um fulcro pode mitigar alguns dos danos.
+
+
+XXXtagClass04SkillName03A=Bomba Tóxica
+XXXtagClass04SkillDescription03A=Uma combinação de toxinas repugnantes e pós explosivos resulta em uma carga explosiva e mortal que deixa os inimigos com falta de ar.
+XXXtagClass04SkillName03B=Miasma Necrótico
+XXXtagClass04SkillDescription03B=A adição de um agente instável à Bomba Tóxica provoca enfraquecimento da determinação e dolorosas convulsões.
+
+XXXtagClass03SkillName06A=Orbe Elemental
+XXXtagClass03SkillDescription06A=Arremessa um orbe pulsante de força elemental combinada contra os inimigos que explode liberando calor, frio e eletricidade.
+
+
+
+XXXtagClass03SkillName08A=Força da Ventania
+XXXtagClass03SkillDescription08A=Uma rajada de vento e energia elemental arremessa os inimigos para longe do lançador e inflige dano elemental.
+
+
+
+
+XXXtagClass03SkillName01C=Redemoinho de Vento
+XXXtagClass03SkillDescription01C=O grande corvo controla os ventos, canalizando-os para um vórtice de rochas e detritos que golpeia os inimigos em seu caminho.
+
+XXXtagClass03SkillName01D=Vórtice de Tempestade
+XXXtagClass03SkillDescription01D=Aumenta o poder do Redemoinho de Vento e faz com que ele emita raios.
+
+xxxtagClass05SkillName01A=Poção Vil
+xxxtagClass05SkillDescription01A=Engarrafada e lançada contra os inimigos, esta mistura vil libera um miasma venenoso que adoece os inimigos e corrói sua carne.
+
+xxxtagClass05SkillName02A=Envenenar
+xxxtagClass05SkillDescription02A=Reveste suas armas com o óleo da poção vil.
+
+#ItemSkills
+
+tagItemSkillA001=Onda de Frio
+tagItemSkillDescA001=Uma explosão de energia negativa congela tudo em seu caminho.
+
+tagItemSkillA002=Vórtice Espectral
+tagItemSkillDescA002=Sugue a essência vital dos inimigos próximos.
+
+tagItemSkillA003=Refluxo Estático
+tagItemSkillDescA003=Lança um orbe de eletricidade nos inimigos que atingem o jogador.
+
+tagItemSkillA004=Bola de Fogo
+tagItemSkillDescA004=Lança uma bola de fogo nos inimigos próximos.
+
+tagItemSkillA004B=Bola de Fogo
+tagItemSkillDescA004B=Lança várias bolas de fogo nos inimigos próximos.
+
+tagItemSkillA005A=Anel de Chamas
+tagItemSkillDescA005A=Envolve o lançador em um anel de chamas que queima os inimigos dentro de seu raio.
+
+tagItemSkillA006A=Arma Venenosa
+tagItemSkillDescA006A=Reveste as armas com uma camada de toxina mortal.
+
+tagItemSkillC001Name=Censora do Magistrado
+tagItemSkillC001Description=A lâmina desta espada era uma insígnia que ficava pendurada sobre o gabinete de um impiedoso magistrado conhecido por "censurar" suspeitos de blasfêmia cortando-lhes a língua. A memória espiritual desses horrores está gravada nesta arma e, de maneira semelhante, ela silenciará seus inimigos.
+
+tagItemSkillA007Name=Foco
+tagItemSkillA007Desc=Foca na arte da batalha, acelerando todos os ataques.
+
+tagItemSkillA008Name=Instintos de Sobrevivência
+tagItemSkillA008Desc=Fornece um impulso de adrenalina, aumentando temporariamente a velocidade de corrida.
+
+tagItemSkillA009Name=Nova Elétrica
+tagItemSkillA009Desc=Libera uma explosão de eletricidade, causando dano a todos os inimigos próximos.
+
+tagItemSkillA010=Carga Estática
+tagItemSkillDescA010=Descarrega uma onda de eletricidade, causando dano aos inimigos próximos.
+
+tagItemSkillA011=Chama de Kilrian
+tagItemSkillDescA011=Uma chama negra envolve sua carne, incinerando e drenando a vitalidade daqueles que ousam chegar perto.
+
+tagItemSkillA012=Congelar
+tagItemSkillDescA012=Congele o inimigo.
+
+tagItemSkillA013=Atordoar
+tagItemSkillDescA013=Interrompa o inimigo.
+
+tagItemSkillA014=Petrificar
+tagItemSkillDescA014=Transforme o inimigo em pedra.
+
+tagItemSkillB001Name=Onda Explosiva
+tagItemSkillB001Desc=Uma onda de fogo irrompe do seu ataque.
+
+tagItemSkillB002Name=Onda Frígida
+tagItemSkillB002Desc=Revida com o frio da morte, lançando projéteis nos inimigos próximos e congelando-os.
+
+tagItemSkillB003Name=Areias de Nox
+tagItemSkillB003Desc=Revida com um potente feitiço sonífero, colocando os inimigos próximos para dormir.
+
+tagItemSkillB004Name=Cadeia de Raios
+tagItemSkillB004Desc=Eletrocuta o alvo com um raio que pode saltar para alvos próximos.
+
+tagItemSkillA006Name=Nova Elétrica
+tagItemSkillA006Desc=Revida com uma explosão de eletricidade, causando dano a todos os inimigos próximos.
+
+tagItemSkillB005Name=Nova Venenosa
+tagItemSkillB005Desc=Revida com uma explosão de gases venenosos, envenenando todos os inimigos próximos.
+
+tagItemSkillB006Name=Hemorragia
+tagItemSkillB006Desc=Fere o alvo, causando sangramento e aumento da suscetibilidade a dano por sangramento.
+
+tagItemSkillB007Name=Despedaçar
+tagItemSkillB007Desc=Lança um cone de fragmentos de gelo contra o alvo.
+
+tagItemSkillB008Name=Grito de Batalha
+tagItemSkillB008Desc=Encoraje os aliados próximos com um poderoso rugido.
+
+tagItemSkillB009Name=Estaca de Gelo
+tagItemSkillB009Desc=Lance uma estaca de gelo sólido como rocha para empalar seus inimigos.
+
+tagItemSkillB010Name=Fendedor de Chão
+tagItemSkillB010Desc=Desencadeie uma onda de energia sísmica em direção aos seus inimigos.
+
+tagItemSkillB011Name=Curar
+tagItemSkillB011Desc=Um poder calmante cura seus ferimentos.
+
+tagItemSkillB012Name=Explosão Sísmica
+tagItemSkillB012Desc=Uma força sísmica irrompe em torno de você, causando dano aos inimigos próximos e derrubando-os.
+
+tagItemSkillB013Name=Explosão Arcana
+tagItemSkillB013Desc=Uma onda de energias arcanas irrompe de você, causando dano a todos os inimigos próximos.
+
+tagItemSkillB014Name=Proteção da Terra
+tagItemSkillB014Desc=Abrace a essência protetora da terra, aumentando armadura e regeneração.
+
+tagItemSkillB015Name=Enfurecer
+tagItemSkillB015Desc=Deixa você em um estado de fúria de berserker, atacando rapidamente e com maior ferocidade, mas também ficando mais suscetível a ataques.
+
+tagItemSkillB016Name=Perspicácia
+tagItemSkillB016Desc=Entre em um transe que aumenta sua compreensão, canalizando forças arcanas através de sua carne.
+
+tagItemSkillB017Name=Poção Vil
+tagItemSkillB017Desc=Lança uma mistura explosiva de líquido corrosivo.
+
+tagItemSkillB018Name=Infusão de Mana
+tagItemSkillB018Desc=Uma névoa calmante envolve você, limpando sua mente.
+
+tagItemSkillB019Name=Chama de Zarthuzellan
+tagItemSkillB019Desc=Libera uma explosão de fogo na direção dos pagãos.
+
+tagItemSkillB020Name=Toque de Rolderathis
+tagItemSkillB020Desc=Arremesse um projétil gelado contra o alvo, revestindo-o com gelo imobilizante.
+
+tagItemSkillB021Name=Guarda da Geada
+tagItemSkillB021Desc=Lança um bloco de gelo volátil contra aqueles que conseguem encontrar um ponto fraco na sua defesa, congelando-os.
+
+tagItemSkillB022Name=Fúria de Batalha
+tagItemSkillB022Desc=Entre em um estado de espírito combativo.
+
+tagItemSkillB023Name=Marca da Morte
+tagItemSkillB023Desc=Marque seu alvo para uma morte dolorosa e iminente.
+
+tagItemSkillB024Name=Dizimar
+tagItemSkillB024Desc=Ataque seu inimigo com um golpe devastador.
+
+tagItemSkillB025Name=Raio
+tagItemSkillB025Desc=Um poderoso raio atinge o seu alvo.
+
+tagItemSkillB026NameA=Golpe Espectral
+tagItemSkillB026DescA=Desapareça no véu da morte e, em um instante, reapareça perto do alvo.
+tagItemSkillB026NameB=Fogo Gelado
+tagItemSkillB026DescB=Um anel de fogo espectral expande-se em torno de você.
+
+tagItemSkillB027Name=Selo Elemental
+tagItemSkillB027Desc=Cria no solo um selo arcano imbuído de força destrutiva.
+
+tagItemSkillB028Name=Signo de Consumo
+tagItemSkillB028Desc=Cria no solo um signo ocultista que consome a força vital de inimigos apanhados dentro de seu raio de ação, transferindo para a saúde do lançador uma parte do dano causado.
+
+tagItemSkillB029Name=Anel de Fogo Gelado
+tagItemSkillB029Desc=Envolve o lançador em um anel de gelo que congela os inimigos dentro de seu raio.
+
+tagItemSkillB030Name=Esfera Elétrica
+tagItemSkillB030Desc=Libera uma explosão concentrada de energia estática que atravessa os inimigos.
+
+tagItemSkillB031Name=Tempestade Arcana
+tagItemSkillB031Desc=Libera uma explosão concentrada de energia arcana em torno de você, incendiando o ar em um instante.
+
+tagItemSkillB032Name=Fragmento do Céu
+tagItemSkillB032Desc=Faz o céu cair sobre seus inimigos.
+
+tagItemSkillB033Name=Onda Explosiva de Éter
+tagItemSkillB033Desc=Uma explosão de energia Etérea derruba os seus agressores.
+
+tagItemSkillB034Name=Abalo
+tagItemSkillB034Desc=Emite uma onda de energia que se propaga pela terra em torno de você, causando dano aos inimigos próximos.
+
+tagItemSkillB035Name=Frenesi do Assecla
+tagItemSkillB035Desc=Ao verem o mestre deles ser ferido, seus asseclas entram num frenesi selvagem.
+
+tagItemSkillB036Name=Fluxo de Fogo
+tagItemSkillB036Desc=Uma onda de chamas irrompe de você, causando dano a todos os inimigos próximos.
+
+tagItemSkillB037Name=Explosão Deformada
+tagItemSkillB037Desc=Uma onda de energias caóticas irrompe de você, causando dano a todos os inimigos próximos.
+
+tagItemSkillB038Name=Saraivada Elétrica
+tagItemSkillB038Desc=Centelhas elétricas irrompem de você, causando dano a quaisquer inimigos com os quais entre em contato.
+
+tagItemSkillB039Name=Saraivada Frígida
+tagItemSkillB039Desc=Fragmentos de gelo irrompem de você, congelando quaisquer inimigos com os quais entre em contato.
+
+tagItemSkillB040Name=Nuvem de Gás Tóxico
+tagItemSkillB040Desc=Uma nuvem tóxica irrompe de você, sufocando todos os inimigos apanhados dentro dela.
+
+tagItemSkillB041Name=Onda de Vitalidade
+tagItemSkillB041Desc=Uma explosão de energias roubadoras de vida avança, drenando a preciosa vitalidade dos inimigos.
+
+tagItemSkillB042Name=Saraivada de Vitalidade
+tagItemSkillB042Desc=Disparos de energias roubadoras de vida irrompem de você, esgotando a preciosa vitalidade de quaisquer inimigos com os quais entre em contato.
+
+tagItemSkillB043Name=Rejuvenescimento
+tagItemSkillB043Desc=Uma calma reconfortante flui em você, aumentando a capacidade do seu corpo de se curar.
+
+tagItemSkillB044Name=Disparo Venenoso
+tagItemSkillB044Desc=Dispara toxinas contra seus inimigos.
+
+tagItemSkillB045Name=Nova de Bola de Fogo
+tagItemSkillB045Desc=Uma explosão de orbes flamejantes irrompe de você.
+
+tagItemSkillB046Name=Nova de Espinhos Ácidos
+tagItemSkillB046Desc=Uma explosão de espinhos ácidos irrompe de você.
+
+tagItemSkillC002Name=Orbe Elétrico
+tagItemSkillC002Desc=Revida lançando um orbe elétrico em direção ao agressor, danificando e atordoando tudo em seu caminho.
+
+tagItemSkillC003Name=Enfurecer
+tagItemSkillC003Desc=Deixa o alvo em um estado de fúria de berserker, causando mais dano, mas também ficando mais suscetível a ataques.
+
+tagItemSkillC004Name=Guardião Robusto
+tagItemSkillC004Desc=Evoca um guardião ameaçador, dotado de uma defesa formidável.
+tagItemSkillC004PetSkill01=Rugido Provocador
+tagItemSkillC004PetSkill01Desc=O guardião lança um rugido de desafio, provocando os inimigos próximos.
+tagItemSkillC004PetSkill02=Atributos Inatos
+
+tagItemSkillC005Name=Guardião Temerário
+tagItemSkillC005Desc=Evoca um guardião capaz de desferir poderosos ataques.
+
+tagItemSkillC005PetSkill01=Rugido Frenético
+tagItemSkillC005PetSkill01Desc=O guardião ruge, encorajando os aliados próximos.
+
+tagItemSkillC006Name=Peste da Oxidação
+tagItemSkillC006Desc=Contagia os inimigos com uma poderosa infecção que corrói a armadura e se espalha rapidamente.
+
+tagItemSkillC007Name=Peste dos Ossos Frágeis
+tagItemSkillC007Desc=Contagia os inimigos com uma poderosa infecção que devora os ossos e se espalha rapidamente.
+
+tagItemSkillC008Name=Peste das Almas Despedaçadas
+tagItemSkillC008Desc=Contagia os inimigos com uma poderosa infecção que enfraquece o espírito e se espalha rapidamente.
+
+tagItemSkillC009Name=Peste do Consumo
+tagItemSkillC009Desc=Contagia os inimigos com uma poderosa infecção que enfraquece a vitalidade e se espalha rapidamente.
+
+tagItemSkillC010Name=Peste do Terror
+tagItemSkillC010Desc=Contagia os inimigos com uma poderosa infecção que incita medo e se espalha rapidamente.
+
+tagItemSkillC011Name=Peste da Fadiga
+tagItemSkillC011Desc=Contagia os inimigos com uma poderosa infecção que causa fadiga e se espalha rapidamente.
+
+tagItemSkillC012Name=Peste da Podridão
+tagItemSkillC012Desc=Contagia os inimigos com uma poderosa infecção que intoxica e se espalha rapidamente.
+
+tagItemSkillC013Name=Peste da Corrupção
+tagItemSkillC013Desc=Contagia os inimigos com uma poderosa infecção que causa aturdimento e se espalha rapidamente.
+
+tagItemSkillC014Name=Dominar
+tagItemSkillC014Desc=Domina a mente do alvo, forçando-o a lutar ao seu lado por um período de tempo.
+
+tagItemSkillC015Name=Ranca-tripa
+tagItemSkillC015Desc=Lance um monte de estilhaços pontiagudos nos inimigos próximos.
+
+tagItemSkillC016Name=Explosão Vulcânica
+tagItemSkillC016Desc=Desencadeie uma explosão de fragmentos derretidos contra os inimigos próximos.
+
+tagItemSkillC017Name=Explosão Estática
+tagItemSkillC017Desc=Desencadeie uma explosão de disparos elétricos contra os inimigos próximos.
+
+tagItemSkillC018Name=Rede Farpada
+tagItemSkillC018Desc=Capture sua presa com uma rede que enlaça e contrai o alvo.
+
+tagItemSkillC019Name=Pirômano
+tagItemSkillC019Desc=Desencadeie uma explosão de chamas mortais ao longo de uma linha.
+
+tagItemSkillC020Name=Explosão Ártica
+tagItemSkillC020Desc=Lance uma carga explosiva de energia gelada potente capaz de congelar os inimigos.
+
+tagItemSkillC021Name=Raio
+tagItemSkillC021Desc=Invoca a santa justiça dos céus.
+
+tagItemSkillC022Name=Explosão de Dardos
+tagItemSkillC022Desc=Um truque com o mecanismo de carregamento permite que, ocasionalmente, seja disparada uma saraivada de projéteis em rápida sucessão.
+
+tagItemSkillC023Name=Mordida Pesteada
+tagItemSkillC023Desc=A lâmina afunda na carne como a mordida imunda de um cão abissal.
+
+tagItemSkillC024Name=Cascata Ceifeira
+tagItemSkillC024Desc=Drena a própria vida do seu alvo, saltando vorazmente para inimigos próximos.
+
+tagItemSkillC025Name=Pisoteio
+tagItemSkillC025Desc=A sola encantada destas botas colide com o chão, desencadeando uma onda de choque que faz os inimigos próximos cambalearem.
+
+tagItemSkillC026Name=Vingança
+tagItemSkillC026Desc=Um golpe veloz com sua arma. ^oRequer uma arma corpo a corpo.
+tagItemSkillC026DescB=Um golpe veloz com sua espada.
+
+tagItemSkillC027Name=Escudo de Energia
+tagItemSkillC027Desc=Gera um escudo protetor que absorve o dano de golpes físicos.
+
+tagItemSkillC028Name=Terror
+tagItemSkillC028Desc=Preenche a mente dos inimigos próximos com visões de sua própria morte, afugentando os mais fracos.
+
+tagItemSkillC029Name=Projétil de Atirador de Elite
+tagItemSkillC029Desc=Dispara um projétil perfurante com precisão mortal.
+
+tagItemSkillC030Name=Toque do Ceifador
+tagItemSkillC030Desc=A mão fria da morte afeta seus inimigos.
+
+tagItemSkillC031Name=Medo
+tagItemSkillC031Desc=Meta medo nos corações dos seus inimigos.
+
+tagItemSkillC032Name=Poção Caseira
+tagItemSkillC032Desc=Beba à vontade e sinta-se muito melhor.
+
+tagItemSkillC033Name=Saque Rápido
+tagItemSkillC033Desc=Com um movimento de mão, saque uma arma confiável e atire com precisão mortal. ^oRequer uma arma de longo alcance.
+
+tagItemSkillC034Name=Interrupção
+tagItemSkillC034Desc=A imensa velocidade destas botas exige concentração total em cada passo que você dá. Mesmo a menor distração pode resultar em um passo em falso.
+
+tagItemSkillC035Name=Distorção Temporal
+tagItemSkillC035Desc=Distorça o próprio tempo no local onde se encontra o seu agressor.
+
+tagItemSkillC036Name=Intenção Assassina
+tagItemSkillC036Desc=Entre em um perigoso estado mental que deixa pouco espaço para dúvidas ou considerações.
+
+tagItemSkillC037Name=Bola de Lodo
+tagItemSkillC037Desc=Lance um projétil pegajoso de doença e lodo, imobilizando e desacelerando seus inimigos.
+
+tagItemSkillC038Name=Vento Gélido
+tagItemSkillC038Desc=Desencadeie uma explosão de espinhos congelantes que perfuram a armadura e congelam a carne.
+
+tagItemSkillC039Name=Carga de Concussão
+tagItemSkillC039Desc=Lança uma bomba de concussão que deixa seu alvo confuso e atordoado.
+
+tagItemSkillC040Name=Dardo Anticoagulante
+tagItemSkillC040Desc=Dispare um dardo com substâncias anticoagulantes que impedem a cicatrização de feridas, causando hemorragia abundante.
+
+tagItemSkillC041Name=Onda Espectral
+tagItemSkillC041Desc=Libere uma onda de espíritos furiosos que drenam a vida dos seus inimigos.
+
+tagItemSkillC042Name=Adicionar um Entalhe
+tagItemSkillC042Desc=Adiciona mais um entalhe aos mil que supostamente já existem, mas quem está contando afinal? ^oAtiva-se com ataques de arma padrão.
+
+tagItemSkillC043Name=Anel da Chama Eterna
+tagItemSkillC043Desc=Envolva-se em chamas incineradoras que queimam tudo ao seu redor, mas deixam você ileso. ^oEsta habilidade deve ser ativada para manter seu efeito.
+tagItemSkillC043NameB=Anel da Chama Eterna
+tagItemSkillC043DescB=Envolva-se em chamas incineradoras que queimam tudo ao seu redor, mas deixam você ileso.
+
+tagItemSkillC044Name=Maldição da Determinação Esmagada
+tagItemSkillC044Desc=Uma palavra de poder que entorpece os sentidos dos seus inimigos e os priva do vigor.
+
+tagItemSkillC045Name=Proteção Etérea
+tagItemSkillC045Desc=Abrace os poderes do grande éter, ganhando resistência ao arcano e uma vontade de ferro.
+
+tagItemSkillC046Name=Roubo de Alma
+tagItemSkillC046Desc=Devore a essência do seu alvo e restaure a sua. ^oAtiva-se com ataques de arma padrão.
+
+tagItemSkillC047Name=Veneno Coração de Pedra
+tagItemSkillC047Desc=Libere o veneno contido nesta lâmina, petrificando a carne.
+
+tagItemSkillC048Name=Ventos Curativos
+tagItemSkillC048Desc=Evoque os ventos da primavera eterna para curar os seus ferimentos.
+
+tagItemSkillC049Name=Mancha Solar
+tagItemSkillC049Desc=Exploda seu alvo com um raio celestial de chamas calcinantes.
+
+tagItemSkillC050Name=Proteção do Lich
+tagItemSkillC050Desc=Em momentos de grande perigo, a Proteção do Lich defende seu portador de qualquer dano letal.
+
+tagItemSkillC051Name=Evocar Retornado de Og'Napesh
+tagItemSkillC051Desc=Canalize os escritos obscuros de Og'Napesh e evoque seu retornado mais torpe de volta para o mundo dos vivos. ^oVocê só pode evocar um retornado por vez. O dano do retornado varia conforme os Bônus para Companheiros.
+tagItemSkillC051Pet01=Escudo de Defesa
+tagItemSkillC051Pet01Desc=O Retornado protege os aliados próximos contra controle de grupo e reforça a armadura e a retaliação deles.
+
+tagItemSkillC052Name=Bênção de Menhir
+tagItemSkillC052Desc=Abençoe os aliados próximos com uma palavra sagrada de poder, dando-lhes a Bênção de Menhir.
+
+tagItemSkillC053Name=Desafiar a Morte
+tagItemSkillC053Desc=Impeça a morte de avançar quando o chamado dela é forte.
+
+tagItemSkillC054Name=Ruína de Nuram'Siin
+tagItemSkillC054Desc=Uma antiga palavra de poder congela o alvo em uma prisão de gelo.
+
+tagItemSkillC055Name=Poder do Grande Lobo
+tagItemSkillC055Desc=Encarne o poder e a fúria do grande lobo branco.
+
+tagItemSkillC056Name=Chamado do Ancestral
+tagItemSkillC056Desc=Evoque um espírito ancestral para revitalizar você.
+
+tagItemSkillC057Name=Angústia
+tagItemSkillC057Desc=As correntes amaldiçoadas atormentam você com visões de sua própria morte.
+
+tagItemSkillC058Name=Medicina Militar
+tagItemSkillC058Desc=Use técnicas medicinais consagradas para curar ferimentos críticos no calor da batalha.
+
+tagItemSkillC059Name=Poço das Almas
+tagItemSkillC059Desc=Abra um portal para o além, fazendo aparecer um poço de espíritos sem descanso que despedaçam qualquer inimigo que ouse entrar nele.
+
+tagItemSkillC060Name=Explosão de Chamas
+tagItemSkillC060Desc=Crie uma explosão de chamas infernais em torno de você, incinerando os inimigos próximos.
+
+tagItemSkillC061Name=Impulso da Serpente
+tagItemSkillC061Desc=Arremeta contra seu inimigo como uma serpente vil, injetando um veneno mortal no alvo. ^oRequer uma arma corpo a corpo.
+
+tagItemSkillC062Name=Nocaute
+tagItemSkillC062Desc=Nocauteie seu oponente com um golpe rápido e preciso. ^oAtiva-se com ataques de arma padrão corpo a corpo.
+
+tagItemSkillC063Name=Escudo Prismático
+tagItemSkillC063Desc=Aciona as runas gravadas sobre esta armadura, criando um escudo protetor em torno de você.
+
+tagItemSkillC064Name=Observar Fraqueza
+tagItemSkillC064Desc=Olhe através do seu novo olho e detecte pontos fracos nos seus inimigos, comunicando-os aos seus aliados. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillC065Name=Loucura
+tagItemSkillC065Desc=Libere o espírito da loucura que se encontra no interior da máscara, destruindo as mentes dos inimigos próximos.
+
+tagItemSkillC066Name=Abolir o Mal
+tagItemSkillC066Desc=Bana o mal com um poderoso ataque corpo a corpo portador do castigo divino. ^oRequer uma arma corpo a corpo.
+
+tagItemSkillC067Name=Maremoto
+tagItemSkillC067Desc=Libere uma torrente de água na direção de seus inimigos. Esta é uma técnica dominada pelos repugnantes Slith.
+
+tagItemSkillC068Name=Terremoto
+tagItemSkillC068Desc=Crie uma fissura na área-alvo, retardando e atordoando quaisquer inimigos apanhados dentro dela.
+
+tagItemSkillC069Name=Fanatismo
+tagItemSkillC069Desc=Entre em um estado de frenesi fanático, atacando seus inimigos com determinação implacável.
+
+tagItemSkillC070Name=Invocação ao Caos
+tagItemSkillC070Desc=Invoque aos poderes das trevas, colocando um assecla de Ch'thon sob o seu perverso comando.
+
+tagItemSkillC071Name=Diplomacia
+tagItemSkillC071Desc=A sua voz carrega o comando dos reis. Poucos podem resistir ao poder dela.
+
+tagItemSkillC072Name=Toque de Empyrion
+tagItemSkillC072Desc=A luz de Empyrion cura as feridas dos aliados próximos.
+
+tagItemSkillC073Name=Controle Mental
+tagItemSkillC073Desc=Mesmeriza o alvo, impedindo-o de distinguir um amigo de um inimigo.
+
+tagItemSkillC074Name=Vontade do Guardião
+tagItemSkillC074Desc=Sua vontade obstinada de viver pode salvar você até mesmo dos mais terríveis golpes. ^oRequer um escudo.
+
+tagItemSkillC075Name=Fúria do Saqueador
+tagItemSkillC075Desc=Dispara uma saraivada de balas infundidas com fogo. ^oPermite que você empunhe duas armas de longo alcance simultaneamente.
+
+tagItemSkillC076Name=Justiça do Saqueador
+tagItemSkillC076Desc=Dispara uma saraivada de balas infundidas com frio. ^oPermite que você empunhe duas armas de longo alcance simultaneamente.
+
+tagItemSkillC077Name=Desânimo
+tagItemSkillC077Desc=Incuta terror puro na mente do seu inimigo.
+
+tagItemSkillC078Name=Vento Uivante
+tagItemSkillC078Desc=Envolve você em um vento intenso que congela seus inimigos até os ossos.
+
+tagItemSkillC079Name=Pistoleiro
+tagItemSkillC079Desc=Mortal com uma arma, e ainda mais mortal com duas. ^oEste bônus passivo se aplica ao ser usado com duas armas de longo alcance. Também permite que você empunhe duas armas de longo alcance simultaneamente.
+
+tagItemSkillC080Name=Nova Rouba-vidas
+tagItemSkillC080Desc=Uma onda de energias necróticas arranca a vida dos inimigos próximos e a transfere para você.
+
+tagItemSkillC081Name=Mísseis Etéreos
+tagItemSkillC081Desc=Libera uma explosão concentrada de energias etéreas contra seus inimigos.
+
+tagItemSkillC082Name=Nova de Fogo do Vazio
+tagItemSkillC082Desc=Uma explosão de energia negativa propaga-se a partir de você.
+
+tagItemSkillC083Name=Saraivada do Saqueador
+tagItemSkillC083Desc=Ao empunhar duas pistolas, você às vezes dispara uma saraivada de balas infundidas com poder arcano. ^oPermite que você empunhe duas armas de longo alcance simultaneamente e se ativa com ataques de arma padrão.
+
+tagItemSkillC084Name=Miasma
+tagItemSkillC084Desc=Libera uma nuvem de gases tóxicos que sufocam e confundem seus inimigos.
+
+tagItemSkillC085Name=Evocar Flagelo Abissal Infectado
+tagItemSkillC085Desc=Evoque um Flagelo Abissal Infectado das profundezas que obedece a todos os seus comandos. ^oVocê só pode evocar um flagelo abissal por vez. O dano do flagelo abissal varia conforme os Bônus para Companheiros.
+tagItemSkillC085PetSkillName01=Cuspe Ácido
+tagItemSkillC085PetSkillName02=Nova Venenosa
+
+tagItemSkillC086Name=Pestilência
+tagItemSkillC086Desc=Espalhe pestilência e doença a cada passo.
+
+tagItemSkillC087Name=Retribuição
+tagItemSkillC087Desc=Provoque os inimigos próximos com uma onda de choque que emana de seu escudo. ^oRequer um escudo.
+
+tagItemSkillC088Name=Fúria Arcana
+tagItemSkillC088Desc=Ao recusar se render, você libera o potencial desenfreado da mente.
+
+tagItemSkillC089Name=Tempestade de Fogo
+tagItemSkillC089Desc=Cria um anel de chamas insuportáveis que incineram seus inimigos.
+
+tagItemSkillC090Name=Infecção Sangrenta
+tagItemSkillC090Desc=Uma abominável maldição que evoca uma peste virulenta que se espalha entre os inimigos.
+
+tagItemSkillC091Name=Míssil Replicante
+tagItemSkillC091Desc=Um feitiço replicante que se copia ao golpear um inimigo.
+
+tagItemSkillC092Name=Fluxo de Tempestade
+tagItemSkillC092Desc=Nos momentos de extrema necessidade você apela para os céus, que preenchem você com um devastador poder elétrico.
+
+tagItemSkillC093Name=Teia de Aranha
+tagItemSkillC093Desc=Aprisiona seu inimigo em uma teia pegajosa que inibe completamente o movimento e o torna presa fácil. ^oEste feitiço imobiliza os inimigos durante sua duração. Os inimigos resistentes a efeitos aprisionantes sofrerão uma duração reduzida.
+
+tagItemSkillC094Name=Congelamento Rápido
+tagItemSkillC094Desc=Uma chispa de puro frio congela os inimigos próximos. ^oEste feitiço congela os inimigos durante sua duração. Os inimigos resistentes a efeitos congelantes sofrerão uma duração reduzida.
+
+tagItemSkillC095Name=Caminho Infernal
+tagItemSkillC095Desc=Chamas irrompem da terra em torno de você, não deixando nada além de cinzas.
+
+tagItemSkillC096Name=Erupção Solar
+tagItemSkillC096Desc=Uma luz cegante irrompe de você, confundindo seus inimigos.
+
+tagItemSkillC097Name=Raio Etéreo
+tagItemSkillC097Desc=Dá choque no alvo com um raio infundido com Éter. A magia selvagem se espalha para inimigos próximos.
+
+tagItemSkillC098Name=Forças Elementais
+tagItemSkillC098Desc=Imbua seus ataques das forças opostas do fogo e do gelo.
+
+tagItemSkillC099Name=Chuva de Fogo
+tagItemSkillC099Desc=Ao seu comando, cai fogo do céu.
+
+tagItemSkillC100Name=Devastação
+tagItemSkillC100Desc=Considerada a força destrutiva mais poderosa conhecida pelos Arcanistas, esta técnica abre uma fenda na realidade, da qual caem brasas de energia arcana bruta.
+
+tagItemSkillC101Name=Sopro de Jubafria
+tagItemSkillC101Desc=Congele os inimigos até a essência com o sopro de um Yeti Jubafria.
+
+tagItemSkillC102Name=Garra de Fogo
+tagItemSkillC102Desc=Parta seus inimigos em dois com garras de fogo infernal.
+
+tagItemSkillC103Name=Conjurar Devorador
+tagItemSkillC103Desc=Evoque um Devorador Ctônico das profundezas do vazio para proteger você. ^oO dano do devorador varia conforme os Bônus para Companheiros.
+
+tagItemSkillC104Name=Proteção Espiritual
+tagItemSkillC104Desc=Entre parcialmente no reino espiritual, protegendo-se contra feitiços que esgotam vida e contra agressões físicas.
+
+tagItemSkillC105Name=Anel de Gelo
+tagItemSkillC105Desc=Um vento rodopiante de cacos de gelo rodeia você e congela os inimigos próximos.
+
+tagItemSkillC106Name=Mordida de Mantícora
+tagItemSkillC106Desc=Ataque seus inimigos, causando ferimentos graves.
+
+tagItemSkillC107Name=Estrela Negra
+tagItemSkillC107Desc=Um mau presságio cai sobre seus inimigos.
+
+tagItemSkillC108Name=Toque da Ninfa
+tagItemSkillC108Desc=Trate as feridas dos aliados próximos com uma bênção das ninfas da floresta.
+
+tagItemSkillC109Name=Nova Congelante
+tagItemSkillC109Desc=Uma explosão de ar congelante em torno de você congela os inimigos.
+
+tagItemSkillC110Name=Explosão Elemental
+tagItemSkillC110Desc=Uma explosão de energias elementais irrompe de você, empurrando para trás todos os inimigos próximos.
+
+tagItemSkillC111Name=Maldição de Burrwitch
+tagItemSkillC111Desc=Seus inimigos ficam marcados com uma maldição debilitante que personifica o sofrimento de Burrwitch.
+
+tagItemSkillC112Name=Inflamar
+tagItemSkillC112Desc=Inflame seu inimigo com um fogo intenso que derrete a armadura.
+
+tagItemSkillC114Name=Estrondo Etéreo
+tagItemSkillC114Desc=Uma onda de energias etéreas irrompe de você.
+
+tagItemSkillC115Name=Malícia
+tagItemSkillC115Desc=Uma força maliciosa que sacode a terra irrompe de você.
+
+tagItemSkillC116Name=Sangrar
+tagItemSkillC116Desc=Rompe uma importante artéria, causando sangramento intenso.
+
+tagItemSkillC117Name=Estigma das Chamas
+tagItemSkillC117Desc=Marque seu inimigo com chamas, expondo-o à sua ira ardente.
+
+tagItemSkillC118Name=Matador de Feras
+tagItemSkillC118Desc=Transpasse os inimigos próximos com a intenção de exterminar feras imundas.
+
+tagItemSkillC119Name=Infecção Virulenta
+tagItemSkillC119Desc=Uma doença que se espalha descontroladamente infecta seu inimigo.
+
+tagItemSkillC120Name=Terra Abrasada
+tagItemSkillC120Desc=Um calor escaldante irrompe de você, queimando o chão pela frente.
+
+tagItemSkillC121Name=Banho de Sangue
+tagItemSkillC121Desc=Dilacere os inimigos próximos e regue a área com o sangue deles.
+
+tagItemSkillC122Name=Olho de Vidro
+tagItemSkillC122Desc=Um olho treinado, um tiro letal. ^oEste bônus passivo se aplica ao ser usado com uma arma de longo alcance de duas mãos.
+tagItemSkillC122NameB=Franco-atirador
+tagItemSkillC122DescB=Perícia no uso de rifles e lunetas. ^oEste bônus passivo se aplica ao ser usado com uma arma de longo alcance de duas mãos.
+
+tagItemSkillC123Name=Área em Chamas
+tagItemSkillC123Desc=Você inflama o próprio chão onde pisa.
+
+tagItemSkillC124Name=Nova de Espinhos
+tagItemSkillC124Desc=Uma explosão de espinhos irrompe de você, empalando os inimigos próximos.
+
+tagItemSkillC125Name=Onda Caótica
+tagItemSkillC125Desc=Uma onda de energias entrópicas irrompe de você.
+
+tagItemSkillC126Name=Toque do Boticário
+tagItemSkillC126Desc=Um treinamento na arte da medicina militar permite que você cure as feridas dos aliados próximos.
+
+tagItemSkillC127Name=Eletricidade Etérea
+tagItemSkillC127Desc=Eletricidade infundida com puro éter emana de você e se espalha entre seus inimigos.
+
+tagItemSkillC128Name=Olho de Thaddeus
+tagItemSkillC128Desc=O Olho de Thaddeus expõe pontos fracos fáceis de explorar em seus inimigos débeis.
+
+tagItemSkillC129Name=Munição Incendiária
+tagItemSkillC129Desc=Dispare uma munição incendiária do rifle, a qual coloca fogo em tudo e muitas vezes perfura seus inimigos. ^oAtiva-se com ataques de arma padrão.
+
+tagItemSkillC130Name=Pacto Profano
+tagItemSkillC130Desc=Faça um pacto profano com seus asseclas, fortalecendo suas conexões com as forças obscuras do vazio. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillC131Name=Espinho Elétrico
+tagItemSkillC131Desc=Um espinho de energia elétrica irrompe em direção ao seu agressor.
+
+tagItemSkillC132Name=Propagação de Fogo
+tagItemSkillC132Desc=Dispara uma munição explosiva, a qual se estilhaça com o impacto em uma grande explosão de chamas. ^oAtiva-se com ataques de arma padrão.
+
+tagItemSkillC133Name=Ira de Callidor
+tagItemSkillC133Desc=Desencadeie uma enorme explosão de energias arcanas.
+
+tagItemSkillC134Name=Golpe do Mirmidão
+tagItemSkillC134Desc=Ataque seu inimigo com seu escudo, causando danos internos graves. ^oRequer uma arma corpo a corpo.
+
+tagItemSkillC135Name=Tranquilidade de Mogdrogen
+tagItemSkillC135Desc=Preenche você e seus aliados próximos com a tranquilidade de Mogdrogen, encorajando a eles e aos seus companheiros ferozes. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillC136Name=Eletricidade Etérea
+tagItemSkillC136Desc=Libere eletricidade infundida com puro éter que se espalha entre seus inimigos.
+
+tagItemSkillC137Name=Força Elemental
+tagItemSkillC137Desc=Libere uma força de magia de fogo e gelo que se espirala a partir da sua localização.
+
+tagItemSkillC138Name=Perjura
+tagItemSkillC138Desc=A Perjura dispara uma munição explosiva repleta de poderes obscuros. ^oAtiva-se com ataques de arma padrão.
+
+tagItemSkillC139Name=Toque Corruptor de Aldritch
+tagItemSkillC139Desc=As energias corruptoras do cetro de Aldritch atacam seus inimigos.
+
+tagItemSkillM005Name=Berserk
+tagItemSkillM005Desc=Entre em um estado mental de berserker, atacando com maior ferocidade ao custo da capacidade de sobrevivência.
+
+tagItemSkillM007Name=Carga Congelante
+tagItemSkillM007Desc=Lance um projétil congelado contra o alvo, revestindo-o com gelo imobilizante.
+
+tagItemSkillM008Name=Fortalecimento
+tagItemSkillM008Desc=Fortaleça seus ataques ao custo de sua preciosa força vital.
+
+tagItemSkillM012Name=Orbe de Magma
+tagItemSkillM012Desc=Arremesse um projétil de puro fogo que se fragmenta ao menor contato.
+
+tagItemSkillM013Name=Nova Tóxica
+tagItemSkillM013Desc=Libere um veneno mortal no ar.
+
+tagItemSkillM014Name=Salva-vidas
+tagItemSkillM014Desc=Um sopro de vida em uma situação desesperadora.
+
+tagItemSkillM015Name=Raiva Arcana
+tagItemSkillM015Desc=O poder do diamante pode ser usado em situações desesperadoras, concedendo acesso a uma vasta energia arcana.
+
+tagItemSkillM016Name=Raiva Primeva
+tagItemSkillM016Desc=O poder do diamante pode ser usado em situações desesperadoras, concedendo acesso a uma imparável destreza física.
+
+tagItemSkillM017Name=Raiva Prismática
+tagItemSkillM017Desc=O poder do diamante pode ser usado em situações desesperadoras, concedendo acesso ao verdadeiro potencial dele e a incontáveis forças cósmicas.
+
+tagItemSkillD018Name=Lançar Fezes
+tagItemSkillD018Desc=Busque na parte de trás das calças e pegue algo que certamente alarmará o inimigo.
+
+tagItemSkillD019Name=Tempestade de Granizo
+tagItemSkillD019Desc=Conjure uma chuva de gelo mortal sobre a área-alvo.
+
+tagItemSkillD020Name=Evocar o Arauto
+tagItemSkillD020Desc=Conjura o Arauto de Salazar das profundezas do vazio. ^oO dano do arauto varia conforme os Bônus para Companheiros.
+tagItemSkillD020PetSkillName=Miasma Espectral
+tagItemSkillD020PetSkillName02=Aura Caótica
+tagItemSkillD020PetSkillDesc02=O Arauto dá a bênção do Caos para os aliados dele.
+
+tagItemSkillD021Name=Onda Explosiva de Éter
+tagItemSkillD021Desc=Uma explosão de energia Etérea derruba os seus agressores.
+
+tagItemSkillD022Name=Labareda Etérea
+tagItemSkillD022Desc=Uma labareda de puro fogo arcano irrompe sob seus inimigos. ^oRequer um Foco.
+
+tagItemSkillD023Name=Cascata Etérea
+tagItemSkillD023Desc=Energia arcana pura irrompe de você e se espalha entre seus inimigos.
+
+tagItemSkillD024Name=Conduto Etéreo
+tagItemSkillD024Desc=Você se torna um conduto para o próprio éter, explodindo os inimigos próximos com pura energia arcana.
+
+tagItemSkillD025Name=Agonia
+tagItemSkillD025Desc=Amaldiçoe seu inimigo com agonia, infligindo uma dor indescritível e expondo-o a mais danos.
+
+tagItemSkillD026Name=Vaidade de Aldanar
+tagItemSkillD026Desc=Aldanar não era alguém que deixava que assuntos triviais como a conservação de energia e as leis da realidade o impedissem de continuar suas feitiçarias.
+
+tagItemSkillD027Name=Apocalipse
+tagItemSkillD027Desc=Libere a ira dos próprios deuses ao rasgar a realidade e cause um cataclismo de proporções apocalípticas. ^oVocê só pode lançar um Apocalipse por vez.
+
+tagItemSkillD028Name=Concentração Arcana
+tagItemSkillD028Desc=Entre em um estado de transe. ^oAo ser usada como ataque de arma padrão, Concentração Arcana amplia seu poder arcano a cada golpe. O acúmulo de cargas aumenta a potência dos bônus.
+
+tagItemSkillD029Name=Ira do Ascendente
+tagItemSkillD029Desc=A ira do Ascendente é uma coisa terrível de se ver. Poucos podem resistir ao seu poder incapacitante.
+
+tagItemSkillD030Name=Avatar de Ulzuin
+tagItemSkillD030Desc=Você deixa as chamas selvagens de Ulzuin onde quer que pise.
+
+tagItemSkillD031Name=Táticas Azragorianas
+tagItemSkillD031Desc=Abrace as táticas de Azragor. Apesar de serem técnicas desleais e questionáveis, não se pode argumentar quanto aos seus resultados. Esse efeito se estende a aliados próximos. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD032Name=Fogo Cruzado
+tagItemSkillD032Desc=Dispare um bombardeio com suas armas gêmeas, crivando seus inimigos de balas. ^oEsta técnica é usada com duas armas de longo alcance e se ativa com ataques de arma padrão. Também permite que você empunhe duas armas de longo alcance simultaneamente.
+
+tagItemSkillD033Name=Saraivada
+tagItemSkillD033Desc=Dispare uma saraivada com suas armas gêmeas, dando tiros certeiros que se destinam a matar. ^oEsta técnica é usada com duas armas de longo alcance e se ativa com ataques de arma padrão. Também permite que você empunhe duas armas de longo alcance simultaneamente.
+
+tagItemSkillD034Name=Grito de Batalha
+tagItemSkillD034Desc=Os golpes que atingem você fazem com que você entre em um frenesi, encorajando seus aliados.
+
+tagItemSkillD035Name=Garra do Urso
+tagItemSkillD035Desc=Parta seus inimigos como o poderoso urso. ^oRequer uma arma corpo a corpo de duas mãos.
+
+tagItemSkillD036Name=Raiva Bestial
+tagItemSkillD036Desc=Sempre que seus asseclas veem você ferido, são tomados por uma raiva vingativa.
+
+tagItemSkillD037Name=Explosão de Lâminas
+tagItemSkillD037Desc=Os inimigos que ousarem atacar você enfrentarão a ira de Amarasta.
+
+tagItemSkillD038Name=Lâmina de Korvoran
+tagItemSkillD038Desc=Arremesse uma lâmina escondida dentro de sua jaqueta.
+
+tagItemSkillD039Name=Fúria Sanguinária
+tagItemSkillD039Desc=Receber danos ferve seu sangue arcano, empoderando sua magia obscura.
+
+tagItemSkillD040Name=Rito Sangrento
+tagItemSkillD040Desc=O sangue negro de Ch'thon corrompe tudo o que toca, até mesmo o arcano.
+
+tagItemSkillD041Name=Canção Sangrenta
+tagItemSkillD041Desc=Você maneja sua lâmina em perfeita harmonia, infligindo feridas mais profundas e partindo os inimigos próximos.
+
+tagItemSkillD042Name=Infecção Sangrenta
+tagItemSkillD042Desc=Uma abominável maldição que evoca uma peste virulenta que se espalha entre os inimigos.
+
+tagItemSkillD043Name=Brutalizar
+tagItemSkillD043Desc=Esmague seus inimigos com golpes cruéis que os deixam sangrando.
+
+tagItemSkillD044Name=Justiça Ardente
+tagItemSkillD044Desc=Torne-se um farol contra as trevas conforme você erupciona no fogo da justiça.
+
+tagItemSkillD045Name=Explosão de Velocidade
+tagItemSkillD045Desc=Uma matança recente revigora você, dando-lhe impulso em direção aos próximos inimigos.
+
+tagItemSkillD046Name=Chamado da Fera
+tagItemSkillD046Desc=Solte um rugido bestial, inspirando seus asseclas.
+
+tagItemSkillD047Name=Chamar a Tormenta
+tagItemSkillD047Desc=Conjure uma tormenta de energia estática em torno de você.
+
+tagItemSkillD048Name=Poça Cáustica
+tagItemSkillD048Desc=Conjure uma poça de ácido vil para desintegrar seus inimigos.
+
+tagItemSkillD049Name=Nova Caótica
+tagItemSkillD049Desc=Desencadeie uma explosão de pura energia entrópica contra seus inimigos.
+
+tagItemSkillD050Name=Presença Congelante
+tagItemSkillD050Desc=Sua própria presença congela os inimigos até os ossos. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD051Name=Clarividência
+tagItemSkillD051Desc=Limpe sua mente em preparação para magia desgastante.
+
+tagItemSkillD052Name=Poder Colossal
+tagItemSkillD052Desc=O domínio do combate com escudo transformou você em uma arma letal e imparável. ^oEste bônus passivo se aplica ao ser usado com um escudo.
+
+tagItemSkillD053Name=Conjurar Flagelo Negro
+tagItemSkillD053Desc=Sua matança desenfreada clama ao vazio.
+tagItemSkillD053_Pet01=Fim Entrópico
+
+tagItemSkillD054Name=Olho do Guardião
+tagItemSkillD054Desc=Conjure um dos infinitos olhos de Dreeg para proteger você com uma saraivada de espinhos. ^oO dano do olho varia conforme os bônus para o dano do jogador.
+tagItemSkillD054_Pet01=Espinhos Venenosos
+
+tagItemSkillD055Name=Olhar de Dreeg
+tagItemSkillD055Desc=Lance um trio de olhos assombrados de Dreeg para rastrear seus inimigos e explodir liberando bílis e veneno. ^oO dano do Olhar de Dreeg varia conforme os bônus para o dano do jogador.
+tagItemSkillD055_Pet01=Erupção Cáustica
+
+tagItemSkillD056Name=Arauto da Condenação
+tagItemSkillD056Desc=Posicione um estandarte marcando a sua conquista. Ficar perto do estandarte inspira você e seus aliados.
+tagItemSkillD056_Pet01=Estandarte Inspirador
+tagItemSkillD056_Pet01Desc=Lutar perto do estandarte inspira você.
+
+tagItemSkillD057Name=Invocação ao Caos
+tagItemSkillD057Desc=Clame ao vazio e evoque demônios vis para lutar por você até o momento em que o vazio os chama de volta. ^oO dano dos demônios varia conforme os Bônus para Companheiros.
+tagItemSkillD057_Pet01=Chama Caótica
+
+tagItemSkillD058Name=Levantar Espírito
+tagItemSkillD058Desc=Use a energia de uma matança recente para evocar um espírito atormentado para ajudar você. ^oO dano do espírito varia conforme os Bônus para Companheiros.
+tagItemSkillD058_Pet01=Toque Fantasmagórico
+
+tagItemSkillD059Name=Consumo de Agrivix
+tagItemSkillD059Desc=Agrivix era famigerado por forçar os limites do Éter, até que se descobriu que ele havia se envolvido com os poderes do Vazio. Uma de suas técnicas proibidas consistia em incendiar o ar ao seu redor com energias entrópicas.
+
+tagItemSkillD060Name=Contágio
+tagItemSkillD060Desc=Os inimigos que atacam você adoecem com uma infecção mortal que continua a se espalhar para além do anfitrião.
+
+tagItemSkillD061Name=Sonhos Obscuros
+tagItemSkillD061Desc=Preencha a mente dos inimigos próximos com sonhos arrepiantes de suas mortes iminentes.
+
+tagItemSkillD062Name=Chama Negra
+tagItemSkillD062Desc=Marque o inimigo com uma chama negra que enfraquece a determinação dele.
+
+tagItemSkillD063Name=Quebraurora
+tagItemSkillD063Desc=Cegue seus inimigos com sua presença justiceira.
+
+tagItemSkillD064Name=Poder do Elo da Morte
+tagItemSkillD064Desc=Torne-se mais forte pelas almas que tenta reivindicar.
+
+tagItemSkillD065Name=Machado Cortante
+tagItemSkillD065Desc=Golpeie com o machado afiado, cortando tanto a armadura quanto a carne.
+
+tagItemSkillD066Name=Garra Congelante
+tagItemSkillD066Desc=Golpeie com a garra congelante, cortando os inimigos próximos.
+
+tagItemSkillD067Name=Guarda do Assassino de Demônios
+tagItemSkillD067Desc=Fortaleça suas defesas contra os demônios do vazio.
+
+tagItemSkillD068Name=Desespero
+tagItemSkillD068Desc=Preencha seus inimigos com desespero, deixando-os desamparados diante de você.
+
+tagItemSkillD069Name=Jaula do Diabo
+tagItemSkillD069Desc=Aprisione seus inimigos em uma prisão de pura obsidiana.
+
+tagItemSkillD070Name=Propagação do Diabo
+tagItemSkillD070Desc=Dispare um tiro triplo de fogo infernal contra os seus inimigos.
+
+tagItemSkillD071Name=Devorar
+tagItemSkillD071Desc=Após desferir um golpe cruel, devore um pouco da essência vital exposta do seu inimigo.
+
+tagItemSkillD072Name=Devoto de Dreeg
+tagItemSkillD072Desc=Espalhe a palavra de Dreeg para todos que queiram ouvir, aumentando os poderes venenosos dos seus aliados. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD073Name=Garra do Lobo Atroz
+tagItemSkillD073Desc=Despedace seus inimigos com uma técnica cruel de lâminas tesouras que simula o ataque de um poderoso lobo atroz. ^oEsta técnica é usada com duas armas corpo a corpo e se ativa com ataques de arma padrão. Também permite que você empunhe duas armas corpo a corpo simultaneamente.
+
+tagItemSkillD074Name=Guarda Divina
+tagItemSkillD074Desc=Preencha seus aliados com luz divina, protegendo-os da escuridão do vazio. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD075Name=Luz Divina
+tagItemSkillD075Desc=A luz expande-se dentro de você em momentos de dificuldade, ajudando-o a lutar quando as coisas estão muito sinistras.
+
+tagItemSkillD076Name=Domínio
+tagItemSkillD076Desc=Imprima seu domínio sobre os inimigos na área-alvo, despedaçando as mentes dos fracos e forçando-os a lutar por você.
+
+tagItemSkillD077Name=Comando de Dreeg
+tagItemSkillD077Desc=A presença dominante de Dreeg preenche você quando ameaçado, permitindo o lançamento de feitiços de forma ininterrupta.
+
+tagItemSkillD078Name=Duelista
+tagItemSkillD078Desc=O domínio do combate com duas armas de fogo transformou você em uma arma mortal. Você pode disparar suas armas ao mesmo tempo com grande facilidade e de forma letal.
+
+tagItemSkillD079Name=Explosão Elemental
+tagItemSkillD079Desc=Uma explosão de energias elementais irrompe de você, empurrando para trás todos os inimigos próximos.
+
+tagItemSkillD080Name=Selo Elemental
+tagItemSkillD080Desc=Cria no solo um selo arcano imbuído de força destrutiva.
+
+tagItemSkillD081Name=Entropia
+tagItemSkillD081Desc=Ataque seu inimigo com energia entrópica que inflama o próprio ser dele.
+
+tagItemSkillD082Name=Envenenar
+tagItemSkillD082Desc=Um golpe bem desferido libera o veneno contido dentro destas garras.
+
+tagItemSkillD083Name=Assombração Eterna
+tagItemSkillD083Desc=Libere uma assombração atormentadora que se espalha entre os inimigos.
+
+tagItemSkillD084Name=Exterminar
+tagItemSkillD084Desc=Aniquile seu inimigo com um tiro certeiro.
+
+tagItemSkillD085Name=Desaparecer da Realidade
+tagItemSkillD085Desc=Quando um inimigo desfere um golpe particularmente debilitante, a natureza protetora deste manto manda você para fora do reino físico, de modo que possa se recuperar. ^oRequer um Foco.
+
+tagItemSkillD086Name=Céus Cadentes
+tagItemSkillD086Desc=O céu ondula com poder destrutivo e uma chuva de estrelas cadentes cai sobre seus inimigos.
+
+tagItemSkillD087Name=Banquete de Almas
+tagItemSkillD087Desc=Banqueteie-se com as almas dos inimigos próximos, revigorando a sua própria.
+
+tagItemSkillD088Name=Carne do Demônio
+tagItemSkillD088Desc=A carne do demônio protege você contra danos.
+
+tagItemSkillD089Name=Mestre de Demônios
+tagItemSkillD089Desc=Decrete a sua vontade sobre todos os seus asseclas e os de seus aliados. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD090Name=Tenacidade do Demônio
+tagItemSkillD090Desc=A efígie diabólica preenche você com determinação, permitindo-lhe continuar a luta.
+
+tagItemSkillD091Name=Última Parada
+tagItemSkillD091Desc=Empale seu inimigo com as pontas do escudo. ^oRequer uma arma corpo a corpo.
+
+tagItemSkillD092Name=Fogo e Enxofre
+tagItemSkillD092Desc=Fique mais forte com o poder cataclísmico do fogo e do enxofre.
+
+tagItemSkillD093Name=Chuva de Fogo
+tagItemSkillD093Desc=Uma chuva de fogo cai do céu, incinerando seus inimigos.
+
+tagItemSkillD094Name=Onda de Fogo
+tagItemSkillD094Desc=Uma onda de chamas ardentes emana de você e destrói tudo pelo caminho.
+
+tagItemSkillD095Name=Sopro Ardente
+tagItemSkillD095Desc=A máscara permite que você sopre fogo.
+
+tagItemSkillD096Name=Julgamento Celestial
+tagItemSkillD096Desc=Eletricidade atinge rapidamente os inimigos próximos, eletrocutando-os.
+
+tagItemSkillD097Name=Nuvem de Gás Tóxico
+tagItemSkillD097Desc=Uma nuvem tóxica irrompe de você, sufocando todos os inimigos apanhados dentro dela.
+
+tagItemSkillD098Name=Olhar de Beronath
+tagItemSkillD098Desc=O olhar aterrador de Beronath transforma seus inimigos em pedra.
+
+tagItemSkillD099Name=Glifo de Kelphat'Zoth
+tagItemSkillD099Desc=O glifo de Kelphat'Zoth fortalece você e seus asseclas com o poder de uma tempestade.
+
+tagItemSkillD100Name=Golem
+tagItemSkillD100Desc=Sua carne fica como pedra, quase imune a ataques físicos.
+
+tagItemSkillD101Name=Grande Onda
+tagItemSkillD101Desc=Desencadeie uma grande onda para dispersar seus inimigos, assim como o grande leviatã parte as águas a cada movimento.
+
+tagItemSkillD102Name=Destino Sombrio
+tagItemSkillD102Desc=Transforme os restos de seu inimigo numa horripilante explosão de carnificina.
+
+tagItemSkillD103Name=Esmagamento Terrestre
+tagItemSkillD103Desc=Esmague o chão com suas botas, despedaçando a terra e deixando os inimigos cambaleando.
+
+tagItemSkillD104Name=Ranca-tripa
+tagItemSkillD104Desc=O ranca-tripa recebeu seu nome por deixar alvos sangrando mesmo que o tiro inicial não tenha sido letal em si.
+
+tagItemSkillD105Name=O Precursor
+tagItemSkillD105Desc=Nada impedirá o precursor de alcançar sua recompensa.
+
+tagItemSkillD106Name=Marca do Precursor
+tagItemSkillD106Desc=Marque seu oponente com a Marca do Precursor, um feitiço tortuoso que se espalha para inimigos próximos.
+
+tagItemSkillD107Name=Alvo do Precursor
+tagItemSkillD107Desc=O Precursor era especialista em combate a distância, preferindo usar uma besta para matar seus inimigos a distância. ^oEste bônus passivo se aplica ao ser usado com uma arma de longo alcance de duas mãos.
+
+tagItemSkillD108Name=Aperto do Precursor
+tagItemSkillD108Desc=O Precursor ganhou sua reputação ao combinar o poder letal das armas de longo alcance com magia ocultista. ^oEste bônus passivo se aplica ao ser usado com uma arma de longo alcance de duas mãos.
+
+tagItemSkillD109Name=Estrago
+tagItemSkillD109Desc=Cause estragos em seus inimigos com uma rajada selvagem de tiros.
+
+tagItemSkillD110Name=Ventos Curativos
+tagItemSkillD110Desc=Evoque os ventos da primavera eterna para curar os seus ferimentos.
+
+tagItemSkillD111Name=Coração do Rei do Inverno
+tagItemSkillD111Desc=O rei do inverno era um governante selvagem, mas justo, que defendia ferozmente sua terra natal ao lado de seu fiel lobo branco, ao qual chamava de pai. O espírito do grande rei ainda habita dentro de sua poderosa lâmina. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD112Name=Progênie Infernal
+tagItemSkillD112Desc=Inspirados por uma matança recente, seus asseclas são empoderados com magia obscura.
+
+tagItemSkillD113Name=Enxame Faminto
+tagItemSkillD113Desc=Libere um enxame de insetos famintos que partem seus inimigos ao meio.
+
+tagItemSkillD114Name=Nova Gelada
+tagItemSkillD114Desc=Desencadeie uma onda de energias gélidas contra os inimigos próximos.
+
+tagItemSkillD115Name=Arrepio Gélido
+tagItemSkillD115Desc=Com grande concentração, você absorve todo o calor do ar ao seu redor, gelando e congelando os inimigos.
+
+tagItemSkillD116Name=Espinhos de Gelo
+tagItemSkillD116Desc=Libere uma explosão de espinhos congelados e afiados.
+
+tagItemSkillD117Name=Fúria do Invocador
+tagItemSkillD117Desc=Marque seu oponente com um signo arcano que o deixa vulnerável ao seu ataque elemental.
+
+tagItemSkillD118Name=Segredo do Invocador
+tagItemSkillD118Desc=O domínio do Invocador sobre a magia inspirou muitas técnicas incomuns, incluindo um pequeno truque que o Invocador usava para dissuadir os inimigos até mesmo de chegar perto. ^oRequer um Foco.
+
+tagItemSkillD119Name=Defesa de Iskandra
+tagItemSkillD119Desc=Iskandra era uma mestra da conversão, transformando armas marciais em condutos para o arcano. Sua sintonia incomum com o combate marcial exigia que as defesas apropriadas fossem criadas.
+
+tagItemSkillD120Name=Unidade de Iskandra
+tagItemSkillD120Desc=Iskandra preferia dominar todas as formas de magia. Essa maestria se estende a aliados próximos. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD121Name=Prisma de Iskandra
+tagItemSkillD121Desc=Ao entrar em combate, Iskandra transformava sua arma em um conduto. ^oRequer uma arma corpo a corpo.
+
+tagItemSkillD122Name=Toma-vida
+tagItemSkillD122Desc=Beba a essência vital dos inimigos próximos em uma exibição mortal de combate marcial. ^oRequer uma arma corpo a corpo.
+
+tagItemSkillD123Name=Onda de Almas
+tagItemSkillD123Desc=Desencadeie uma onda de espíritos atormentados que exaurem a vida dos seus inimigos.
+
+tagItemSkillD124Name=Raio
+tagItemSkillD124Desc=Um toque da ira de Ultos irrompe do céu e eletriza seus inimigos.
+
+tagItemSkillD125Name=Cadeia de Raios
+tagItemSkillD125Desc=Uma imensa força elétrica emana de você, atingindo inimigos adicionais.
+
+tagItemSkillD126Name=Nova Elétrica
+tagItemSkillD126Desc=Eletricidade surge dentro de você antes de erupcionar com uma força mortífera.
+
+tagItemSkillD127Name=Explosão Elétrica
+tagItemSkillD127Desc=Energia estática é acumulada dentro de você antes de irromper em uma explosão de orbes eletrizantes.
+
+tagItemSkillD128Name=Marca de Ch'thon
+tagItemSkillD128Desc=Amaldiçoe seus inimigos com uma marca letal de poder que faz com que todos os horrores do vazio os ataquem.
+
+tagItemSkillD129Name=Marca da Morte
+tagItemSkillD129Desc=Marque seu inimigo para uma morte iminente.
+
+tagItemSkillD130Name=Marca do Enganador
+tagItemSkillD130Desc=Marque seus inimigos com uma maldição debilitante que domina os sentidos deles.
+
+tagItemSkillD131Name=Marca dos Vencidos
+tagItemSkillD131Desc=Amaldiçoe seus inimigos com o tormento dos mortos, enfraquecendo-os no reino físico.
+
+tagItemSkillD132Name=Selo da Serpente
+tagItemSkillD132Desc=Fortaleça seus asseclas com o poder da serpente mítica.
+
+tagItemSkillD133Name=Vigilância de Markovian
+tagItemSkillD133Desc=Markovian estava sempre consciente de seu entorno, nunca era pego de surpresa e estava sempre pronto para o conflito.
+
+tagItemSkillD134Name=Muralha de Markovian
+tagItemSkillD134Desc=A postura defensiva de Markovian era comparada com a de uma muralha de fortaleza, uma barreira intransponível de onde ele podia retaliar com segurança.
+
+tagItemSkillD135Name=Aptidão
+tagItemSkillD135Desc=O domínio de sua técnica de combate preferida ensinou você a encontrar os pontos fracos de seu alvo e aproveitar a vantagem.
+
+tagItemSkillD136Name=Muralha de Carne
+tagItemSkillD136Desc=Fortaleça-se com as energias necróticas usadas na criação deste escudo.
+
+tagItemSkillD137Name=Misericórdia
+tagItemSkillD137Desc=No momento mais sombrio, receba a misericórdia dos deuses.
+
+tagItemSkillD138Name=Meteoro
+tagItemSkillD138Desc=Rasgue a frágil barreira entre o submundo e o reino mortal ao conjurar uma enorme pedra ardente que cai sobre seus inimigos.
+
+tagItemSkillD139Name=Poder de Beronath
+tagItemSkillD139Desc=Canalize o poder da grande fera Beronath, transformando até mesmo o seu poder arcano em ataques físicos mortais.
+
+tagItemSkillD140Name=Distorção Mental
+tagItemSkillD140Desc=Distorça a realidade em um instante, convertendo parte da sua força física em uma força arcana de destruição.
+
+tagItemSkillD141Name=Momento de Clareza
+tagItemSkillD141Desc=Você entra em um clarificante estado de transe durante o qual sua mente se abre para as infinitas possibilidades do arcano.
+
+tagItemSkillD142Name=Brilho da Lua
+tagItemSkillD142Desc=Marque seu oponente com a luz reveladora de uma lua carmesim, expondo a fraqueza dele para você.
+
+tagItemSkillD143Name=Fio da Mortalidade
+tagItemSkillD143Desc=Capture os fios mortais dos seus inimigos, transformando a vitalidade deles na sua própria.
+
+tagItemSkillD144Name=Vingança de Nidalla
+tagItemSkillD144Desc=Os inimigos que ousam atacar você podem receber uma surpresa desagradável se a toxina característica de Nidalla se infiltrar nas veias deles.
+
+tagItemSkillD145Name=Veneno de Beladona
+tagItemSkillD145Desc=Libere uma toxina vil aprisionada dentro da lâmina que transforma a carne em pedra.
+
+tagItemSkillD146Name=Obliteração
+tagItemSkillD146Desc=Libere um raio de destruição arcana que oblitera tudo o que toca, penetrando nos inimigos e apagando-os da existência.
+
+tagItemSkillD147Name=Tremor Obsidiano
+tagItemSkillD147Desc=Rompa a barreira entre o vazio e o reino físico ao fazer surgir espinhos de obsidiana na terra.
+
+tagItemSkillD148Name=Frio de Olexra
+tagItemSkillD148Desc=Canalize seu poder em uma explosão concentrada de energia glacial que congela os inimigos.
+
+tagItemSkillD149Name=Peste do Consumo
+tagItemSkillD149Desc=Libere uma das sete pestes de Dreeg, uma poderosa infecção que enfraquece a vitalidade e se espalha rapidamente.
+
+tagItemSkillD150Name=Peste da Corrupção
+tagItemSkillD150Desc=Libere uma das sete pestes de Dreeg, uma poderosa infecção que causa aturdimento e se espalha rapidamente.
+
+tagItemSkillD151Name=Peste de Dreeg
+tagItemSkillD151Desc=Libere o grande feito do deus bruxo, a nona peste, uma doença virulenta que deixa os inimigos em frangalhos.
+
+tagItemSkillD152Name=Peste da Fadiga
+tagItemSkillD152Desc=Libere uma das sete pestes de Dreeg, uma poderosa infecção que causa fadiga e se espalha rapidamente.
+
+tagItemSkillD153Name=Peste da Podridão
+tagItemSkillD153Desc=Libere uma das sete pestes de Dreeg, uma poderosa infecção que intoxica e se espalha rapidamente.
+
+tagItemSkillD154Name=Peste da Oxidação
+tagItemSkillD154Desc=Libere uma das sete pestes de Dreeg, uma poderosa infecção que corrói a armadura e se espalha rapidamente.
+
+tagItemSkillD155Name=Peste das Almas Despedaçadas
+tagItemSkillD155Desc=Libere uma das sete pestes de Dreeg, uma poderosa infecção que enfraquece o espírito e se espalha rapidamente.
+
+tagItemSkillD156Name=Peste do Terror
+tagItemSkillD156Desc=Libere uma das sete pestes de Dreeg, uma poderosa infecção que incita medo e se espalha rapidamente.
+
+tagItemSkillD157Name=Barreira Prismática
+tagItemSkillD157Desc=Formam-se runas protetoras em torno de você, protegendo-o contra todo tipo de danos.
+
+tagItemSkillD158Name=Fúria Ardente
+tagItemSkillD158Desc=Desencadeie uma fúria ardente de suas armas. ^oEsta técnica é usada com duas armas de longo alcance ou com uma arma de longo alcance de duas mãos e se ativa com ataques de arma padrão. Também permite que você empunhe duas armas de longo alcance simultaneamente.
+
+tagItemSkillD159Name=Marca do Ceifador
+tagItemSkillD159Desc=Marque seu alvo para um fim rápido e doloroso.
+
+tagItemSkillD160Name=Repreensão
+tagItemSkillD160Desc=Esmague seu oponente com um golpe devastador digno de um gigante.
+
+tagItemSkillD161Name=Replicação
+tagItemSkillD161Desc=O talento de Panetti para replicar magias arcanas era ainda mais impressionante quando ele o fazia sob grande pressão. ^oRequer um Foco.
+
+tagItemSkillD162Name=Retribuição
+tagItemSkillD162Desc=Provoque os inimigos próximos com uma onda de choque que emana de seu escudo. ^oRequer um escudo.
+
+tagItemSkillD163Name=Deleitar-se com a Morte
+tagItemSkillD163Desc=Deleite-se com a carnificina que você provoca, banqueteando-se com o sangue derramado.
+
+tagItemSkillD164Name=Retidão
+tagItemSkillD164Desc=Proteja-se a cada matança, pois você nunca sabe quando os demônios do vazio podem atacar.
+
+tagItemSkillD165Name=Anel de Chamas
+tagItemSkillD165Desc=Fique cercado por um anel de brasas que são inofensivas para você e perigosas para os inimigos que se aproximam.
+
+tagItemSkillD166Name=Anel de Aço
+tagItemSkillD166Desc=Em um piscar de olhos, centenas de lâminas fantasmagóricas rodeiam você com uma velocidade incrível, perfurando os inimigos adjacentes.
+
+tagItemSkillD167Name=Equilíbrio Sagrado
+tagItemSkillD167Desc=Gere um equilíbrio entre as forças opostas da luz e das trevas antes de lançar os poderes delas nos inimigos próximos.
+
+tagItemSkillD168Name=Gritos do Éter
+tagItemSkillD168Desc=Clamores do Éter emanam de você, aterrorizando os inimigos próximos.
+
+tagItemSkillD169Name=Destino Selado
+tagItemSkillD169Desc=Você sela o destino de seus inimigos, confiante no julgamento que lançou sobre eles.
+
+tagItemSkillD170Name=Segredos do Guardião
+tagItemSkillD170Desc=Os segredos de Dreeg são revelados a você, ameaçando sua sanidade, mas também empoderando os seus feitiços.
+
+tagItemSkillD171Name=Disparo das Sombras
+tagItemSkillD171Desc=Você dispara escuridão pura em seu oponente.
+
+tagItemSkillD172Name=Chamas Sombrias
+tagItemSkillD172Desc=Infunda sua arma com chamas sombrias para desencadear uma saraivada mortal de projéteis. ^oRequer uma arma de longo alcance de duas mãos e se ativa com ataques de arma padrão.
+
+tagItemSkillD173Name=Esplendor Cintilante
+tagItemSkillD173Desc=O esplendor destas calças é grandioso demais para ser observado.
+
+tagItemSkillD174Name=Quebra-cercos
+tagItemSkillD174Desc=Destrói as linhas inimigas ao romper e partir a terra sob os pés deles.
+
+tagItemSkillD175Name=Signo de Consumo
+tagItemSkillD175Desc=Crie no solo um signo ocultista que consome a força vital de inimigos apanhados dentro de seu raio de ação, transferindo para a sua saúde uma parte do dano causado.
+
+tagItemSkillD176Name=Armamento com Núcleo de Prata
+tagItemSkillD176Desc=Arme a si e aos seus aliados contra os demônios do vazio. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD177Name=Lâminas do Assassino
+tagItemSkillD177Desc=Solte um par de lâminas giratórias para acabar com demônios vis.
+
+tagItemSkillD178Name=Poço das Almas
+tagItemSkillD178Desc=Abra um portal para o além, fazendo aparecer um poço de espíritos sem descanso que despedaçam qualquer inimigo que ouse entrar nele.
+
+tagItemSkillD179Name=Soberano
+tagItemSkillD179Desc=Imponha a sua vontade suprema aos seus asseclas, concedendo-lhes uma força imparável.
+
+tagItemSkillD180Name=Centelha de Ultos
+tagItemSkillD180Desc=Uma centelha do próprio Ultos empodera você e seus asseclas com um fragmento do poder do deus do céu. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD181Name=Rachar a Terra
+tagItemSkillD181Desc=Parta a terra ao meio, criando uma fissura de pedras pontudas.
+
+tagItemSkillD182Name=Toque da Tempestade
+tagItemSkillD182Desc=Ataque com o poder de uma tempestade, desencadeando uma onda eletrizante entre seus inimigos.
+
+tagItemSkillD183Name=Titã da Tempestade
+tagItemSkillD183Desc=Você fica envolto em raios, eletrizando todos os que se encontram muito próximos de sua presença.
+
+tagItemSkillD184Name=Instintos de Sobrevivência
+tagItemSkillD184Desc=Às vezes, a melhor maneira de sobreviver é correr. Com um aumento de adrenalina, você se distancia de seus inimigos.
+
+tagItemSkillD185Name=Deslocamento Temporal
+tagItemSkillD185Desc=Você distorce o tempo ao seu redor, criando uma bolha na qual os inimigos mal conseguem se mover.
+
+tagItemSkillD186Name=Pele Espinhosa
+tagItemSkillD186Desc=Você fica intocável para os seus inimigos graças a uma barreira de espinhos que se forma ao seu redor.
+
+tagItemSkillD187Name=Engenhosidade do Funileiro
+tagItemSkillD187Desc=Sua engenhosidade permite que você tenha êxito nos momentos mais difíceis.
+
+tagItemSkillD188Name=Poder de Titã
+tagItemSkillD188Desc=Você empunha armas enormes com facilidade, uma prova de sua força titânica. ^oEste bônus passivo se aplica ao ser usado com uma arma corpo a corpo de duas mãos.
+
+tagItemSkillD189Name=Toque de Pureza
+tagItemSkillD189Desc=Purifique os aliados próximos de seus males e cure ferimentos leves.
+
+tagItemSkillD190Name=Tomar Alma
+tagItemSkillD190Desc=Tome a alma de seu inimigo morto para recuperar sua força.
+
+tagItemSkillD191Name=Tiro com Efeito
+tagItemSkillD191Desc=Com uma boa pontaria e um pouco de sorte, você dispara um tiro inacreditável que pega o seu alvo de surpresa.
+
+tagItemSkillD192Name=Ira de Ultos
+tagItemSkillD192Desc=Libere a ira de Ultos no campo de batalha sob a forma de uma forte tempestade de raios.
+
+tagItemSkillD193Name=Chama de Ulzuin
+tagItemSkillD193Desc=Cubra o alvo com a chama selvagem de Ulzuin, a qual avidamente se espalha para os inimigos próximos à medida que procura cobrir o mundo com fogo.
+
+tagItemSkillD194Name=Fúria Desencadeada
+tagItemSkillD194Desc=Enfureça-se, abandonando a defesa para obter um ataque imparável.
+
+tagItemSkillD195Name=Desfazer
+tagItemSkillD195Desc=Arruíne a existência de seu adversário com um feitiço debilitante.
+
+tagItemSkillD196Name=Intocável
+tagItemSkillD196Desc=Seu escudo torna-se uma barreira impenetrável.
+
+tagItemSkillD197Name=Vampirismo
+tagItemSkillD197Desc=Sua sede de sangue torna-se insaciável, mas essa recém-descoberta vontade de esgotar a vitalidade dos seus inimigos tem um preço elevado.
+
+tagItemSkillD198Name=Vingança de Cairn
+tagItemSkillD198Desc=Você personifica a vingança da humanidade, inspirando seus aliados a lutar a qualquer custo. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD199Name=Golpe Venenoso
+tagItemSkillD199Desc=Você golpeia com uma velocidade estonteante, como uma víbora atacando sua presa. O alvo raramente percebe que um veneno mortal corre nas veias dele.
+
+tagItemSkillD200Name=Veneno da Matriarca Negra
+tagItemSkillD200Desc=Injete no seu alvo o veneno mortal da Matriarca Negra.
+
+tagItemSkillD201Name=Espinhos Peçonhentos
+tagItemSkillD201Desc=Espinhos peçonhentos irrompem de você, empalando seus inimigos.
+
+tagItemSkillD202Name=Sangue Vil
+tagItemSkillD202Desc=Corrompa o sangue de seu inimigo, abrindo feridas que sangram profusamente. A perda repentina de sangue pode ser devastadora.
+
+tagItemSkillD203Name=Nova Sugadora
+tagItemSkillD203Desc=Uma onda de energias necróticas arranca a vida dos inimigos próximos e a transfere para você.
+
+tagItemSkillD204Name=Andarilho do Vazio
+tagItemSkillD204Desc=Você é resistente aos efeitos corruptores do vazio, criando uma barreira sempre que atingido por demônios vis que usam tal magia.
+
+tagItemSkillD205Name=Proteção de Gul'Amash
+tagItemSkillD205Desc=A Proteção de Gul'Amash protege você de dano físico ao ser atingido por golpes físicos.
+
+tagItemSkillD206Name=Proteção da Ilusão
+tagItemSkillD206Desc=Crie um campo brilhante em torno de você e de seus aliados, o qual distrai seus inimigos. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD207Name=Fogo Deformador
+tagItemSkillD207Desc=Incendeie seu inimigo com fogo etéreo, enfraquecendo-o contra novos ataques arcanos.
+
+tagItemSkillD208Name=Sangue Selvagem
+tagItemSkillD208Desc=Sua herança selvagem faz com que você entre em um frenesi.
+
+tagItemSkillD209Name=Videiras Selvagens
+tagItemSkillD209Desc=Videiras crescem descontroladamente ao redor dos seus inimigos, enredando-os e causando ferimentos graves.
+
+tagItemSkillD210Name=Vontade dos Vivos
+tagItemSkillD210Desc=Sua vontade de sobreviver faz com que você seja mais difícil de matar quando fica à beira da morte.
+
+tagItemSkillD211Name=Tesouras de Vento
+tagItemSkillD211Desc=Você fica como o vento, rápido e difícil de localizar.
+
+tagItemSkillD212Name=Véu do Inverno
+tagItemSkillD212Desc=Orbes de gelo afiados espiralam em torno de você em um turbilhão congelante.
+
+tagItemSkillD213Name=Labareda Embruxada
+tagItemSkillD213Desc=Uma labareda de fogo entrópico irrompe de você.
+
+tagItemSkillD214Name=A Hora dos Bruxos
+tagItemSkillD214Desc=A hora dos bruxos está sobre nós, fortalecendo seus asseclas e seus feitiços ocultistas.
+
+tagItemSkillD215Name=Caminhada Fantasmal
+tagItemSkillD215Desc=Você anda pelo véu para ficar como os mortos, mal percebendo o mundo físico ao seu redor.
+
+tagItemSkillD216Name=Ira dos Mortos
+tagItemSkillD216Desc=Libere a vingança dos recém-mortos nos seus inimigos.
+
+tagItemSkillD217Name=Sopro da Serpe do Gelo
+tagItemSkillD217Desc=Libere o sopro da grande serpe do gelo nos seus inimigos.
+
+tagItemSkillD218Name=Sopro da Serpe Vulcânica
+tagItemSkillD218Desc=Libere o sopro da grande serpe vulcânica nos seus inimigos.
+
+tagItemSkillD219Name=Escama de Serpe
+tagItemSkillD219Desc=A escama de serpe protege você contra danos.
+
+tagItemSkillD220Name=Vingança de Zolhan
+tagItemSkillD220Desc=Zolhan era um especialista em surpreender seus inimigos. Quando eles pensavam que tinham a vantagem, ele contra-atacava com um golpe devastador de seu escudo.
+
+tagItemSkillD221Name=Sangue de Basilisco
+tagItemSkillD221Desc=Os inimigos que atacam você são infectados com sangue de basilisco, que, assim como o olhar incomum da fera, pode transformar criaturas em pedra.
+
+tagItemSkillD222Name=Luz Curativa
+tagItemSkillD222Desc=Uma luz reconfortante preenche você, curando ferimentos.
+
+tagItemSkillD223Name=Distorção Temporal
+tagItemSkillD223Desc=Distorça o próprio tempo no local onde se encontra o seu agressor.
+
+tagItemSkillD224Name=Ira do Alvorecer Sombrio
+tagItemSkillD224Desc=Libere o sofrimento e a destruição que tomaram conta do mundo no momento do Alvorecer Sombrio.
+
+tagItemSkillD225Name=Poder do Rei do Inverno
+tagItemSkillD225Desc=Bata com sua arma no chão com o poder do Rei do Inverno, desencadeando uma onda de espinhos gelados. ^oRequer uma arma corpo a corpo de duas mãos.
+
+tagItemSkillD226Name=Evocar Jubafria
+tagItemSkillD226Desc=Evoca um poderoso Yeti Jubafria para lutar ao seu lado. ^oVocê só pode evocar um jubafria por vez. O dano do yeti varia conforme os Bônus para Companheiros.
+
+tagItemSkillD227Name=Presença da Geada Pavorosa
+tagItemSkillD227Desc=Libere o frio que habita em seu coração gelado, infundindo suas armas com um frio que exaure a vida. Esse efeito se estende a aliados próximos. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagItemSkillD228Name=Força Despedaçadora
+tagItemSkillD228Desc=Despedace as defesas dos inimigos próximos com uma arremetida de força física.
+
+tagItemSkillD229Name=Cometa Caído
+tagItemSkillD229Desc=Os poderes de Trozan continuaram a evoluir para além de derrubar fragmentos do céu, até o dia em que ele fez cair o próprio firmamento.
+
+tagItemSkillD230Name=Munição de Fragmentação
+tagItemSkillD230Desc=Carregue uma munição personalizada que se fragmenta e transpassa seus alvos.
+
+tagItemSkillD231Name=Letalidade de Valdun
+tagItemSkillD231Desc=Valdun era famoso por seu talento com rifles. ^oEste bônus passivo se aplica ao ser usado com uma arma de longo alcance de duas mãos.
+
+tagItemSkillD232Name=Astúcia de Valdun
+tagItemSkillD232Desc=Valdun era conhecido tanto por suas habilidades com um rifle quanto por evadir-se das autoridades. Ele nunca foi capturado. ^oEste bônus passivo se aplica ao ser usado com uma arma de longo alcance de duas mãos.
+
+tagItemSkillD233Name=Pente de Valdun
+tagItemSkillD233Desc=Dispare uma munição personalizada que se estilhaça ao entrar em contato com um inimigo. ^oAtiva-se com ataques de arma padrão.
+
+tagItemSkillD234Name=Perfídia de Valdun
+tagItemSkillD234Desc=Valdun não era conhecido por lutar de forma justa. Certa vez, ele terminou um duelo honroso carregando seu pente com uma bala explosiva. ^oRequer uma arma de longo alcance de duas mãos e se ativa com ataques de arma padrão.
+
+tagItemSkillD235Name=Devastação de Anasteria
+tagItemSkillD235Desc=Esta técnica abre uma fenda na realidade, da qual caem brasas de energia arcana bruta. ^oRequer um Foco. Brasas continuam a cair durante a duração do feitiço.
+
+tagItemSkillD236Name=Guarda do Justicar
+tagItemSkillD236Desc=O Grande Árbitro se mantém resoluto contra qualquer golpe. ^oEste bônus passivo requer uma arma corpo a corpo ou um escudo.
+
+tagItemSkillD237Name=Vingança do Justicar
+tagItemSkillD237Desc=Horvald raramente dizia uma palavra, deixando que sua arma falasse em seu lugar. ^oEste bônus passivo requer uma arma corpo a corpo ou um escudo.
+
+tagItemSkillD238Name=Poder do Contemplador
+tagItemSkillD238Desc=O poder do Contemplador flui através de você.
+
+tagItemSkillD239Name=Chama Negra
+tagItemSkillD239Desc=Uma labareda de chamas Feéricas irrompe sob seus inimigos.
+
+tagItemSkillD240Name=Mordida da Rainha Louca
+tagItemSkillD240Desc=Ataque desesperadamente os inimigos próximos, cravando sua lâmina bem fundo.
+
+tagItemSkillD241Name=Terremoto
+tagItemSkillD241Desc=Abra uma fissura por toda a área sob seus oponentes, retardando e atordoando todos os inimigos apanhados dentro dela.
+
+tagItemSkillD242Name=Ira Peçonhenta
+tagItemSkillD242Desc=Um veneno vil que se infiltra na carne e expõe fraquezas ocultas.
+
+tagItemSkillD243Name=Círculo Ritual
+tagItemSkillD243Desc=Conjure um círculo ritual que fortalece os seus feitiços e protege contra danos físicos, desde que você fique dentro dele.
+tagItemSkillD243NamePetSkill=Rituais Empoderados
+tagItemSkillD243DescPetSkill=Ficar dentro do Círculo Ritual fortalece seus feitiços e protege você contra danos físicos.
+
+tagItemSkillD244Name=Fragmento de Tempestade
+tagItemSkillD244Desc=Conjure um cristal infundido com eletricidade no local do alvo para dar choque nos inimigos próximos. ^oO dano dos Fragmentos de Tempestade varia conforme os bônus para o dano do jogador.
+
+tagItemSkillD245Name=Evocar o Inferno
+tagItemSkillD245Desc=Chamas infernais irrompem da terra sob seus inimigos.
+
+tagItemSkillD246Name=Pacto de Agrivix
+tagItemSkillD246Desc=Conjure um fogo-fátuo de energia arcana para atacar seus inimigos. ^oO dano dos Fogos-fátuos Arcanos varia conforme os bônus para o dano do jogador.
+tagItemSkillD246NamePetSkill=Choque Arcano
+
+tagItemSkillD247Name=Filho da Guerra
+tagItemSkillD247Desc=Você nasceu para o combate e para vencer nos momentos mais difíceis dele.
+
+tagItemSkillD248Name=Fúria Sanguinária
+tagItemSkillD248Desc=Matar um inimigo deixa você enraivecido e com vontade de derramar mais sangue.
+
+tagItemSkillD249Name=Destruição Arcana
+tagItemSkillD249Desc=Abra uma pequena fenda na realidade, da qual cai uma brasa arcana.
+
+tagItemSkillD250Name=Derramar o Sangue
+tagItemSkillD250Desc=Avance rapidamente contra os inimigos próximos em uma exibição sangrenta.
+
+tagItemSkillD251Name=Marca Negra
+tagItemSkillD251Desc=A marca do Pálido preenche seus inimigos com uma dor excruciante.
+
+tagItemSkillD252Name=Golpe Pavoroso
+tagItemSkillD252Desc=Desapareça no véu da morte e, em um instante, reapareça perto do alvo.
+
+tagItemSkillD253Name=Fogo Pavoroso
+tagItemSkillD253Desc=Um anel de fogo espectral expande-se em torno de você, incapacitando seus inimigos.
+
+tagItemSkillD254Name=Ira de Shar'Zul
+tagItemSkillD254Desc=Chamas irrompem da terra em torno de você, não deixando nada além de cinzas e miséria.
+
+tagItemSkillD255Name=Gelo Pavoroso
+tagItemSkillD255Desc=Libere uma explosão de espinhos congelados e afiados.
+
+tagItemSkillFailName=Encantamento da Falha
+tagItemSkillFailDesc=Falhe um pouco mais.
+
+
+#Component Skills
+
+tagCompSkillA001Name=Golpe Ácido
+tagCompSkillA001Desc=Ataque seu oponente usando ácido corrosivo, capaz de derreter até a mais forte das armaduras.
+
+tagCompSkillA002Name=Gavinha Etérea
+tagCompSkillA002Desc=Desencadeie uma explosão de pura energia etérea contra o seu alvo.
+
+tagCompSkillA003Name=Banir
+tagCompSkillA003Desc=Um golpe de arma devastador para seres Etéreos.
+
+tagCompSkillA004Name=Armas Empaladoras
+tagCompSkillA004Desc=Fortaleça seus ataques para perfurar armaduras. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagCompSkillA005Name=Proteção contra Lâminas
+tagCompSkillA005Desc=Fortaleça sua armadura contra ataques perfurantes, retaliando na mesma moeda.
+
+tagCompSkillA006Name=Barricada contra Lâminas
+tagCompSkillA006Desc=Imbua sua armadura contra ataques perfurantes, retaliando na mesma moeda.
+
+tagCompSkillA007Name=Bebedor de Sangue
+tagCompSkillA007Desc=Fortaleça seus ataques com energia vampírica.
+
+tagCompSkillA008Name=Sedento de Sangue
+tagCompSkillA008Desc=Fortaleça seus ataques com energia vampírica.
+
+tagCompSkillA009Name=Disparo de Caos
+tagCompSkillA009Desc=Dispare energias caóticas contra o alvo.
+
+tagCompSkillA010Name=Armas Congelantes
+tagCompSkillA010Desc=Fortaleça seus ataques com um frio mortal. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagCompSkillA011Name=Degolar
+tagCompSkillA011Desc=Tente degolar o oponente com um golpe mortal, capaz de causar sangramento intenso.
+
+tagCompSkillA012Name=Decapitar
+tagCompSkillA012Desc=Tente decapitar o oponente com um golpe mortal, capaz de causar sangramento intenso.
+
+tagCompSkillA013Name=Armas Ardentes
+tagCompSkillA013Desc=Fortaleça seus ataques com uma chama ardente. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagCompSkillA014Name=Explosão de Fogo
+tagCompSkillA014Desc=Lance uma bola de fogo incinerador contra o seu alvo.
+
+tagCompSkillA015Name=Grande Explosão de Fogo
+tagCompSkillA015Desc=Lance uma bola de fogo incinerador contra o seu alvo.
+
+tagCompSkillA016Name=Estaca de Gelo
+tagCompSkillA016Desc=Lance uma estaca de gelo sólido como rocha para empalar seus inimigos.
+
+tagCompSkillA017Name=Grande Estaca de Gelo
+tagCompSkillA017Desc=Lance uma estaca de gelo sólido como rocha para empalar seus inimigos.
+
+tagCompSkillA018Name=Armas Elétricas
+tagCompSkillA018Desc=Fortaleça seus ataques com o poder da eletricidade. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagCompSkillA019Name=Golpe Elétrico
+tagCompSkillA019Desc=Golpeie seus inimigos com a força de um raio.
+
+tagCompSkillA020Name=Golpe Elétrico Empoderado
+tagCompSkillA020Desc=Golpeie seus inimigos com a força de um raio.
+
+tagCompSkillA021Name=Armas Envenenadas
+tagCompSkillA021Desc=Fortaleça seus ataques com um veneno repugnante. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagCompSkillA022Name=Bomba de Veneno
+tagCompSkillA022Desc=Lance uma bomba repugnante que explode ao contato, cobrindo seus inimigos com toxinas.
+
+tagCompSkillA023Name=Bomba de Veneno Nociva
+tagCompSkillA023Desc=Lance uma bomba repugnante que explode ao contato, cobrindo seus inimigos com toxinas.
+
+tagCompSkillA024Name=Escudo Radiante
+tagCompSkillA024Desc=Imbua seu escudo contra os elementos.
+
+tagCompSkillA025Name=Golpe Sagrado
+tagCompSkillA025Desc=Golpeie seus inimigos com um golpe devastador que enfraquece a resiliência deles.
+
+tagCompSkillA026Name=Golpe de Escudo
+tagCompSkillA026Desc=Golpeie seu inimigo com seu escudo, deixando os mais fracos completamente incapacitados. ^oRequer uma arma corpo a corpo.
+
+tagCompSkillA027Name=Ponta do Escudo
+tagCompSkillA027Desc=Golpeie seu inimigo com seu escudo, empalando seu alvo com as pontas dele. ^oRequer uma arma corpo a corpo.
+
+tagCompSkillA028Name=Gume de Prata
+tagCompSkillA028Desc=Um golpe de arma devastador para seres Ctônicos.
+
+tagCompSkillA029Name=Golpe
+tagCompSkillA029Desc=Golpeie seu inimigo com um golpe avassalador.
+
+tagCompSkillA030Name=Golpe Brutal
+tagCompSkillA030Desc=Golpeie seu inimigo com um golpe avassalador.
+
+tagCompSkillA031Name=Armas Empaladoras Empoderadas
+tagCompSkillA031Desc=Fortaleça seus ataques para perfurar armaduras. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagCompSkillA032Name=Armas Etéreas
+tagCompSkillA032Desc=Fortaleça seus ataques com o próprio éter. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagCompSkillA033Name=Golpe do Caos
+tagCompSkillA033Desc=Arremeta através do vazio para atacar seus inimigos com o poder destrutivo do caos. ^oRequer uma arma corpo a corpo.
+
+tagCompSkillA034Name=Golpe de Escudo Brutal
+tagCompSkillA034Desc=Golpeie seu inimigo com seu escudo com pontas, deixando os mais fracos completamente incapacitados. ^oRequer uma arma corpo a corpo.
+
+tagCompSkillA035Name=Proteção contra o Éter
+tagCompSkillA035Desc=Proteja-se contra o poder corruptor do Éter. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagCompSkillA036Name=Proteção contra o Vazio
+tagCompSkillA036Desc=Proteja-se contra o Vazio caótico. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagCompSkillA037Name=Nova Elétrica
+tagCompSkillA037Desc=Libera uma explosão de eletricidade, causando dano a todos os inimigos próximos.
+
+tagCompSkillA038Name=Nova Elétrica Empoderada
+tagCompSkillA038Desc=Libera uma explosão de eletricidade, causando dano a todos os inimigos próximos.
+
+tagCompSkillB001Name=Sopro do Demônio
+tagCompSkillB001Desc=Lance uma onda explosiva de fogo extraterreno contra os seus inimigos.
+
+tagCompSkillB002Name=Fúria de Beronath
+tagCompSkillB002Desc=Golpeie seus inimigos com a fúria da grande fera Beronath. ^oAo ser usada como ataque de arma padrão, Fúria de Beronath aumenta a intensidade dos seus ataques a cada golpe. O acúmulo de cargas aumenta a potência dos bônus.
+
+tagCompSkillB003Name=Rajada de Prata
+tagCompSkillB003Desc=Lance uma rajada de projéteis revestidos com prata para matar seres Ctônicos.
+
+tagCompSkillB004Name=Olhar Infinito de Dreeg
+tagCompSkillB004Desc=Libere o olhar infinito de Dreeg ao seu redor.
+
+tagCompSkillB005Name=Chama de Solael
+tagCompSkillB005Desc=Cubra seu alvo com a chama obscura de Solael.
+
+tagCompSkillB006Name=Poder de Oleron
+tagCompSkillB006Desc=Golpeia com sua arma, causando ferimentos graves e incapacitando o alvo.
+
+tagCompSkillB007Name=Vinculação de Bysmiel
+tagCompSkillB007Desc=Vincule os seus asseclas à sua vontade. ^o(Bônus passivo)
+
+
+
+
+#Relic Skills
+
+tagRelicSkillB001Name=Calamidade
+tagRelicSkillB001Desc=Uma explosão de enxofre incandescente irrompe de você.
+
+tagRelicSkillB002Name=Golpe Rápido
+tagRelicSkillB002Desc=Comece a atacar rapidamente na esperança de acertar alguns golpes fortuitos.
+
+tagRelicSkillB003Name=Tranquilidade
+tagRelicSkillB003Desc=Domine os inimigos próximos com a sua mente.
+
+tagRelicSkillB004Name=Fluxo de Gelo
+tagRelicSkillB004Desc=Canalize energia congelante através do seu próprio âmago, fazendo com que os inimigos que atacam você desencadeiem ocasionalmente uma onda de gelo. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagRelicSkillB005Name=Tempestade de Raios
+tagRelicSkillB005Desc=Evoque uma nuvem de tempestade sobre a área-alvo, eletrocutando periodicamente os inimigos apanhados embaixo dela.
+
+tagRelicSkillB006Name=Fúria Vulcânica
+tagRelicSkillB006Desc=Preenche você com uma fúria ardente, fazendo com que os seus ataques incendeiem os inimigos.
+
+tagRelicSkillB007Name=Corrupção
+tagRelicSkillB007Desc=Corrompe o seu sangue, fazendo com que ele contagie com uma doença mortal todos os que ousam golpear você.
+
+tagRelicSkillB008Name=Santuário
+tagRelicSkillB008Desc=Forma-se uma barreira protetora em torno de você sempre que um inimigo consegue encontrar um ponto fraco na sua defesa.
+
+tagRelicSkillB009Name=Ardileza
+tagRelicSkillB009Desc=Seu intelecto ardiloso inspira seus aliados a prever de forma mais eficaz as ações do inimigo e desferir golpes devastadores. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagRelicSkillB010Name=Furor
+tagRelicSkillB010Desc=Entre em um estado de fúria após acertar um golpe crítico no seu alvo, garantindo que outros golpes se seguirão.
+
+tagRelicSkillB011Name=Raiva de Troll
+tagRelicSkillB011Desc=Lute como um implacável semitroll. ^oAo ser usada como ataque de arma padrão, Raiva de Troll aumenta sua fúria a cada golpe, mas ao custo de concentração. O acúmulo de cargas aumenta a potência dos bônus.
+
+tagRelicSkillB012Name=Mutilar
+tagRelicSkillB012Desc=Mutila seu alvo com três ataques rápidos, causando intenso sangramento. ^oEsta técnica é usada com duas armas corpo a corpo e se ativa com ataques de arma padrão. Também permite que você empunhe duas armas corpo a corpo simultaneamente.
+
+tagRelicSkillB013Name=Rajada
+tagRelicSkillB013Desc=Dispare uma rajada calculada de balas contra o seu alvo. ^oEsta técnica é usada com duas armas de longo alcance ou com uma arma de longo alcance de duas mãos e se ativa com ataques de arma padrão. Também permite que você empunhe duas armas de longo alcance simultaneamente.
+
+tagRelicSkillC001Name=Malhete da Justiça
+tagRelicSkillC001Desc=Julgue os ímpios com severidade. ^oRequer uma arma corpo a corpo de duas mãos ou uma arma de longo alcance de duas mãos.
+
+tagRelicSkillC002Name=Fortaleza Vivente
+tagRelicSkillC002Desc=Com a pele dura como pedra, você se torna quase imune a lâminas e à magia. ^oRequer um escudo.
+
+tagRelicSkillC003Name=Banho de Sangue
+tagRelicSkillC003Desc=Uma técnica brutal que deixa seus inimigos sangrando profusamente, levando-os a uma morte lenta e dolorosa. ^oEsta técnica é usada com duas armas corpo a corpo. Também permite que você empunhe duas armas corpo a corpo simultaneamente.
+
+tagRelicSkillC004Name=Imparável
+tagRelicSkillC004Desc=Você é como uma força imparável, capaz de resistir a ataques que matariam mortais inferiores.
+
+tagRelicSkillC005Name=Terror
+tagRelicSkillC005Desc=Incuta o terror absoluto nos corações dos seus inimigos, corroendo-os de dentro para fora.
+
+tagRelicSkillC006Name=Tormento
+tagRelicSkillC006Desc=Invoque uma terrível maldição sobre todos aqueles que se atrevem a atacar você, causando fraqueza e dor intensa.
+
+tagRelicSkillC007Name=Assombração
+tagRelicSkillC007Desc=Invoque um grupo de espíritos torturados que assombram e congelam o sangue dos seus inimigos.
+
+tagRelicSkillC008Name=Conflagração
+tagRelicSkillC008Desc=Libere um raio de chamas tão intensas que nem mesmo a armadura mais resistente pode suportá-las. ^oEsta é uma habilidade canalizada e funciona enquanto for mantida pressionada.
+
+tagRelicSkillC009Name=Evocar Cão Tempestuoso
+tagRelicSkillC009Desc=Evoque um fiel Cão Tempestuoso, uma fera feérica nascida dos céus. ^oVocê só pode evocar um cão tempestuoso por vez. O dano do cão tempestuoso varia conforme os Bônus para Companheiros.
+
+tagRelicSkillC010Name=Aura de Frio Mortal
+tagRelicSkillC010Desc=Fortaleça seus ataques e os de seus aliados próximos com o frio pavoroso da morte. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagRelicSkillC011Name=Sacrifício
+tagRelicSkillC011Desc=Aproveite o poder de sua força vital para imbuir seus ataques de sua própria vitalidade.
+
+tagRelicSkillC012Name=Zelo
+tagRelicSkillC012Desc=Mantenha a vantagem, desencadeando uma onda de ataques após você desferir um golpe crítico. ^oRequer uma arma corpo a corpo.
+
+tagRelicSkillC013Name=Desolação
+tagRelicSkillC013Desc=Corrompa a terra sob seus pés, tornando-a venenosa e mortal.
+tagRelicSkillC013Desc2=Destrua a terra sob seus pés com uma força estática destrutiva.
+
+tagRelicSkillC014Name=Infecção
+tagRelicSkillC014Desc=Cerque-se com uma nuvem infecciosa de inúmeras doenças capaz de infectar qualquer um que se aproxime dela.
+
+tagRelicSkillC015Name=Vínculo Ancestral
+tagRelicSkillC015Desc=Seu vínculo ancestral com seus asseclas desbloqueia neles um poder inimaginável. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagRelicSkillD001Name=Égide
+tagRelicSkillD001Desc=Imbua-se de luz divina, protegendo-se de danos ainda maiores à medida que absorve golpes recebidos.
+
+tagRelicSkillD002Name=Maldição
+tagRelicSkillD002Desc=Imbua suas armas de venenos cáusticos e doenças virulentas, infectando seus inimigos a cada golpe. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagRelicSkillD003Name=Evocar Nêmesis
+tagRelicSkillD003Desc=Evoque Nêmesis, semideus das sombras e senhor da caça noturna. ^oVocê só pode evocar uma manifestação de Nêmesis por vez. O dano de Nêmesis varia conforme os bônus para o dano do jogador.
+
+tagRelicSkillD004Name=Cidadela
+tagRelicSkillD004Desc=Fortaleça sua defesa e as de seus aliados e transformem-se em uma fortaleza móvel. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagRelicSkillD005Name=Aura do Evocador de Tempestades
+tagRelicSkillD005Desc=Fortaleça a si e aos seus aliados com o poder de uma tempestade de raios. ^oEsta habilidade deve ser ativada para manter seu efeito.
+
+tagRelicSkillD006Name=Acerto de Contas
+tagRelicSkillD006Desc=Uma retaliação brutal que deixa os inimigos que atacam você vulneráveis a um contra-ataque.
+
+tagRelicSkillD007Name=Golpe do Flagelo
+tagRelicSkillD007Desc=Golpeie seus inimigos com um golpe congelante que irradia o frio da morte para a essência deles, transmitindo parte da vitalidade roubada para você. ^oRequer uma arma corpo a corpo.
+
+tagRelicSkillD008Name=Piroclasma
+tagRelicSkillD008Desc=Chamas selvagens irrompem de você em um rastro de devastação.
+
+tagRelicSkillD009Name=Necrose
+tagRelicSkillD009Desc=Invoque uma maldição debilitante sobre os inimigos, fazendo com que sua carne apodreça e seus sentidos fiquem desacelerados.
+
+tagRelicSkillD010Name=Malícia de Agrivix
+tagRelicSkillD010Desc=Use a fúria de Agrivix, criando rajadas rodopiantes de energias etéreas e caóticas ao seu redor.
+
+tagRelicSkillD011Name=Esquecimento
+tagRelicSkillD011Desc=Libere a força destrutiva do caos sobre seus inimigos.
+
+tagRelicSkillD012Name=Carnificina
+tagRelicSkillD012Desc=Quanto mais carnificina e devastação você causa, mais fácil fica voltar a fazê-lo. ^oEsta técnica é usada com duas armas corpo a corpo. Também permite que você empunhe duas armas corpo a corpo simultaneamente.
+
+tagRelicSkillD013Name=Meteoro
+tagRelicSkillD013Desc=Rasgue a frágil barreira entre o submundo e o reino mortal ao conjurar uma enorme pedra ardente que cai sobre seus inimigos.
+
+tagRelicSkillD014Name=Vingança
+tagRelicSkillD014Desc=Libere toda a energia dos golpes que você levou em uma devastadora onda de choque.
+
+tagRelicSkillD015Name=Mente de Enxame
+tagRelicSkillD015Desc=O ritmo regular de sua luta interminável evoca um Filhote do Enxame para ajudá-lo.
+
+tagRelicSkillD016Name=Dizimação
+tagRelicSkillD016Desc=Libere a fúria de Solael sobre qualquer um que ouse atacar o servo escolhido dele.
+
+tagRelicSkillD017Name=Espinhos Aflitos de Dreeg
+tagRelicSkillD017Desc=Lance um anel de espinhos venenosos de Dreeg contra seus inimigos desavisados, infectando-os com o sangue do grandioso.
+
+tagRelicSkillD018Name=Devoção Frenética
+tagRelicSkillD018Desc=Ver o mestre deles ferido faz seus asseclas entrarem num frenesi violento.
+
+tagRelicSkillD019Name=Ira de Oleron
+tagRelicSkillD019Desc=Fortaleça-se com o poder do sangue do deus da guerra, liberando a ira dele sobre os inimigos próximos.
+
+tagRelicSkillD020Name=Bastião de Menhir
+tagRelicSkillD020Desc=Fortaleça-se com o espírito protetor de Menhir, protegendo a si e aos seus aliados de qualquer dano.
+
+tagRelicSkillD021Name=Desequilíbrio Elemental
+tagRelicSkillD021Desc=O seu delicado equilíbrio entre os elementos às vezes é prejudicado pelo seu furioso ataque arcano, desencadeando uma onda de poder que fará com que os seus inimigos se arrependam de ter chegado perto de você. ^oRequer um Foco.
+
+
+
+#ConsumableSkills
+
+tagConsumableSkill_RoyalJellyBalmName=Bálsamo de Geleia Real
+tagConsumableSkill_RoyalJellyBalmDesc=Preenche você com um calor calmante.
+tagConsumableSkill_A01=Unguento do Bebedor de Chamas
+tagConsumableSkill_A01Desc=Fortalece a carne contra o calor das chamas.
+tagConsumableSkill_A02=Unguento do Sudário da Geada
+tagConsumableSkill_A02Desc=Fortalece a carne contra o rigor do inverno.
+tagConsumableSkill_A03=Unguento do Sudário da Tempestade
+tagConsumableSkill_A03Desc=Fortalece a carne contra a ira dos raios.
+tagConsumableSkill_A04=Unguento da Guarda do Veneno
+tagConsumableSkill_A04Desc=Fortalece a carne contra venenos vis.
+tagConsumableSkill_A05=Unguento do Vínculo de Sangue
+tagConsumableSkill_A05Desc=Fortalece a carne contra os poderes dos demônios do vazio.
+tagConsumableSkill_A06=Unguento da Perdição do Espírito
+tagConsumableSkill_A06Desc=Fortalece a carne contra os poderes dos Etéreos asquerosos.
+tagConsumableSkill_A07=Unguento do Sussurro da Morte
+tagConsumableSkill_A07Desc=Fortalece a carne contra a magia da morte.
+tagConsumableSkill_A08=Unguento da Geada Branca
+tagConsumableSkill_A08Desc=Um calor reconfortante preenche sua carne.
+tagConsumableSkill_A09=Óleo de Rouba-vidas
+tagConsumableSkill_A09Desc=Reveste sua arma com a toxina Rouba-vidas.
+tagConsumableSkill_A10=Óleo de Presa Venenosa
+tagConsumableSkill_A10Desc=Reveste sua arma com a toxina Presa Venenosa.
+tagConsumableSkill_A11=Óleo de Presa Sanguinária
+tagConsumableSkill_A11Desc=Reveste sua arma com a toxina Presa Sanguinária.
+tagConsumableSkill_A12=Óleo Arcano
+tagConsumableSkill_A12Desc=Reveste sua arma com um elixir Arcano.
+tagConsumableSkill_A13=Elixir dos Antigos
+tagConsumableSkill_A13Desc=Preenche você com o poder dos Antigos.
+tagConsumableSkill_A14=Elixir do Vazio
+tagConsumableSkill_A14Desc=Preenche você com o poder indomável do Vazio.
+tagConsumableSkill_A15=Elixir do Éter
+tagConsumableSkill_A15Desc=Preenche você com o poder bruto do Éter.
+tagConsumableSkill_A16=Elixir da Caça
+tagConsumableSkill_A16Desc=Preenche você com energia ilimitada.
+tagConsumableSkill_A17=Extrato de Geleia Real
+tagConsumableSkill_A17Desc=Aguça a mente.
+tagConsumableSkill_A18=Essência de Geleia Real
+tagConsumableSkill_A18Desc=Revitaliza e fortalece os ossos.
+tagConsumableSkill_A19=Lenitivo de Geleia Real
+tagConsumableSkill_A19Desc=Preenche você com um calor calmante.
+tagConsumableSkill_A20=Unguento de Geleia Real
+tagConsumableSkill_A20Desc=Preenche você com um calor calmante.
+tagConsumableSkill_A21=Perdição Celestial
+tagConsumableSkill_A21Desc=Uma luz divina permeia sua carne.
+tagConsumableSkill_A22=Aglomerado Etéreo
+tagConsumableSkill_A22Desc=Quebre a formação de cristais para liberar as energias dela.
+tagConsumableSkill_A23=Cerveja de Burrwitch
+tagConsumableSkill_A23Desc=Não é para os fracos de coração. Os efeitos colaterais podem incluir: náuseas, vômitos e esquecimento de onde você esteve na noite passada.
+
+tagConsumableSkill_F01=Óleo de Coração de Pedra
+tagConsumableSkill_F01Desc=Reveste seu escudo com a mistura Coração de Pedra.
+tagConsumableSkill_F02=Tintura de Sangue de Slith
+tagConsumableSkill_F02Desc=Uma névoa de toxinas rodeia você.
+tagConsumableSkill_F03=Óleo Rhowari
+tagConsumableSkill_F03Desc=Reveste sua arma com a toxina Arkoviana.
+tagConsumableSkill_F04=Tintura da Ira da Fera
+tagConsumableSkill_F04Desc=Faz com que seus asseclas entrem em frenesi.
+tagConsumableSkill_F05=Óleo Dermáptero
+tagConsumableSkill_F05Desc=Reveste sua arma com toxina Dermáptera.
+tagConsumableSkill_F06=Tintura da Coragem
+tagConsumableSkill_F06Desc=Preenche você e seus aliados com a vontade de continuar lutando.
+tagConsumableSkill_F07=Óleo de Busca-coração
+tagConsumableSkill_F07Desc=Reveste sua arma com a toxina Busca-coração.
+tagConsumableSkill_F08=Tintura das Lâminas Protetoras
+tagConsumableSkill_F08Desc=Envolve você em lâminas rodopiantes que atingem qualquer coisa que o ataque.
+tagConsumableSkill_F09=Óleo de Gela-sangue
+tagConsumableSkill_F09Desc=Reveste sua arma com a mistura Gela-sangue.
+tagConsumableSkill_F10=Tintura da Guarda da Geada
+tagConsumableSkill_F10Desc=Um vento de gelar os ossos rodeia você.
+tagConsumableSkill_F11=Óleo Sagrado de Kymon
+tagConsumableSkill_F11Desc=Reveste sua arma com óleos abençoados pelo próprio Kymon.
+tagConsumableSkill_F12=Tintura da Ira de Kymon
+tagConsumableSkill_F12Desc=Uma explosão de chamas emana de você.
+
+
+#SkillsQuest
+
+tagQuestSkill_A01=Bênção de Kymon
+tagQuestSkill_A01Desc=Suas armas são abençoadas com a chama sagrada de Empyrion.
+tagQuestSkill_A02=Encantamento da Vigília da Morte
+tagQuestSkill_A02Desc=Suas armas são encantadas pela Ordem.
+tagQuestSkill_A03=Marca de Anasteria
+tagQuestSkill_A03Desc=Você é marcado pela Proscrita.
+
+
+#SkillsGeneral
+
+MasteriesAvailable=Selecione entre {%d0} Abas Adicionais
+NoMasteriesAvailable=Não há Abas Adicionais Disponíveis
+SkillPointsAvailable=P. Disponíveis: {%d0}
+SkillPointsAvailableSingular=P. Disponíveis: {%d0}
+NoSkillPointsAvailable=P. Disponíveis: 0
+DevotionPointsAvailable=P. Disponíveis: {%d0}
+DevotionPointsAvailableSingular=P. Disponíveis: {%d0}
+NoDevotionPointsAvailable=P. Disponíveis: 0
+DevotionPointsTotal=P. Desbloqueados: {%d0} / {%d1}
+tagConfirmSkillChanges=Confirmar as alterações?
+
+#SkillDevotion
+tagDevotionInfo=Na hora mais sombria, a humanidade se volta para as estrelas. Devote-se aos símbolos celestes e às deidades antigas. Reivindique o poder ancestral deles.
+
+tagDevotionAffinity01=Ascendente
+tagDevotionAffinity01Info=A quantidade de Afinidade com Ascendente que você canalizou.^n^nOs seres Ascendentes alcançaram uma condição divina por meio de imensas proezas ou reverência de seus inferiores.
+tagDevotionAffinity02=Caos
+tagDevotionAffinity02Info=A quantidade de Afinidade com Caos que você canalizou.^n^nOs seres Caóticos anseiam por entropia e destruição acima de tudo.
+tagDevotionAffinity03=Feérico
+tagDevotionAffinity03Info=A quantidade de Afinidade com Feérico que você canalizou.^n^nOs seres Feéricos representam as forças selvagens da magia e os reinos metafísicos para além do véu.
+tagDevotionAffinity04=Ordem
+tagDevotionAffinity04Info=A quantidade de Afinidade com Ordem que você canalizou.^n^nOs seres de Ordem apreciam harmonia e equilíbrio em todas as coisas.
+tagDevotionAffinity05=Primordial
+tagDevotionAffinity05Info=A quantidade de Afinidade com Primordial que você canalizou.^n^nOs seres Primordiais incorporam os poderes da criação, da vida, da morte e da própria realidade.
+
+tagDevotion_RequiresSword=^oRequer uma espada.
+tagDevotion_RequiresAxe=^oRequer um machado.
+tagDevotion_RequiresMace=^oRequer uma maça.
+tagDevotion_RequiresCaster=^oRequer um cetro ou uma adaga.
+tagDevotion_RequiresFocus=^oRequer um foco.
+tagDevotion_Requires1hRange=^oRequer uma arma de longo alcance de uma mão.
+tagDevotion_Requires2hRange=^oRequer uma arma de longo alcance de duas mãos.
+tagDevotion_RequiresRange=^oRequer uma arma de longo alcance.
+tagDevotion_Requires2h=^oRequer uma arma corpo a corpo de duas mãos ou uma arma de longo alcance de duas mãos.
+tagDevotion_RequiresShield=^oRequer um escudo.
+tagDevotion_RequiresMagic=^oRequer um cetro, uma adaga ou um foco.
+
+tagDevotion_A01=Morcego
+tagDevotion_A01Desc=O morcego vampírico facilmente encontra o seu caminho pelo céu noturno, caçando lampejos de estrelas perdidas para exaurir sua luz.
+tagDevotion_A02=Escorpião de Akeron
+tagDevotion_A02Desc=Akeron foi condenado a vagar pelo deserto até a morte, mas o destino interveio na forma de um escorpião que levou o mortal castigado pelo sol até a água. Akeron sobreviveu à sua sentença e voltou para vingar-se daqueles que o haviam deixado para morrer com o uso de veneno de escorpião.
+tagDevotion_A03=Corvo
+tagDevotion_A03Desc=O corvo representa a esperteza. Foi por esse motivo que os deuses bruxos escolheram os corvos como seus familiares e mensageiros.
+tagDevotion_A04=Martelo
+tagDevotion_A04Desc=O martelo bate sobre a bigorna com força divina, forjando armas para os deuses no punho firme de Targo.
+tagDevotion_A05=Bigorna
+tagDevotion_A05Desc=A bigorna absorve os golpes do martelo, uma ferramenta indispensável na forja celestial de Targo.
+tagDevotion_A06=Cajado do Pastor
+tagDevotion_A06Desc=O pastor guia seu rebanho celestial pelo céu noturno.
+tagDevotion_A07=Guia do Marinheiro
+tagDevotion_A07Desc=A guia do marinheiro serve como um marcador celestial para aqueles que se encontram perdidos no mar. Sua luz guia salvou muitos marinheiros que enfrentavam as águas tumultuosas.
+tagDevotion_A08=Lâmina do Assassino
+tagDevotion_A08Desc=A adaga do assassino, o equipamento favorito do assassino sancionado.
+tagDevotion_A09=Olho do Guardião
+tagDevotion_A09Desc=Diz-se que Dreeg, o deus bruxo, conseguiu enxergar para além do véu e testemunhar a verdade de todas as coisas. Por isso, os deuses amaldiçoaram sua forma mortal transformando-a numa abominação espinhosa com mil olhos sem pálpebras. Ele agora fica eternamente de guarda sobre o véu, com seu inigualável olhar sempre atento sobre aqueles que podem atrever-se a tomar seu lugar.
+tagDevotion_A10=Falcão
+tagDevotion_A10Desc=O olhar penetrante do falcão varre o céu à procura de uma presa fácil.
+tagDevotion_A11=Enguia
+tagDevotion_A11Desc=A enguia desliza suavemente pelo céu noturno, com sua forma lisa impossível de agarrar.
+tagDevotion_A12=Coruja
+tagDevotion_A12Desc=A coruja representa a sabedoria e as atividades acadêmicas. Diz-se que a magia é mais potente sob o olhar da coruja.
+tagDevotion_A13=Víbora
+tagDevotion_A13Desc=A víbora representa o fluxo de energia entre o mundo dos vivos e o éter, que alimenta todas as formas de magia.
+tagDevotion_A14=Forca
+tagDevotion_A14Desc=A forca é um sinal solene de vereditos proferidos e portentos mortais.
+tagDevotion_A15=Encruzilhada
+tagDevotion_A15Desc=A encruzilhada marca a mudança de caminhos, a abertura de infinitas possibilidades.
+tagDevotion_A16=Trono Vazio
+tagDevotion_A16Desc=Quando Rhowan de Arkóvia abdicou do trono, a poltrona do poder permaneceu vaga até a queda da outrora grande nação, já que os oligarcas brigavam entre si pelo poder.
+tagDevotion_A17=Rato
+tagDevotion_A17Desc=O rato da peste caminha pelo céu noturno, tomando cuidado para evitar os olhares do falcão e do gavião.
+tagDevotion_A18=Tsunami
+tagDevotion_A18Desc=O tsunami marca o momento mais perigoso do ano para partir para os grandes mares, com tempestades frequentes e ondas devastadoras arruinando muitas expedições. Capitães sábios planejam suas viagens para evitar a temporada de tempestades.
+tagDevotion_A19=Diabrete
+tagDevotion_A19Desc=O diabrete é um embusteiro e sua constelação cintilante aparece e desaparece de vista durante o ano.
+tagDevotion_A20=Demônio
+tagDevotion_A20Desc=O demônio se esconde na escuridão do vazio, faminto de estrelas instáveis para extinguir.
+tagDevotion_A21=Touro
+tagDevotion_A21Desc=O touro arremete pelo céu noturno com determinação e força.
+tagDevotion_A22=Espectro
+tagDevotion_A22Desc=O espectro vaga pelo céu por toda a eternidade, já que o seu julgamento final por Ulcama nunca aconteceu.
+tagDevotion_A23=Harpia
+tagDevotion_A23Desc=A harpia representa maus presságios. Nascer sob a sua luz é visto como um sinal de vergonha, levando algumas famílias a abandonar completamente tais crianças.
+tagDevotion_A24=Raposa
+tagDevotion_A24Desc=A astuta raposa pula alegremente pelo céu noturno.
+tagDevotion_A25=Carniçal
+tagDevotion_A25Desc=O carniçal personifica a corrupção e a decadência. Sua contraparte é a dríade.
+tagDevotion_A26=Dríade
+tagDevotion_A26Desc=A dríade personifica a pureza e o espírito da natureza. Sua contraparte é o carniçal.
+tagDevotion_A27=Gavião
+tagDevotion_A27Desc=O gavião voa pelos céus em busca de sua próxima refeição.
+tagDevotion_A28=Carcaju
+tagDevotion_A28Desc=O carcaju representa a ferocidade indomável.
+tagDevotion_A29=Tartaruga
+tagDevotion_A29Desc=A tartaruga representa a fortitude e a dedicação inabalável.
+tagDevotion_A30=Pantera
+tagDevotion_A30Desc=A pantera representa a força espiritual e a destreza.
+tagDevotion_A31=Grou
+tagDevotion_A31Desc=O grou representa a harmonia e a paz. Sua contraparte é o abutre.
+tagDevotion_A32=Abutre
+tagDevotion_A32Desc=O abutre representa a desordem e o caos. Sua contraparte é o grou.
+tagDevotion_A33=Cão
+tagDevotion_A33Desc=O cão fiel aguarda o chamado de seus mestres celestiais, sempre ansioso para acompanhar a caçadora em mais uma caçada.
+tagDevotion_A34=Aranha
+tagDevotion_A34Desc=A aranha tece sua teia no céu noturno, prendendo estrelas patifas para os deuses tecerem-nas em sua tapeçaria celestial.
+tagDevotion_A35=Lagarto
+tagDevotion_A35Desc=O lagarto foi uma das primeiras crias da Árvore da Vida celestial, a antepassada de todos os répteis.
+tagDevotion_A36=Luz do Erudito
+tagDevotion_A36Desc=A luz do erudito brilha intensamente quando eruditos privados de sono ainda estão trabalhando sob a luz fraca de suas velas.
+tagDevotion_A37=Leão
+tagDevotion_A37Desc=O leão representa a bravura, a valentia, o nascimento de reis.
+tagDevotion_A38=Chacal
+tagDevotion_A38Desc=O chacal se esconde pelo céu em busca de presas fáceis.
+
+tagDevotion_B01=Coroa de Rhowan
+tagDevotion_B01Desc=Diz-se que, quando Rhowan de Arkóvia abdicou do trono, sua coroa e seu cetro foram rapidamente perdidos, sendo encontrados no céu noturno da noite seguinte.
+tagDevotion_B02=Balança de Ulcama
+tagDevotion_B02Desc=Ulcama, o juiz, preside os céus e julga as vidas de todos os mortais. Diz-se que todas as ações das pessoas são colocadas sobre sua balança dourada e, se as más ações de suas vidas superarem as boas, seus espíritos serão banidos para sempre para o vazio.
+tagDevotion_B03=Wendigo
+tagDevotion_B03Desc=O wendigo é um espírito primevo da fome. Muitos xamãs vão contra os seus próprios ensinamentos e tentam fazer um pacto com wendigos na esperança de invocar esses espíritos vis para lutarem contra os seus inimigos; mas os wendigos são muito difíceis de serem controlados e já levaram muitos xamãs à loucura, preenchendo-os com uma fome insaciável que, inevitavelmente, leva ao canibalismo.
+tagDevotion_B04=Caçadora
+tagDevotion_B04Desc=A caçadora percorre o céu noturno perseguindo sua presa celeste. Diz-se que sua caçada eterna vai acabar quando ela finalmente matar a imortal hidra.
+tagDevotion_B05=Urso Atroz
+tagDevotion_B05Desc=O urso atroz é um símbolo de orgulho e força física. Diz-se que os nascidos sob sua luz descendem dos reis da antiguidade.
+tagDevotion_B06=Assassino
+tagDevotion_B06Desc=O assassino, o carrasco celeste, raramente é visto no céu noturno. Sua chegada é muitas vezes envolta em nuvens densas, das quais ele emerge por breves momentos antes de desaparecer mais uma vez no véu.
+tagDevotion_B07=Mago
+tagDevotion_B07Desc=O mago é o patrono de todos os praticantes de magia. Diz-se que os nascidos sob o seu olhar são abençoados ou, dependendo do ponto de vista, amaldiçoados com um controle inigualável sobre as forças arcanas.
+tagDevotion_B08=Javali do Outono
+tagDevotion_B08Desc=A chegada do javali do outono no céu marca o início de uma celebração da estação da queda das folhas. O evento começa com uma grande caçada e termina com um banquete que dura até que a carne e a cerveja acabem.
+tagDevotion_B09=Viúva
+tagDevotion_B09Desc=A viúva chora pelos perdidos e pelos mortos. Diz-se que, quando raios de luz marcam o céu noturno, estes são lágrimas da viúva.
+tagDevotion_B10=Retornado
+tagDevotion_B10Desc=O retornado representa a morte e a miséria. Diz-se que ninguém pode escapar ao seu olhar mortal, nem mesmo os próprios deuses.
+tagDevotion_B11=Lâmina Embruxada de Solael
+tagDevotion_B11Desc=Diz-se que Solael é o mais cruel dos três deuses bruxos, tendo estraçalhado inúmeras vítimas com sua lâmina sacrificial curvada em sua perseguição maluca pela imortalidade.
+tagDevotion_B12=Vínculos de Bysmiel
+tagDevotion_B12Desc=Diz-se que Bysmiel, a deusa bruxa, ia para a forca quando abandonou sua forma mortal e subiu aos céus. Suas correntes quebradas eram o único sinal de sua fuga.
+tagDevotion_B13=Temporal
+tagDevotion_B13Desc=Diz-se que o temporal brilha mais intensamente quando uma tempestade perigosa surge no horizonte. Acredita-se que as crianças nascidas durante uma tempestade são marcadas para grandes coisas.
+tagDevotion_B14=Targo, o Construtor
+tagDevotion_B14Desc=Targo é o padroeiro dos artesãos e arquitetos. Acredita-se que ele seja o deus que criou a tapeçaria celestial na qual todas as estrelas agora descansam.
+tagDevotion_B15=Amatok, o Espírito do Inverno
+tagDevotion_B15Desc=Nos meses de inverno, esta constelação surge no horizonte setentrional. Diz-se que os viajantes em desespero que seguem a estrela-guia de Amatok podem encontrar a cabana dele. Aqueles que entram são autorizados a sentar-se ao lado da lareira e participar de um banquete generoso, mas aqueles que são tolos são esfolados e devorados por Amatok em seu banquete na noite seguinte.
+tagDevotion_B16=Aflição
+tagDevotion_B16Desc=O aparecimento da aflição no céu, após o grande banquete do Javali do Outono, marca o início dos meses frios, quando a doença e a decadência fazem Cairn contrastar desoladoramente com os meses prósperos de colheita.
+tagDevotion_B17=Caranguejo
+tagDevotion_B17Desc=O caranguejo marca o início da temporada de pesca mais próspera do ano, mas também uma das mais perigosas, já que as maiores criaturas do mar chegam mais perto da costa seguindo os padrões de migração dos peixes e caranguejos menores.
+tagDevotion_B18=Mantícora
+tagDevotion_B18Desc=A mantícora é uma predadora feroz que percorre o céu noturno em busca de sua próxima refeição. Sua mordida e sua cauda são cheias de veneno.
+tagDevotion_B19=Vigia Solene
+tagDevotion_B19Desc=Symon, o vigia, ficou de guarda no Posto do Symon até o dia de sua morte, protegendo o império contra ameaças sobrenaturais. A eterna vigília de Symon continua no céu celestial, vigiando Cairn como ele fez em vida.
+tagDevotion_B20=Mensageiro da Guerra
+tagDevotion_B20Desc=O mensageiro da guerra é um símbolo de medo e tirania. O mensageiro cavalga pelo vazio estrelado, anunciando uma nova era de conflito e discórdia.
+tagDevotion_B21=Kraken
+tagDevotion_B21Desc=Capitães de navios são conhecidos por se recusarem a viajar se o Kraken estiver brilhando no céu sem a luz da Guia do Marinheiro para protegê-los.
+tagDevotion_B22=Hidra
+tagDevotion_B22Desc=A fera mítica percorre o céu noturno, imortal e imponente. Diz-se que suas muitas cabeças crescem novamente em instantes.
+tagDevotion_B23=Lâminas de Nadaan
+tagDevotion_B23Desc=Nadaan é o guardião dos ladrões e dos assassinos. O aparecimento de suas lâminas no céu é muitas vezes interpretado como um sinal de mau agouro; de que um ato maléfico, porém necessário, está prestes a ser realizado.
+tagDevotion_B24=Cetro de Rhowan
+tagDevotion_B24Desc=Diz-se que, quando Rhowan de Arkóvia abdicou do trono, sua coroa e seu cetro desapareceram misteriosamente, sendo encontrados no céu noturno da noite seguinte.
+tagDevotion_B25=Berserker
+tagDevotion_B25Desc=A berserker é a selvagem e indomável matrona da guerra. Ela representa a força e a ferocidade.
+tagDevotion_B26=Lanterna de Oklaine
+tagDevotion_B26Desc=Oklaine é o guardião dos magos e dos feiticeiros. Diz-se que a sua luz guia serve como um farol quando se atravessa o véu entre a realidade e o éter.
+tagDevotion_B27=Donzela Escudeira
+tagDevotion_B27Desc=A donzela escudeira fica de guarda sobre as estrelas para que nenhuma delas deixe sua posição celeste sem o comando dos deuses.
+tagDevotion_B28=Beemote
+tagDevotion_B28Desc=O beemote serve aos deuses, incessantemente movendo e deslocando as incontáveis estrelas no céu sob o comando deles.
+tagDevotion_B29=Carruagem dos Mortos
+tagDevotion_B29Desc=A carruagem dos mortos recolhe almas indisciplinadas e as leva ao seu julgamento final do outro lado do véu.
+tagDevotion_B30=Ulo, o Guardião das Águas
+tagDevotion_B30Desc=Ulo representa o ciclo interminável e o fluxo imparável da água, renovando todos os rios do mundo que, por sua vez, renovam os lagos e os mares.
+tagDevotion_B31=Foice do Segador
+tagDevotion_B31Desc=A foice representa a generosidade e a época de colheita. Ela brilha mais intensamente nos meses mais quentes, antes de dar lugar ao Javali do Outono.
+
+tagDevotion_C01=Ampulheta de Aeon
+tagDevotion_C01Desc=Aeon é conhecido como o guardião do tempo, o mestre do fio do destino. É por seu julgamento que os mortais nascem e morrem. Seu símbolo é a ampulheta.
+tagDevotion_C02=Abominação
+tagDevotion_C02Desc=Golgoran, a abominação, representa os instintos mais básicos da humanidade, o medo da morte e das sombras, o desejo de ter o que não se tem. A abominação personifica tudo o que torna o homem iníquo.
+tagDevotion_C03=Luz de Empyrion
+tagDevotion_C03Desc=Empyrion, o maior entre os deuses, é a luz do mundo e protetor de todos em Cairn. É por sua misericórdia e seu exemplo que o sol saúda a humanidade todos os dias.
+tagDevotion_C04=Oleron
+tagDevotion_C04Desc=Trágica é a história de Oleron, que viria a ser conhecido como o deus da guerra. Ao ser confrontado com a destruição de sua nação, Oleron fez a difícil escolha de levantar-se em defesa de seu povo, mas a vitória lhe custou a esposa e o filho único. A perda pesou sobre o herói da guerra. As lendas dizem que ele começou a entrar de forma imprudente nas batalhas desde aquele dia, buscando a morte nas lâminas dos inimigos para que pudesse se reunir com sua família. Porém, a agridoce libertação nunca veio. Até hoje, quando soldados entram em batalha, invocam o nome de Oleron para lhes conceder força e coragem.
+tagDevotion_C05=Obelisco de Menhir
+tagDevotion_C05Desc=Menhir, o deus da terra, é um protetor resoluto de Cairn. Tanto homens que querem defender sua casa quanto fazendeiros que esperam uma colheita abundante rezam a ele. Monólitos de pedra antigos marcam terras sagradas de Menhir até hoje.
+tagDevotion_C06=Lança dos Céus
+tagDevotion_C06Desc=A Lança dos Céus é o símbolo celestial do poder. Diz-se que a Lança foi empunhada pelo próprio Empyrion quando ele prostrou o Deus Moribundo e quebrou a divindade em milhares de pedaços.
+tagDevotion_C07=Tocha de Ulzuin
+tagDevotion_C07Desc='Ulzuin, o Traído' já foi um deus de cura e cerimônias, mas milênios de tormento após uma terrível traição de sua amada transformaram a outrora benevolente entidade em uma deidade amargurada e interessada apenas em vingança e destruição.
+tagDevotion_C08=Deus Moribundo
+tagDevotion_C08Desc=Numa época anterior à criação dos planos mortais, um deus ancião foi traído por seus filhos; seu corpo foi dilacerado e seu sangue drenado para que pudessem usar seu poder para dar vida a suas próprias criações. Seus restos mortais foram lançados a um vazio fora da criação, mas, incapaz de morrer, o deus permaneceu na escuridão, condenado a uma eternidade de dor e loucura; sentindo o sofrimento e a morte de todas as coisas mortais que receberam a vida de seu sangue. Com o seu nome esquecido pelo tempo, o deus moribundo é conhecido apenas como Ch'thon; aquele que habita abaixo da criação.
+tagDevotion_C09=Árvore da Vida
+tagDevotion_C09Desc=Dizem as lendas que, quando o mundo nasceu da escuridão do vazio pela primeira vez, uma única árvore foi plantada, a qual viria a dar à luz todas as frutas e animais do mundo.
+tagDevotion_C10=Mogdrogen, o Lobo
+tagDevotion_C10Desc=Um titã criado durante a guerra dos deuses, Mogdrogen tornou-se o deus das feras e é dito que ele perambula pelos confins selvagens de Cairn. Rezam as lendas que Mogdrogen é um transmorfo, geralmente visto como um lobo gigante, mas ocasionalmente toma outras formas, até mesmo a de um humano. Mogdrogen perambula pelos confins de Cairn, guardando as selvas contra a invasão da civilização.
+tagDevotion_C11=Sábia Cega
+tagDevotion_C11Desc=Muita gente viajava milhares de quilômetros para buscar a sabedoria da grande sábia cega, mas a maioria voltava insatisfeita, pois suas almas eram indignas da sabedoria atemporal dela.
+tagDevotion_C12=Leviatã
+tagDevotion_C12Desc=A grande serpente no céu, devoradora de estrelas e causadora do frio da noite.
+tagDevotion_C13=Soldado Desconhecido
+tagDevotion_C13Desc=Contam-se muitas lendas sobre os homens e mulheres desconhecidos que foram mortos em batalha e nunca foram reconhecidos por seu valor e seus feitos. Em honra de seu sacrifício, as próprias estrelas foram rearranjadas para formar o Soldado Desconhecido.
+
+tagDevotionEffectA01=Presas Gêmeas
+tagDevotionEffectA01Desc=Presas vampíricas atacam seus inimigos e exaurem a vitalidade deles.
+tagDevotionEffectA02=Ferrão de Escorpião
+tagDevotionEffectA02Desc=Espinhos revestidos de uma toxina letal erupcionam em torno de você.
+tagDevotionEffectA05=Martelo de Targo
+tagDevotionEffectA05Desc=O martelo celestial de Targo orbita ao seu redor, derrubando os inimigos próximos.
+tagDevotionEffectA06=Chamado do Pastor
+tagDevotionEffectA06Desc=Convoque os seus asseclas para acompanharem você na batalha.
+tagDevotionEffectA08=Marca do Assassino
+tagDevotionEffectA08Desc=Marque seu alvo para uma morte rápida e dolorosa.
+tagDevotionEffectA09=Olhar do Guardião
+tagDevotionEffectA09Desc=Um olho inigualável do Grande Guardião circula ao seu redor.
+tagDevotionEffectA10=Ataque do Falcão
+tagDevotionEffectA10Desc=Um bando de falcões celestiais voa para atacar seus inimigos.
+tagDevotionEffectA18=Tsunami
+tagDevotionEffectA18Desc=Uma torrente de água desaba em cima de quaisquer inimigos desafortunados o suficiente para estar na sua frente.
+tagDevotionEffectA19=Fogo Etéreo
+tagDevotionEffectA19Desc=Uma pequena explosão de fogo etéreo irrompe nos pés do seu alvo.
+tagDevotionEffectA20=Torrente de Chamas
+tagDevotionEffectA20Desc=Chamas diabólicas giram em torno de você, incinerando tudo o que tocam.
+tagDevotionEffectA21=Investida de Touro
+tagDevotionEffectA21Desc=Ataque os inimigos próximos em uma arremetida de força física, tal qual um touro bravo.
+tagDevotionEffectA25=Fome Carniceira
+tagDevotionEffectA25Desc=Ao ser encurralado, você entra em um estado de fervor carniceiro, ficando desesperado por um pedaço de carne.
+tagDevotionEffectA26=Bênção da Dríade
+tagDevotionEffectA26Desc=A bênção da dríade purifica os seus ferimentos e protege você contra venenos.
+tagDevotionEffectA29=Casco de Tartaruga
+tagDevotionEffectA29Desc=Ao ser ameaçado, uma barreira protetora se forma em torno de você, negando mais danos.
+
+tagDevotionEffectB01=Tempestade Elemental
+tagDevotionEffectB01Desc=Um turbilhão crepitante de chamas e gelo se manifesta ao seu comando.
+tagDevotionEffectB02=Pender a Balança
+tagDevotionEffectB02Desc=Penda a balança a seu favor, exaurindo a vitalidade dos seus agressores e transferindo-a para você.
+tagDevotionEffectB03=Marca do Wendigo
+tagDevotionEffectB03Desc=Você marca os seus inimigos com o sinal do wendigo, exaurindo o pouco que resta da vitalidade deles e transferindo-a para você.
+tagDevotionEffectB04=Dilacerar
+tagDevotionEffectB04Desc=Estraçalhe seus inimigos, expondo artérias delicadas e induzindo sangramento intenso.
+tagDevotionEffectB05=Estropiar
+tagDevotionEffectB05Desc=Estropie os inimigos próximos com a força de um urso atroz. ^oRequer uma arma corpo a corpo.
+tagDevotionEffectB06=Lâminas da Ira
+tagDevotionEffectB06Desc=Mantenha a vantagem ao desencadear uma explosão de lâminas fantasmagóricas que atravessam inimigos com facilidade.
+tagDevotionEffectB07=Fissura
+tagDevotionEffectB07Desc=Uma fissura se abre na terra, expelindo lava e enxofre sobre os inimigos próximos.
+tagDevotionEffectB07_Pet01=Magma
+tagDevotionEffectB08=Atropelar
+tagDevotionEffectB08Desc=Desencadeie uma onda de força de seu escudo que abala a própria terra e dispersa seus inimigos.
+tagDevotionEffectB09=Bomba Arcana
+tagDevotionEffectB09Desc=Marque o solo com um signo arcano que erupciona ao entrar em contato com um inimigo. ^oAs Bombas Arcanas levam um segundo para serem armadas.
+tagDevotionEffectB09_Pet01=Marca Arcana
+tagDevotionEffectB09_Pet01Desc=Marcado por uma Bomba Arcana.
+tagDevotionEffectB10=Levantar os Mortos
+tagDevotionEffectB10Desc=Levante os mortos para servirem a você. As energias necróticas necessárias para este ritual são muito instáveis e os asseclas mortos-vivos existirão por um tempo limitado. ^oO dano dos mortos varia conforme os bônus para o dano do jogador.
+tagDevotionEffectB10_Pet01=Ataque Corpo a Corpo
+tagDevotionEffectB11=Fogo Feérico
+tagDevotionEffectB11Desc=Chamas feéricas irrompem de seus golpes e se espalham descontroladamente entre seus inimigos.
+tagDevotionEffectB12=Comando de Bysmiel
+tagDevotionEffectB12Desc=Evoque um cão feérico que estraçalha seus inimigos. A presença do cão no reino físico é instável e ele permanecerá ao seu lado por um tempo limitado. ^oO dano do cão varia conforme os Bônus para Companheiros.
+tagDevotionEffectB12_Pet01=Dente e Garra
+tagDevotionEffectB12_Pet02=Sopro Pestilento
+tagDevotionEffectB13=Temporal Temerário
+tagDevotionEffectB13Desc=A energia estática aumenta dentro de você e é lançada contra os inimigos próximos na forma de raios destrutivos.
+tagDevotionEffectB14=Muralha de Escudos
+tagDevotionEffectB14Desc=Uma barreira metafísica se forma em torno de você.
+tagDevotionEffectB15=Nevasca
+tagDevotionEffectB15Desc=Uma chuva de fragmentos de gelo afiadíssimos cai sobre seus inimigos.
+tagDevotionEffectB16=Poça Fétida
+tagDevotionEffectB16Desc=Uma poça purulenta irrompe sob seus inimigos, corrompendo o chão.
+tagDevotionEffectB17=Barreira Arcana
+tagDevotionEffectB17Desc=Uma barreira contra as forças da magia se forma em torno de você.
+tagDevotionEffectB18=Borrifo Ácido
+tagDevotionEffectB18Desc=O ferrão da mantícora atravessa o seu alvo, criando um borrifo de ácido cáustico atrás dele.
+tagDevotionEffectB20=Mensageiro da Guerra
+tagDevotionEffectB20Desc=Leve adiante a sua mensagem de conquista, repreendendo qualquer inimigo ousado o suficiente para tentar parar você.
+tagDevotionEffectB28=Sangue do Gigante
+tagDevotionEffectB28Desc=O sangue do gigante corre em suas veias, melhorando regeneração e cura.
+tagDevotionEffectB29=Alma Indisciplinada
+tagDevotionEffectB29Desc=Sacrifique uma alma indisciplinada para defender-se contra o espectro da morte.
+tagDevotionEffectB30=Águas Purificadoras
+tagDevotionEffectB30Desc=As águas purificadoras de Ulo expurgam toda magia imunda da área, removendo auras e feitiços benéficos dos inimigos e retirando efeitos negativos de aliados, incluindo efeitos de dano ao longo do tempo.
+
+tagDevotionEffectC01=Dilatação do Tempo
+tagDevotionEffectC01Desc=As areias da ampulheta giram em um turbilhão selvagem. As leis do tempo não mais se aplicam a você.
+tagDevotionEffectC02=Erupção Contaminada
+tagDevotionEffectC02Desc=A corrupção presa dentro de você é liberada em uma grande explosão de toxinas vis.
+tagDevotionEffectC03=Poder Abominável
+tagDevotionEffectC03Desc=Os poderes caóticos do Vazio fluem através de você, transformando suas armas em condutos para o seu poder diabólico.
+tagDevotionEffectC04=Luz de Empyrion
+tagDevotionEffectC04Desc=A luz divina de Empyrion bane as trevas e calcina seus inimigos.
+tagDevotionEffectC05=Fúria Cega
+tagDevotionEffectC05Desc=Você fica eufórico pelo sangue que derrama e ataca violentamente todos os inimigos próximos com uma saraivada de golpes cruéis.
+tagDevotionEffectC06=Forma de Pedra
+tagDevotionEffectC06Desc=Sua carne fica como pedra e imune a quase tudo, menos aos golpes mais poderosos.
+tagDevotionEffectC07=Lança dos Céus
+tagDevotionEffectC07Desc=Uma lança celestial golpeia os inimigos que ousam atacar você.
+tagDevotionEffectC08=Chuva de Meteoros
+tagDevotionEffectC08Desc=Ao seu comando, o céu se rompe para liberar vários bombardeios de rochas fundidas. ^oVocê só pode lançar uma Chuva de Meteoros por vez.
+tagDevotionEffectC09=Vazio Faminto
+tagDevotionEffectC09Desc=O vazio faminto empodera você, seus aliados e seus asseclas, mas o poder ganho traz consigo um pesado fardo para o corpo.
+tagDevotionEffectC09_Pet01=Devorar
+tagDevotionEffectC09_Pet02=Dente e Garra
+tagDevotionEffectC10=Chuva Curativa
+tagDevotionEffectC10Desc=Uma névoa reconfortante emana de você, curando feridas e males.
+tagDevotionEffectC11=Uivo de Mogdrogen
+tagDevotionEffectC11Desc=Impulsionados pela emoção de uma matança recente, você e seus asseclas entram em um estado de raiva fervorosa.
+tagDevotionEffectC12=Buscador Elemental
+tagDevotionEffectC12Desc=Conjure uma criatura feérica de pura energia que procura e queima os inimigos próximos com sua presença antes de retornar ao Éter em uma explosão de energia. ^oO dano dos Buscadores Elementais varia conforme os bônus para o dano do jogador.
+tagDevotionEffectC12_Pet01=Presença Ardente
+tagDevotionEffectC12_Pet02=Detonar
+tagDevotionEffectC13=Redemoinho
+tagDevotionEffectC13Desc=As agitadas profundezas são liberadas conforme um redemoinho faminto aparece para devastar seus inimigos.
+tagDevotionEffectC14=Sombra Vivente
+tagDevotionEffectC14Desc=Uma manifestação de um herói desconhecido se levanta para lutar ao seu lado e restaura a sua vitalidade a cada golpe. ^oO dano das Sombras Viventes varia conforme os bônus para o dano do jogador.
+tagDevotionEffectC14_Pet01=Golpe das Sombras
+tagDevotionEffectC14_Pet02=Lâminas das Sombras
+
+#SkillsReallocator
+
+tagReallocateError01=Você precisa remover todos os pontos de todos os modificadores antes de poder remover o último ponto desta habilidade.
+tagReallocateError02=Você não tem ferro suficiente para remover mais pontos de habilidade.
+tagReallocateError03=Você não pode remover pontos de sua Maestria.
+tagDecreaseMasteryError=Não é possível recuperar pontos da maestria.
+tagReclaimPoint=Clique para Recuperar Ponto de Habilidade (Custo: {^s}{%t0}{^-} Pedaços de Ferro)
+tagReclaimDevotionPoint=Clique para Recuperar Ponto de Devoção (Custo: {^s}{%t0}{^-} Pedaços de Ferro, {^g}{%t1}{^-} Cristal Etéreo)
+tagRemovePoint=Clique com o Botão Esquerdo para Remover Ponto de Devoção
+tagReclaimBase=Remova os Modificadores para Recuperar o Ponto Final
+tagReclaimDevotion=Remover Efeito de Devoção Aplicado
+tagRemoveBase=O Ponto de Devoção não Pode Ser Removido
+tagReclaimNoPoints=Não há Pontos para Recuperar
+tagRemoveNoPoints=Não há Pontos para Remover
+tagReclaimTotalGold=Pedaços de Ferro:
+tagReclaimCost=Custo:
+tagReclaimNoGold=Pedaços de Ferro Insuficientes (Custo: {^s}{%t0}{^r})
+tagReclaimNoAether=Cristais Etéreos Insuficientes (Custo: {^g}{%t0}{^r})
+tagReallocateTitle=Realocação de Habilidades
+tagReallocationDescription=Ao clicar em um ícone de habilidade, um ponto será removido. O custo para remover um ponto de habilidade aumenta a cada ponto removido.
+tagReclaimTotalAether=Cristais Etéreos:
+
+tagTemplateName=Renomeie-me
+tagTemplateDescription=Descreva-me
+
+
+
+#EnemySkills
+
+tagEnemySkill01=Maldição da Debilitação
+tagEnemySkill01Desc=Enfraquece as defesas naturais da alma contra o vazio.
+
+tagEnemySkillA01=Aura do Desespero
+tagEnemySkillA01_Desc=A presença do Arauto Etéreo enche você de pavor, retardando suas ações e infligindo dano por Éter.
+
+tagEnemySkillA02=Presença do Bebedor de Almas
+tagEnemySkillA02_Desc=A presença do Bebedor de Almas esgota sua força e inflige dano à Vitalidade.
+
+tagEnemySkillA03=Miasma Espectral
+tagEnemySkillA03_Desc=A maldição Ctônica esgota todas as suas defesas.
+
+tagEnemySkillA04=Marca da Dor
+tagEnemySkillA04_Desc=A marca do Demônio esgota sua força, reduzindo o Dano, a Velocidade e diminuindo severamente a Regeneração de Saúde.
+
+tagEnemySkillA05=Fúria da Natureza
+tagEnemySkillA05_Desc=A maldição do Troll retarda seu corpo e sua mente e expõe você aos elementos.
+
+tagEnemySkillA06=Sifão de Sangue
+tagEnemySkillA06_Desc=A maldição do Trog drena sua vitalidade e a transfere para o lançador.
+
+tagEnemySkillA07=Peste Sangrenta
+tagEnemySkillA07_Desc=A maldição do Carniçal ferve seu sangue e prejudica sua Capacidade Defensiva.
+
+tagEnemySkillA08=Tormento
+tagEnemySkillA08_Desc=A maldição do morto-vivo causa dor intensa em seus ossos, retardando você e enfraquecendo ataques físicos.
+
+tagEnemySkillA09=Espírito Enraivecido
+tagEnemySkillA09_Desc=Um espírito enraivecido persegue você, infligindo dano à vitalidade antes de espalhar-se para as vítimas próximas.
+
+tagEnemySkillA10=Armadilha de Ossos
+tagEnemySkillA10_Desc=O Golem Esquelético aprisionou você dentro de uma jaula de ossos, esgotando sua vitalidade.
+
+tagEnemySkillA11=Armadilha de Obsidiana
+tagEnemySkillA11_Desc=O Profanador Obsidiano aprisionou você dentro de uma jaula de obsidiana, esgotando sua vitalidade.
+
+tagEnemySkillA12=Armadilha de Obsidiana
+tagEnemySkillA12_Desc=Benn'Jahr aprisionou você dentro de uma jaula de obsidiana, aniquilando-o com o poder do caos.
+
+tagEnemySkillA13=Marca do Fogo Etéreo
+tagEnemySkillA13_Desc=Fogo etéreo queima a sua alma, expondo você aos elementos e ao próprio Éter.
+
+tagEnemySkillD01=Vazio Entrópico
+tagEnemySkillD01_Desc=O vazio desmembra você lentamente com energia caótica.
+
+tagEnemySkillD02=Diabo do Fogo
+tagEnemySkillD02_Desc=As chamas giratórias chamuscam você.
+
+tagEnemySkillD03=Espírito Drenador
+tagEnemySkillD03_Desc=Um espírito vil persegue você e suga sua vitalidade e regeneração.
+
+tagEnemySkillD04=Aura Feérica
+tagEnemySkillD04_Desc=Energias feéricas brutas rodeiam este cristal, fortalecendo seres feéricos e causando dano às formas naturais de vida.
+
+tagEnemySkillD05=Cetro de Aldritch
+tagEnemySkillD05_Desc=O Cetro de Aldritch emite arcos de energia que eletrizam os inimigos próximos.
+
+tagEnemySkillD06=Maldição Jurassangue
+tagEnemySkillD06_Desc=A maldição do Jurassangue esgota sua vontade de combater os poderes corruptores do vazio, reduzindo resistências, regeneração e a Capacidade Ofensiva.
+

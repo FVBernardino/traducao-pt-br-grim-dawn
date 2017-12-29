@@ -1,0 +1,7 @@
+Local de Detonação
+Parece que a entrada desta caverna desmoronou. Você pode abrir caminho com alguns explosivos. As velhas minas abandonadas na Velha Arkóvia são provavelmente o melhor lugar para encontrar alguns deles.{^n}{^n}A desobstrução requer 1 unidade de Dinamite.
+Dinamite insuficiente.
+Explodir a Obstrução.
+Sair.
+Você explodiu esta obstrução.
+Ok.

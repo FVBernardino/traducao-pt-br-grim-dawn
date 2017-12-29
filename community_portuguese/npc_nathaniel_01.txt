@@ -1,0 +1,42 @@
+Nathaniel
+A Possessa já vai tarde. Eu tenho mais uma amarrada e pronta para ser queimada.
+Não vou me envolver.
+Possessa boa é Possessa frita.{^n}{^n}Um Etéreo a menos para nos causar preocupação.
+Adeus.
+Ah, olhe para ela frita. É inspirador, combater o inimigo.
+Era só um Etéreo.
+Pode até ser, mas é um a menos andando entre pessoas comuns.{^n}{^n}Pegue um pouco do espólio dela. Ela estava portando uma adaga gemada. Pode valer alguns pedaços de ferro.
+[[ms]Obrigado[fs]Obrigada].
+Bem, o que é que você está esperando? A Possessa deve ser queimada.
+Eu não estou [[ms]convencido[fs]convencida] de que ela é uma Possessa.
+O que é que você está dizendo? É só olhar para ela para perceber que é um Etéreo.{^n}{^n}Nós a vimos lançar magia Etérea maligna. Não resta nenhuma dúvida.
+Não há nenhuma prova.
+Ah, agora eu estou entendendo.{^n}{^n}Ela enfeitiçou você com os poderes dela. Considere-se [[ms]frito[fs]frita], [[ms]Possesso[fs]Possessa].{^n}{^n}Pessoal, parece que achamos [[ms]mais um[fs]mais uma].
+O quê? Não, eu... Esqueça. (Atacar)
+Deixe pra lá. Vamos queimá-la. (Queimar Rallia)
+Eu preciso de tempo para pensar.
+Deixe essa mulher em paz.
+Você está me ameaçando? Você não está do lado da Possessa, não é?
+Afaste-se dela.
+Ah, agora eu estou entendendo.{^n}{^n}Ela enfeitiçou você com os poderes dela. Considere-se [[ms]frito[fs]frita], [[ms]Possesso[fs]Possessa].{^n}{^n}Pessoal, parece que achamos [[ms]mais um[fs]mais uma].
+O quê? Não, eu... Esqueça. (Atacar)
+Deixe pra lá. Vamos queimá-la. (Queimar Rallia)
+Eu preciso de tempo para pensar.
+Deixe pra lá. Vamos queimá-la. (Queimar Rallia)
+Você é um assassino. Hora de morrer. (Atacar)
+Eu preciso de um minuto.
+Bem, o que é que você está esperando? A Possessa deve ser queimada.
+Eu preciso discutir isso com meus aliados.
+Bem, o que é que você está esperando? Fale com ela e acabe logo com isso.{^n}{^n}A Possessa deve ser queimada.
+Vou falar com ela agora.
+Afaste-se. Nós temos uma Possessa para queimar.
+O que é que está acontecendo aqui?
+Nós pegamos esta Possessa tentando lançar magia Etérea. Ela provavelmente tinha a intenção de corromper toda a região com Fogo Etéreo maligno.{^n}{^n}Então nós a amarramos e achamos que deveríamos dar a ela um pouco do nosso próprio fogo. É a única maneira de nos livrarmos desta mácula.
+Eu gostaria de falar com a Possessa primeiro.
+Não quero participar disso.
+Não perca tempo. Queime a Possessa!
+Ah, olhe para ela frita. É inspirador, combater o inimigo.{^n}{^n}Pegue um pouco do espólio dela. Ela estava portando uma adaga gemada. Pode valer alguns pedaços de ferro.
+[[ms]Obrigado[fs]Obrigada].
+Talvez você devesse olhá-la nos olhos primeiro.{^n}{^n}Deixe o terror invadir a sua mente.
+Tudo bem.
+Não quero nenhum problema.

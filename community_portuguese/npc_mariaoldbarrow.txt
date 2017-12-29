@@ -1,0 +1,30 @@
+Maria Oldbarrow
+O que [[ms]o[fs]a] traz de volta à Herdade?
+Eu trouxe suprimentos da Legião Negra.
+Tudo isso, para nós? Eu não sei nem o que dizer.{^n}{^n}Obrigada. Estou chocada em ouvir que a Legião está disposta a partilhar seus recursos.
+Eles não precisam disso tanto quanto vocês.
+Foi necessária uma certa persuasão, mas eles sobreviveram. (Mentir)
+Estou só de passagem.
+Em nome de todos nós aqui na Herdade, eu gostaria de lhe agradecer por tudo o que você já fez por esta comunidade.{^n}{^n}Os materiais que você entregou nos ajudarão a reconstruir o que perdemos.
+De nada.
+Em nome de todos nós aqui na Herdade, eu gostaria de lhe agradecer por tudo o que você já fez por esta comunidade.
+De nada.
+Foi muito corajoso da sua parte ir lá fora. Os Dermápteros são insetos cruéis que devoram qualquer coisa que tiver a infelicidade de cruzar o caminho deles.
+Eles nem eram tão fortes.
+Espero nunca mais enfrentá-los.
+O Douglass me disse que você irá até as fazendas Thornsbury e Elmsworth. Espero que você seja tão forte quanto parece. Os Dermápteros não devem ser menosprezados.
+Eles não têm nenhuma chance contra mim.
+Vou tomar cuidado.
+[[ms]Bem-vindo[fs]Bem-vinda] à nossa casa.
+Quem está no comando aqui?
+Depende. A fazenda pertence ao Douglass, mas a Capitã Somer, da Legião Negra, insiste em dizer que tudo deve passar por ela.{^n}{^n}Na minha opinião, ela está muito focada nos invasores e não faz quase nada para garantir que tenhamos comida suficiente. Nós precisamos que os Dermápteros sejam eliminados, caso contrário, ninguém vai sobreviver durante o inverno.
+Posso ajudar nisso.
+Isso seria simplesmente maravilhoso. Por favor, fale com o Douglass. Ele pode lhe dar mais detalhes.
+Vou fazer isso.
+
+Boa sorte.
+O que você pode me dizer sobre a Herdade?
+Bem, eu vivi praticamente a minha vida inteira aqui. Casei com o Douglass quando eu tinha 14 anos e temos cultivado a terra com dois garotos maravilhosos por décadas.{^n}{^n}Fizemos tudo o que podíamos para que a comunidade seguisse em frente após o Alvorecer Sombrio. Juntos, transformamos a Herdade em um refúgio que tem resistido a inúmeros ataques. Entretanto, alguns dos nossos vizinhos foram teimosos demais e não quiseram abandonar suas fazendas. Acho que não ouvimos falar deles há semanas. Eu posso não aprovar a Legião Negra e seus métodos, mas eu não vou condenar os homens e mulheres valentes que nos mantêm seguros à noite.
+
+Adeus.
+[[ms]Obrigado[fs]Obrigada].

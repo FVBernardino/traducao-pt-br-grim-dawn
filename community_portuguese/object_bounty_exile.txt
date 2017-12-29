@@ -1,0 +1,196 @@
+Tarefas da Proscrita
+Anasteria não oferece suas recompensas àqueles que querem vê-la morta.
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna com os materiais em suas mãos e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você retorna triunfantemente e uma Tarefa é cumprida.
+Relatar.
+
+Afastar-se da Mesa.
+Você já está em uma Tarefa para a Proscrita.
+Afastar-se da Mesa.
+Anasteria vê potencial em você.{^n}{^n}Ela está confiante de que você pode lidar com algumas das suas tarefas mais sensíveis.
+Dar uma olhada na tarefa.
+Não há Tarefas disponíveis no momento.
+Afastar-se da Mesa.
+Dar uma olhada na tarefa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afastar-se da Mesa.
+Aqueles que foram possuídos pelos Etéreos sofrem alguns efeitos colaterais interessantes, principalmente mutações físicas, mas o que acontece no cérebro... isso sim, merece uma análise mais profunda.{^n}{^n}Quero estudar isso. Traga-me uma Matéria Cerebral Contaminada e vou recompensar você com pedaços de ferro.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O sangue de um deus morto. Os ctônicos coletam-no, os cultistas adoram-no, mas para quê?{^n}{^n}Eu preciso saber! Traga-me um Sangue de Ch'thon e vou recompensar você com pedaços de ferro.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+As criaturas de Cairn são fascinantes. O poder que elas possuem não vem do Éter, mas de sua própria biologia incomum.{^n}{^n}Quero estudar isso. Traga-me um Coração Antigo e vou recompensar você com pedaços de ferro.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Preciso de mais materiais para meus estudos. Você vai trazê-los para mim sem fazer perguntas.{^n}{^n}Traga-me três Matérias Cerebrais Contaminadas e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Preciso de mais materiais para meus estudos. Você vai trazê-los para mim sem fazer perguntas.{^n}{^n}Traga-me três frascos de Sangue de Ch'thon e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Preciso de mais materiais para meus estudos. Você vai trazê-los para mim sem fazer perguntas.{^n}{^n}Traga-me três Corações Antigos e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os povos da antiguidade criaram relíquias maravilhosas e incrivelmente poderosas. Infelizmente, grande parte desse conhecimento se perdeu.{^n}{^n}Preciso de uma Relíquia Geleira para continuar minha pesquisa. Se você encontrar informações sobre como criá-la, leve-as para um ferreiro de confiança.{^n}{^n}Faça com que crie a Relíquia e, em seguida, traga-a para mim. Seu núcleo gelado ajudará a estabilizar meus experimentos. Faça isso para mim e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os povos da antiguidade criaram relíquias maravilhosas e incrivelmente poderosas. Infelizmente, grande parte desse conhecimento se perdeu.{^n}{^n}Preciso de uma Relíquia Borrasca para continuar minha pesquisa. Se você encontrar informações sobre como criá-la, leve-as para um ferreiro de confiança.{^n}{^n}Faça com que crie a Relíquia e, em seguida, traga-a para mim. Seu núcleo turbulento servirá como um catalisador em meus estudos. Faça isso para mim e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Para promover meus estudos, preciso de uma Relíquia antiga chamada Inferno, conhecida por preencher seu portador com fúria vulcânica. Infelizmente, o conhecimento para criá-la se perdeu.{^n}{^n}Se você encontrar informações sobre como criá-la, leve-as para um ferreiro de confiança.{^n}{^n}Faça com que crie a Relíquia e, em seguida, traga-a para mim. Seu núcleo ardente é exatamente a fonte de calor de que preciso em meus estudos. Faça isso para mim e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os povos da antiguidade criaram relíquias maravilhosas e incrivelmente poderosas. Infelizmente, grande parte desse conhecimento se perdeu.{^n}{^n}Preciso de uma Relíquia Corrupção para continuar minha pesquisa. Se você encontrar informações sobre como criá-la, leve-as para um ferreiro de confiança.{^n}{^n}Faça com que crie a Relíquia e, em seguida, traga-a para mim. Suas propriedades contaminadas me ajudarão a estudar o efeito da mutação Etérea. Faça isso para mim e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Para promover meus estudos, preciso de uma Relíquia antiga chamada Santuário, conhecida por proteger seu portador contra grandes danos. Infelizmente, o conhecimento para criá-la se perdeu.{^n}{^n}Se você encontrar informações sobre como criá-la, leve-as para um ferreiro de confiança.{^n}{^n}Faça com que crie a Relíquia e, em seguida, traga-a para mim. Suas propriedades incomuns protegerão meus experimentos contra contaminação externa. Faça isso para mim e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Tenho sentido a presença de uma velha nêmesis, um arauto conhecido como Nucus'Dal. Achei que ele fora destruído, mas me enganei.{^n}{^n}O arauto se esconde na Necrópole, onde aguarda o retorno de seu mestre supremo. Você vai acabar com sua espera.{^n}{^n}Elimine Nucus'Dal para mim e vou recompensar você com algo da minha coleção.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O vazio está sempre em turbulência. Forças catastróficas ameaçam colapsá-lo a qualquer momento, mas, ainda assim, ele resiste. Ultimamente, porém, as energias em seu interior têm ficado cada vez mais instáveis.{^n}{^n}Isso só pode significar uma coisa: um poderoso ctônico está causando agitação dentro do vazio. Encontre essa anomalia no Trono Obsidiano e destrua-a.{^n}{^n}Faça isso e vou recompensar você com algo da minha coleção.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Uma bruxa Etérea conhecida como Conastaria foi vista na Colheita Macabra.{^n}{^n}Ela já foi uma amiga, mas agora serve a um propósito diferente. Eu quero vê-la morta, destruída, com suas cinzas dispersas.{^n}{^n}Faça isso e vou recompensar você com algo da minha coleção.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Ludia Fogo Estelar já foi uma talentosa arcanista e uma colega. Mas não é mais.{^n}{^n}Ela agora espalha corrupção Etérea na Conflagração. Você vai acabar com sua servidão ao Éter.{^n}{^n}Faça isso e vou recompensar você com algo da minha coleção.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os povos da antiguidade criaram relíquias maravilhosas e incrivelmente poderosas. Infelizmente, grande parte desse conhecimento se perdeu.{^n}{^n}Preciso de uma Relíquia Ardileza para continuar minha pesquisa. Se você encontrar informações sobre como criá-la, leve-as para um ferreiro de confiança.{^n}{^n}Faça com que crie a Relíquia e, em seguida, traga-a para mim. Ela servirá como um catalisador em meus estudos. Faça isso para mim e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Para promover meus estudos, preciso de uma Relíquia antiga chamada Furor, conhecida por provocar uma fúria incontrolável em seu portador. Infelizmente, o conhecimento para criá-la se perdeu.{^n}{^n}Se você encontrar informações sobre como criá-la, leve-as para um ferreiro de confiança.{^n}{^n}Faça com que crie a Relíquia e, em seguida, traga-a para mim. Ela pode ser bastante instável, mas é exatamente o catalisador de que preciso. Faça isso para mim e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Por mais estranho que possa parecer, os trolls da Névoa não são tão estúpidos como aparentam. Na verdade, eles têm raízes xamânicas entranhadas que lhes concedem uma profunda conexão com a natureza.{^n}{^n}Tenho a intenção de usar esse poder em meu próximo estudo. Adquira dos trolls os meios para se criar um Talismã da Névoa. O bruto maior provavelmente sabe mais.{^n}{^n}Leve as instruções para um ferreiro de confiança. Faça com que crie o Talismã e, em seguida, traga-o para mim. Isso serve para mostrar a você que um grande poder pode vir das fontes mais improváveis.{^n}{^n}Faça isso para mim e vou recompensar você com alguns dos meus objetos de valor.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O Arauto do Caos, Shar'Zul, está aqui, em Cairn. Posso sentir sua presença contaminada. O Bastião do Caos, o enorme portal que se abriu perto da Necrópole, são seus domínios.{^n}{^n}Eu não pediria isto a você se pensasse que é incapaz, mas não há palavras para descrever os perigos das provações à frente. A própria presença do Arauto é um perigo para todos nós. Ele deve ser eliminado para que Cairn continue existindo, caso contrário, tudo estará perdido. Viaje até o Bastião do Caos e destrone o tirano. Sobreviva ao encontro e vou até mesmo recompensar você com algo da minha coleção mais preciosa.{^n}{^n}Esta recompensa requer uma Chave Esquelética.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Arkóvia é a prova do poder desenfreado e da arrogância da humanidade. Toda uma raça de pessoas condenadas à danação eterna por causa da maldade de um homem. Mas já chega desse assunto.{^n}{^n}Nas profundezas das ruínas conhecidas como Passos do Tormento há um espírito chamado Alkamos. Ele desempenhou um papel central no destino de Arkóvia e agora paga o preço eterno no coração da prisão que ele outrora manteve.{^n}{^n}Durante séculos, seu ódio por Uroboruuk levou sua mente à loucura. Ele agora é uma arma incontrolável, pronta para ser libertada. Certifique-se de que isso nunca aconteça.{^n}{^n}Viaje até os Passos do Tormento e bana o Senhor Executor. Sobreviva ao encontro e vou até mesmo recompensar você com algo da minha coleção mais preciosa.{^n}{^n}Esta recompensa requer uma Chave Esquelética.
+Aceitar a Tarefa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Anasteria vê potencial em você.{^n}{^n}Ela está confiante de que você pode lidar com algumas das suas tarefas mais sensíveis.
+
+Afastar-se da Mesa.
+Anasteria ainda não confia em você o suficiente para incumbir-lhe suas tarefas mais sensíveis.{^n}{^n}É necessária a reputação [[ms]Respeitado[fs]Respeitada] para acessar a Mesa de Recompensas.
+Afastar-se da Mesa.

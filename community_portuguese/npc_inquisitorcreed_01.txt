@@ -1,0 +1,62 @@
+Inquisidor Creed
+Se você tiver algo a dizer, seja [[ms]rápido[fs]rápida].
+
+Adeus.
+Que bom que você vai se juntar a nós. Talvez precisemos usar tudo o que temos para deter o Culto de Ch'thon e seu ritual.
+Você pode repetir aonde nós iremos?
+A Legião Negra tem uma fortaleza ao norte. Ela fica um pouco além das Montanhas de Asterkarn, passando pelo Portão de Valescuro.{^n}{^n}Nós vamos partir em breve com um pequeno contingente de tropas. Encontre-nos lá assim que puder.
+Estou indo.
+Nós vamos detê-los.
+Há algumas questões prementes ao norte que requerem a nossa atenção. Precisamos da sua ajuda.{^n}{^n}Você vai se juntar a nós?
+Onde é que vocês precisam de mim?
+Agora que as fileiras do culto foram dispersas, nós podemos nos reconectar com a principal força da Legião, ao norte. E bem a tempo. Com base nas informações que você trouxe de Karroz, precisamos enviar imediatamente todas as forças disponíveis para a Necrópole e deter esse ritual.{^n}{^n}Ulgrim e eu vamos partir em breve com um pequeno contingente de tropas. Você vai nos encontrar no Forte Ikon? Ele fica um pouco além das Montanhas de Asterkarn, passando pelo Portão de Valescuro.
+Vejo vocês lá.
+Receio que eu não possa.
+Eu preciso tratar de alguns assuntos primeiro.
+Você está aqui. Ótimo.{^n}{^n}Nós temos muito para discutir.
+Eu encontrei estas notas com Karroz.
+Hum... Eu ouvi falar desse ritual. Se não me falha a memória, foi realizado apenas uma vez, e os resultados não foram... digamos... nada bons.{^n}{^n}Nós não podemos deixar que o Culto tenha sucesso. Temos que partir para o Forte Ikon agora mesmo. Você vai se juntar a nós?
+Onde é que vocês precisam de mim?
+
+Foi um resgate oportuno. O destino que aguardava aqueles prisioneiros era realmente horrível.
+
+
+Adeus.
+Você agiu muito bem ao destruir aquela abominação. Não quero nem pensar no que ela poderia ter feito se a tivéssemos deixado à solta por aí.
+
+O que você sabe sobre a Ordem e os Escolhidos?
+Houve uma época em que eu seria encarregado de rastrear os membros da Ordem da Vigília da Morte, mas acho que estamos um pouco além do privilégio de tal prejulgamento.{^n}{^n}Os Escolhidos de Kymon são hereges fanáticos, mas a fé pode ser uma arma poderosa.
+
+[[ms]Obrigado[fs]Obrigada].
+Adeus.
+Eu ouvi dizer que você está a caminho da Colheita Macabra. Tenha cuidado com os trolls possuídos. Eles são ainda mais fortes do que as suas contrapartes viventes e muito resistentes ao Éter. As Vanguardas podem até desencadear uma explosão de energia Etérea em torno de si.{^n}{^n}Os Reanimadores vão ressuscitar aliados adicionais se não forem eliminados rapidamente, mas, se você conseguir destruí-los, os asseclas deles vão perecer junto com eles.
+Como você sabe tanto sobre os Etéreos?
+Eu dediquei todos os meus recursos para rastrear a ameaça Etérea, mas era tarde demais para deter os eventos que levaram ao Alvorecer Sombrio.{^n}{^n}Agora eu estudo os inimigos, aprendo as táticas deles para que nós não cometamos mais erros. Confie em mim, eu tenho a intenção de utilizar todos os recursos à nossa disposição.
+Bem, [[ms]obrigado[fs]obrigada].
+
+[[ms]Obrigado[fs]Obrigada] pelas dicas.
+É tanta morte... e nem sinal de acabar.
+Tenho algumas perguntas.
+Se você tiver algo a dizer, seja [[ms]rápido[fs]rápida].
+Como foi que você conheceu Ulgrim?
+Eu conheci Ulgrim por muito tempo pelo seu título anterior, Primeiro Lâmina, mas tive a sorte de nunca tê-lo encontrado em seu auge na época. Eu só o encontrei pessoalmente nos dias que antecederam o Alvorecer Sombrio. Foram o nosso conhecimento mútuo da conspiração dos Etéreos e a nossa incapacidade individual para combatê-la que nos uniram. No final, percebemos que os Etéreos já controlavam muito do governo e não poderiam ser detidos. Então resolvemos reunir recursos e aliados para resistir à invasão e montar uma resistência.
+Primeiro Lâmina do Imperador?
+Sim, o mestre espião e assassino do imperador. Seu nome foi removido de todos os registros. Sua própria identidade foi apagada para que ele pudesse existir fora dos limites da lei.{^n}{^n}Isso deu ao imperador uma grande liberdade para tratar de questões que alguns poderiam considerar objetáveis para o trono. Todos sabiam disso, mas ninguém se atrevia a trazer à tona para não ter um encontro com o Primeiro Lâmina. Ele era realmente incomparável em sua arte; temido até pelos lâminas noturnas das famílias nobres, muitos dos quais morreram silenciosamente em suas mãos. Pode-se até questionar a moralidade de seu trabalho, mas não sua performance implacável.{^n}{^n}Mas devo dizer que ele fez uma forma de justiça contra muitos homens corruptos e vis. Ele silenciou muitos conflitos antes que se transformassem em ordálios maiores e mais sangrentos.
+Tenho outra pergunta.
+A capital parecia ser um lugar traiçoeiro.
+Tenho outra pergunta.
+Entendo.
+Como você fugiu do laboratório do Carcereiro Krieg?
+Como um inquisidor, eu tinha acesso a muitos artefatos de ocultismo e relíquias que haviam ficado sob a custódia dos Luminari. Alguns que eram considerados mais benignos eram ocasionalmente emprestados para inquisidores veteranos e eu os usei com grande proveito.{^n}{^n}Krieg subestimou isso.
+Eu poderia ter acesso a alguns deles?
+Eles não são brinquedos que podemos distribuir para todo mundo. Eles são artefatos poderosos que devem ser manuseados com cuidado. Além disso, são agora insubstituíveis, pois o cofre dos Luminari caiu nas mãos dos nossos inimigos. Eu só espero que os Etéreos nunca discirnam o poder de alguns dos objetos mais potentes dentro dos cofres ou, pelo menos, sejam sábios o suficiente para não usá-los.{^n}{^n}De qualquer forma, a resposta é não.
+Tenho outra pergunta.
+Está bem.
+Tenho outra pergunta.
+Adeus.
+O que é que um inquisidor faz?
+Os inquisidores dos Luminari eram responsáveis por investigar e eliminar quaisquer ameaças sobrenaturais dentro do império. Isso ia desde acabar com um conciliábulo ocultista até proteger um artefato perigoso, ou até mesmo caçar criaturas extraterrenas que ocasionalmente cruzam o véu entre as realidades.{^n}{^n}O Culto de Ch'thon era um dos maiores desafios porque a raiz dele, o deus moribundo, está além do nosso alcance ou poder de destruição. O culto está conosco desde tempos remotos. Dada a recente ascensão dele ao poder, ele também parece ser um dos nossos maiores fracassos.
+Tenho outra pergunta.
+Adeus.
+Pensando bem, deixe pra lá.
+Adeus.

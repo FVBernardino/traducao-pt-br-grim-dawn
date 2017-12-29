@@ -1,0 +1,19 @@
+Guarda-almas Kaandris
+Conduza-nos à grandeza, [[ms]irmão[fs]irmã].
+Adeus.
+Você prestou um grande serviço à Ordem.
+E quanto a Malkadarr?
+Ele deve retomar suas tarefas sob a tutela da Guardiã dos Tomos. Seu conhecimento será preservado para as futuras gerações.
+Adeus.
+De nada.
+Você não deveria estar aqui.
+Tudo bem, estou indo.
+Tudo está a postos.{^n}{^n}O ritual requer toda a minha atenção, então cabe a você conter os mortos enquanto procuro Malkadarr. Eu estarei protegida contra a presença deles, mas, se algum dos espíritos permanecer quando o ritual estiver concluído, os resultados poderão ser desastrosos.{^n}{^n}Você está [[ms]pronto[fs]pronta] para começar?
+O que é que eu tenho que fazer?
+O ritual atrairá espíritos tal qual um foco de luz na escuridão. Certifique-se de que o que vier através do véu não permaneça aqui por muito tempo.{^n}{^n}Você deve manter a sala limpa para que possamos trazer de volta Malkadarr, não uma alma rebelde.
+[[ms]Estou pronto[fs]Estou pronta]. (Iniciar o Ritual)
+Ainda não estou [[ms]pronto[fs]pronta] para começar.
+[[ms]Estou pronto[fs]Estou pronta]. (Iniciar o Ritual)
+Ainda não estou [[ms]pronto[fs]pronta] para começar.
+Você não deveria estar aqui.
+Tudo bem, estou indo.

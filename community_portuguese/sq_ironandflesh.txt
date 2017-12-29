@@ -1,0 +1,18 @@
+Cruzamento do Diabo
+Carne e Ferro
+Mate Mutantes
+O apetite de Harmond pelo sofrimento dos Mortos parece ser insaciável. Ele lhe falou sobre Balros e Hagra nos Campos Podres, duas almas que sofreram uma horrível mutação e perseguiram os sobreviventes em fuga de Burrwitch. Retorne até ele quando elas estiverem mortas.
+Mate Balros, o Malformado
+Mate Hagra, a Atormentada
+
+Retorne até Harmond
+Você matou Balros e Hagra.{^n}{^n}Retorne até Harmond no Cruzamento do Diabo.
+Retorne até Harmond no Cruzamento do Diabo
+
+
+
+
+
+
+
+

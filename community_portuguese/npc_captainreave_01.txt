@@ -1,0 +1,59 @@
+Capitão Reave
+Este não é um bom momento. Temos que lidar com uma incursão.
+Adeus.
+Eu não posso acreditar que você está tomando partido de Creed em relação a isso.{^n}{^n}Anasteria é uma traidora. Mantê-la aqui só levará à nossa desgraça.
+Anasteria ajudou a salvar inúmeras vidas.
+É um estratagema para nos deixar com uma falsa sensação de conforto. Ela cheira a corrupção Etérea e ainda por cima é uma bruxa.{^n}{^n}Infelizmente, a minha honra me impede de agir contra esse risco. Eu rezo para que eu esteja errado.
+Estou [[ms]convencido[fs]convencida] de que você está.
+O tempo dirá.
+Veremos.
+Fico feliz em [[ms]tê-lo[fs]tê-la] aqui. Você faz o que deve ser feito.
+Adeus.
+Este não é um bom momento. Temos que lidar com uma incursão.
+Adeus.
+Você limpou a Tumba de Korvaak?
+Sim, os cultistas estão mortos.
+Excelente trabalho. Nós não precisamos deles metendo o nariz no nosso quintal.{^n}{^n}Sabe-se lá o que eles poderiam ter encontrado lá embaixo.
+Provavelmente é melhor que nós nunca descubramos.
+Você limpou a Tumba de Korvaak?
+Você pode repetir onde ela está?
+A Tumba de Korvaak fica em terras selvagens, em algum lugar nas Montanhas de Asterkarn, ao sul do Forte Ikon.{^n}{^n}Dificilmente alguém dá atenção às antigas ruínas lá fora, mas o culto está metendo o nariz por uma razão e não podemos ficar de braços cruzados e deixar que eles desenterrem algo horrível.
+Irei até lá agora.
+Ainda não.
+Agora que aquela miserável está morta, nós podemos voltar a nossa atenção para outras preocupações.{^n}{^n}Você está [[ms]pronto[fs]pronta] para um trabalho de campo?
+O que requer a minha atenção?
+Há relatos de atividade cultista em uma tumba antiga localizada nas Montanhas de Asterkarn. Nós sempre achamos que aquelas tumbas não eram nada além de ruínas, mas algo que atraia tamanha atenção do Culto de Ch'thon requer que atuemos.{^n}{^n}Siga na direção sul ao sair do Forte Ikon e entre na Tumba de Korvaak. Lide com todos os Sacerdotes Jurassangue e Agoureiros Jurassangue que você encontrar lá. A tumba fica em terras selvagens, longe da estrada principal.
+Vou lidar com os cultistas.
+Agora eu não posso.
+Eu já limpei a tumba dos cultistas.
+
+Talvez mais tarde.
+Você já lidou com a bruxa?
+Sim, Anasteria está morta.
+Já foi tarde. Eu sabia que podia contar com você.{^n}{^n}Agora que aquela miserável está morta, nós podemos voltar a nossa atenção para outras preocupações. Você está [[ms]pronto[fs]pronta] para um trabalho de campo?
+De que você precisa?
+
+Talvez mais tarde.
+Você já lidou com a bruxa?
+Onde ela está?
+Anasteria está na prisão, aqui no forte.{^n}{^n}Eu preferiria que ela ficasse em uma das celas, mas lhe deram o gabinete do carcereiro.
+Vou falar com ela.
+Ainda não.
+Você não é da Legião.{^n}{^n}Talvez haja algo em que você possa me ajudar, algo que não pode envolver as tropas.
+O que é?
+Com o recente ataque dos Etéreos, eu não posso permitir que essa enganação continue. Anasteria, a bruxa que foi autorizada a entrar no nosso grupo, deve ser morta.{^n}{^n}O Inquisidor insiste em dizer que ela não deve ser ferida, mas a confiança que ele tem nela é descabida. O Comandante Lucius era um homem honrado e um soldado dedicado até ser possuído pelos Etéreos. Eu me recuso a acreditar que a bruxaria de Anasteria não esteja envolvida na corrupção dele. Como estamos todos sob ordens estritas para não feri-la, eu preciso que alguém de fora da Legião, como você, lide com isso para mim. Você vai entrar na prisão do forte e lidar com aquela bruxa miserável?
+Vou lidar com a bruxa.
+Isso não é problema meu.
+Por que é que Creed quer que ela seja mantida em segurança se ela é perigosa?
+O Inquisidor está convencido de que Anasteria tem informações valiosas, mas eu descobri que ela não é nada mais do que uma mentirosa.{^n}{^n}Ela é uma bruxa contaminada pelos Etéreos e precisa ser exterminada.
+Tudo bem. Vou lidar com ela.
+Isso não é problema meu.
+
+Vocês deixaram uma bruxa entrar no forte?
+Eu sempre acreditei que era um erro, mas Creed e o Comandante Lucius quiseram ouvi-la quando ela chegou aos nossos portões com as mãos acima da cabeça em sinal de rendição.{^n}{^n}Ela, de alguma forma, ganhou a confiança deles e foi autorizada a andar livremente, espalhando a mácula Etérea dela por todo o forte e enfraquecendo a nossa determinação.{^n}{^n}Foi graças às ações dela que Lucius foi possuído, eu tenho certeza disso.
+Tudo bem. Vou lidar com ela.
+Isso não é problema meu.
+
+Eu não quero me envolver.
+Este não é um bom momento. Temos que lidar com uma incursão.
+Adeus.

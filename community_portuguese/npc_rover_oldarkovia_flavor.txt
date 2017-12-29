@@ -1,0 +1,109 @@
+Amkala
+Olá, viajante.
+O que você pode me dizer sobre a região?
+
+
+Eu fiquei sabendo da restauração do santuário. Os Rhowari lhe serão eternamente gratos.
+Eu encontrei uns textos que você pode achar interessantes.
+Essa é uma descoberta surpreendente. Em nome de todos os Rhowari, eu lhe agradeço por ter nos trazido estes textos.{^n}{^n}Farei com que todos os nômades que visitarem este lugar conheçam o conteúdo deles.
+Adeus.
+O que você pode me dizer sobre a região?
+
+De nada.
+Isso tinha que ser feito.
+Saudações, [[ms]amigo[fs]amiga]. Você já visitou o Santuário de Mogdrogen?
+Onde fica o santuário?
+O Santuário fica bem ao norte, depois do Vilarejo de Valescuro, nos picos nevados das Montanhas de Asterkarn.{^n}{^n}Tome cuidado com o Culto de Ch'thon. A presença deles é forte naquela região.
+
+[[ms]Obrigado[fs]Obrigada].
+Onde estão as partes do Santuário de Mogdrogen?
+O santuário foi danificado pelo Culto de Ch'thon e suas partes estão perdidas no vazio. Você deve entrar nos portais do vazio no Bosque Sangrento, ao norte da Herdade, e nas Planícies da Contenda, ao norte do Forte Ikon.{^n}{^n}Por favor, não deixe que o nosso santuário se perca na história.
+
+[[ms]Obrigado[fs]Obrigada].
+Eu encontrei uns textos que você pode achar interessantes.
+Essa é uma descoberta surpreendente. Em nome de todos os Rhowari, eu lhe agradeço por ter nos trazido estes textos.{^n}{^n}Farei com que todos os nômades que visitarem este lugar conheçam o conteúdo deles.
+Adeus.
+O que você pode me dizer sobre a região?
+
+Adeus.
+Olá, [[ms]amigo[fs]amiga] dos Rhowari. Desculpe por [[ms]interrompê-lo[fs]interrompê-la] em suas importantes viagens, mas eu quero pedir algo a você, algo que requer o máximo de cuidado e confiança.
+O que é?
+Bem ao norte, nas geladas Montanhas de Asterkarn, há um santuário dedicado a Mogdrogen, o padroeiro das feras e guardião dos Rhowari. Por gerações, a nossa gente visitou o altar sagrado de Mogdrogen para prestar homenagem ao dia em que Ele concedeu Sua sabedoria a Rhowan e inspirou a nossa gente a sair de Arkóvia.{^n}{^n}Mas o santuário foi corrompido pelo asqueroso Culto de Ch'thon. Os seguidores do Deus Morto profanaram nosso solo sagrado e destruíram o Santuário de Mogdrogen.
+O que é que pode ser feito?
+O Santuário está em ruínas. Sua Pedra com Runas e seu Espírito foram tomados pelo culto e levados para o vazio. Nós não podemos permitir que esse símbolo da nossa gente se perca na história. Por favor, procure os portais do vazio abertos no Bosque Sangrento e nas Planícies da Contenda. Recupere as partes do Santuário de Mogdrogen.{^n}{^n}Traga as partes de volta para o Santuário e coloque-as sobre o altar, juntamente com o coração pulsante de uma fera antiga. O nobre sacrifício dela servirá como um catalisador para fundir as peças quebradas em uma. Quando tiver terminado, esteja [[ms]preparado[fs]preparada] para despachar quaisquer Ctônicos infames que tenham infestado as terras de Mogdrogen. Se você fizer isso, os Rhowari ficarão eternamente ao seu dispor.
+Vou restaurar o santuário de Mogdrogen.
+Encontre outra pessoa.
+Eu já restaurei o santuário.
+É muito bom ouvir isso, mas você o limpou dos Ctônicos infames?{^n}{^n}O santuário não estará seguro para os Rhowari a menos que isso seja feito.
+Vou varrer os Ctônicos da área.
+Encontre outra pessoa.
+Eu já restaurei o santuário e o limpei do mal.
+Você é [[ms]um verdadeiro campeão[fs]uma verdadeira campeã] de Mogdrogen e dos Rhowari.{^n}{^n}Se você fez o que acabou de dizer, por favor, visite o santuário. Em tempos de tamanha bravura, o deus das feras é conhecido por se manifestar diante de seus seguidores.{^n}{^n}Quem sabe você vai ser [[ms]um afortunado[fs]uma afortunada]?
+Vou visitar o santuário.
+Talvez em outra ocasião.
+Sinto muito. Não posso ajudá-los.
+Eu encontrei uns textos que você pode achar interessantes.
+Essa é uma descoberta surpreendente. Em nome de todos os Rhowari, eu lhe agradeço por ter nos trazido estes textos.{^n}{^n}Farei com que todos os nômades que visitarem este lugar conheçam o conteúdo deles.
+Adeus.
+O que você pode me dizer sobre a região?
+
+Talvez em outra ocasião.
+Você sabia que Arkóvia é a antiga terra natal dos Rhowari? Eu posso lhe contar muito sobre esta terra se você tiver tempo para ouvir uma história.
+Eu encontrei uns textos que você pode achar interessantes.
+Essa é uma descoberta surpreendente. Em nome de todos os Rhowari, eu lhe agradeço por ter nos trazido estes textos.{^n}{^n}Farei com que todos os nômades que visitarem este lugar conheçam o conteúdo deles.
+Adeus.
+Por favor, eu gostaria de ouvir a história da Velha Arkóvia.
+As ruínas espalhadas pela paisagem local foram outrora parte de uma cultura muito próspera em tempos remotos. Arkóvia floresceu atuando como um eixo comercial entre as terras ocidentais e o grande lago.{^n}{^n}Do pequeno vilarejo de pescadores de Novo Porto, que dificilmente é um porto, as colunas de pedra dos outrora enormes píeres de Arkóvia podem ser vistas ainda salientes sobre a água, com a madeira apodrecida há muito tempo.
+
+
+Adeus.
+Por favor, eu gostaria de ouvir a história da Velha Arkóvia.
+As ruínas espalhadas pela paisagem local foram outrora parte de uma cultura muito próspera em tempos remotos. Arkóvia floresceu atuando como um eixo comercial entre as terras ocidentais e o grande lago.{^n}{^n}Do pequeno vilarejo de pescadores de Novo Porto, que dificilmente é um porto, as colunas de pedra dos outrora enormes píeres de Arkóvia podem ser vistas ainda salientes sobre a água, com a madeira apodrecida há muito tempo.
+
+
+Adeus.
+Como Arkóvia caiu?
+Arkóvia era uma cidade orgulhosa, mas seu povo era muito obcecado por guerras e títulos. Os nobres constantemente conspiravam uns contra os outros, às vezes levando Arkóvia à guerra civil.{^n}{^n}Havia épocas em que muito pouco era plantado, pois camponeses de vários feudos eram recrutados por senhores feudais que contendiam entre si. No final, a sociedade entrou em colapso e uma Arkóvia enfraquecida se tornou presa fácil para as potências estrangeiras. Províncias foram perdidas e o domínio de Arkóvia reduzido, mas a cidade em si nunca caiu em mãos inimigas. Seu fim foi muito mais sinistro...
+
+
+Adeus.
+O que aconteceu com a cidade de Arkóvia então?
+Nos anos derradeiros, décadas após Rhowan, o último rei de Arkóvia e pai dos Rhowari, abdicar do trono, as grandes famílias entraram em guerra para ascender ao trono vago.{^n}{^n}No final, uma Oligarquia composta pelas famílias restantes mais poderosas foi formada. Elas sempre conspiravam umas contra as outras, acreditando que, se pudessem tomar o poder para si, poderiam iniciar uma nova era de ouro para a cidade. Suas tramoias geraram apenas destruição e miséria, acelerando a queda de Arkóvia e forçando-as a tomar medidas desesperadas que lhes trouxeram ruína em uma escala catastrófica. O peso disso ainda recai sobre esta terra.
+
+
+Adeus.
+Quer dizer que necromantes tiveram participação na queda final?
+A desgraça final de Arkóvia, que tem amaldiçoado estas terras desde então, foi, de fato, trabalho de necromantes. A necromancia é uma arte antiquíssima, mas floresceu durante os primórdios da história de Arkóvia. Isto é, até ser proibida.{^n}{^n}Os necromantes foram capturados e presos nos Passos do Tormento. Lá, foram punidos por suas transgressões contra a natureza, mas a arte obscura nunca pôde ser totalmente erradicada. É dito que um dos necromantes presos na torre nunca envelheceu, mesmo após décadas de prisão, e descobriram que ele não poderia ser morto por nenhum meio ao alcance deles.{^n}{^n}Ele era conhecido pelo nome de Uroboruuk e sua aparente imortalidade se voltou contra ele na mesa do torturador. No final, porém, ele teve sua vingança...
+
+
+Adeus.
+Como foi que esse tal de Uroboruuk conseguiu se vingar?
+Conforme Arkóvia enfraquecia, os Oligarcas ficavam cada vez mais desesperados e propensos a tomar medidas drásticas.{^n}{^n}Quando ouviram falar de Uroboruuk e sua estranha imortalidade, ficaram tolamente intrigados. As grandes famílias cobiçaram o conhecimento secreto pelo qual poderiam alcançar a imortalidade de suas linhagens e tentaram compelir o necromante a lhes transmitir esse conhecimento. Uroboruuk brincou com os desejos dos Oligarcas e os traiu com um ritual falso no qual eles estavam muito ávidos por acreditar. As almas dos Arkovianos foram vinculadas eternamente à sua cidade amaldiçoada enquanto seus corpos mortais deterioraram.
+
+
+É uma história muito triste, de fato. Se ao menos houvesse uma maneira de aliviar o sofrimento desta terra.
+Eu tenho a impressão de que você ainda não me contou tudo.
+É, a parte mais terrível desta história. Eu tinha pensado em omiti-la, mas você parece [[ms]determinado[fs]determinada] a ouvir toda a verdade.{^n}{^n}A última parte da história é sobre as crianças que nasceram depois que a magia do ritual começou a ter efeito. Elas entraram neste mundo horrivelmente deformadas e com uma aparência não humana. Era dito que seus pés tinham garras e de suas costas brotava uma plumagem doentia, semelhante às penas das aves que se alimentam dos mortos. Não são muitos os que se aventuram pelas Colinas Partidas, mas aqueles que o fazem dizem que essas crianças amaldiçoadas de Arkóvia sobreviveram e agora atacam os viajantes que passam por aquelas terras.{^n}{^n}Assim a desgraça de Arkóvia se completou, acabando com as linhagens passadas e futuras das grandes famílias e amaldiçoando estas terras até hoje.
+
+Adeus.
+Como eu posso chegar à Herdade a partir daqui?
+A estrada para o norte ruiu, um terrível conflito entre os legionários e os bandidos que terminou em um derramamento de sangue desnecessário.{^n}{^n}Receio que o único caminho agora seja através das minas controladas pela Gangue de Cronley.
+Eu tenho que chegar lá de alguma forma. Qual é o caminho para as minas?
+Os bandidos tomaram conta da área ao nordeste daqui conhecida como Quatro Colinas.{^n}{^n}Você vai encontrar o que procura lá.
+[[ms]Obrigado[fs]Obrigada]. Adeus.
+[[ms]Obrigado[fs]Obrigada], eu preciso ir.
+Eu preciso ir.
+Que o seu caminho seja o verdadeiro.
+Adeus.
+Vá em paz, mas tome cuidado com os espíritos desta terra. Eles são traiçoeiros.
+Eu encontrei uns textos que você pode achar interessantes.
+Essa é uma descoberta surpreendente. Em nome de todos os Rhowari, eu lhe agradeço por ter nos trazido estes textos.{^n}{^n}Farei com que todos os nômades que visitarem este lugar conheçam o conteúdo deles.
+Adeus.
+
+Vou dar ouvidos às suas palavras.
+Você é sempre [[ms]bem-vindo[fs]bem-vinda] aqui.
+
+
+
+
+[[ms]Obrigado[fs]Obrigada], eu vou me lembrar disso.

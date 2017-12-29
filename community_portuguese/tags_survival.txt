@@ -1,0 +1,167 @@
+#Survival Mode Tags
+
+
+#Defenses
+tagDefense_Turret01=Foco Infernal
+tagDefense_Turret02=Foco do Frio Mortal
+tagDefense_Turret03=Foco Evocador de Tempestades
+tagDefense_Banner01=Estandarte do Muro de Pedra
+tagDefense_Banner01_Skill01=Aura do Muro de Pedra
+tagDefense_Banner01_Skill01Desc=O Estandarte fortalece você para a batalha, aumentando uma % da Capacidade Defensiva, uma % da Saúde e a Regeneração de Saúde.
+tagDefense_Banner01_Skill02=Névoa Curativa
+tagDefense_Banner01_Skill02Desc=O Estandarte renova você para o conflito prolongado, restaurando a saúde.
+tagDefense_Banner02=Estandarte da Vanguarda
+tagDefense_Banner02_Skill01=Aura da Vanguarda
+tagDefense_Banner02_Skill01Desc=O Estandarte enche você de raiva, aumentando uma % da Capacidade Ofensiva, uma % de Dano Crítico e uma % de Todos os Danos.
+tagDefense_Banner02_Skill02=Frenesi
+tagDefense_Banner02_Skill02Desc=O Estandarte enche você de raiva, aumentando a Velocidade Total.
+tagDefense_Wall01=Barricada
+
+tagBeacon01=Foco Celestial
+tagBeacon_Aura01_Skill=Aura Celestial
+tagBeacon_Aura01_Desc=A Luz Celestial do foco protege você da escuridão.
+
+#Traps
+tagTrap_A01=Pilar da Geada
+tagTrap_A02=Pilar Infernal
+tagTrap_A03=Pilar da Morte
+tagTrap_A04=Pilar Tóxico
+
+tagTrap_SkillA01=Presença Congelante
+tagTrap_SkillA01_Desc=O pilar nas proximidades absorve o seu calor, reduzindo a sua velocidade.
+tagTrap_SkillA02=Presença Ardente
+tagTrap_SkillA02_Desc=O pilar nas proximidades está queimando você vivo, reduzindo a armadura.
+tagTrap_SkillA03=Presença Necrótica
+tagTrap_SkillA03_Desc=O pilar nas proximidades está absorvendo a sua vitalidade, reduzindo saúde e regeneração.
+tagTrap_SkillA04=Presença Tóxica
+tagTrap_SkillA04_Desc=O pilar nas proximidades está sufocando você com gases venenosos, reduzindo o seu dano.
+
+#PowerUps
+tagSkillPowerup01=Bênção de Ulo
+tagSkillPowerup01Desc=Você é abençoado por Ulo, concedendo-lhe resistência a efeitos de dano ao longo do tempo e controle de grupo.
+
+tagSkillPowerup02=Orientação de Empyrion
+tagSkillPowerup02Desc=Você é abençoado pela luz de Empyrion, concedendo-lhe uma fortitude inigualável.
+
+tagSkillPowerup03=Poder de Amatok
+tagSkillPowerup03Desc=Você é marcado pelo espírito de Amatok, concedendo-lhe um poder incrível.
+
+tagSkillPowerup04=Pacto de Ulzuin
+tagSkillPowerup04Desc=Você é marcado por Ulzuin, concedendo-lhe uma fúria incansável.
+
+
+#Rewards
+tagItem_ChestA01=Baú do Profissional
+tagItem_ChestB01=Baú do Campeão
+tagItem_ChestC01=Baú Triunfante
+tagItem_ChestD01=Baú Ornamentado
+tagItem_ChestE01=Baú Heroico
+tagItem_ChestF01=Baú Valoroso
+tagItem_ChestG01=Baú Grande
+tagItem_ChestH01=Baú Supremo
+tagItem_ChestI01=Baú Magnífico
+tagItem_ChestJ01=Baú Glorioso
+tagItem_ChestK01=Baú Transcendente
+tagItem_ChestL01=Tesouro da Nêmesis
+tagItem_ChestM01=Tesouro do Conquistador
+tagItem_ChestN01=Tesouro Celestial
+
+tagItem_ChestStart=Combatente Morto
+
+#NPCs
+tagNPC_Event_01=Lokarr, Mestre da Provação
+tagNPC_DefenseSite_01=Local de Defesa
+
+tagNPC_MerchantS01=Kandral
+tagStoreTitle_MerchantS01=Mascate Imortal
+
+tagNPC_SmugglerS01=Ignotius
+tagStoreTitle_SmugglerS01=Contrabandista Imortal
+
+tagNPC_ReallocatorS01=Kracius
+tagStoreTitle_ReallocatorS01=Guia Espiritual
+
+tagNPC_InventorS01=Yvalla
+tagStoreTitle_InventorS01=Inventora Ancestral
+
+tagNPC_PowerupsS01=Torralia, a Arquimaga Imortal
+
+tagNPC_SmithS01=Garrius
+tagStoreTitle_SmithS01=Ferreiro Maldito
+tagStoreDesc_SmithS01_1={}Dom da Não Vida
+tagStoreDesc_SmithS01_2=Garrius é dotado de séculos de conhecimentos em ferraria, reforçados por seu singularíssimo... estado de existência.
+tagStoreDesc_SmithS01_3= 
+tagStoreDesc_SmithS01_4=As Armas, Armaduras e Acessórios forjados são imbuídos de uma das seguintes propriedades:
+
+
+#Notifications
+tagNotification_Start=Fale com o Mestre da Provação para Começar
+tagNotification_Active=Elimine todos os Inimigos
+tagNotification_Continue=Fale com o Mestre da Provação para Continuar
+tagNotification_Failure=Você falhou, sua Compensação espera por você na Câmara do Tesouro
+tagNotification_Reward=Sua Recompensa espera por você na Câmara do Tesouro
+tagNotification_Reset=(Opcional) Fale com o Mestre da Provação para Resetar a Provação para outra tentativa
+
+tagNotification_Checkpoint05=Você agora pode retomar a Provação na Onda 50.
+tagNotification_Checkpoint10=Você agora pode retomar a Provação na Onda 100.
+
+
+#Mutators
+Mutator_Monster_01=Deformados pelo Éter
+Mutator_Monster_01Desc=Os monstros são resistentes ao Éter, mas mais Suscetíveis ao Caos.
+Mutator_Monster_02=Blindados
+Mutator_Monster_02Desc=Os monstros são quase imunes a danos Físicos e Perfuração de armadura, mas são mais Suscetíveis aos Elementos.
+Mutator_Monster_03=Berserk
+Mutator_Monster_03Desc=Os monstros são berserkers, Atacando mais rápido, mas também ficando mais Suscetíveis a Ataques.
+Mutator_Monster_04=Brutais
+Mutator_Monster_04Desc=Os monstros desferem Golpes Críticos mais vezes, mas causam Dano Reduzido.
+Mutator_Monster_05=Corrompidos
+Mutator_Monster_05Desc=Os monstros são resistentes ao Caos, mas mais Suscetíveis ao Éter.
+Mutator_Monster_06=Incapacitantes
+Mutator_Monster_06Desc=Os monstros deixam os adversários mais Lentos com seus ataques, mas atacam com mais Lentidão.
+Mutator_Monster_07=Cruéis
+Mutator_Monster_07Desc=Os Golpes Críticos dos monstros são mais letais, mas os ataques têm mais chances de serem desperdiçados.
+Mutator_Monster_08=Inflamados
+Mutator_Monster_08Desc=Os monstros são infundidos com Fogo, causando dano por Fogo adicional e Retaliando dano por Fogo, mas são mais Suscetíveis ao Frio.
+Mutator_Monster_09=Distorcidos pelo Tempo
+Mutator_Monster_09Desc=Os monstros têm grande redução no Tempo de Recarga de Feitiços e aumento da Velocidade de Lançamento, mas causam Dano Físico Reduzido.
+Mutator_Monster_10=Sugando
+Mutator_Monster_10Desc=Os monstros sugam saúde a cada ataque, mas têm Saúde Reduzida.
+Mutator_Monster_11=Venenosos
+Mutator_Monster_11Desc=Os monstros são contaminados com veneno, causando dano por Veneno adicional e Retaliando dano por Veneno, mas são mais Suscetíveis a ataques de drenagem de Vitalidade.
+Mutator_Monster_12=Regenerando
+Mutator_Monster_12Desc=Os monstros têm sua regeneração de saúde e de energia bastante aumentada, mas são mais Suscetíveis a Ácido, Veneno e Sangramento.
+Mutator_Monster_13=Resistentes
+Mutator_Monster_13Desc=Os monstros são quase imunes a ataques Mágicos, mas são mais Suscetíveis a danos Físicos.
+Mutator_Monster_14=Robustecidos
+Mutator_Monster_14Desc=Os monstros têm sua Saúde bastante aumentada, mas têm sua Regeneração de Saúde reduzida.
+Mutator_Monster_15=Imparáveis
+Mutator_Monster_15Desc=Os monstros são altamente resistentes a Controle de Grupo, mas Movem-se Lentamente.
+Mutator_Monster_16=Vingativos
+Mutator_Monster_16Desc=Os monstros têm seus efeitos de Retaliação bastante aumentados, mas têm a Armadura Reduzida.
+Mutator_Monster_17=Velozes
+Mutator_Monster_17Desc=Os monstros têm sua Velocidade de Movimento bastante aumentada, mas são mais Suscetíveis a Controle de Grupo.
+
+Mutator_Player_01=Marcados pelo Éter
+Mutator_Player_01Desc=Os jogadores experienciam Ataques mais lentos, mas são mais Resistentes ao Éter.
+Mutator_Player_02=Marcados pelo Vazio
+Mutator_Player_02Desc=Os jogadores experienciam Velocidade de Lançamento reduzida, mas são mais Resistentes ao Caos.
+Mutator_Player_03=Marcados
+Mutator_Player_03Desc=Os jogadores têm sua Capacidade Defensiva reduzida, mas o Dano é Aumentado.
+Mutator_Player_04=Drenados
+Mutator_Player_04Desc=Os jogadores têm sua Regeneração de Saúde reduzida, mas são mais Resistentes a Veneno e Sangramento.
+Mutator_Player_05=Destroçados
+Mutator_Player_05Desc=Os jogadores têm seus efeitos de Dano e de Retaliação reduzidos, mas a Armadura é aumentada.
+Mutator_Player_06=Acometidos
+Mutator_Player_06Desc=Os jogadores têm sua Saúde reduzida, mas são mais Resistentes a drenagem de Vitalidade.
+Mutator_Player_07=Desacelerados
+Mutator_Player_07Desc=A Velocidade de Movimento dos jogadores é bastante reduzida, mas o Controle de Grupo não dura tanto tempo.
+Mutator_Player_08=Contaminados
+Mutator_Player_08Desc=Os jogadores ficam mais Lentos, mas o Dano Crítico é aumentado.
+Mutator_Player_09=Expostos
+Mutator_Player_09Desc=Os jogadores têm a Armadura reduzida, mas os Tempos de Recarga são Reduzidos.
+Mutator_Player_10=Enfraquecidos
+Mutator_Player_10Desc=Os Ataques Críticos dos jogadores são enfraquecidos, mas os ataques têm mais chances de acertar.
+
+
+

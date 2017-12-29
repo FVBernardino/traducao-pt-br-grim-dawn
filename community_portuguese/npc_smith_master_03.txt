@@ -1,0 +1,18 @@
+Angrim
+Se você precisar de alguma coisa, fale com o Capitão Reave.
+Está bem.
+Você tomou o meu martelo e me deixou para morrer.{^n}{^n}Eu não tenho nada para falar com você.
+Eu... Está bem.
+Você de novo. Você já me obrigou a abrir mão do meu martelo, tem mais alguma coisa que você queira levar?{^n}{^n}Eu não tenho nada para falar com você.
+Está bem.
+Ah, é você de novo.{^n}{^n}Espero que o meu aprendiz esteja fazendo bom uso do Malleum Menhir.
+Como você chegou aqui?
+Bem, eu rumei para o norte atravessando terras selvagens, com cuidado para evitar eventuais assentamentos que pudessem atrair a atenção dos Etéreos.{^n}{^n}Acabei me deparando com um acampamento da Legião e me alistei imediatamente. Nós fomos chamados de volta para o Forte Ikon vários dias depois.{^n}{^n}Tivemos algumas dificuldades ao longo do caminho, mas aqui estamos.
+Que bom que você conseguiu.
+Como você está se saindo sem o martelo?
+É uma pena que os meus melhores trabalhos tenham ficado para trás, mas eu ainda posso fornecer armadura e armas de boa qualidade para esses homens e mulheres valentes.{^n}{^n}Faço o melhor que posso com o que tenho à disposição.
+Cuide-se.
+Sim, o trabalho dele está ajudando o pessoal do Cruzamento do Diabo.
+Eu preciso ir.
+Se você precisar de alguma coisa, fale com o Capitão Reave.
+Está bem.

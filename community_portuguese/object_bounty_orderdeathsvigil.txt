@@ -1,0 +1,148 @@
+Recompensas da Ordem da Vigília da Morte
+A Ordem não quer confiar suas tarefas a alguém que tenha aliados pertencentes aos Escolhidos.
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna triunfantemente e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você já está em uma Recompensa para a Ordem da Vigília da Morte.
+Afastar-se da Mesa de Recompensas.
+A Guardiã dos Tomos apela para a Ordem levar a cabo muitas tarefas importantes e indispensáveis para o equilíbrio de Cairn.{^n}{^n}Você se juntará aos seus irmãos e irmãs nessa tarefa sagrada?
+Dar uma olhada na recompensa.
+Você concluiu todas as Recompensas da Ordem disponíveis no momento.
+Afastar-se da Mesa de Recompensas.
+Dar uma olhada na recompensa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afastar-se da Mesa de Recompensas.
+Os Etéreos têm uma estranha habilidade de manipular os mortos que é digna de investigação, mas antes temos que lidar com suas criações.{^n}{^n}As Vanguardas Carnedisformes, outrora trolls viventes, estão sendo criadas em algum lugar perto da Colheita Macabra. Elas são resistentes e incrivelmente fortes. Não podemos permitir que os Etéreos tenham tal recurso à disposição.{^n}{^n}Elimine Vanguardas Carnedisformes e desmantele as forças dos Etéreos. Seus esforços serão recompensados com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Estranhamente, os Dominadores Etéreos têm um poder que imita o nosso: eles são mestres em ressuscitar os mortos.{^n}{^n}Devemos negar reforços ao inimigo. Cada Dominador destruído significa menos mortos-vivos lutando contra nós.{^n}{^n}Para ajudar você, a Ordem concederá um encantamento. Seus esforços serão recompensados com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Não se pode argumentar com os Escolhidos de Kymon. Eles enviam suas Donzelas da Lâmina chamejantes atrás da nossa gente para massacrá-la como animais.{^n}{^n}Não toleraremos isso. Mate quaisquer Donzelas da Lâmina que encontrar. Talvez isso envie uma mensagem para os Escolhidos e seu falso profeta. E, além disso, elas servirão como excelentes asseclas.{^n}{^n}Estamos oferecendo pedaços de ferro por cada Donzela da Lâmina abatida.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+As lendas dizem que os carniçais já foram humanos. Humanos corrompidos pela loucura e obcecados para devorar carne morta.{^n}{^n}Agora eles não são muito mais do que demônios estúpidos e irracionais, com os quais já não se pode argumentar. O Sepulcro Negro, na Necrópole, está repleto desses Devoradores de Cadáveres. Não temos muita escolha. Eles devem ser exterminados.{^n}{^n}Qualquer esforço nesse sentido será recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Escolhidos de Kymon enviaram uma das suas agentes mais poderosas para enfrentar-nos em batalha no Forte Haron. Seu nome é 'Irmã Bravna, a Rompe-céu'.{^n}{^n}Mostre aos Escolhidos que nem mesmo os seus campeões mais poderosos conseguem resistir aos mestres da morte. Para servir de exemplo, usaremos o cadáver dela como um patético assecla esquelético.{^n}{^n}Nossos estoques de materiais estarão à disposição de quem acabar com ela.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Embaixo de Burrwitch, no Laboratório do Carcereiro, os Etéreos realizaram alguns dos primeiros experimentos com a finalidade de ressuscitar nossos mortos.{^n}{^n}A pesquisa foi liderada por vários Etéreos, incluindo uma Possessa conhecida como Halvastra Fogofúria. Embora seja tarde demais para evitarmos o que foi descoberto naqueles laboratórios, ainda podemos nos vingar de um dos cérebros por trás da operação.{^n}{^n}Uma recompensa em pedaços de ferro aguarda aquele que matar a bruxa Etérea.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Escolhidos de Kymon são fanáticos e tolos, mas até mesmo os tolos podem ser perigosos quando armados com lâminas e fogo.{^n}{^n}Um dos seus melhores guerreiros, Horvald Quebra-escudo, foi visto no Forte Haron. Faça dele um exemplo.{^n}{^n}Nossos estoques de materiais estarão à disposição de quem acabar com ele.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Escolhidos de Kymon são fanáticos e tolos, mas até mesmo os tolos podem ser perigosos quando armados com lâminas e fogo.{^n}{^n}Uma das suas melhores guerreiras, Olga Guarda-chama, foi vista no Forte Haron. Faça dela um exemplo.{^n}{^n}Nossos estoques de materiais estarão à disposição de quem acabar com ela.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Um troll Carnedisforme de enormes proporções foi visto na Colheita Macabra. Esse gigante pode vir a assolar as forças da Legião Negra estacionadas na Herdade e acabar com qualquer chance de determos os Etéreos nesta região.{^n}{^n}A Ordem vê isso como uma oportunidade de provar nosso valor para os nossos recém-aliados. Dirija-se à Colheita Macabra e mate esse tal de Narroth. A Ordem concederá um encantamento às suas armas para ajudar nessa perigosa tarefa. Seus esforços serão recompensados com materiais de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Um Reanimador com uma estranha conexão com o Éter anda pelos corredores do Laboratório do Carcereiro.{^n}{^n}Enquanto a maioria dos Reanimadores pode apenas conjurar explosões de Fogo Etéreo, este pode abrir lacunas na própria realidade, evocando manifestações do Éter diferentes das dos mais poderosos arcanistas.{^n}{^n}A Ordem deseja estudar essa anomalia. Viaje até Burrwitch e mate esse tal de 'Barrostrandt, o Ascendido' para que possamos investigar seus restos mortais. Seus esforços serão recompensados com materiais de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os carniçais são seres desprezíveis e abomináveis. Os mais fracos se escondem nas sombras, espreitando em túmulos em busca de sua próxima refeição.{^n}{^n}Mas são os carniçais maiores que causam terror no coração dos homens. Eles não temem o sol nem as chamas. Eles são o pesadelo com o qual temos que contender.{^n}{^n}Um desses carniçais, ao qual chamamos de Gravvis, tem vagado pelo Sepulcro Negro, na Necrópole. Pelo bem de Cairn, ele deve ser morto. A eliminação de Gravvis será amplamente recompensada com materiais de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Etéreos provaram ser inimigos inusuais. Seus poderes rivalizam com os nossos, porém nunca devemos baixar a guarda diante do Culto de Ch'thon.{^n}{^n}Seus evocadores são capazes de trazer criaturas horríveis para este mundo, mas o líder, um tal de 'Karroz, o Signo de Ch'thon', traz o que há de pior. Um dos seus companheiros pessoais, Narl'Sarroth, tem um apetite insaciável por carne humana. Contam-se horríveis histórias em que ele devora sozinho cada habitante de Valescuro antes de o culto tomar o vilarejo e os portões além.{^n}{^n}Quem estiver disposto a dar um jeito nessa monstruosidade, no Portão de Valescuro, será amplamente recompensado com materiais de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A maldição Arkoviana é uma horrível demonstração do poder do nosso mestre, mas também serve como uma fonte de inúmeras curiosidades para a Ordem.{^n}{^n}Nas profundezas dos Passos do Tormento há Retornados que aprenderam a manipular a morte tal como nós. Isso é uma paródia insana do feitiço de Uroboruuk e deve acabar.{^n}{^n}Quem desbravar os Passos do Tormento para levar a cabo essa tarefa será merecidamente recompensado com materiais de nossos estoques. A Ordem deverá fornecer encantamentos para ajudar na jornada.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Nenhum Arkoviano foi poupado da maldição de Uroboruuk, tal era a sua ira. Mas isso não impediu que os Arkovianos tentassem fugir dela. Um desses grupos reuniu-se num templo escondido dentro de uma caverna inundada perto de Wightmire.{^n}{^n}Lá, eles rezaram para seus deuses e esperaram que a maldição expirasse. Rolderathis, seu Sumo Sacerdote, pregou vários sermões condenando a necromancia e enaltecendo os Arkovianos. Ele continua proferindo até hoje a mesma retórica vazia em seu altar arruinado.{^n}{^n}A Guardiã dos Tomos deseja reivindicar o templo dos mortos-vivos, a fim de ter acesso aos poucos arquivos que não foram danificados pelas enchentes. Para que isso aconteça, Rolderathis deve ser destruído.{^n}{^n}A eliminação de Rolderathis será amplamente recompensada com materiais de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O Culto de Ch'thon usa estranhos Selos a fim de realizar seus rituais de evocação.{^n}{^n}Devemos negar-lhes esse recurso. Os selos recuperados de cultistas mortos devem ser trazidos aqui para serem estudados.{^n}{^n}Cada selo entregue será recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+As atividades do Culto em Valescuro estão ficando fora de controle. É hora de atacar o cabeça, ou melhor, os cabeças.{^n}{^n}Dois dos membros mais proeminentes do culto, 'Bolvar, o Vinculador Sanguíneo' e 'Zaria, a Talhadora', foram vistos no Bosque Sangrento e perto do Vilarejo de Valescuro.{^n}{^n}A Guardiã exige que eles morram. Acabe com eles e você receberá como recompensa materiais provenientes de nossos estoques. A Ordem deverá fornecer encantamentos para ajudar na missão.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Um dos líderes mais proeminentes do Culto se revelou na Necrópole.{^n}{^n}A chegada de um feiticeiro com tamanho poder não pode ser ignorada. Temos que aproveitar esta oportunidade para desferir um duro golpe nos nossos inimigos. Viaje até a Necrópole e acabe com a vida de 'Thalonis, o Senhor do Sangue'.{^n}{^n}A morte de Thalonis será recompensada com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Identificamos dois dos homens envolvidos nos experimentos conduzidos no laboratório do Carcereiro Krieg. Infelizmente, ambos já estão mortos.{^n}{^n}Mas, felizmente, ambos foram ressuscitados como Reanimadores. A Ordem deseja estudar o processo pelo qual humanos normais são transformados nesses hospedeiros necróticos.{^n}{^n}Viaje até as instalações de Krieg e mate Gethrand e Zanbrandt.{^n}{^n}A eliminação dos Reanimadores será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Escolhidos de Kymon tomaram uma cripta embaixo do Forte Ikon conhecida como Tumba do Arconte Barthollem. Ela é um recurso valioso para a Ordem e não deve ser desbaratada pelos Escolhidos.{^n}{^n}Eles já evocaram uma manifestação do Arconte. Não nos atrevemos a pensar no que mais eles podem fazer com um local tão ancestral. Viaje até a tumba e extermine os Escolhidos e seu campeão.{^n}{^n}A riqueza de nossa coleção mais rara estará à sua disposição se você sobreviver.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Tempos sombrios estão pela frente. O mundo está em ruínas e cabe a nós consertar o que foi destruído.{^n}{^n}Mas o poder reside também na ruína e na destruição. A Ordem deseja aproveitar esse potencial.{^n}{^n}Fale com um ferreiro que conheça os antigos costumes. Faça com que crie uma Relíquia Ruína para nós.{^n}{^n}Faça isso para a Ordem e você receberá como recompensa o frasco do Sangue de Ch'thon, o qual você poderá usar nos seus rituais da maneira que achar melhor.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Guardiã dos Tomos apela para a Ordem levar a cabo muitas tarefas importantes e indispensáveis para o equilíbrio de Cairn.{^n}{^n}Você se juntará aos seus irmãos e irmãs nessa tarefa sagrada?
+
+Afastar-se da Mesa de Recompensas.
+Você ainda não conquistou a confiança da Guardiã dos Tomos para poder levar a cabo as tarefas importantes da Ordem.{^n}{^n}É necessária a reputação [[ms]Respeitado[fs]Respeitada] para acessar a Mesa de Recompensas.
+Afastar-se da Mesa de Recompensas.

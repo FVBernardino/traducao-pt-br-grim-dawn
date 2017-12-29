@@ -1,0 +1,75 @@
+Kalderos
+Você lutou bem, mas há desafios ainda maiores nas profundezas do Tormento, vinculados eternamente como mortos-vivos.{^n}{^n}Tal é o espantoso poder da sua laia. Não pense em abusar dele.
+
+Adeus.
+Você lutou bem, mas há desafios ainda maiores nas profundezas do Tormento.
+Tenho algumas perguntas.
+Pergunte e eu responderei.
+O que há do outro lado dessas portas?
+Essas portas foram seladas pelo próprio Uroboruuk após ele ter condenado os Arkovianos ao seu triste destino como mortos-vivos. Do outro lado estão os Arkovianos que ele condenou a uma eternidade de sofrimento; apenas uma fração do tormento que causaram a ele.{^n}{^n}Você deve ser [[ms]cauteloso[fs]cautelosa]. Os condenados presos lá embaixo são muito mais perigosos do que aqueles contra os quais você lutou até agora.
+Quem era Uroboruuk?
+Ele era um grande erudito e mestre das artes necróticas. Sua maior e mais terrível façanha foi usar o desejo de imortalidade dos Arkovianos contra eles mesmos.
+Tenho outra pergunta.
+[[ms]Obrigado[fs]Obrigada].
+Tenho outra pergunta.
+[[ms]Obrigado[fs]Obrigada].
+O que eu faço com a Chave Esquelética?
+Ela abrirá muitas portas antigas, incluindo as que estão na sua frente. Mas cuidado, a chave será destruída ao ser usada e as portas se selarão rapidamente.{^n}{^n}Uma vez lá dentro, você só poderá sair se passar pelo Senhor Executor... ou morrer.
+O Senhor Executor?
+Alkamos... Ele era o Arkoviano encarregado do tormento de Uroboruuk. Agora ele sofrerá por toda a eternidade.
+Tenho outra pergunta.
+É bom saber.
+Posso reabrir as portas?
+Não... Uma vez que as portas estejam seladas, você terá que voltar em outra ocasião...
+Tenho outra pergunta.
+Entendo.
+Tenho outra pergunta.
+[[ms]Obrigado[fs]Obrigada].
+Qual era o propósito dos Passos do Tormento?
+Era o lugar onde aqueles considerados indignos da sociedade "perfeita" dos Arkovianos eram aprisionados e torturados pelo resto de suas vidas. No final, acabou servindo como uma prisão para todos os necromantes de ascendência Arkoviana.
+Tenho outra pergunta.
+Entendo. [[ms]Obrigado[fs]Obrigada].
+Por que é que você serve a Balvoruuk?
+Eu jurei protegê-lo, mesmo depois da minha morte. Ele provou ser um companheiro muito interessante na minha vida de morto.
+Tenho outra pergunta.
+Interessante.
+Deixe pra lá.
+Adeus.
+Seus aliados lutaram bem, mas há desafios ainda maiores pela frente.
+Adeus.
+Você destruiu o sacerdote.
+Acabou.
+Meu mestre ficará satisfeito. Pelos seus serviços, eu lhe concedo esta chave. É o único meio de acessar os lugares antigos deste mundo.
+Lugares antigos?
+Sim. Há muito tempo, várias portas foram seladas por antigos poderes agora perdidos. As portas que estão na sua frente foram seladas dessa maneira.{^n}{^n}Mas eu devo lhe avisar: a chave será destruída ao ser usada e as portas não permanecerão abertas por muito tempo. Uma vez lá dentro, você só poderá sair se passar pelo Senhor Executor... ou morrer.
+
+
+Entendo.
+Vou usá-la bem.
+Eu ainda posso sentir a presença de Zarthuzellan. Você deve destruí-lo.
+Você pode repetir onde ele está?
+O Grande Sacerdote Zarthuzellan reside no terceiro andar dos Passos do Tormento. Você o encontrará na frente de portas antigas.
+Irei até lá agora.
+Vou cuidar dele em breve.
+O Grande Sacerdote Zarthuzellan foi o Arkoviano cuja palavra baniu todos os necromantes Arkovianos para os Passos do Tormento. Mesmo depois de morto, ele continua reunindo as almas perdidas de Arkóvia com sua palavra maluca.{^n}{^n}Chegou a hora de dispersar seu rebanho e remover essa mácula do mundo de uma vez por todas. Você deve ir até as profundezas dos Passos do Tormento. No terceiro andar, você encontrará o sacerdote em seu altar profanado. Expurgue-o deste lugar e me juntarei a você lá embaixo.
+Vou fazer o que você me pediu.
+Não vou fazer isso.
+Eu já matei o Grande Sacerdote.
+Meu mestre ficará satisfeito. Pelos seus serviços, eu lhe concedo esta chave. É o único meio de acessar os lugares antigos deste mundo. Na câmara do Grande Sacerdote estão localizadas as portas que dão acesso a um desses lugares. Encontre-me lá.
+Vou fazer isso.
+Você fez como nós pedimos. Eu gosto disso.
+Os Oligarcas estão mortos.
+Agora que aquelas almas corrompidas foram destruídas, esta terra começará a melhorar... com o tempo. O que eu quero lhe pedir agora é muito mais desafiador.
+O que eu devo fazer agora?
+
+Acho que já foi o suficiente.
+Você não terminou sua tarefa.
+Você pode repetir aonde eu devo ir?
+Entre na Catacumba Arkoviana. A entrada está localizada nas ruínas ao oeste daqui. Lá você encontrará os espíritos dos Oligarcas.
+[[ms]Obrigado[fs]Obrigada].
+Eu vou voltar.
+Saudações, mortal.
+Você não é como os outros fantasmas que encontrei.
+Você fala dos mortos que vagam por estas ruínas? Não, eu estou vinculado a esta forma imortal porque quero. Eles... não foram tão afortunados.
+Eu... entendo.
+Adeus.

@@ -1,0 +1,188 @@
+Recompensas da Legião Negra
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna triunfantemente e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você já está em uma Recompensa para a Legião Negra.
+Afastar-se da Mesa de Recompensas.
+A Legião Negra está sempre à procura de homens e mulheres capazes de ajudá-los em missões difíceis.
+Dar uma olhada na recompensa.
+Você fez tudo o que a Legião solicitou nesta sessão.
+Afastar-se da Mesa de Recompensas.
+Dar uma olhada na recompensa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afastar-se da Mesa de Recompensas.
+A Legião pede ajuda para lidar com a ameaça dos trolls Carnedisformes.{^n}{^n}Para que as nossas forças tenham êxito na região, é imprescindível que Comandantes Carnedisformes sejam eliminados.{^n}{^n}Qualquer ajuda será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra o insidioso Culto de Ch'thon.{^n}{^n}Agoureiros Jurassangue estão causando estragos em todas as nossas linhas no Bosque Sangrento. Eles devem ser considerados alvos primários por todos os agentes da Legião.{^n}{^n}Qualquer ajuda será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra os monstros do vazio.{^n}{^n}Devoradores Ctônicos foram vistos aterrorizando o Bosque Sangrento, partindo nossos homens ao meio com suas mandíbulas ferozes. Eles baixam o nosso moral e devem ser exterminados.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para caçar um monstro.{^n}{^n}Um Espinhoso conhecido como Velho Espinhorror eludiu os nossos caçadores. Acredita-se que a sua toca esteja escondida em algum lugar na Bacia Sombreada.{^n}{^n}Qualquer ajuda será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para lidar com uma ameaça Dermáptera.{^n}{^n}Um Vizir na colmeia Dermáptera, nas Terras Agrícolas Putrefatas, foi contaminado pelo Éter. Se os Etéreos usarem isso a seu favor, poderão, em breve, ter uma colmeia inteira sob seu comando. Esse vizir contaminado deve ser exterminado de uma vez.{^n}{^n}Qualquer ajuda será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra os monstros do vazio.{^n}{^n}Um portal que leva ao vazio foi aberto nas Planícies da Contenda, ao norte do Forte Ikon. Lá, um monstro obsidiano conhecido como Bane'Gargoth comanda os ctônicos que atacam o nosso mundo. Alguém precisa desbravar o vazio e exterminá-lo, para o bem da humanidade.{^n}{^n}Qualquer ajuda será recompensada com uma boa quantia em pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para caçar um monstro.{^n}{^n}Uma matriarca mantícora conhecida como Mogara provou ser um alvo difícil e muitas vezes transforma seus caçadores em presas. Parece que o Deserto Dentado, ao sul, é uma área onde ela costuma caçar.{^n}{^n}Qualquer ajuda será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra o insidioso Culto de Ch'thon.{^n}{^n}Um Ctônico chamado Gluttrius'Maw está aterrorizando as nossas forças no Bosque Sangrento. Ele provou ser elusivo e extremamente mortal. Sua morte tornou-se um objetivo primário.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para caçar um monstro.{^n}{^n}Um rastejante das cavernas conhecido como Sicrix fugiu dos caçadores da Legião, mas eles rastrearam-no até as perigosíssimas Profundezas da Montanha. Precisamos de mais reforços para acabar com a criatura.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para caçar um monstro.{^n}{^n}Um Espinhoso conhecido como Goelardente provou ser surpreendentemente resistente às chamas. Ele foi visto pela última vez na Bacia Sombreada, espalhando grandes incêndios por onde quer que fosse.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para reunir informações sobre o inimigo.{^n}{^n}O Culto de Ch'thon vem empregando estranhos Selos em seus rituais de evocação. Temos que aprender mais sobre esses instrumentos para podermos combater os esforços do Culto.{^n}{^n}A entrega de um Selo Ctônico será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para reunir informações sobre o inimigo.{^n}{^n}O Culto de Ch'thon é obcecado por algo conhecido como Sangue de Ch'thon. A Legião deseja estudar esse líquido mais a fundo.{^n}{^n}A entrega de um Sangue de Ch'thon será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para reunir informações sobre o inimigo.{^n}{^n}Os Etéreos obtêm energia a partir de suas várias formações de cristais. A Legião precisa de um espécime de tais formações para poder combater esse recurso inimigo.{^n}{^n}A entrega de um Fragmento Etéreo será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para reunir informações sobre o inimigo.{^n}{^n}Os Aglomerados de Cristais Etéreos mais potentes, encontrados somente nos maiores Cristais Etéreos e Obeliscos Etéreos, parecem conter imensas quantidades de energia bruta dentro de si. A Legião deseja saber mais sobre seu funcionamento.{^n}{^n}A entrega de um Aglomerado Etéreo será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda para reunir informações sobre o inimigo.{^n}{^n}Parece que o ato de possessão Etérea inerentemente altera a estrutura química do cérebro. A Legião deseja estudar isso mais a fundo, mas requer um espécime.{^n}{^n}A entrega de uma Matéria Cerebral Contaminada será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}Um morto-vivo conhecido como Kilrian habita a Catacumba da Velha Arkóvia. Ele reúne os mortos perto de si, criando um exército que pode representar uma séria ameaça para a humanidade. Ele deve ser destruído a todo custo.{^n}{^n}Qualquer ajuda será recompensada com uma boa quantia em pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}Acreditava-se que Harrath, um troll Carnedisforme, havia sido morto perto do portal do lado de fora da Herdade. Por meios desconhecidos, ele retornou e está novamente causando estragos nas Terras Agrícolas Putrefatas. Essa ameaça deve ser exterminada de novo.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}Padmanestia, uma humana possuída, foi vista na Conflagração. A Legião não tolera traidores da humanidade. Ela deve ser eliminada sem nenhuma piedade.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}Corprus, um carniçal voraz, está inibindo os nossos esforços na Necrópole. Para podermos deter o Culto, essa ameaça deve ser eliminada imediatamente. Cace esse carniçal em seu covil; a cripta Sepulcro Negro.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}Luthus'Balok é um poderoso monstro ctônico que canaliza eletricidade através do seu corpo de obsidiana. Ele foi visto emergindo do Trono Obsidiano, criando tempestades de raios por onde quer que fosse. Esse caos deve acabar.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}As Profundezas da Montanha oferecem uma grande variedade de recursos inexplorados, mas os engenheiros da Legião não podem entrar lá enquanto um perigoso rastejante das cavernas conhecido como Ikrix vagar pelas profundezas.{^n}{^n}Qualquer ajuda será recompensada com uma boa quantia em pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}Centenas de Ctônicos chegam a este mundo através de um enorme portal ctônico aberto próximo à Necrópole. Nós o chamamos de Bastião do Caos. Em suas profundezas habita uma poderosa criatura conhecida como 'Lagoth'Ak, Arauto do Sangue'. Se ela fosse morta, iríamos desferir um duro golpe nos Ctônicos.{^n}{^n}A Legião está disposta a compartilhar alguns dos seus materiais raros com quem conseguir realizar essa tarefa impossível. Esta recompensa requer uma Chave Esquelética.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}Ao norte da Herdade, numa região que hoje chamamos de Conflagração, a Legião foi obrigada a fugir de uma criação Etérea conhecida apenas como Arauto das Chamas. Essa criatura espalha fogo etéreo por onde quer que vá e seu próximo alvo parece ser a Herdade. Não podemos subestimar o perigo que o Arauto representa para esta região. Ele deve ser eliminado a qualquer custo. A Legião está disposta a compartilhar alguns dos seus materiais raros com quem conseguir realizar essa tarefa impossível.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}Bem ao sul, nas Colinas Partidas, existem ruínas esquecidas conhecidas como Passos do Tormento. Elas parecem ser o epicentro de toda a atividade dos mortos-vivos em Arkóvia. Nas profundezas desse lugar maldito, para além dos Portões da Angústia, habita uma corrupção conhecida como Ilgorr. Se de alguma forma esse guardião fosse destruído e a torre purificada, a Legião poderia estudar as ruínas e escavá-las em busca de artefatos. Um recurso valioso como esse não pode ser menosprezado.{^n}{^n}A Legião está disposta a compartilhar alguns dos seus materiais raros com quem conseguir realizar essa tarefa impossível.{^n}{^n}Esta recompensa requer uma Chave Esquelética.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião pede ajuda contra um alvo prioritário.{^n}{^n}Um dos líderes do Culto finalmente apareceu na Necrópole. 'Thalonis, o Senhor do Sangue' faz parte da elite que está tentando ativamente ressuscitar um semideus Ctônico. Não podemos permitir que isso aconteça. 'Thalonis, o Senhor do Sangue' deve ser detido a qualquer custo. A Legião convoca todos os seus aliados fisicamente aptos para ajudar nessa questão.{^n}{^n}Qualquer ajuda será recompensada com materiais dos estoques da Legião.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Legião Negra está sempre à procura de homens e mulheres capazes de ajudá-los em missões difíceis.
+
+Afastar-se da Mesa de Recompensas.
+A Legião Negra ainda não confia em suas capacidades.{^n}{^n}É necessária a reputação Amigável para acessar a Mesa de Recompensas.
+Afastar-se da Mesa de Recompensas.

@@ -1,0 +1,175 @@
+Haruuv
+Você escolheu o seu caminho com sabedoria.
+Adeus.
+Você escolheu o seu caminho com sabedoria. Nós estamos ansiosos para trabalhar ao seu lado.
+Eu também.
+Eu não consigo imaginar por que você se voltaria contra os seus dessa forma.
+
+Eu fiz o que eu sinto que é certo.
+É uma aliança conveniente para tipos como você.{^n}{^n}Espero que sua alma encontre algum consolo nas atrocidades que você vai cometer em nome dos Escolhidos.
+Eu fiz o que eu sinto que é certo.
+Se a sua tomada de decisão é um indicativo da Legião Negra, talvez a humanidade esteja mesmo condenada.
+Eu faço o necessário para que todos nós sobrevivamos.
+Eu sinceramente espero que você esteja [[ms]certo[fs]certa], então. Mas eu não consigo deixar de questionar a sua aliança com fanáticos.
+Adeus.
+Eu fiz o que eu sinto que é certo.
+Aquele a quem você chama de Ulgrim pediu para falar com a Ordem da Vigília da Morte. Então, aqui estou.
+
+Adeus.
+Por favor, visite o nosso santuário. O Mestre Varuuk vai querer falar com você.
+Onde fica o santuário de vocês?
+O nosso santuário fica ao oeste das ruínas do antigo forte conhecido como Bastião da Amargura, ao norte.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte da Herdade e atravessar os Campos em Pousio.
+[[ms]Obrigado[fs]Obrigada].
+Estou indo.
+Eu lhe peço que procure o nosso santuário, ao norte. Nós nos apoderamos de uma pequena cripta escondida nas montanhas, ao oeste do Bastião da Amargura.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte e atravessar os Campos em Pousio. Quando você alcançar as ruínas do antigo forte, estará perto da nossa casa.{^n}{^n}Uma vez lá dentro, encontre o Mestre Varuuk. Ele vai querer falar com [[ms]o nosso novo aliado[fs]a nossa nova aliada].
+Vou procurar o santuário de vocês.
+Talvez em outra ocasião.
+Eu não consigo imaginar por que você se voltaria contra os seus dessa forma.
+Você está certo, foi um erro. Eu quero me juntar a vocês.
+Tem certeza disso? A Ordem vai [[ms]recebê-lo[fs]recebê-la] como [[ms]um aliado[fs]uma aliada], mas tudo o que você fez até este momento será esquecido.{^n}{^n}(Aviso: escolher a Ordem vai zerar sua Reputação com a Ordem da Vigília da Morte e os Escolhidos de Kymon)
+A Legião Negra vai trabalhar com vocês. (Escolher a Ordem)
+Esplêndido. Eu vou cuidar dos preparativos imediatamente.{^n}{^n}Nesse meio-tempo, eu lhe peço que procure o nosso santuário, ao norte. Nós nos apoderamos de uma pequena cripta escondida nas montanhas, ao oeste do Bastião da Amargura.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte e atravessar os Campos em Pousio. Quando você alcançar as ruínas do antigo forte, estará perto da nossa casa.{^n}{^n}Uma vez lá dentro, encontre o Mestre Varuuk. Ele vai querer falar com [[ms]o nosso novo aliado[fs]a nossa nova aliada].
+Vou procurar o santuário de vocês.
+Talvez em outra ocasião.
+Talvez não.
+Eles são aliados valiosos.
+Você é [[ms]um[fs]uma] idiota por confiar nos Escolhidos de Kymon.
+Você está certo, foi um erro. Eu quero me juntar a vocês.
+Tem certeza disso? A Ordem vai [[ms]recebê-lo[fs]recebê-la] como [[ms]um aliado[fs]uma aliada], mas tudo o que você fez até este momento será esquecido.{^n}{^n}(Aviso: escolher a Ordem vai zerar sua Reputação com a Ordem da Vigília da Morte e os Escolhidos de Kymon)
+A Legião Negra vai trabalhar com vocês. (Escolher a Ordem)
+Esplêndido. Eu vou cuidar dos preparativos imediatamente.{^n}{^n}Nesse meio-tempo, eu lhe peço que procure o nosso santuário, ao norte. Nós nos apoderamos de uma pequena cripta escondida nas montanhas, ao oeste do Bastião da Amargura.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte e atravessar os Campos em Pousio. Quando você alcançar as ruínas do antigo forte, estará perto da nossa casa.{^n}{^n}Uma vez lá dentro, encontre o Mestre Varuuk. Ele vai querer falar com [[ms]o nosso novo aliado[fs]a nossa nova aliada].
+Vou procurar o santuário de vocês.
+Talvez em outra ocasião.
+Talvez não.
+Eles são aliados valiosos.
+Eu fiquei sabendo das suas ações. A Ordem está ansiosa para continuar seus esforços com você ao lado deles.
+A Legião Negra vai trabalhar com vocês. (Escolher a Ordem)
+Esplêndido. Eu vou cuidar dos preparativos imediatamente.{^n}{^n}Nesse meio-tempo, eu lhe peço que procure o nosso santuário, ao norte. Nós nos apoderamos de uma pequena cripta escondida nas montanhas, ao oeste do Bastião da Amargura.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte e atravessar os Campos em Pousio. Quando você alcançar as ruínas do antigo forte, estará perto da nossa casa.{^n}{^n}Uma vez lá dentro, encontre o Mestre Varuuk. Ele vai querer falar com [[ms]o nosso novo aliado[fs]a nossa nova aliada].
+Vou procurar o santuário de vocês.
+Talvez em outra ocasião.
+Falaremos sobre isso mais tarde.
+Saudações. Eu sou Haruuv e represento a Ordem da Vigília da Morte.{^n}{^n}Nós teríamos prazer em receber [[ms]outro[fs]outra] necromante em nosso rebanho.
+Eu acho que já tomei a minha decisão.
+O que vai ser, então? A Legião Negra vai lutar ao lado da Ordem da Vigília da Morte contra os invasores do nosso reino?
+A Legião Negra vai trabalhar com vocês. (Escolher a Ordem)
+Esplêndido. Eu vou cuidar dos preparativos imediatamente.{^n}{^n}Nesse meio-tempo, eu lhe peço que procure o nosso santuário, ao norte. Nós nos apoderamos de uma pequena cripta escondida nas montanhas, ao oeste do Bastião da Amargura.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte e atravessar os Campos em Pousio. Quando você alcançar as ruínas do antigo forte, estará perto da nossa casa.{^n}{^n}Uma vez lá dentro, encontre o Mestre Varuuk. Ele vai querer falar com [[ms]o nosso novo aliado[fs]a nossa nova aliada].
+Vou procurar o santuário de vocês.
+Talvez em outra ocasião.
+Eu preciso de mais tempo para pensar sobre isso.
+
+
+
+Adeus.
+Está bem, [[ms]inquisidor[fs]inquisidora]. Pode ser que tenhamos que engolir nosso orgulho e tentar encontrar um terreno comum nestes tempos difíceis.{^n}{^n}Não posso lhe prometer uma saudação calorosa, mas podemos tentar trabalhar juntos.
+Eu acho que já tomei a minha decisão.
+O que vai ser, então? A Legião Negra vai lutar ao lado da Ordem da Vigília da Morte contra os invasores do nosso reino?
+A Legião Negra vai trabalhar com vocês. (Escolher a Ordem)
+Esplêndido. Eu vou cuidar dos preparativos imediatamente.{^n}{^n}Nesse meio-tempo, eu lhe peço que procure o nosso santuário, ao norte. Nós nos apoderamos de uma pequena cripta escondida nas montanhas, ao oeste do Bastião da Amargura.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte e atravessar os Campos em Pousio. Quando você alcançar as ruínas do antigo forte, estará perto da nossa casa.{^n}{^n}Uma vez lá dentro, encontre o Mestre Varuuk. Ele vai querer falar com [[ms]o nosso novo aliado[fs]a nossa nova aliada].
+Vou procurar o santuário de vocês.
+Talvez em outra ocasião.
+Eu preciso de mais tempo para pensar sobre isso.
+
+
+
+Adeus.
+[[ms]Um inquisidor[fs]Uma inquisidora]? Eu tinha a impressão de que isto era para ser um encontro amigável.{^n}{^n}Eu sou Haruuv e represento a Ordem da Vigília da Morte, mas não sei se há muito para discutirmos.
+Por que isso?
+A nossa gente sofreu muito sob o olhar atento dos Luminari do império.{^n}{^n}Não tenho certeza se é sábio eu recomendar uma aliança com [[ms]um inquisidor[fs]uma inquisidora].
+
+Está bem.
+Eu esperava que pudéssemos ser aliados.
+Você esperava desfazer décadas de perseguição em um instante?{^n}{^n}Não sei se é possível.
+É verdade, mas devemos começar em algum lugar.
+Talvez, mas, com os Escolhidos de Kymon à nossa porta e os inimigos da humanidade ao nosso redor, como podemos nos dar ao luxo de correr esse risco?{^n}{^n}O próprio Pai Kymon já foi um inquisidor, por que os meus irmãos e irmãs deveriam confiar em você?
+
+
+É uma pena que não podemos entrar em acordo.
+Muita coisa mudou, a humanidade deve se unir contra os nossos inimigos.
+Você fala a verdade.{^n}{^n}Pode ser que tenhamos que engolir nosso orgulho e tentar encontrar um terreno comum nestes tempos difíceis.{^n}{^n}Está bem. Não posso lhe prometer uma saudação calorosa, mas podemos tentar trabalhar juntos.
+Eu acho que já tomei a minha decisão.
+O que vai ser, então? A Legião Negra vai lutar ao lado da Ordem da Vigília da Morte contra os invasores do nosso reino?
+A Legião Negra vai trabalhar com vocês. (Escolher a Ordem)
+Esplêndido. Eu vou cuidar dos preparativos imediatamente.{^n}{^n}Nesse meio-tempo, eu lhe peço que procure o nosso santuário, ao norte. Nós nos apoderamos de uma pequena cripta escondida nas montanhas, ao oeste do Bastião da Amargura.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte e atravessar os Campos em Pousio. Quando você alcançar as ruínas do antigo forte, estará perto da nossa casa.{^n}{^n}Uma vez lá dentro, encontre o Mestre Varuuk. Ele vai querer falar com [[ms]o nosso novo aliado[fs]a nossa nova aliada].
+Vou procurar o santuário de vocês.
+Talvez em outra ocasião.
+Eu preciso de mais tempo para pensar sobre isso.
+
+
+
+Adeus.
+Eu prometo que não vou fazer nenhum mal.
+Essas são apenas palavras, [[ms]inquisidor[fs]inquisidora]. As ações dos Luminari falam mais alto.{^n}{^n}A sua mera presença no nosso santuário iria levantar suspeitas, criar uma sensação de medo e evocar memórias dolorosas.{^n}{^n}Não é algo pelo qual eu esteja disposto a fazer a minha gente passar. Sinto muito.
+Está bem.
+É uma pena que não podemos entrar em acordo.
+Adeus.
+Saudações. Eu sou Haruuv e represento a Ordem da Vigília da Morte.{^n}{^n}Nós queremos muito discutir um acordo, mesmo que isso tenha que ser feito diante de gente questionável.
+Eu acho que já tomei a minha decisão.
+O que vai ser, então? A Legião Negra vai lutar ao lado da Ordem da Vigília da Morte contra os invasores do nosso reino?
+A Legião Negra vai trabalhar com vocês. (Escolher a Ordem)
+Esplêndido. Eu vou cuidar dos preparativos imediatamente.{^n}{^n}Nesse meio-tempo, eu lhe peço que procure o nosso santuário, ao norte. Nós nos apoderamos de uma pequena cripta escondida nas montanhas, ao oeste do Bastião da Amargura.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte e atravessar os Campos em Pousio. Quando você alcançar as ruínas do antigo forte, estará perto da nossa casa.{^n}{^n}Uma vez lá dentro, encontre o Mestre Varuuk. Ele vai querer falar com [[ms]o nosso novo aliado[fs]a nossa nova aliada].
+Vou procurar o santuário de vocês.
+Talvez em outra ocasião.
+Eu preciso de mais tempo para pensar sobre isso.
+O que você pode me dizer sobre a Ordem?
+Nós somos buscadores e preservadores de conhecimento, treinados na antiquíssima arte da necromancia pelo nosso grande mestre Uroboruuk.{^n}{^n}Nós não tememos a morte. Abraçamos tudo o que ela nos ensina e, por meio dela, ficamos mais sintonizados com o mundo que nos cerca.
+
+O que vocês oferecem à Legião Negra?
+Nós somos especialistas no arcano e mestres da necromancia.{^n}{^n}Por que enviar homens vivos para morrerem nas mãos do inimigo se podemos enviar servos mortos-vivos leais para lutarem no nosso lugar?{^n}{^n}Nós vamos combater o inimigo e preservar vidas humanas valiosas no processo.
+
+
+
+
+
+Eu preciso de um tempo para pensar sobre isso.
+O que você pode me dizer sobre Uroboruuk?
+Nosso mestre é eterno. Ele estava lá quando o Império Arkoviano era jovem e estava lá quando eles caíram por causa da sua maldição. Os Arkovianos, bem como o Império Erulano destruído pelo Alvorecer Sombrio, perseguiram a necromancia e aqueles que buscavam conhecimento proibido.{^n}{^n}Eles torturaram nosso mestre, ávidos por descobrir seu segredo para a imortalidade. Em troca, Uroboruuk os amaldiçoou para viverem eternamente como mortos-vivos. Depois da queda de Arkóvia, Uroboruuk fundou a Ordem da Vigília da Morte para garantir que a busca do conhecimento e dos mistérios da vida nunca mais viesse a ser ameaçada por ignorantes.{^n}{^n}Agora que a humanidade está à beira da aniquilação, parece que seus ensinamentos são mais relevantes do que nunca. Nós vamos devolver o equilíbrio para o mundo como o nosso mestre decretou.
+
+
+
+
+
+Eu preciso de um tempo para pensar sobre isso.
+O que é a necromancia?
+A necromancia é o estudo da morte e das forças da vida que nos prendem a esse destino final.{^n}{^n}Para nós, a morte é um mistério que deve ser estudado, não um tema esotérico a ser temido.
+
+
+
+
+
+Eu preciso de um tempo para pensar sobre isso.
+
+
+O que você pode me dizer sobre os Escolhidos de Kymon?
+Eles são fanáticos, obcecados por uma antiga fé adoradora de um deus inexistente conhecido como Empyrion.{^n}{^n}Qualquer um que se oponha aos seus princípios é um herege e merece apenas o extermínio. Nisso, eles não são diferentes do império que perseguiu a Ordem por gerações.
+
+
+
+Eu preciso de um tempo para pensar sobre isso.
+Que tipo de equipamento vocês oferecem?
+Você deve constatar que o nosso equipamento pode dar conta de várias situações, mas usuários de Frio, Vitalidade e asseclas vão constatar que o nosso arsenal é de grande utilidade.
+
+
+
+Eu preciso de um tempo para pensar sobre isso.
+Adeus.
+[[ms]Um colega buscador[fs]Uma colega buscadora] de conhecimento, eu já me sinto mais confortável aqui.{^n}{^n}Aquele a quem você chama de Ulgrim pediu para falar com a Ordem da Vigília da Morte. Então, aqui estou.
+O que é a Ordem da Vigília da Morte?
+Nós somos buscadores e preservadores de conhecimento, treinados na antiquíssima arte da necromancia.{^n}{^n}Nós não tememos a morte. Abraçamos tudo o que ela nos ensina e, por meio dela, ficamos mais sintonizados com o mundo que nos cerca.
+Entendo.
+Adeus.
+[[ms]Um inquisidor[fs]Uma inquisidora]? Eu tinha a impressão de que isto era para ser um encontro amigável.{^n}{^n}Aquele a quem você chama de Ulgrim pediu para falar com a Ordem da Vigília da Morte. Então, aqui estou.
+O que é a Ordem da Vigília da Morte?
+Nós somos buscadores e preservadores de conhecimento, treinados na antiquíssima arte da necromancia.{^n}{^n}Nós não tememos a morte. Abraçamos tudo o que ela nos ensina e, por meio dela, ficamos mais sintonizados com o mundo que nos cerca.
+
+Entendo.
+Não vou fazer nenhum mal.
+Apesar de isso certamente ser um alívio, você terá que me perdoar por não baixar a guarda.{^n}{^n}A Ordem não tem um histórico confortável com os Luminari.
+
+As coisas mudam.
+Compreensível.
+Adeus.
+Aquele a quem você chama de Ulgrim pediu para falar com a Ordem da Vigília da Morte. Então, aqui estou.
+O que é a Ordem da Vigília da Morte?
+Nós somos buscadores e preservadores de conhecimento, treinados na antiquíssima arte da necromancia.{^n}{^n}Nós não tememos a morte. Abraçamos tudo o que ela nos ensina e, por meio dela, ficamos mais sintonizados com o mundo que nos cerca.
+Entendo.
+Adeus.

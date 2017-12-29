@@ -1,0 +1,22 @@
+Ancião Mathias
+Você fez... como eu... lhe pedi?
+Está feito. Descanse em paz.
+Não tenho... muito tempo... de vida...
+Você precisa descansar.
+Por favor... entregue o talismã...
+Vou fazer isso.
+Por favor... [[ms]forasteiro[fs]forasteira]... pegue este talismã. Eu o trouxe para longe do meu acampamento a fim de que os bandidos não o roubassem, mas a natureza já decidiu e não me resta muito tempo de vida.{^n}{^n}*Mathias faz uma pausa para tirar o sangue da garganta.*{^n}{^n}Eu lhe imploro, leve o talismã para Greven. Ele está em um acampamento de Nômades ao leste da Mina Staunton, nos Sopés Arkovianos. Diga a ele que eu morri protegendo a nossa relíquia.
+Vou fazer como você me pediu.
+Por favor... entregue o talismã...
+Acho que vou ficar com ele.
+Não... por favor! Leve o talismã para Greven. Faça com que ele [[ms]o[fs]a] recompense, mas, por favor, não mantenha o talismã longe da minha gente. Ele é sagrado para nós...
+Tudo bem, tudo bem. Você pode repetir aonde eu devo ir?
+
+Esqueça. Vou ficar com ele.
+Tudo bem, tudo bem. Vou entregá-lo.
+Aonde eu devo levar o talismã?
+Greven... Leve-o para Greven, no Acampamento dos Nômades. É ao... leste da... Mina... Staunton...
+Está bem.
+Tchau.
+*Mathias estremece de dor. Ele mal consegue notar a sua presença.*
+Vou procurar ajuda.

@@ -1,0 +1,70 @@
+Marca da Morte Vallar
+Você serviu à Legião Negra muito bem. Nós não nos esquecemos dos nossos aliados.
+Adeus.
+Estas bandas são perigosas. É melhor você voltar por onde veio.
+Adeus.
+Como vai a batalha contra Sangrentauro?
+Não foi fácil, mas Sangrentauro está morto.
+Você é [[ms]um lutador[fs]uma lutadora] brutal e [[ms]efetivo[fs]efetiva]. Eu odiaria [[ms]enfrentá-lo[fs]enfrentá-la] no campo de batalha. Que bom que você está do nosso lado.{^n}{^n}Eu vou me certificar de [[ms]incluí-lo[fs]incluí-la] no relatório para a Capitã Somer, na Herdade.
+Adeus.
+Como vai a batalha contra Sangrentauro?
+Onde o dranghoul está?
+Você vai encontrar 'Sangrentauro, o Impiedoso' entrincheirado num antigo forte conhecido como Fortaleza do Tirano, ao leste. Ele tem agora muitos grobles do seu lado, então esteja [[ms]preparado[fs]preparada] para um conflito prolongado.
+Vou acabar com ele.
+Ainda estou trabalhando nisso.
+'Sangrentauro, o Impiedoso' é um dranghoul feroz que fez com que os grobles locais ficassem loucos. Com o dranghoul os reunindo sob um único estandarte, os grobles estão se tornando uma séria ameaça para a região e isso não pode ser ignorado.{^n}{^n}Se você matar Sangrentauro, os grobles deverão se separar e retornar para suas tribos. Sangrentauro faz de um forte em ruínas conhecido como Fortaleza do Tirano seu lar, ao leste. Mate-o e eu lhe darei alguns materiais raros que encontramos em nossas caçadas.
+Vou matar Sangrentauro.
+Você vai ter que lidar com isso sozinho.
+Eu já matei o groble tirano.
+
+Algum progresso com a rainha aranha?
+A Tece-melancolia está morta.
+Você é eficiente, eu gosto disso. Você se sairia muito bem nos Marcas da Morte.{^n}{^n}Eu tenho os seus pedaços de ferro bem aqui e, se você estiver a fim, uma última missão.
+De que você precisa?
+
+Algum progresso com a rainha aranha?
+Onde eu devo procurar Ungoliax?
+A rainha aranha habita uma das cavernas na Bacia Sombreada, ao sul daqui. Cuidado com suas crias. Elas são tão vorazes quanto sua rainha.
+Vou caçá-la.
+Ainda estou trabalhando nisso.
+Você provou seu valor contra Mogara, admito, mas há perigos maiores ainda rondando por aí. Uma enorme aranha, que os fazendeiros chamam de 'Ungoliax, a Tece-melancolia', mora numa caverna em algum lugar na Bacia Sombreada, ao sul.{^n}{^n}Suas crias saem rastejando dos lugares mais escuros do mundo para aterrorizar os moradores e conseguir comida para sua rainha voraz. Isso deve terminar.{^n}{^n}Mate a rainha aranha e eu farei com que você seja [[ms]recompensado[fs]recompensada] com pedaços de ferro.
+Vou encontrar essa Tece-melancolia.
+Não, [[ms]obrigado[fs]obrigada].
+A Tece-melancolia já foi morta por mim.
+
+Como vai a caçada?
+Mogara está morta.
+Impressionante. Aquela fera deixou um dos meus homens fora de serviço por uma semana. O seu ferro, como prometido.{^n}{^n}Se quiser, eu tenho mais trabalho para [[ms]um caçador[fs]uma caçadora] eficaz como você.
+O que eu preciso fazer?
+
+Como vai a caçada?
+Onde eu devo procurar?
+O Deserto Dentado, ao oeste do acampamento, é onde você vai encontrar a maioria das mantícoras por aqui. Presumo que Mogara esteja entre seu bando.
+Vou caçá-la.
+Ainda estou procurando a fera.
+Pare aí. Você entrou num acampamento da Legião Negra. Diga o que quer.
+Estou tentando fazer a minha parte.
+Hum... bem... os meus homens estão no limite e as feras são muitas. Você faria um favor a todos nós se matasse tudo que vaga pelas terras selvagens. Mas, se você não se importar de arriscar sua vida, eu tenho alguns alvos em mente e vou ficar muito feliz em lhe pagar para eliminá-los.{^n}{^n}Ao oeste encontra-se uma área conhecida como Deserto Dentado. Lá, você vai encontrar um bando de mantícoras. A matriarca, Mogara, é uma fera sedenta por sangue e adora carne humana. Mate-a e eu lhe darei uma boa quantidade de pedaços de ferro.
+Vou caçar Mogara.
+Pensando bem, deixe pra lá.
+Eu já matei a matriarca mantícora.
+
+O que vocês estão fazendo aqui?
+Estamos caçando animais perigosos. Com a humanidade em fuga, as feras começaram a rastejar para fora das suas tocas.{^n}{^n}Estamos aqui para garantir que elas não causarão mais problemas para as pessoas da Herdade.
+Onde é que fica a Herdade?
+Volte por onde você veio. Siga pela Estrada Poeirenta até chegar às terras agrícolas. A Herdade não está muito além.
+[[ms]Obrigado[fs]Obrigada].
+Precisa de ajuda?
+
+Espero que esteja tudo bem.
+A Legião Negra?
+Isso mesmo. Somos os Vassalos da Morte, os defensores do império. Você está falando com o Sargento Vallar, dos Marcas da Morte.
+Os defensores do império? Ótimo trabalho.
+Acho que você não estava na capital quando os Etéreos atacaram. Estávamos em enorme desvantagem numérica, lutando contra um inimigo diferente de tudo que já se tinha visto.{^n}{^n}O comandante deu a única ordem sensata que podia: recuar. Muitos de nós não conseguiram sair de lá e acabaram sendo mortos ou, pior ainda... possuídos.{^n}{^n}Eu pensava que aqueles que tinham perecido eram os sortudos, mas, com os mortos se levantando, eu não tenho mais tanta certeza.
+Sinto muito. Precisa de alguma ajuda aqui?
+
+Desculpe se tirei conclusões precipitadas.
+Gostaria de ajudar, caso você precise.
+
+Adeus.
+Estou só de passagem.

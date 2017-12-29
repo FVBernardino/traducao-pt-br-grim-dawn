@@ -1,0 +1,31 @@
+Batedor-chefe Lysell
+Eu não vou me esquecer do que você fez. Posso estar sendo sentimental, mas aqueles homens e mulheres valentes merecem essa pequena consideração.
+Adeus.
+Circulando!
+Adeus.
+Teve sorte recuperando aquelas insígnias?
+Sim. Aqui estão.
+Obrigado. Pode parecer somente um pequeno gesto para você, mas você ajudou a honrar aqueles que morreram pela Legião. Nós nunca vamos nos esquecer disso.{^n}{^n}Por favor, pegue estes pedaços de ferro como compensação. É o mínimo que podemos fazer.
+[[ms]Obrigado[fs]Obrigada].
+Teve sorte recuperando aquelas insígnias?
+Onde eu devo procurar?
+Dirija-se ao território dos cultistas no Bosque Sangrento, ao norte da Herdade.{^n}{^n}Eu não tenho nenhuma esperança de que os meus homens tenham sobrevivido. Só peço que traga suas insígnias.
+Irei até lá imediatamente.
+Ainda estou procurando.
+Eu ouvi dizer que você vai atacar o acampamento dos cultistas. Você é [[ms]corajoso[fs]corajosa]. Mas, depois do que você fez àquela abominação Etérea, acho que você é capaz de qualquer coisa.{^n}{^n}Já que pretende se arriscar por nós, talvez possa fazer um pequeno favor à Legião.
+De que você precisa?
+Sob o comando da Capitã Somer, eu enviei grupos de batedores para o norte a fim de estudarem as operações cultistas lá. O culto tem forte presença no Bosque Sangrento e vem trazendo entidades ctônicas poderosas para este mundo. Acho que não é necessário dizer que é uma missão perigosa. Muitos dos meus homens não retornaram. Quando um soldado morre em batalha e não conseguimos recuperar seu corpo, fazemos o possível para, pelo menos, trazer de volta sua insígnia. Assim, ele pode receber uma humilde despedida antes de partir para o que quer que espere todos nós do outro lado. Meus batedores merecem mais, mas por enquanto eu não posso dar a eles nem mesmo essa despedida.{^n}{^n}Nós já perdemos muitos homens. Eu não posso enviar mais ninguém para recuperar aquelas insígnias. Você vai dar aos meus homens essa última consideração? Eu vou fazer com que valha o tempo perdido.
+Vou honrar os mortos.
+Desculpe. Não posso fazer isso agora.
+Eu já encontrei algumas insígnias. Aqui estão.
+Obrigado. Pode parecer somente um pequeno gesto para você, mas você ajudou a honrar aqueles que morreram pela Legião. Nós nunca vamos nos esquecer disso.{^n}{^n}Por favor, pegue estes pedaços de ferro como compensação. É o mínimo que podemos fazer.
+[[ms]Obrigado[fs]Obrigada].
+O que você pode me dizer sobre a região?
+Bem, eu diria que ela está entre "em apuros" e "totalmente ferrada". Há Etéreos ao sul e ao leste. Contudo, você já causou danos consideráveis a eles, então nós não precisamos nos preocupar tanto assim. Pelo menos por enquanto.{^n}{^n}Os cultistas estão nos atacando pelo norte. Eles vêm capturando andarilhos e levando-os até fazendas sangrentas para sacrificá-los em rituais ctônicos. Esses são os sortudos. Os outros são amarrados como espantalhos para os passáros se banquetearem. Por fim, temos uma infestação de Dermápteros, ao oeste. Enquanto permanecerem lá nos campos, não vamos querer nada com eles. Nós já estamos no limite.
+Você disse que precisava de ajuda?
+[[ms]Obrigado[fs]Obrigada].
+Batedor-chefe Lysell, ao seu dispor.
+O que você pode me dizer sobre a região?
+Bem, eu diria que ela está entre "em apuros" e "totalmente ferrada". Há Etéreos ao sul e ao leste. Eu tenho certeza de que estão trabalhando em umas criaturas deploráveis lá nas fazendas abandonadas.{^n}{^n}Os cultistas estão nos atacando pelo norte. Eles vêm capturando andarilhos e levando-os até fazendas sangrentas para sacrificá-los em rituais ctônicos. Esses são os sortudos. Os outros são amarrados como espantalhos para os passáros se banquetearem. Por fim, temos uma infestação de Dermápteros, ao oeste. Enquanto permanecerem lá nos campos, não vamos querer nada com eles. Nós já estamos no limite.
+[[ms]Obrigado[fs]Obrigada].
+Adeus.

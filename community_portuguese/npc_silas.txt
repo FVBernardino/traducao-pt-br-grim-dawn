@@ -1,0 +1,60 @@
+Silas
+Estou indo, estou indo. De qualquer forma, eu tenho grana pra torrar.
+É bom mesmo.
+O que você quer aqui? Volte ao trabalho.
+Estou indo.
+Volte ao trabalho. Você sabe, a cota vai subir na semana que vem.
+Eu acho que vou matá-lo desta vez.
+Mantenha sua boca calada ou vou ter que lhe talhar outra.
+Você morre hoje. (Atacar)
+Deixe pra lá.
+Como quiser.
+Volte ao trabalho. Você sabe, a cota vai subir na semana que vem.
+Como quiser.
+O que você quer aqui? Volte ao trabalho.
+O que você está fazendo aqui?
+Você é [[ms]novo[fs]nova] por aqui, não é? Veja bem, este lugar está sob a nossa proteção. Cuide da sua vida e suma daqui.
+Extorsão, não é? Homens como você merecem morrer.
+Eu poderia tomar isso como uma ameaça. Você não está me ameaçando, está?
+
+
+Talvez eu esteja. (Atacar)
+Deixe pra lá.
+
+Eu tenho a sucata.
+Está esperando o quê? Entregue logo.
+Isto é suficiente?
+Muito bem. Agora volte ao trabalho.
+Como quiser.
+Pensando bem, eu acho que vou matá-lo.
+Opa! Você é [[ms]corajoso[fs]corajosa]. Vou lhe dar alguns segundos pra mudar de ideia antes que eu enfie sua cabeça na areia.
+Tudo bem. Pegue a sucata e afogue-se nela.
+
+Não, eu tenho certeza. Você morre. (Atacar)
+Deixe pra lá.
+Quanto você quer para dar o fora?
+Agora você está falando a minha língua. Veja bem, eu não dou a mínima pra este lugar e uma boa grana pode aumentar bastante a reputação de um homem, certo? Passe pra cá 2500 Pedaços de Ferro e vou dizer ao Darius que não vale a pena a gente continuar aqui.
+É melhor só a sucata.
+Fechado. (Dar-lhe 2500 Pedaços de Ferro)
+Muito bem. É ótimo estar livre desta toca slith. Agora suma da minha frente antes que eu mude de ideia.
+É melhor que você já tenha ido embora quando eu voltar.
+Como quiser.
+Pensando bem, eu acho que vou matá-lo.
+Opa! Você é [[ms]corajoso[fs]corajosa]. Vou lhe dar alguns segundos pra mudar de ideia antes que eu enfie sua cabeça na areia.
+
+Não, eu tenho certeza. Você morre. (Atacar)
+Deixe pra lá.
+Deixe pra lá.
+Eu acho que você deve ir embora antes que alguém se machuque.
+
+Chega de sucata. Você morre hoje.
+Opa! Você é [[ms]corajoso[fs]corajosa]. Vou lhe dar alguns segundos pra mudar de ideia antes que eu enfie sua cabeça na areia.
+
+Não, eu tenho certeza. Você morre. (Atacar)
+Deixe pra lá.
+Esqueça.
+O que você quer aqui? Volte ao trabalho.
+O que está acontecendo aqui?
+Você é [[ms]novo[fs]nova] por aqui, não é? Veja bem, este lugar está sob a nossa proteção. Cuide da sua vida e suma daqui.
+Deixe pra lá.
+Estou indo.

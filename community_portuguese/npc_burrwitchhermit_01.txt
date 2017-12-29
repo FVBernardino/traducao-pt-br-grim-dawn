@@ -1,0 +1,53 @@
+Harvey, o Errante
+Saia, sim, saia! Eles não podem [[ms]vê-lo[fs]vê-la] entrando no meu esconderijo!
+Tudo bem.
+Você quebrou a minha porta! Ó não, os putrefatos ambulantes ouvirão você. Eles encontrarão a mim e ao pequeno Walter.{^n}{^n}Espere, você é [[ms]um putrefato[fs]uma putrefata]? Não, não, você não nos acharia se fosse; eles jamais pensariam em procurar aqui.
+O Cruzamento do Diabo é seguro. Posso levá-lo até lá.
+Não... não, não posso ir. Nenhum lugar é seguro, somente aqui.{^n}{^n}É aqui que devemos ficar, sim, sim...
+Insisto que venha comigo para o seu próprio bem!
+Não posso [[ms]deixá-lo[fs]deixá-la] arruinar tudo! Não [[ms]o[fs]a] deixarei levar o Walter novamente!
+Esqueça.
+
+
+
+Você é de Burrwitch? Esteve aqui o tempo todo?
+Sim, eu sabia que eles viriam, os putrefatos; eu sabia! Tentei avisar todo mundo, avisar minha familia, mas todos me chamaram de louco. Eu queria salvá-los, mas não podia ficar aqui. Você não vê? Não tive escolha, tive que me esconder.{^n}{^n}Depois que os putrefatos mataram todos na cidade, todos menos o pequeno Walter, eu voltei. É genial, você não vê? Eles estão no pântano agora, mas jamais pensariam em procurar na cidade de novo!
+O que você pode me dizer sobre a região?
+O quê? Harvey não sai muito de casa. Somente quando os putrefatos vêm.{^n}{^n}Então Harvey se esconde na passagem embaixo da ponte. Leva à velha Colina Sagrada, mas muitos mortos lá.
+Hum, uma passagem escondida. [[ms]Obrigado[fs]Obrigada].
+Você sabe onde está aquele a quem chamam de Carcereiro?
+Não... não... não aquele.{^n}{^n}Ele mora mais à frente, no morro, na casa do mal onde as pessoas gritam. Sempre gritam...{^n}{^n}Eu sempre soube que havia algo estranho nele. As pessoas diziam que eu estava louco, mas quem é o louco agora?!
+Isso ajudou. [[ms]Obrigado[fs]Obrigada].
+Como você sobreviveu aqui sozinho?
+Sozinho? Ó, você quer dizer eu e o pequeno Walter? Só estamos nos escondendo neste brilhante local até que todos virem putrefatos ambulantes.{^n}{^n}Eu fugi para o pântano quando os putrefatos chegaram. Minha esposa não queria ir, ela achava que o vilarejo era o local mais seguro. Ela não deixou que eu levasse nosso filho; ela me chamou de louco.{^n}{^n}Ela está putrefata agora, caminhando pelas ruas com os outros, mas eu voltei pelo Walter e aqui está ele, mais vivo do que nunca!
+E se alguém matar os Etéreos?
+
+
+
+O que você fazia aqui antes do Alvorecer Sombrio?
+Harvey... era caçador e comerciante. Vendia couro em Malmouth, do outro lado do lago.{^n}{^n}Vivia lá com o pequeno Walter e uma linda esposa.{^n}{^n}Mas eles já eram. Já eram! E você fez o pequeno Walter chorar!
+O pequeno Walter é esse boneco assustador? Você sabe que isso é um boneco, né?
+Mentira! Você está tentando me enganar. Não [[ms]o[fs]a] deixarei tirar o pequeno Walter de mim novamente!
+Você está louco?
+
+
+Irei embora agora.
+Você não precisa mais se preocupar com os putrefatos; estou aqui para expurgá-los.
+O quê? Não, não! Se você os mata, eles voltam, procuram os vivos e acham Harvey e o pequeno Walter!{^n}{^n}Estamos seguros aqui, eles jamais procurarão...{^n}{^n}Você vai estragar tudo!
+Depois que eu matar o Carcereiro, você não precisará se esconder; você estará seguro.
+Ó não, ó não... Muito arriscado, eu não posso [[ms]deixá-lo[fs]deixá-la] sair [[ms]vivo[fs]viva] daqui!
+Deixe pra lá. Eu sinto muito!
+Tudo bem. Eu posso expurgá-lo também enquanto estou aqui!
+
+
+
+Você estava falando com esse boneco antes de eu entrar?
+Que boneco? Você está [[ms]louco[fs]louca], ele é o meu filho! Pare de falar dele assim!{^n}{^n}Olhe para ele... Ele está vivo, não... melhor ainda. Está perfeito! Pele tão lisa e perfeita. Não como aqueles putrefatos lá fora...
+Você tem que encarar a realidade. Você vive sozinho aqui com esse boneco. Sinto muito pelo seu filho, mas você precisa seguir em frente.
+Por que você diz isso? Você está tentando envenenar a minha mente! Você é um daqueles putrefatos, não é? Você parece bem, mas está podre por dentro. Sim, eu posso sentir o cheiro agora!
+O único cheiro que eu posso sentir é o dos seus lençóis sujos.
+Não, claro que o Walter não é um boneco... (Recuar devagar)
+
+Vou acabar com os putrefatos.
+
+Acho que irei embora agora.

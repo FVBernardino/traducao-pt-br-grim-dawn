@@ -1,0 +1,19 @@
+Torven
+Se precisar de um descanso durante as suas viagens, retorne a este refúgio.
+[[ms]Obrigado[fs]Obrigada].
+Saudações. Receio que eu não tenha muito a lhe oferecer além de um lugar para descansar ao lado da fogueira.
+[[ms]Obrigado[fs]Obrigada].
+Ah! Vejo que você está de volta. Tem os colares?
+Estes são suficientes?
+Sim! Há uma energia poderosa nestes ossos e minhas velhas e hábeis mãos vão transformá-la em algo ainda mais potente. Em breve você terá o seu anel.
+[[ms]Obrigado[fs]Obrigada].
+Os nossos caminhos convergem novamente.
+Adeus.
+Você viaja por um caminho perigoso, [[ms]forasteiro[fs]forasteira]. Este refúgio solitário é um dos poucos lugares seguros que restam em Wightmire. Se você pretende pegar a estrada de novo, talvez haja uma maneira de ajudarmos um ao outro.
+E o que poderia ser?
+Os Slith são criaturas antinaturais e envenenam a própria terra; por isso, acho justo que usemos um pouco de sua magia vil contra eles mesmos. Seus xamãs carregam colares de osso, coisas primitivas, mas que contêm energia primordial. Eu posso transformar esse poder em algo mais potente para você.{^n}{^n}Se você me trouxer alguns colares e mais uns 100 pedaços de ferro como pagamento, eu vou fazer um anel mágico para você. O que me diz?
+Temos um acordo.
+Não estou [[ms]interessado[fs]interessada].
+Estes colares são suficientes?
+
+Não, [[ms]obrigado[fs]obrigada].

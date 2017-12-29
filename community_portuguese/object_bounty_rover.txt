@@ -1,0 +1,150 @@
+Recompensas dos Nômades
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna triunfantemente e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você já está em uma Recompensa para os Nômades.
+Afastar-se da Mesa de Recompensas.
+Os Nômades estão buscando ajuda.{^n}{^n}Você demonstrou sua lealdade e eles lhe confiaram seus afazeres mais críticos.
+Dar uma olhada na recompensa.
+Você fez tudo o que os Nômades solicitaram nesta sessão.
+Afastar-se da Mesa de Recompensas.
+Dar uma olhada na recompensa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afastar-se da Mesa de Recompensas.
+Os mortos-vivos asquerosos que vagam pelas ruínas Arkovianas são um perigo para todos os que viajam por estas bandas remotas.{^n}{^n}Os Cavaleiros Esqueléticos, guardiões imorredouros de um império caído, continuam a exercer lealmente suas funções muito além da morte. Isso inclui atacar violentamente qualquer um que chegue perto das ruínas. Esses ataques têm que acabar.{^n}{^n}Temos pedaços de ferro para quem estiver disposto a lidar com essa ameaça.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+As harpias são uma cruel punição ao legado de uma gente há muito tempo morta. De alguma forma, seus Oráculos aprenderam a canalizar a magia do céu.{^n}{^n}Por enquanto, isso se limita a nuvens de tempestade e rajadas de vento, mas, se for permitido que continuem estudando, não queremos nem pensar no que poderão fazer em seguida.{^n}{^n}Quem matar Harpias Oráculos será recompensado com uma bolsa cheia de pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Retornados Arkovianos eram os cavaleiros do sacerdócio, defensores incansáveis da fé Arkoviana e seus deuses. Agora eles vagam pelas ruínas como personificações dos próprios elementos.{^n}{^n}Sua outrora nobre causa foi distorcida e eles protegem incessantemente templos que há séculos não existem. Chegou o momento de esses leais cavaleiros descansarem.{^n}{^n}Daremos alguns pedaços de ferro como recompensa para quem for corajoso o suficiente para entrar nas ruínas e executar essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os textos dos Nômades falam de um templo escondido em uma caverna inundada na Ribanceira Nebulosa, o qual é dedicado ao deus Arkoviano, Ishtak.{^n}{^n}Caso também tenham sido atingidas pela maldição Arkoviana, as almas aprisionadas lá dentro podem um dia escapar para as redondezas.{^n}{^n}Teremos o maior prazer em recompensar com alguns dos nossos materiais recuperados quem estiver disposto a investigar as ruínas.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Nos Sopés Arkovianos há uma caverna conhecida como Recôncavo dos Espinhos. Lá, um antigo espírito Arkoviano conhecido como Baros Wradlith dominou os outros espíritos e reuniu-os sob seu comando.{^n}{^n}Por enquanto, os espíritos permanecem dentro da caverna, mas os mortos-vivos podem ser imprevisíveis. Esse tal de Senhor das Almas Perdidas deve ser banido antes mesmo que considere deixar seu reino subterrâneo. Teremos o maior prazer em compartilhar nossos materiais recuperados com quem desbravar o Recôncavo dos Espinhos.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Logo após o Rei Rhowan ter abdicado do trono, os Oligarcas tornaram-se os líderes da sociedade Arkoviana. Mesmo depois de mortos eles exigem lealdade de seus súditos imorredouros.{^n}{^n}Três desses espíritos ainda vagam pela Catacumba da Velha Arkóvia. O ódio que sentem pelos vivos deixa os mortos-vivos em frenesi. Para o bem de todos os viajantes, os Oligarcas devem ser destruídos.{^n}{^n}Para que isso aconteça, reservamos um estoque considerável de pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A gangue de Cronley, nas Quatro Colinas, representa uma séria ameaça para toda a região, mas não podemos simplesmente atacá-los com um ataque frontal.{^n}{^n}Se conseguíssemos impedi-los de produzir armas, teríamos uma grande chance.{^n}{^n}Quem destruir as forjas dos bandidos será recompensado com alguns dos nossos materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Nas profundezas da Catacumba Arkoviana habita uma manifestação das trevas conhecida como Kilrian. O antigo Arkoviano foi levado à loucura pela maldição e sua alma foi despedaçada e quebrada.{^n}{^n}Agora Kilrian reúne outros sofredores perto de si, criando um exército de mortos que, se fosse libertado, poderia varrer esta terra inteira. Ele deve ser destruído antes que isso possa acontecer. Os Nômades sabem que é muito arriscado enfrentar Kilrian em seus domínios e estão dispostos a recompensar com uma boa quantidade de pedaços de ferro quem for corajoso o suficiente para entrar na Catacumba.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+As Vespas fornecem aos Nômades a valiosa Geleia Real, mas, quando encontradas em grande número, podem representar uma séria ameaça.{^n}{^n}O veneno dos Ferrões Peçonhasas é tão potente que nem mesmo a medicina dos Nômades pode tratá-lo. As vítimas têm que suportar horas de dor agonizante. Muitos nem sequer duram tanto tempo.{^n}{^n}A população de Ferrões Peçonhasas deve ser diminuída imediatamente. Daremos uma bolsa cheia de pedaços de ferro para quem realizar a tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Sempre acreditamos que havia três Oligarcas da Velha Arkóvia, mas avistamentos recentes na Catacumba mostraram que nossos textos estavam errados. Oligeane Dar parece ser uma quarta Oligarca que, recentemente, se reuniu ao resto dos líderes Arkovianos.{^n}{^n}Três Oligarcas já são ameaçadores o suficiente. Não podemos permitir que uma quarta vague livremente. Ela deve ser banida de volta para o lugar de onde saiu, seja ele qual for. Estamos oferecendo alguns dos nossos materiais recuperados como recompensa por essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Uma harpia vil chamada Rixna Penapeste foi vista nos céus das Colinas Partidas. Vários Nômades já adoeceram por terem entrado em contato com sua pluma.{^n}{^n}Rixna parece carregar uma peste à qual as harpias aparentemente são imunes, mas seus efeitos nos humanos parecem ser letais. Ela deve ser aniquilada.{^n}{^n}Estamos oferecendo alguns dos nossos materiais recuperados como recompensa por essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Nas profundezas dos Passos do Tormento, a prisão de tortura Arkoviana, habitam diversos seres mortos-vivos impiedosos. O principal deles é 'Alkamos, o Senhor Executor'. Alkamos tinha muitos servos para levar a cabo seus decretos.{^n}{^n}Entre eles estava Mortallis, um matador de homens que se deliciava no trabalho horrível dos Passos do Tormento. Se conseguisse escapar dos Passos do Tormento, Mortallis traria sua fome de morte aos inocentes que agora habitam a região. Ele deve ser destruído. Estamos oferecendo alguns dos nossos materiais recuperados como recompensa por essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+As colmeias das vespas Peçonhasas são perigosas quando ficam agitadas, mas suas rainhas produzem um valioso reagente conhecido como Geleia Real, o qual usamos para criar muitos dos nossos unguentos curativos.{^n}{^n}Nossos suprimentos estão acabando e as baixas são muitas por causa da batalha contra os homens de Cronley. É imprescindível que adquiramos mais Geleia Real.{^n}{^n}Teremos o maior prazer em pagar com pedaços de ferro pela entrega desse precioso reagente.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Um dos nossos batedores foi envenenado por um dos homens de Cronley enquanto patrulhava. Parece ser uma mistura letal que causa necrose e paralisa a carne.{^n}{^n}Eva acredita que pode ter a cura, mas requer um Coração Antigo para fazer o tônico. Ela oferecerá de bom grado um Sangue de Ch'thon em troca.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A conduta dos Nômades requer que abandonemos os desejos mundanos e nos abstenhamos de violência. Nós agora quebramos esse juramento para nos defender dos homens de Cronley.{^n}{^n}Para que nem todas as nossas condutas sejam perdidas, buscamos criar uma antiga relíquia conhecida como Equilíbrio, de modo que possamos restaurar um certo equilíbrio em nossas vidas.{^n}{^n}Ofereceremos de bom grado alguns dos nossos materiais recuperados raros em troca desse valioso objeto.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os golens esqueléticos são uma abominação, uma união de almas torturadas não mais estáveis o suficiente para existirem como indivíduos. Essa união torna-os incrivelmente poderosos e instáveis.{^n}{^n}Se um deles escapasse das ruínas localizadas embaixo de Arkóvia, causaria estragos em toda parte. Preferimos que isso jamais venha a acontecer.{^n}{^n}Quem eliminar esses seres torturados será merecidamente recompensado com alguns dos nossos materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O Grande Sacerdote Arkoviano, Zarthuzellan, apareceu muitas vezes nos textos dos Nômades como um carismático e manipulador líder espiritual de Arkóvia.{^n}{^n}Sua alma torturada agora vaga pelos Passos do Tormento, vinculada eternamente à terra que ele ajudou a condenar à danação. Mas, mesmo depois de morto, ele reúne seguidores em seu altar amaldiçoado.{^n}{^n}Essa prática degenerada deve ser interrompida. Estamos oferecendo pedaços de ferro para quem for corajoso o suficiente para entrar nos Passos do Tormento.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Passagem do Contrabandista foi outrora uma popular rota percorrida pela nossa gente quando viajavam para o norte. Ela agora está infestada de trolls da Névoa, porém o maior perigo vem de um bruto gigante conhecido como Voldrak, o qual é mantido por eles dentro da caverna.{^n}{^n}Voldrak guarda o caminho e é enorme, mesmo para os padrões dos trolls. Para que a Passagem do Contrabandista volte a ser segura, Voldrak deve ser morto. Teremos o maior prazer em dar alguns dos nossos materiais recuperados para que isso seja feito.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Uma monstruosidade esquelética conhecida como Grum foi vista no Posto em Ruínas, localizado nos Sopés Arkovianos. Trata-se de um demônio venenoso capaz de causar uma destruição aterradora.{^n}{^n}As estradas nunca mais serão seguras se uma criatura dessas puder vagar livremente. Os Nômades pedem que ela seja morta.{^n}{^n}Quem for corajoso o suficiente para fazer isso será recompensado com alguns dos nossos materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Cada uma das colmeias das vespas Peçonhasas está sob o controle de uma rainha. Antigamente essas rainhas produziam amplas quantidades de Geleia Real, mas agora não são mais tão produtivas.{^n}{^n}Para que o fornecimento de Geleia Real continue, as rainhas devem ser mortas, de modo que novas e jovens rainhas possam tomar seu lugar.{^n}{^n}Estamos oferecendo pedaços de ferro para quem fizer isso.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Nômades estão buscando ajuda.{^n}{^n}Você demonstrou sua lealdade e eles lhe confiaram seus afazeres mais críticos.
+
+Afastar-se da Mesa de Recompensas.
+Os Nômades ainda não lhe confiaram seus afazeres internos.{^n}{^n}É necessária a reputação [[ms]Respeitado[fs]Respeitada] para acessar a Mesa de Recompensas.
+Afastar-se da Mesa de Recompensas.

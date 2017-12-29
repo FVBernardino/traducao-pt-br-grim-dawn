@@ -1,0 +1,26 @@
+Luther Graves
+Por favor, ajude-me!
+A ajuda está chegando.
+Graças a Deus alguém veio! Esses Slith, eles atacaram a minha caravana, e mataram todos os meus guardas!{^n}{^n}Acho que a única razão de terem me deixado vivo é para que pudessem ter carne fresca depois. Esses bastardos!
+Eu sou do Cruzamento do Diabo. Posso ajudá-lo a ir até lá!
+Não se iluda, olhe para todo este sangue. Eu não vou ser capaz de sair daqui! Agradeço sua bondade, mas seria melhor acabar logo com isso.
+Você provavelmente não vai gostar, mas posso abrir um portal para você.
+A última coisa que eu quero é que as minhas pernas fiquem deste lado enquanto o resto do meu corpo atravessa!{^n}{^n}Mas você não está me dando nenhuma alternativa, não é? Então, tire-me daqui.
+Tenho certeza de que isso é seguro. (Abrir Portal)
+Posso salvá-lo, mas você tem algum dinheiro aí?
+Um comerciante como você deve ter algum dinheiro, certo?
+Bem... hum... sim. Acho que sim. Aonde você quer chegar?
+Vou levá-lo para o Cruzamento do Diabo, por alguns pedaços de ferro.
+O quê? Você está mesmo tentando extorquir dinheiro de mim em um momento como este?{^n}{^n}*Luther murmura com raiva para si mesmo.*{^n}{^n}Tudo bem, vou lhe dar tudo o que tenho. Mas tire-me daqui.
+Muito bom. (Pegar o Dinheiro e Abrir Portal)
+Deixe pra lá. Vejo você no Cruzamento do Diabo. (Abrir Portal)
+Esqueça. Posso abrir um portal para você.
+Graças a Deus alguém veio! Esses Slith, eles atacaram a minha caravana, e mataram todos os meus guardas!{^n}{^n}Acho que a única razão de terem me deixado vivo é para que pudessem ter carne fresca depois. Esses bastardos!
+
+
+Graças a Deus alguém veio! Esses Slith, eles atacaram a minha caravana, e mataram todos os meus guardas!{^n}{^n}Acho que a única razão de terem me deixado vivo é para que pudessem ter carne fresca depois. Esses bastardos!
+Eu sou do Cruzamento do Diabo. Posso ajudá-lo a ir até lá!
+Não se iluda, olhe para todo este sangue. Eu não vou ser capaz de sair daqui! Agradeço sua bondade, mas seria melhor acabar logo com isso.
+Você provavelmente não vai gostar, mas posso abrir um portal para você.
+A última coisa que eu quero é que as minhas pernas fiquem deste lado enquanto o resto do meu corpo atravessa!{^n}{^n}Mas você não está me dando nenhuma alternativa, não é? Então, tire-me daqui.
+Tenho certeza de que isso é seguro. (Abrir Portal)

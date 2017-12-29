@@ -1,0 +1,13 @@
+Rook
+Vá entrando, [[ms]amigo[fs]amiga]. Graças a você, vou poder comer hoje à noite.
+Cuide-se.
+[[ms]Bem-vindo[fs]Bem-vinda] de volta, [[ms]amigo[fs]amiga].
+[[ms]Obrigado[fs]Obrigada].
+[[ms]Bem-vindo[fs]Bem-vinda] de volta ao Cruzamento do Diabo. Vou [[ms]deixá-lo[fs]deixá-la] entrar.
+[[ms]Obrigado[fs]Obrigada].
+O Capitão disse que você pode entrar. Não cause nenhum problema.
+[[ms]Obrigado[fs]Obrigada].
+Eu ouvi falar sobre o que você está fazendo por nós, arriscando a sua vida lá fora.{^n}{^n}Seu acesso está mais do que garantido. Por favor, entre e descanse um pouco.
+[[ms]Obrigado[fs]Obrigada].
+Desculpe, mas não posso [[ms]deixá-lo[fs]deixá-la] entrar. Os visitantes devem ter a permissão do Capitão.
+Vou falar com o Capitão, então.

@@ -1,0 +1,95 @@
+O Serviçal
+[[ms]Bem-vindo[fs]Bem-vinda] ao Santuário, [[ms]prezado buscador[fs]prezada buscadora].
+Tenho algumas perguntas.
+Assim como todos os que vêm aqui.
+Você fala com os Deuses Bruxos mesmo agora?
+Os Três se calaram. Nossos clamores não obtêm resposta.{^n}{^n}Algo fez com que se afastassem. A atenção deles está voltada para outro lugar.
+Então, onde estão eles?
+Eu clamei a eles através do véu muitas vezes, mas não obtive resposta. Eu não consigo nem sequer sentir a presença agourenta deles.{^n}{^n}Só os deuses sabem.
+
+Que estranho.
+Tenho outra pergunta.
+Prossiga.
+Que estranho.
+Eu me pergunto o que é que tem a atenção deles.
+Fale-me dos Deuses Bruxos.
+Sobre qual deles você gostaria de aprender?
+Fale-me de Bysmiel.
+A Tecelã, Intriguista, Senhora dos Sussurros, esses são todos nomes pelos quais a deusa Bysmiel foi conhecida. Embora os eventos cataclísmicos da história recente tenham enfraquecido sua teia, Bysmiel ainda comanda uma rede formidável de informantes e espiões.{^n}{^n}Ninguém sabe ao certo como ela adquiriu seus poderes, alguns dizem brincando que isso foi sussurrado em seu ouvido por uma aranha. O que sabemos é que ela e Solael eram amantes em seus dias de mortais, interligados em seus destinos; mas a sede de poder deles era maior do que a luxúria deles. Recusando-se a permitir que o outro se elevasse mais do que eles, eles sabotavam os esforços um do outro, ao mesmo tempo que mantinham um relacionamento amoroso de fachada.{^n}{^n}Por fim, ambos atingiram seus objetivos, mas as tramoias azedaram seu relacionamento para sempre e provocaram conflitos que assolaram o mundo. Foi só após o Pacto que os deuses deixaram de lado suas diferenças, mas as tensões permanecem elevadas até hoje entre os seguidores de Bysmiel e de Solael.
+
+E quanto aos outros deuses?
+Interessante.
+Fale-me de Dreeg.
+Apenas uma vez eu vi a verdadeira forma de Dreeg. Ele é uma criatura de pesadelos. Mil olhos sem pálpebras que encaram fixamente e espinhos ósseos que perfuram sua carne divina. Das feridas purulentas escorre ácido que queima a terra para que nada cresça novamente.{^n}{^n}Sua voz leva seres inferiores à loucura. Dizem que sua fala é profética, que prediz eventos que ainda não ocorreram, mas que ouvi-lo sobrecarrega os sentidos. Poucos têm a capacidade de resistir a ele, e um número ainda menor pode interpretar as divagações malucas dos que o fazem.{^n}{^n}O que quer que Dreeg tenha feito para ascender, eu não sei se compensa o preço que ele teve que pagar.
+
+E quanto aos outros deuses?
+É um preço muito alto para se pagar.
+Fascinante.
+Fale-me de Solael.
+A própria presença do sombrio inspira medo. Ele suga a alegria, a emoção, a vontade de viver daqueles que o cercam. Dos Três, Solael é o único que exige regularmente sacrifícios vivos em troca de sua sabedoria.{^n}{^n}Por que ele tem tanta fome de vitalidade dos vivos eu não sei, pois ninguém está a par dos assuntos pessoais dos deuses. Talvez ele sinta falta daquilo que sentia quando era mortal? Viver sabendo que poderia ser extinto a qualquer momento? Apesar disso, muitos arriscam tudo para estar na sua presença e se deleitar com o conhecimento do sobrenatural. Há muito tempo, quando os Três ainda brigavam entre si, eu era apenas um jovem tolo, ávido por poder e disposto a fazer quase tudo para obtê-lo. Entrei para o Culto de Solael e me ofereci a ele.{^n}{^n}Minha natureza cruel e meu desespero chamaram atenção do sombrio, que me escolheu como favorito. Eu me tornei o seu aluno mais estimado, aprendi os segredos que outros não tinham permissão, ou nem mesmo disposição, para aprender. Quando ele concebeu o Pacto, eu fui encarregado de ser seu mensageiro para os outros deuses. Arrisquei minha vida para que os Três terminassem seu conflito sem sentido e juntassem seus poderes. Embora tivessem poucos motivos para me ouvir, Dreeg e Bysmiel me pouparam pelo tempo suficiente para eu falar. No final, eles viram a sabedoria contida no plano do meu mestre e concordaram em se reunir aqui e selar o pacto.{^n}{^n}Como recompensa por meu serviço leal, Solael me vinculou a este lugar para que eu fosse eternamente o seu mordomo. Eu sou agora a voz dos deuses e ninguém fala com eles sem o meu consentimento.{^n}{^n}Embora séculos tenham se passado e o templo desmorone ao meu redor, eu ainda permaneço, condenado à servidão eterna. Esse foi o preço que eu paguei para provar do poder de Solael.
+
+E quanto aos outros deuses?
+Você parece ressentido.
+Fascinante.
+Deixe-me perguntar outra coisa.
+Deixe pra lá.
+Você é imortal?
+Não no sentido literal. Eu fui morto várias vezes, mas fui sempre trazido de volta do túmulo pelos Três.{^n}{^n}Eu só existo pelos caprichos dos deuses.{^n}{^n}Esse é o meu destino...
+
+Parece terrível.
+Parece intrigante.
+O que aconteceu com este lugar?
+Um servo de Dreeg chamado Ughdar foi levado à loucura pela ausência dos Três.{^n}{^n}Desesperado, ele tentou entrar no reino feérico e procurá-los em seus tronos. Os resultados do ritual dele estão todos em torno de você, assim como os pedaços de Ughdar que não evaporaram quando os portais partiram o templo.
+Onde estão os outros servos dos Três?
+Foram mortos pelas criaturas feéricas ou fugiram.{^n}{^n}Preservar suas próprias peles mostrou ser uma motivação mais forte do que a integridade deste templo.
+
+Adeus.
+
+Que insensato.
+Se ao menos ele fosse mais forte.
+Deixe pra lá.
+Adeus.
+[[ms]Intruso[fs]Intrusa]... saia deste lugar!
+Estou saindo agora.
+Você carrega as marcas dos Três, [[ms]buscador[fs]buscadora]. Muito tempo se passou desde que alguém como você andou por estes corredores.{^n}{^n}Saudações. Eu sou o Serviçal dos deuses.
+Eu vim para aprender sobre os Deuses Bruxos.
+Você é [[ms]sábio[fs]sábia] por procurá-los. Somente por meio dos Três podemos perscrutar o reino feérico e descobrir seus segredos.{^n}{^n}É um lugar de incrível poder, rivalizando até mesmo com o Éter que os arcanistas tanto apreciam, mas não podemos simplesmente ir até lá. Por meio de sacrifícios imensos, os Deuses Bruxos romperam o véu entre os mundos e ascenderam ao reino feérico. Por meio de seus ensinamentos podemos controlar um mero fragmento desse poder, evocar seres feéricos para nos servirem e deixar para trás as falsidades impostas a nós pelo império que caiu.
+Como eu posso aprender com os Três?
+Isso é uma honra que poucos podem legitimamente reivindicar, mas a sua dedicação em procurá-los não passará despercebida.{^n}{^n}Eu testemunhei os poderes do reino feérico e muitos dos seus segredos foram revelados para mim. Por meio dos Três, eu posso lhe conceder um dom do reino feérico, um discernimento sobre as verdades maiores.
+Estou [[ms]pronto[fs]pronta] para receber esse dom.
+Testemunhe o poder do reino feérico e chore em sua glória.
+
+Isso vai se mostrar útil.
+Que poder, eu preciso de um momento.
+Eu gostaria de aprender, mas não quero me meter nos assuntos deles.
+Não é prudente interferir nas ações dos deuses. Perante eles nós somos meros mortais, vivendo nossas vidas alegremente sem tomar conhecimento dos eventos que moldam a nossa própria existência.{^n}{^n}Mas não tenha medo, pois você é apenas uma pulga diante do poder deles e o que você faz não lhes interessa.{^n}{^n}Testemunhe o poder do reino feérico e chore em sua glória.
+
+Isso vai se mostrar útil.
+Que poder, eu preciso de um momento.
+Não quero participar disso.
+Falaremos em outra ocasião.
+Que lugar é este?
+Você entrou no Santuário dos Três, [[ms]buscador[fs]buscadora]. Aqui é onde os dignos comungam com os deuses, sacrificam tudo para estar na sua presença e ouvir suas vozes.{^n}{^n}Aqui é onde os Deuses Bruxos revelam os segredos do reino feérico aos mortais, onde o véu é levantado e a verdade é revelada.
+Então, onde estão os deuses?
+*O Serviçal ri.*{^n}{^n}Eles não estão aqui, [[ms]buscador[fs]buscadora]. Os Deuses Bruxos residem no reino feérico, para além de uma barreira que um mero mortal jamais poderia atravessar e ainda permanecer vivo.
+
+
+
+Falaremos em outra ocasião.
+O que aconteceu aqui?
+Um servo de Dreeg chamado Ughdar foi levado à loucura pela ausência dos Três.{^n}{^n}Desesperado, ele tentou entrar no reino feérico e procurá-los em seus tronos. Os resultados do ritual dele estão todos em torno de você, assim como os pedaços de Ughdar que não evaporaram quando os portais partiram o templo.
+
+
+
+Falaremos em outra ocasião.
+
+
+Falaremos em outra ocasião.
+O que... você é?
+É muito natural hesitar ao me ver.{^n}{^n}Eu sou como os deuses me fizeram, vinculado eternamente a uma pedra para ser seu conduto, sua voz para aqueles que buscam a verdade assim como eles outrora o fizeram.
+
+
+Falaremos em outra ocasião.
+Falaremos em outra ocasião.
+[[ms]Intruso[fs]Intrusa]... saia deste lugar!
+Estou saindo agora.

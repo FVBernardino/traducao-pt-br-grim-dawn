@@ -1,0 +1,20 @@
+Infante
+Circulando!
+Adeus.
+Ulgrim solicitou a sua presença. Por favor, vá falar com ele imediatamente.
+Onde está o Ulgrim?
+Ulgrim está no momento falando com o Inquisidor Creed, na sacada com vista para os campos.{^n}{^n}Você vai encontrar a escada perto da área de planejamento, onde a Capitã se encontra.
+[[ms]Obrigado[fs]Obrigada].
+Vou falar com ele.
+Ulgrim solicitou a sua presença. Por favor, vá falar com ele imediatamente.
+Vou falar com ele.
+Eu não tenho tempo para isso.
+Você pode abrir os portões?
+Ulgrim deixou claro que ninguém pode sair até que ele seja interrogado sobre os acontecimentos recentes.
+Vou falar com ele.
+Eu não tenho tempo para isso.
+Fique alerta. Os inimigos da humanidade estão à nossa volta.
+Você pode abrir os portões?
+Sinto muito. Temos ordens estritas para não abrir os portões enquanto a ameaça dos Etéreos, ao oeste, ainda pairar sobre nós.
+Entendo.
+Vou tomar cuidado.

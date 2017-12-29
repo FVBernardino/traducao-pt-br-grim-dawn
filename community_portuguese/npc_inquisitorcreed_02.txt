@@ -1,0 +1,262 @@
+Inquisidor Creed
+Embora a situação seja grave, devemos manter a esperança.{^n}{^n}Nós contamos com você.
+Eu... perdi a Recordação de Ulgrim.
+Você não pode estar falando sério. Quantas destas você acha que Ulgrim mantinha por perto? Não responda...{^n}{^n}Por favor, seja mais [[ms]cuidadoso[fs]cuidadosa] com esta aqui.
+[[ms]Obrigado[fs]Obrigada]. Serei mais [[ms]cuidadoso[fs]cuidadosa].
+Eu... perdi o seu pingente.
+Não sei se ouvi você corretamente quando disse que perdeu uma preciosa relíquia Luminari à qual apenas um punhado de inquisidores já teve acesso.{^n}{^n}Seja mais [[ms]cuidadoso[fs]cuidadosa].
+[[ms]Obrigado[fs]Obrigada]. Serei mais [[ms]cuidadoso[fs]cuidadosa].
+Esta recordação de Ulgrim...
+Eu sei, não parece muito, mas essa é uma das poucas coisas que Ulgrim levava para onde quer que ele fosse.{^n}{^n}Ela tinha claramente um valor sentimental, algo que as bruxas podem usar para descobrir o paradeiro dele, se ele ainda estiver vivo...
+
+Suponho que seja o melhor que temos.
+Por que encontrar Ulgrim é tão importante?
+Há muitas coisas sobre Ulgrim que você não conhece, que nenhum de nós conhece.{^n}{^n}Ele parece ser mais do que humano e eu suspeito que ele está neste mundo há muito mais tempo do que você e eu combinados. Ele poderá se tornar uma devastadora arma dos Ctônicos se deixarmos que eles corrompam a mente dele.{^n}{^n}Talvez haja uma certa camaradagem influenciando o meu modo de pensar, mas sinto que ele poderá se tornar uma ameaça se deixarmos que ele seja consumido pela loucura do vazio.
+Adeus.
+Adeus.
+Mostre-me novamente os eventos que aconteceram aqui. (Reproduzir Introdução)
+Até mesmo aqui, no nosso último reduto, o inimigo encontrou uma maneira de causar estragos.{^n}{^n}No entanto, devemos permanecer unidos ou enfrentar a aniquilação completa.
+Nós vamos lidar com isso. Um desafio de cada vez.
+Ótimo, você está de volta.{^n}{^n}Temos outros assuntos para discutir imediatamente.
+Claro, o que é?
+Me custa admitir isto, mas devo abandonar os meus esforços para abrir um portal para chegar a Ulgrim. Por tudo o que aprendi na luta contra o ocultismo, não sou um Bruxo. Durante a minha última tentativa, quase perdi o controle do ritual quando algo tentou atravessar o meu portal do outro lado. Isso é perigoso demais para continuar.{^n}{^n}Para piorar, o Capitão Bourbon acabou de chegar com uma moça chamada Amala, trazendo péssimas notícias do leste. Enquanto lutávamos aqui para impedir os Ctônicos de espalhar o terror e a loucura sobre o mundo, os Etéreos estavam longe da ociosidade. Tudo o que eles fizeram nesta região é apenas uma amostra do que está por vir se o que Amala diz é verdade.{^n}{^n}Por mais que me entristeça dizer isto, nossos planos para resgatar Ulgrim são secundários diante dessa crescente ameaça na cidade caída de Malmouth. A passagem para o norte a partir de Burrwitch está se fechando rapidamente conforme o Fogo Etéreo consome tudo. Mas talvez possamos atingir os dois objetivos de uma só vez.
+O que você tem em mente?
+Veja, os Luminari há muito ficaram sabendo de uma seita de bruxas que se escondem ao norte de Burrwitch, usando o território traiçoeiro para desencorajar perseguidores. As bruxas conhecem o terreno e devem estar a par de quaisquer caminhos que restem através do Fogo Etéreo.{^n}{^n}E... estou esperançoso de que elas possam fazer o que eu não pude: revelar para onde o Logorreano levou Ulgrim. Eu mesmo iria, mas duvido que a chegada de um inquisidor de alto escalão seja bem-vista no círculo delas, e eu sou necessário no Cruzamento do Diabo.{^n}{^n}Eu sei que você já sofreu muito na defesa da humanidade, mas você é a única pessoa a quem posso confiar isto. Pegue o meu pingente e viaje para o norte a partir das Propriedades de Burrwitch. Uma barreira de fogo etéreo estará no seu caminho, mas o pingente acabará com ela. Rume para o norte atravessando Gloomwald até alcançar os confins de Ugdenbog, onde acredito que a seita fez sua morada. Você não pode chegar de mãos vazias, ou elas podem muito bem apagar qualquer memória do descobrimento da localização delas da sua mente.{^n}{^n}Recomendo que você cace uma criatura conhecida como Carraxus Torpe, o flagelo de Ugdenbog. Imagino que ela tenha crescido bastante ao longo dos anos, atacando viajantes incautos que atravessavam Gloomwald. Encontre a fera em sua toca ribeirinha em Gloomwald e leve seu coração para a seita. Tenho certeza de que elas encontrarão um uso nefasto para ele, mas, tendo em conta a nossa situação, devemos ignorar isso.{^n} {^n}Mostre a elas esta recordação de Ulgrim e encontre para nós um caminho para Malmouth. Estaremos aguardando o seu sinal.
+Irei a Ugdenbog imediatamente.
+Eu preciso de um tempo para me preparar.
+
+Eu voltarei em breve.
+Desculpe, volto logo.
+Mostre-me novamente os eventos que aconteceram aqui. (Reproduzir Introdução)
+Não temos tempo para descansar. A sobrevivência da humanidade depende da nossa vigilância.{^n}{^n}Temos outros assuntos para discutir.
+Como eu posso ajudar?
+Eu vou voltar.
+Eu ouvi do Capitão Bourbon.{^n}{^n}Estou satisfeito em saber que o Carcereiro Krieg foi eliminado. Ele era uma criatura desprezível. Eu só queria ter estado mais preparado quando eu mesmo o conheci.
+Ele era uma ameaça, mas acabou.
+Realmente, mas, embora uma questão esteja resolvida, outra aparece. Não temos tempo para descansar. A sobrevivência da humanidade depende da nossa vigilância.{^n}{^n}Temos outros assuntos para discutir.
+Como eu posso ajudar?
+Eu vou voltar.
+Como vão os seus esforços no Cruzamento do Diabo?{^n}{^n}Com tão poucos de nós restando, cada assentamento conta.
+Você pode repetir o que eu preciso fazer?
+Volte ao Cruzamento do Diabo e ajude o Capitão Bourbon no que ele precisar.{^n}{^n}Nós não podemos simplesmente deixar que os Etéreos naquela região espalhem sua influência sem oposição.
+Estou indo, então.
+Ainda há muito a ser feito.
+Ótimo, você está de volta.{^n}{^n}Você tem um momento?
+Claro, o que é?
+Me custa admitir isto, mas devo abandonar os meus esforços para abrir um portal para chegar a Ulgrim. Por tudo o que aprendi na luta contra o ocultismo, não sou um Bruxo. Durante a minha última tentativa, quase perdi o controle do ritual quando algo tentou atravessar o meu portal do outro lado. Isso é perigoso demais para continuar.{^n}{^n}Para piorar, o Capitão Bourbon acabou de chegar com uma moça chamada Amala, trazendo péssimas notícias do leste. Enquanto lutávamos aqui para impedir os Ctônicos de espalhar o terror e a loucura sobre o mundo, os Etéreos estavam longe da ociosidade. Tudo o que eles fizeram nesta região é apenas uma amostra do que está por vir se o que Amala diz é verdade.{^n}{^n}Por mais que me entristeça dizer isto, nossos planos para resgatar Ulgrim são secundários diante dessa crescente ameaça na cidade caída de Malmouth. A passagem para o norte a partir de Burrwitch está se fechando rapidamente conforme o Fogo Etéreo consome tudo. Mas talvez possamos atingir os dois objetivos de uma só vez.
+O que você tem em mente?
+Veja, os Luminari há muito ficaram sabendo de uma seita de bruxas que se escondem ao norte de Burrwitch, usando o território traiçoeiro para desencorajar perseguidores. As bruxas conhecem o terreno e devem estar a par de quaisquer caminhos que restem através do Fogo Etéreo.{^n}{^n}E... estou esperançoso de que elas possam fazer o que eu não pude: revelar para onde o Logorreano levou Ulgrim. Eu mesmo iria, mas duvido que a chegada de um inquisidor de alto escalão seja bem-vista no círculo delas, e eu sou necessário no Cruzamento do Diabo.{^n}{^n}Eu sei que você já sofreu muito na defesa da humanidade, mas você é a única pessoa a quem posso confiar isto. Pegue o meu pingente e viaje para o norte a partir das Propriedades de Burrwitch. Uma barreira de fogo etéreo estará no seu caminho, mas o pingente acabará com ela. Rume para o norte atravessando Gloomwald até alcançar os confins de Ugdenbog, onde acredito que a seita fez sua morada. Você não pode chegar de mãos vazias, ou elas podem muito bem apagar qualquer memória do descobrimento da localização delas da sua mente.{^n}{^n}Recomendo que você cace uma criatura conhecida como Carraxus Torpe, o flagelo de Ugdenbog. Imagino que ela tenha crescido bastante ao longo dos anos, atacando viajantes incautos que atravessavam Gloomwald. Encontre a fera em sua toca ribeirinha em Gloomwald e leve seu coração para a seita. Tenho certeza de que elas encontrarão um uso nefasto para ele, mas, tendo em conta a nossa situação, devemos ignorar isso.{^n} {^n}Mostre a elas esta recordação de Ulgrim e encontre para nós um caminho para Malmouth. Estaremos aguardando o seu sinal.
+Irei a Ugdenbog imediatamente.
+Eu preciso de um tempo para me preparar.
+Tenho algumas perguntas.
+Seja [[ms]rápido[fs]rápida]. Partiremos para o Cruzamento do Diabo o mais rápido possível.
+Por que encontrar Ulgrim é tão importante?
+Há muitas coisas sobre Ulgrim que você não conhece, que nenhum de nós conhece.{^n}{^n}Ele parece ser mais do que humano e eu suspeito que ele está neste mundo há muito mais tempo do que você e eu combinados. Ele poderá se tornar uma devastadora arma dos Ctônicos se deixarmos que eles corrompam a mente dele.{^n}{^n}Talvez haja uma certa camaradagem influenciando o meu modo de pensar, mas sinto que ele poderá se tornar uma ameaça se deixarmos que ele seja consumido pela loucura do vazio.
+
+
+Preciso de um tempo para pensar.
+Eu vou destruir uma barreira... com um pingente?
+Pode não parecer muito, mas esse pingente me ajudou a sair de muitas situações difíceis, incluindo minha provação com o Carcereiro Krieg.{^n}{^n}Confie em mim, poderosas runas Luminari estão inscritas nele. Jogue-o na barreira e ele fará o resto.
+Você pode repetir qual é a situação?
+
+Tenho outra pergunta.
+Preciso de um tempo para pensar.
+O que é que eu posso esperar lá fora?
+A estrada ao norte de Burrwitch nunca foi agradável, passando pelos traiçoeiros Gloomwald e Ugdenbog.{^n}{^n}Entre a vida vegetal tóxica e as águas turvas em que habitam algumas das feras mais perigosas de Cairn, para além da estrada conhecida é um inferno inóspito, mas é precisamente por isso que a Seita escolheu se esconder por lá. Ninguém se aventurava voluntariamente naquelas terras selvagens, então a Seita foi isolada e deixada em paz.
+
+Tenho outra pergunta.
+Preciso de um tempo para pensar.
+O que aconteceu em Malmouth?
+Amala pode lhe dar uma explicação mais atualizada, mas Malmouth foi uma das primeiras cidades a ser tomada pelos Etéreos quando o Alvorecer Sombrio ocorreu.{^n}{^n}Ulgrim passou por lá no caminho para o sul quando nos separamos na capital e os relatórios dele eram tão deprimentes como seria de se esperar. Acreditávamos que Malmouth era uma causa perdida, completamente invadida pelo inimigo e sem sobreviventes, mas Amala aqui é um testemunho da resiliência da humanidade e evidência de que a luta por Malmouth ainda não acabou.
+
+Tenho outra pergunta.
+Preciso de um tempo para pensar.
+Não há outro caminho para Malmouth?
+Antes se podia atravessar o lago, mas, com as águas cheias de monstruosidades feéricas e navios intactos em falta, não temos a capacidade de enviar muitos soldados para Malmouth através da água. É melhor encontrarmos inimigos em terra contra os quais temos chance do que ficarmos à mercê do que quer que espreite sob as profundezas do lago. Não é um risco que eu gostaria de correr. Nós vamos ter que seguir as estradas a partir de Burrwitch, ou talvez viajar via portal se você conseguir assegurar um. Eu conto com você.
+
+Tenho outra pergunta.
+Preciso de um tempo para pensar.
+Como podemos ter certeza de que a Seita ainda existe?
+Ulgrim compartilhou comigo um pouco do que ele viu em sua jornada para o Cruzamento do Diabo.{^n}{^n}Embora ele estivesse economizando detalhes, ele mencionou que parte da Seita sobreviveu ao Alvorecer Sombrio. Ele havia sugerido que tentássemos nos aliar a elas mais cedo, mas eu estava relutante até agora.
+
+Tenho outra pergunta.
+Preciso de um tempo para pensar.
+Pensando bem, esqueça.
+Eu voltarei em breve.
+Mostre-me novamente os eventos que aconteceram aqui. (Reproduzir Introdução)
+Eu voltarei em breve.
+Mostre-me novamente os eventos que aconteceram aqui. (Reproduzir Introdução)
+E assim o nosso grande momento de triunfo foi desencantado por uma tragédia.{^n}{^n}A derrota do culto na Necrópole marca a primeira grande vitória da humanidade neste conflito, provando que não vamos simplesmente cair e deixar que demônios e espíritos nos dizimem. A notícia desta vitória se espalhará e dará esperança às pessoas de que um dia este pesadelo vai verdadeiramente acabar.{^n}{^n}Contudo, não podemos esquecer aqueles que sacrificaram suas vidas para nos trazer aqui. Homens e mulheres valentes da Legião Negra que pegaram em armas para defender Erulan, uma nação que os desprezou como sendo criminosos, marginais e até mesmo traidores. Na morte, eles não foram nada disso. Eles morreram como heróis.{^n}{^n}Mas, por enquanto, eu me recuso a contar Ulgrim entre os mortos. Devo muito a ele.{^n}{^n}Preciso da sua ajuda. Você está comigo?
+Claro, o que eu posso fazer?
+Tenho algumas perguntas.
+Sim?
+E quanto aos Etéreos?
+Eles continuam sendo a grande ameaça de sempre. Grande parte do império ainda está sob o controle deles.{^n}{^n}Devemos estar preparados para um conflito prolongado. Pode levar anos até conseguirmos atingir a capital, imagine expulsar os Etéreos de Cairn.
+E quanto a Ulgrim?
+Tenho outra pergunta.
+Adeus.
+O Culto ainda está por aí. Não deveríamos detê-los para sempre?
+As suas ações na Necrópole enfraqueceram bastante as atividades deles.{^n}{^n}Provavelmente vai levar um tempo até termos que lidar com a laia deles novamente.{^n}{^n}Por ora, temos que reforçar as nossas defesas.
+E quanto a Ulgrim?
+Tenho outra pergunta.
+Adeus.
+Você sabia que Anasteria é um Etéreo?
+Eu tinha minhas suspeitas, mas... ela colocou todos nós em uma posição bastante difícil.{^n}{^n}Não posso dizer que confio nela totalmente, mas ela tem sido útil na luta contra a própria raça dela, pelo menos até pouco tempo atrás, quando as informações dela ficaram, no mínimo, inconsistentes.{^n}{^n}Eu suspeito que os Etéreos ficaram sabendo das nossas relações com ela e alteraram seus planos para malograr as informações dela. Mesmo assim, o conhecimento dela ajudou a salvar inúmeras vidas humanas, e ela ainda sabe mais sobre os Etéreos do que qualquer um de nós. Só por isso ela ainda é útil.
+E quanto a Ulgrim?
+Tenho outra pergunta.
+Adeus.
+Eu... preciso de um tempo.
+Vocês vão acabar morrendo.
+Ótimo, você está de volta.{^n}{^n}Você tem um momento?
+Claro, o que é?
+Enquanto eu investigo a situação de Ulgrim, surgiu algo que talvez você queira ouvir.{^n}{^n}O assentamento de onde você veio, o Cruzamento do Diabo, pediu ajuda com os Etéreos que jorram de Burrwitch. Nós não podemos simplesmente deixar aquelas pessoas morrerem. Como você tratou com o Capitão Bourbon antes, eu achei que você poderia lidar com isso pessoalmente.{^n}{^n}Por favor, volte ao Cruzamento do Diabo e ajude a derrubar essa ameaça Etérea por qualquer meio necessário.
+Estou indo.
+Agora eu não posso.
+Você voltou. Está feito, então?
+A fera foi banida, mas Ulgrim foi sugado para o Vazio junto com ela.
+E assim o nosso grande momento de triunfo foi desencantado por uma tragédia.{^n}{^n}A derrota do culto na Necrópole marca a primeira grande vitória da humanidade neste conflito, provando que não vamos simplesmente cair e deixar que demônios e espíritos nos dizimem. A notícia desta vitória se espalhará e dará esperança às pessoas de que um dia este pesadelo vai verdadeiramente acabar.{^n}{^n}Contudo, não podemos esquecer aqueles que sacrificaram suas vidas para nos trazer aqui. Homens e mulheres valentes da Legião Negra que pegaram em armas para defender Erulan, uma nação que os desprezou como sendo criminosos, marginais e até mesmo traidores. Na morte, eles não foram nada disso. Eles morreram como heróis.{^n}{^n}Mas, por enquanto, eu me recuso a contar Ulgrim entre os mortos. Devo muito a ele.{^n}{^n}Preciso da sua ajuda. Você está comigo?
+Como eu posso ajudar?
+O que nós podemos fazer?
+Tenho algumas perguntas.
+Sim?
+E quanto aos Etéreos?
+Eles continuam sendo a grande ameaça de sempre. Grande parte do império ainda está sob o controle deles.{^n}{^n}Devemos estar preparados para um conflito prolongado. Pode levar anos até conseguirmos atingir a capital, imagine expulsar os Etéreos de Cairn.
+E quanto a Ulgrim?
+E quanto a Ulgrim?
+Tenho outra pergunta.
+Adeus.
+O Culto ainda está por aí. Não deveríamos detê-los para sempre?
+As suas ações na Necrópole enfraqueceram bastante as atividades deles.{^n}{^n}Provavelmente vai levar um tempo até termos que lidar com a laia deles novamente.{^n}{^n}Por ora, temos que reforçar as nossas defesas.
+E quanto a Ulgrim?
+E quanto a Ulgrim?
+Tenho outra pergunta.
+Entendo.
+Você sabia que Anasteria é um Etéreo?
+Eu tinha minhas suspeitas, mas... ela colocou todos nós em uma posição bastante difícil.{^n}{^n}Não posso dizer que confio nela totalmente, mas ela tem sido útil na luta contra a própria raça dela, pelo menos até pouco tempo atrás, quando as informações dela ficaram, no mínimo, inconsistentes.{^n}{^n}Eu suspeito que os Etéreos ficaram sabendo das nossas relações com ela e alteraram seus planos para malograr as informações dela. Mesmo assim, o conhecimento dela ajudou a salvar inúmeras vidas humanas, e ela ainda sabe mais sobre os Etéreos do que qualquer um de nós. Só por isso ela ainda é útil.
+E quanto a Ulgrim?
+E quanto a Ulgrim?
+Tenho outra pergunta.
+Faz sentido.
+Deixe pra lá.
+Eu... preciso de um tempo.
+Vocês vão acabar morrendo.
+Eu ouvi falar do que você fez para Anasteria.{^n}{^n}As suas ações imprudentes nos custaram um recurso valioso.
+Ela era uma bruxa Etérea!
+Seja como for, ela estava nos ajudando.{^n}{^n}As informações dela nos ajudaram a escapar de ataques mortais dos Etéreos. Levou meses para os inimigos descobrirem que havia um vazamento.{^n}{^n}Anasteria salvou inúmeras vidas, talvez até mesmo a própria resistência. E nós retribuímos com assassinato.
+Eu não fazia ideia.
+Talvez você devesse ter considerado isso antes de ter agido.
+Sinto muito.
+Eu não me arrependo do que fiz.
+Ela ainda era um risco.
+Eu fiz o que você se recusou a fazer.
+Precisa de alguma coisa?
+A sua ajuda seria útil.
+Talvez sim, mas alguém tem que coordenar as nossas forças, e o Forte Ikon ainda está exposto.
+Muito bem.
+
+Adeus.
+O que é que você ainda está fazendo aqui? Ulgrim precisa de você na Necrópole!
+
+Irei até lá agora.
+Você assegurou o portal?
+Onde fica a Necrópole?
+Saia do Forte Ikon pelos portões da frente e abra caminho pelas Planícies da Contenda. Os portões da Necrópole não estão muito além.{^n}{^n}Uma vez lá, encontre um portal e assegure-o para que as nossas tropas possam avançar sobre o culto.
+[[ms]Obrigado[fs]Obrigada].
+Tenho algumas perguntas.
+Sim?
+Quem é Anasteria?
+Anasteria? Por que você pergunta...
+O Capitão Reave falou dela.
+Ah, agora eu entendo.{^n}{^n}Tudo o que você precisa saber é que, independentemente do que o Capitão Reave possa ter dito, Anasteria tem sido uma aliada valiosa. O conhecimento dela sobre o Éter ajudou a salvar muitas vidas.{^n}{^n}A despeito de tudo o que Reave falou para você fazer, Anasteria não deve ser ferida.
+Tenho outra pergunta.
+Está bem.
+Eu ouvi falar dela.
+Anasteria nos forneceu informações valiosas sobre o Éter.{^n}{^n}O que quer que você possa ter ouvido das tropas, saiba que ela é uma aliada e não deve ser ferida.
+Tenho outra pergunta.
+Entendo.
+Tenho outra pergunta.
+Esqueça.
+O que nós sabemos sobre o Logorreano?
+Infelizmente, não muito. Sabemos que o Logorreano já foi evocado para Cairn antes, presumivelmente durante a carnificina que levou à construção da Necrópole.{^n}{^n}Se eu tivesse acesso aos arquivos de Inquisidor em Erulan, talvez pudéssemos aprender mais.
+Tenho outra pergunta.
+Eu preciso voltar lá fora.
+O que você pode me dizer sobre a Necrópole?
+A Necrópole foi construída após um grande conflito entre Erulan e a nação ocidental de Carinea. A Batalha de Ikon, a qual Erulan acabou por vencer para conquistar as terras em que pisamos hoje, foi um acontecimento brutal que custou milhares de vidas.{^n}{^n}Diziam que os heróis mortos daquele tempo estavam enterrados na Necrópole, que foi construída em honra da vitória.{^n}{^n}Mas agora parece que a Necrópole tinha um propósito ulterior.
+Tenho outra pergunta.
+Eu preciso voltar lá fora.
+Você sabia que Anasteria é um Etéreo?
+Eu tinha minhas suspeitas, mas... ela colocou todos nós em uma posição bastante difícil.{^n}{^n}Não posso dizer que confio nela totalmente, mas ela tem sido útil na luta contra a própria raça dela, pelo menos até pouco tempo atrás, quando as informações dela ficaram, no mínimo, inconsistentes.{^n}{^n}Eu suspeito que os Etéreos ficaram sabendo das nossas relações com ela e alteraram seus planos para malograr as informações dela. Mesmo assim, o conhecimento dela ajudou a salvar inúmeras vidas humanas, e ela ainda sabe mais sobre os Etéreos do que qualquer um de nós. Só por isso ela ainda é útil.
+Tenho outra pergunta.
+Deixe pra lá.
+Vou cuidar disso.
+Bom trabalho com Lucius, mas a Necrópole ainda aguarda.
+Onde é que vocês precisam de mim?
+Nós não podemos simplesmente marchar com as nossas forças diretamente para a Necrópole. Os asseclas do culto nos atacariam em massa e nós seríamos esmagados antes mesmo que chegássemos perto da Tumba dos Vigilantes.{^n}{^n}Em vez disso, vamos fazer uso das suas habilidades únicas. Abra caminho para a Necrópole, passando pelas Planícies da Contenda, e assegure o portal mais próximo.{^n}{^n}Assim que tiver feito isso, Ulgrim aparecerá com um contingente dos nossos homens. Com o elemento surpresa do nosso lado, vamos atacar o inimigo lá dentro.
+Irei até a Necrópole agora.
+Eu preciso de um tempo para me preparar.
+Eu já assegurei o portal.
+Você age rápido. Eu vou enviar um contingente de tropas para lá imediatamente.{^n}{^n}Volte lá fora e fale com Ulgrim. Ele vai lhe informar o que precisa ser feito agora.
+Vou encontrá-los lá.
+Tenho algumas perguntas.
+Seja [[ms]rápido[fs]rápida].
+Quem é Anasteria?
+Anasteria? Por que você pergunta...
+O Capitão Reave falou dela.
+Ah, agora eu entendo.{^n}{^n}Tudo o que você precisa saber é que, independentemente do que o Capitão Reave possa ter dito, Anasteria tem sido uma aliada valiosa. O conhecimento dela sobre o Éter ajudou a salvar muitas vidas.{^n}{^n}Ignore tudo o que Reave falou para você fazer, Anasteria não deve ser ferida.
+Tudo bem. O que você precisava que eu fizesse?
+
+Tenho outra pergunta.
+Está bem.
+Eu ouvi falar dela.
+Anasteria nos forneceu informações valiosas sobre o Éter.{^n}{^n}O que quer que você possa ter ouvido das tropas, saiba que ela é uma aliada e não deve ser ferida.
+Tudo bem. O que você precisava que eu fizesse?
+
+Tenho outra pergunta.
+Entendo.
+Esqueça. O que você precisava que eu fizesse?
+
+Tenho outra pergunta.
+Entendo.
+O que nós sabemos sobre o Logorreano?
+Infelizmente, não muito. Sabemos que o Logorreano já foi evocado para Cairn antes, presumivelmente durante a carnificina que levou à construção da Necrópole.{^n}{^n}Se eu tivesse acesso aos arquivos de Inquisidor em Erulan, talvez pudéssemos aprender mais.
+O que você precisava que eu fizesse?
+
+Tenho outra pergunta.
+Volto logo.
+O que você pode me dizer sobre a Necrópole?
+A Necrópole foi construída após um grande conflito entre Erulan e a nação ocidental de Carinea. A Batalha de Ikon, a qual Erulan acabou por vencer para conquistar as terras em que pisamos hoje, foi um acontecimento brutal que custou milhares de vidas.{^n}{^n}Diziam que os heróis mortos daquele tempo estavam enterrados na Necrópole, que foi construída em honra da vitória.{^n}{^n}Mas agora parece que a Necrópole tinha um propósito ulterior.
+O que você precisava que eu fizesse?
+
+Tenho outra pergunta.
+Volto logo.
+Você sabia que Anasteria é um Etéreo?
+Eu tinha minhas suspeitas, mas... ela colocou todos nós em uma posição bastante difícil.{^n}{^n}Não posso dizer que confio nela totalmente, mas ela tem sido útil na luta contra a própria raça dela, pelo menos até pouco tempo atrás, quando as informações dela ficaram, no mínimo, inconsistentes.{^n}{^n}Eu suspeito que os Etéreos ficaram sabendo das nossas relações com ela e alteraram seus planos para malograr as informações dela. Mesmo assim, o conhecimento dela ajudou a salvar inúmeras vidas humanas, e ela ainda sabe mais sobre os Etéreos do que qualquer um de nós. Só por isso ela ainda é útil.
+O que você precisava que eu fizesse?
+
+Tenho outra pergunta.
+Volto logo.
+Bom trabalho.{^n}{^n}Nós precisamos garantir uma posição mais avançada na Necrópole imediatamente.
+Onde é que vocês precisam de mim?
+
+Você recuperou os explosivos?
+Onde fica a armaria?
+A armaria fica no lado norte do Forte Ikon. Não demore!
+Irei até lá agora.
+Ainda não.
+Traição, sabotagem, chame do que quiser. Nós temos sido atacados aqui dentro.{^n}{^n}Os Etéreos subjugaram o comandante.
+Ele foi possuído?
+Precisamente. Com base nos relatórios, o Comandante Lucius enviou os nossos homens em missões fúteis, diminuindo as defesas do forte. Quando a vigilância ficou fraca o suficiente, ele abriu os portões permitindo que os Etéreos entrassem.{^n}{^n}Ele só não contava com a engenhosidade humana. O Armeiro Edric colapsou os portões da frente com alguns explosivos, bloqueando as forças do inimigo. Quando nós chegamos com reforços do sul, o covarde do Lucius fugiu para a armaria. Enquanto aqueles portões não forem explodidos, ficaremos presos aqui. Eu preciso que você entre na armaria e recupere o que sobrou dos Explosivos Potentes; use-os para explodir os escombros. Mas cuidado com Lucius. Ele trocou a aparência humana por uma forma monstruosa que eu não consigo nem começar a descrever. Você provavelmente vai ter que lidar com ele para conseguir os explosivos.
+Isso será feito.
+Isso vai ter que esperar.
+Eu já lidei com Lucius e explodi os portões.
+Bom trabalho.{^n}{^n}Nós precisamos garantir uma posição mais avançada na Necrópole imediatamente.
+Onde é que vocês precisam de mim?
+
+Eu já lidei com Lucius.
+Então, não há tempo a perder. Leve os explosivos até os portões da frente e exploda os escombros para que a Legião possa avançar para a Necrópole.
+Vou fazer isso.
+Ótimo, você chegou.{^n}{^n}As coisas aqui estão piores do que eu imaginava.
+O que aconteceu?
+
+Até mesmo aqui, no nosso último reduto, o inimigo encontrou uma maneira de causar estragos.{^n}{^n}No entanto, devemos permanecer unidos ou enfrentar a aniquilação completa.
+Nós vamos lidar com isso. Um desafio de cada vez.

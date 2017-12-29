@@ -1,0 +1,154 @@
+Recompensas do Cruzamento do Diabo
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna triunfantemente e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você já está em uma Recompensa para o Cruzamento do Diabo.
+Afastar-se da Mesa de Recompensas.
+Sua ajuda é inestimável para o Cruzamento do Diabo.{^n}{^n}Mas há sempre algo mais que pode ser feito para ajudar os sobreviventes.
+Dar uma olhada na recompensa.
+Você já completou todas as Recompensas postadas para esta sessão.
+Afastar-se da Mesa de Recompensas.
+Dar uma olhada na recompensa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afastar-se da Mesa de Recompensas.
+Os Reanimadores são os arautos da invasão dos Etéreos. Eles fornecem reforços ao inimigo e espalham a corrupção a cada passo.{^n}{^n}Se você acabar com alguns deles, os guardas do Cruzamento do Diabo terão um merecido alívio.{^n}{^n}Você receberá uma boa recompensa em pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Nicholas Balthazar já esteve no corredor da morte aqui no Cruzamento do Diabo por causa de inúmeros assassinatos brutais.{^n}{^n}Tal como os outros internos, Nicholas agora está livre e escondido em algum lugar nos Sopés Arkovianos, provavelmente nas minas.{^n}{^n}É hora de concluir sua sentença, de uma vez por todas. Pedaços de ferro são oferecidos como recompensa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Darius Cronley tem realizado experimentos atrozes em seus lacaios com o uso de cristais Etéreos.{^n}{^n}Esses homens agora exibem força e velocidade sobre-humanas, mas a um preço terrível.{^n}{^n}Não podemos deixar que eles ponham os pés no Cruzamento do Diabo. Elimine-os.{^n}{^n}A prisão está com poucos suprimentos, mas daremos alguns materiais para quem lidar com essa ameaça.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os tenentes mais chegados de Darius Cronley são alguns dos homens mais cruéis e letais que escaparam da prisão após o Alvorecer Sombrio.{^n}{^n}Por ora, eles parecem estar satisfeitos em permanecer nas Quatro Colinas e nas minas abaixo delas, na Velha Arkóvia, mas, caso ataquem o Cruzamento do Diabo, as vítimas serão muitas.{^n}{^n}Essa ameaça deve ser eliminada o quanto antes. Um estoque de pedaços de ferro está à espera de alguém que acabe com eles.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Halion "O Rato" e seu enorme companheiro são uma ameaça para o Cruzamento do Diabo. Ele era o líder de uma poderosa gangue que operava fora de Burrwitch e os rumores dizem que ele está novamente reunindo seguidores.{^n}{^n}Sua operação deve acabar.{^n}{^n}Halion foi visto pela última vez na Mina Hanneffy, embaixo das Quatro Colinas, na Velha Arkóvia. Pedaços de ferro são oferecidos como recompensa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Cronley recrutou toda sorte de homens cruéis e desprezíveis para lutar ao seu lado e entre eles está um bastardo conhecido como "O Brigão" Romanov.{^n}{^n}Romanov adora esmagar o crânio de quem o desagrada. Cronley parece incentivar esse comportamento. Para piorar, Romanov parece ter se tornado um homem de confiança de Cronley e está contaminado com cristais Etéreos que lhe conferem força sobre-humana. Ele raramente é visto longe de seu chefe. Costuma se esconder nas minas embaixo das Quatro Colinas, na Velha Arkóvia. O Cruzamento do Diabo preparou uma quantia generosa em pedaços de ferro para que Romanov tenha o que merece.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Bolla "O Corvo" foi vista nos Sopés Arkovianos pela primeira vez desde que conseguiu escapar à captura, antes do Alvorecer Sombrio. Última localização conhecida: Mina Staunton.{^n}{^n}Muitos em Burrwitch já sofreram por causa do ocultismo cruel praticado por ela e ficariam agradecidos se ela fosse eliminada.{^n}{^n}A prisão está com poucos suprimentos, mas daremos alguns materiais para quem lidar com essa ameaça.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os slith são notórios por envenenarem reservas de água com as excreções peçonhentas de suas matriarcas.{^n}{^n}Uma dessas matriarcas, 'Slathra, a Pesteada', foi vista entrando e saindo de uma caverna na Ribanceira Nebulosa.{^n}{^n}É imprescindível que ela seja morta antes que tenha a chance de poluir a água fresca que nos resta.{^n}{^n}A prisão está com poucos suprimentos, mas daremos alguns materiais para quem lidar com essa ameaça.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Ballior era um velho que vivia jubilosamente administrando sua padaria em Burrwitch. Infelizmente, ele foi morto quando os Etéreos atacaram.{^n}{^n}Não quero nem pensar no que os Etéreos fizeram com seus restos mortais quando o arrastaram até um porão. O meu coração ficaria aliviado se soubesse que ele está em paz.{^n}{^n}Não tenho muito a oferecer, mas darei alguns materiais para quem permitir que Ballior descanse.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Antes do Alvorecer Sombrio, Igor "O Briguento" era um homem brutal que tinha mais músculos do que cérebro.{^n}{^n}Agora, dizem que ele aceitou os cristais Etéreos de Cronley para ficar ainda mais forte. Se esse monstro de homem decidir atacar o Cruzamento do Diabo, poderá causar estragos consideráveis.{^n}{^n}Quem rastrear o Briguento no Esconderijo de Cronley e acabar com ele será merecidamente recompensado com alguns dos nossos materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Não era segredo que Caspis era um bebedor de sangue e devoto de Ch'thon. O que é lamentável é que ele tenha sobrevivido ao Alvorecer Sombrio.{^n}{^n}Ouvimos relatos de que Caspis estaria capturando viajantes nos Arredores de Burrwitch. É improvável que ele esteja trabalhando sozinho, então deve haver uma aglomeração de cultistas em algum lugar naquela região. Quem rastrear Caspis até seu esconderijo e acabar com ele será merecidamente recompensado com alguns dos nossos materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Barnabas requisitou mais Sucata para reparos e manutenção em geral.{^n}{^n}Quem levar materiais suficientes para ele será recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Kasparov quer realizar outro de seus experimentos.{^n}{^n}Desta vez, ele requer alguns Cristais Etéreos para poder estudar seus efeitos no portal, já que conseguiu desintegrar sua própria coleção.{^n}{^n}A prisão está com poucos suprimentos, mas daremos alguns materiais para quem fornecer a Kasparov o que ele precisa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Kasparov está interessado em estudar algumas das velhas relíquias anteriores ao Alvorecer Sombrio.{^n}{^n}Ele requer que uma Relíquia Calamidade seja criada para poder investigar suas propriedades mágicas.{^n}{^n}Quem conseguir obter esse objeto raro será recompensado com um Sangue de Ch'thon do estoque de Kasparov.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Um dos lacaios mais chegados de Cronley foi visto nas Quatro Colinas. Ele atende pelo nome de Rostov, a Chama Etérea.{^n}{^n}Se alguém do alto escalão está sendo visto dessa maneira é porque a gangue deve estar se preparando para uma mobilização. Rostov deve ser eliminado antes que possa executar qualquer plano que tenham concebido.{^n}{^n}Quem o rastrear será merecidamente recompensado com alguns dos nossos materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Kasparov acredita que pode ter uma solução para a capacidade dos Etéreos de ressuscitar nossos mortos. Não estou esperançoso, mas temos que aproveitar todas as chances que aparecem.{^n}{^n}Infelizmente, seu experimento requer um pouco de Matéria Cerebral Contaminada.{^n}{^n}Quem conseguir obter esse objeto raro será recompensado com alguns dos nossos materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Um poderoso reanimador foi visto entrando e saindo do Porão do Carcereiro. Ele é, possivelmente, o último dos experimentos cruéis de Krieg.{^n}{^n}As coisas já estão ruins o suficiente com os reanimadores comuns vagando por aí. Esse tal de 'Nalloth, o Geoso' deve ser morto.{^n}{^n}Quem o eliminar será merecidamente recompensado com alguns dos nossos materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os bandidos que habitam as Quatro Colinas, na Velha Arkóvia, têm um passatempo favorito: jogar prisioneiros desarmados em sua arena para enfrentar Boris.{^n}{^n}Boris é um carniceiro que se deleita com o derramamento de sangue. É revoltante.{^n}{^n}Sempre que ele está nas Quatro Colinas, pode ser encontrado na arena perto da costa. Acabar com ele dentro de sua própria arena seria um final poético para o maníaco. O Cruzamento do Diabo preparou uma quantia generosa em pedaços de ferro como recompensa pela morte de Boris.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O Culto de Ch'thon tem muitos líderes, mas nós finalmente descobrimos a identidade daquele que é encarregado das atividades em torno do Cruzamento do Diabo.{^n}{^n}Ele atende pelo nome de 'Salazar, Lâmina de Ch'thon'. Dizem que ele está escondido em algum lugar perto dos Arredores de Burrwitch.{^n}{^n}Quem rastrear e eliminar Salazar será merecidamente recompensado com alguns dos nossos materiais recuperados raros.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Gethrand e Zanbrandt eram dois cientistas que desapareceram por volta da época do Alvorecer Sombrio. Ninguém sabia o que acontecera com eles... até agora.{^n}{^n}Suas formas terrivelmente desfiguradas foram vistas vagando no recinto do Carcereiro, ressuscitando os mortos e fazendo-os servir aos Etéreos.{^n}{^n}Eles são uma ameaça ao Cruzamento do Diabo. Procure no Laboratório e nos Alojamentos do Carcereiro e elimine os reanimadores. Você receberá uma boa recompensa em pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Sua ajuda é inestimável para o Cruzamento do Diabo.{^n}{^n}Mas há sempre algo mais que pode ser feito para ajudar os sobreviventes.
+
+Afastar-se da Mesa de Recompensas.
+As pessoas do Cruzamento do Diabo ainda não lhe confiaram suas necessidades mais secretas.{^n}{^n}É necessária a reputação [[ms]Respeitado[fs]Respeitada] para acessar a Mesa de Recompensas.
+Afastar-se da Mesa de Recompensas.

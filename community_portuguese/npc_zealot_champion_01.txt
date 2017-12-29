@@ -1,0 +1,36 @@
+Arconte Barthollem
+Você está diante do Arauto do Portador da Luz.
+Hum... tenho algumas perguntas.
+Fale, mortal.
+Quem, ou o quê, é você?
+Eu sou o Arconte Barthollem, servo do Portador da Luz e arauto da Chama Divina.{^n}{^n}O mundo será purificado pelo meu fogo.
+Contanto que você esteja do nosso lado.
+Enquanto você for leal aos justos e aos devotos, não precisa temer a chama.
+Tenho outra pergunta.
+Entendo.
+Tenho outra pergunta.
+Eu... entendo...
+Agora que você está aqui, o que vai fazer?
+Eu vou levar a ira de Empyrion para aqueles que conspurcariam Cairn, começando pela mácula que infecta a Necrópole.
+O que é que está acontecendo na Necrópole?
+Um encontro das trevas. O Culto de Ch'thon e seus asseclas se reuniram em grande número.{^n}{^n}O objetivo deles não importa. Todos devem ser queimados.
+Tenho outra pergunta.
+Adeus.
+Tenho outra pergunta.
+Adeus.
+Qual é a vontade de Empyrion?
+Varrer os impuros do mundo. Incinerar os hereges no fogo da justiça!
+Tenho outra pergunta.
+[[ms]Obrigado[fs]Obrigada].
+Deixe pra lá.
+Hum... adeus.
+O que é, mortal?
+Quem, ou o quê, é você?
+Eu sou o Arconte Barthollem, servo do Portador da Luz e arauto da Chama Divina.{^n}{^n}O mundo será purificado pelo meu fogo.
+Contanto que você esteja do nosso lado.
+Enquanto você for leal aos justos e aos devotos, não precisa temer a chama.
+Entendo.
+Adeus.
+Pela vontade de Empyrion, eu voltei.
+
+Adeus.

@@ -1,0 +1,39 @@
+Greven
+[[ms]Bem-vindo[fs]Bem-vinda] de volta ao nosso humilde acampamento.
+Adeus.
+[[ms]Bem-vindo[fs]Bem-vinda] ao nosso humilde acampamento.
+Adeus.
+Olá! O que [[ms]o[fs]a] traz ao nosso acampamento?
+Eu encontrei o ancião de vocês nas ruínas. Sinto muito.
+Ah... É uma grande perda para a nossa gente. O Ancião Mathias fez tudo que podia para que o nosso talismã não caísse nas mãos dos bandidos e, pelo que parece, sacrificou sua própria vida para cumprir seu dever. Diga, você encontrou um talismã com ele? É um pequeno objeto esculpido em osso. Por favor, se você encontrou, devolva-nos e vamos ter o maior prazer em [[ms]recompensá-lo[fs]recompensá-la].
+Sim, eu encontrei. Aqui está.
+Pelo menos ele não morreu em vão. Obrigado... A devolução deste talismã vai levantar o moral da minha gente.
+De nada. Adeus.
+Não, eu não encontrei nenhum talismã. (Mentir)
+Então hoje nós perdemos tanto a nossa relíquia quanto o nosso ancião. Obrigado por ter nos dado essa notícia, mesmo que ela nos entristeça profundamente.
+Sinto muito pela perda de vocês. Adeus.
+Eu encontrei sim, mas perdi no caminho de volta.
+Ó?! Por favor, se você pudesse reencontrar a relíquia, nós teríamos o maior prazer em [[ms]recompensá-lo[fs]recompensá-la] pelo esforço.
+Vou reencontrar.
+Adeus.
+Como vai a busca pelo Ancião Mathias?
+Eu encontrei o ancião. Sinto muito.
+Ah... É uma grande perda para a nossa gente. O Ancião Mathias fez tudo que podia para que o nosso talismã não caísse nas mãos dos bandidos e, pelo que parece, sacrificou sua própria vida para cumprir seu dever. Diga, você encontrou o talismã com ele?
+Sim, eu encontrei. Aqui está.
+Pelo menos ele não morreu em vão. Obrigado... A devolução deste talismã vai levantar o moral da minha gente.
+De nada. Adeus.
+Não, eu não encontrei nenhum talismã. (Mentir)
+Então hoje nós perdemos tanto a nossa relíquia quanto o nosso ancião. Obrigado por ter nos dado essa notícia, mesmo que ela nos entristeça profundamente.
+Sinto muito pela perda de vocês. Adeus.
+Adeus.
+Como vai a busca pelo Ancião Mathias?
+Você pode repetir onde eu devo procurar?
+Siga na direção oeste ao sair do acampamento, até um pouco além da Mina Staunton. O Ancião Mathias fugiu para as ruínas naquela área.
+[[ms]Obrigado[fs]Obrigada]. Vou continuar a busca.
+Ainda estou procurando. Adeus.
+Olá! É muito bom encontrar alguém amigável por aqui. Os bandidos não costumam ser muito corteses. Já que você viaja por estas bandas, eu queria saber se poderia nos ajudar.
+Em que vocês precisam de ajuda?
+O nosso ancião, Mathias, desapareceu após uma invasão recente ao nosso acampamento. Quando os bandidos chegaram, o Ancião fugiu para as ruínas próximas daqui determinado a manter o nosso talismã, uma relíquia preciosa da minha gente, fora do alcance deles.{^n}{^n}Já se passaram vários dias e eu estou começando a temer o pior. Por favor, se você explorar as ruínas ao oeste da Mina Staunton, procure o Ancião Mathias. Se for como eu temo e o Ancião estiver morto, por favor, pelo menos recupere o talismã. É um pequeno objeto esculpido em osso e carrega um grande significado espiritual para nós. Seríamos eternamente gratos pela devolução.
+Vou procurar o ancião.
+Sinto muito. Não posso ajudá-los.
+Não estou [[ms]interessado[fs]interessada]. Adeus.

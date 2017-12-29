@@ -1,0 +1,148 @@
+Recompensas dos Escolhidos de Kymon
+Os Escolhidos não querem confiar suas tarefas a alguém que tenha aliados pertencentes à Ordem da Vigília da Morte.
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna triunfantemente e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você já está em uma Recompensa para os Escolhidos de Kymon.
+Afastar-se da Mesa de Recompensas.
+O Pai Kymon convoca seus leais seguidores para agirem.{^n}{^n}Você se insurgirá e levará a cabo a vontade do Divino?
+Dar uma olhada na recompensa.
+Você cumpriu todos os decretos do Pai Kymon para esta sessão.
+Afastar-se da Mesa de Recompensas.
+Dar uma olhada na recompensa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afastar-se da Mesa de Recompensas.
+O Pai Kymon teve uma visão na qual testemunhou a destruição do nosso mundo, orquestrada por Ch'thon e seus asseclas. Liderando a vanguarda estava um devorador conhecido como 'Rag'Nadar, a Grande Goela'.{^n}{^n}Essa visão não deve vir a acontecer. O Devorador deve ser destruído. Entre no Ermo Cinzento através de um portal no Bosque Sangrento e despache o demônio.{^n}{^n}Como recompensa pelo serviço fiel, o Pai Kymon está oferecendo uma bolsa com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Glutões Ctônicos têm sido vistos causando estragos no Bosque Sangrento. Eles devoram tanto os vivos quanto os mortos e vomitam os restos em uma horripilante exibição de carnificina.{^n}{^n}Eles são abomináveis e devem ser exterminados. Assim deseja o Pai Kymon.{^n}{^n}Quem ajudar nessa questão será recompensado com pedaços de ferro. Viaje com a bênção de Kymon, bravo Escolhido.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Ordem da Vigília da Morte vai longe demais em sua busca por magia sacrílega. Os Senhores do Medo brincam com a morte como se ela fosse um joguete, manipulando os mortos da mesma maneira que os Etéreos o fazem.{^n}{^n}Isso não será tolerado. Os Senhores do Medo devem ser caçados e virar exemplo.{^n}{^n}Quem estiver disposto a enfrentar esses temíveis inimigos será merecidamente recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+As lendas dizem que os carniçais já foram humanos. Humanos corrompidos pela loucura e obcecados para devorar carne morta.{^n}{^n}Agora eles não são muito mais do que demônios estúpidos, abominações que não merecem nenhuma piedade ou remorso. O Sepulcro Negro, na Necrópole, está repleto desses Devoradores de Cadáveres. Para que Cairn possa ser purificada, eles devem ser erradicados.{^n}{^n}Qualquer esforço nesse sentido será recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Chegaram relatórios das linhas de frente, os quais dizem que uma necromante asquerosa chamada Ravok vem profanando nossos mortos e usando-os para aumentar seus reforços no Forte Haron.{^n}{^n}Isso é uma demonstração deplorável de indecência na guerra e uma completa falta de respeito para com os mortos. Os Escolhidos não ficarão de braços cruzados enquanto nossos mortos são profanados diante de nossos olhos. Essa tal de Mestra Ravok deve servir de exemplo. Quem estiver disposto a assumir essa tarefa crítica será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O Culto de Ch'thon tem corrompido muitos indivíduos sob o seu estandarte ensanguentado. Suas promessas de uma Cairn restaurada ressoam com muitos, desde o mais simples mendigo até o mais estimado dos nobres.{^n}{^n}O Pai Kymon uma vez conheceu um homem chamado Salazar, do tribunal superior em Erulan. Este mesmo homem acabou por ser um traidor da humanidade, já que ele agora serve ao Deus Morto nos Arredores de Burrwitch. O Pai Kymon decretou que a depravação de Salazar deve acabar. Quem estiver disposto a assumir essa tarefa crítica será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Ordem da Vigília da Morte é um grupo tortuoso que reivindica o domínio sobre a morte, mas até mesmo eles devem, mais cedo ou mais tarde, sucumbir a esse destino final.{^n}{^n}Vimos um dos membros do alto escalão da Ordem no Forte Haron. Seu nome é Holvuur Falaosso. O Abençoado Pai exige que ele seja morto.{^n}{^n}Quem estiver disposto a assumir essa tarefa crítica será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Ordem da Vigília da Morte é um grupo tortuoso que reivindica o domínio sobre a morte, mas até mesmo eles devem, mais cedo ou mais tarde, sucumbir a esse destino final.{^n}{^n}Vimos um dos membros do alto escalão da Ordem no Forte Haron. Seu nome é Igniaa Língua Venenosa. O Abençoado Pai exige que ela seja morta.{^n}{^n}Quem estiver disposto a assumir essa tarefa crítica será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Purificados pelo fogo, os Escolhidos marcham em campos de batalha desconhecidos. Esse é o nosso destino e nossa incumbência.{^n}{^n}No Bosque Sangrento há um portal criado entre o nosso mundo e o dos ctônicos, que conduz a um plano de existência que chamamos de Ermo Cinzento. Lá habita uma criatura cruel chamada Vom'Zul. Ela é uma fera de fogo e enxofre, uma paródia da chama purificadora de Empyrion. Pela Vontade de Kymon, ela deve ser destruída. Quem estiver disposto a assumir essa tarefa crítica será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O maldito Ch'thon tem muitos seguidores leais, mas nenhum tão vilipendiado quanto os seus Escolhidos. Os Escolhidos de Ch'thon cedem de bom grado os seus corpos para o vazio, permitindo que os demônios mais poderosos dele venham para Cairn sem a necessidade de usar um portal.{^n}{^n}Um desses Escolhidos, chamado Thullon, foi visto fazendo ronda em acampamentos do Culto no Bosque Sangrento. Esta é uma oportunidade, irmãos e irmãs. Uma oportunidade que não podemos perder. A eliminação de Thullon será amplamente recompensada com materiais de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os carniçais são seres desprezíveis e abomináveis. Os mais fracos se escondem nas sombras, espreitando em túmulos em busca de sua próxima refeição.{^n}{^n}Mas são os carniçais maiores que causam terror no coração dos homens. Eles não temem o sol nem as chamas. Eles são o pesadelo com o qual temos que contender.{^n}{^n}Um desses carniçais, ao qual chamamos de Abathis, tem vagado pelo Sepulcro Negro, na Necrópole. Pelo bem de Cairn, ele deve ser morto. A eliminação de Abathis será amplamente recompensada com materiais de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Embora a nossa batalha seja contra a Ordem e o Culto de Ch'thon, nunca devemos nos esquecer de que um outro inimigo procura usurpar este mundo do domínio do homem.{^n}{^n}Os Etéreos deformam a carne como bem entendem, transformando tanto as feras quanto o homem em abominações. Uma dessas criações foi vista na Colheita Macabra. Essa tal de Amalgamação que eles estão criando é um insulto aos deuses e deve ser destruída. Quem estiver disposto a dar um jeito nessa monstruosidade será merecidamente recompensado com uma boa quantia em pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O Bastião do Caos é um dos maiores portais que já vimos. Todos os dias, incontáveis demônios entram no nosso mundo através dele. Mas os verdadeiros terrores habitam em seu interior.{^n}{^n}Os Desembaraçadores Ctônicos são os arautos da destruição do nosso mundo. Uma dessas criaturas uma vez matou uma dúzia de Escolhidos fiéis. O Bastião é o lugar onde esses monstros nascem, e onde devem ser destruídos. Quem for ousado o suficiente para entrar no Bastião será merecidamente recompensado com materiais de nossos estoques. Viaje com a bênção de Kymon, bravo Escolhido.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O trabalho dos Escolhidos nunca termina.{^n}{^n}Descobrimos umas ruínas conhecidas como Passos do Tormento, localizadas nas Colinas Partidas. É um lugar amaldiçoado e cheio de abominações imorredouras.{^n}{^n}Em um dos níveis mais baixos habita um sacerdote que clama a deuses falsos. O Pai Kymon nos exortou a exterminar esse sacrilégio.{^n}{^n}Quem estiver disposto a cumprir as ordens do Abençoado será recompensado com materiais provenientes de nossos estoques. Viaje com a bênção de Kymon.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O Culto de Ch'thon usa estranhos Selos a fim de realizar seus rituais de evocação.{^n}{^n}Devemos negar-lhes esse recurso. Os selos recuperados de cultistas mortos devem ser trazidos aqui para serem incinerados.{^n}{^n}Como recompensa pelo serviço fiel, o Pai Kymon está oferecendo uma bolsa com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+As atividades do Culto em Valescuro estão ficando fora de controle. É hora de atacar o cabeça, ou melhor, os cabeças.{^n}{^n}Dois dos membros mais proeminentes do culto, 'Bolvar, o Vinculador Sanguíneo' e 'Zaria, a Talhadora', foram vistos no Bosque Sangrento e perto do Vilarejo de Valescuro.{^n}{^n}É a vontade de Kymon que eles sejam eliminados. Sua morte será recompensada com materiais de nossos estoques. Vá em frente com a bênção de Kymon, bravo Escolhido.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Um dos líderes mais proeminentes do Culto se revelou na Necrópole.{^n}{^n}É uma oportunidade, meus irmãos e irmãs, para finalmente desferirmos um duro golpe no Culto de Ch'thon. Viaje até a Necrópole e acabe com a vida de 'Thalonis, o Senhor do Sangue'. Pela vontade de Kymon!{^n}{^n}Quem estiver disposto a dar um jeito nesse traidor da humanidade será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Com suas práticas malévolas, a Ordem da Vigília da Morte tomou conta da Tumba do Arconte Barthollem, localizada embaixo do Forte Ikon. Eles são liderados por um ser maligno conhecido como Malkadarr.{^n}{^n}O Pai Kymon deseja que o local seja limpo de toda a imundície, começando pelo líder.{^n}{^n}A riqueza de nossa coleção mais rara estará à sua disposição se você sobreviver ao encontro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A região está cheia de ctônicos, graças, em grande parte, aos esforços de traidores como Ludia Sussurra-sangue.{^n}{^n}Ludia vem realizando perversos rituais sangrentos em Valescuro, sacrificando seus companheiros para o Vazio. Ela deve ser morta.{^n}{^n}Quem estiver disposto a dar um jeito nessa pagã será merecidamente recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Tempos sombrios estão pela frente. O mundo está em ruínas e cabe a nós consertar o que foi destruído.{^n}{^n}Mas também há potencial para a vida ressurgir das ruínas de antigamente. O Pai Kymon deseja aproveitar esse potencial.{^n}{^n}Fale com um ferreiro que conheça os antigos costumes. Faça com que crie uma Relíquia Ruína para nós.{^n}{^n}O Pai Kymon conseguiu Sangue de Ch'thon como recompensa; para pesquisa ou destruição, como você achar melhor.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+O Pai Kymon convoca seus leais seguidores para agirem.{^n}{^n}Você se insurgirá e levará a cabo a vontade do Divino?
+
+Afastar-se da Mesa de Recompensas.
+Você ainda não conquistou a confiança do Pai Kymon para poder levar a cabo sua vontade.{^n}{^n}É necessária a reputação [[ms]Respeitado[fs]Respeitada] para acessar a Mesa de Recompensas.
+Afastar-se da Mesa de Recompensas.

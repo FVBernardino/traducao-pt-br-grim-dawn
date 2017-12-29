@@ -1,0 +1,94 @@
+Barnabas
+Eu não sei o que você fez, mas com certeza funcionou. Nós já recebemos um carregamento de comida da Herdade e parece que outros estão a caminho.{^n}{^n}Você [[ms]sozinho[fs]sozinha] garantiu que este assentamento vai resistir. Eu nem sei como lhe agradecer. Beba um copo de água. É por minha conta.
+Que bom que vamos todos sobreviver.
+*Barnabas levanta um copo de água.*{^n}{^n}Bem, isto é pra todas as vidas sacrificadas pra nos trazer esta pequena trégua em um mar de miséria. Que finalmente tenham paz.
+Escutem o que ele diz.
+Então você conseguiu chegar a Malmouth?{^n}{^n}Espero que você possa dar um fim ao que quer que esteja criando aqueles horrores.
+Vou tentar.
+Uma coisa é fazer guerra, pra que os homens se matem por comida, terra ou riqueza. Todos atos deploráveis que nos tornam menos do que humanos.{^n}{^n}Mas essa... essa coisa, essa abominação Etérea feita de pedaços de humanos e concebida pra trucidar todos nós. Isso é guerra levada a níveis repulsivos totalmente novos.
+Devemos perseverar.
+Uma coisa é fazer guerra, pra que os homens se matem por comida, terra ou riqueza. Todos atos deploráveis que nos tornam menos do que humanos.{^n}{^n}Mas essa... essa coisa, essa abominação Etérea feita de pedaços de humanos e concebida pra trucidar todos nós. Isso é guerra levada a níveis repulsivos totalmente novos.
+Devemos perseverar.
+As notícias dos seus feitos se espalham rápido, [[ms]amigo[fs]amiga].{^n}{^n}*Barnabas levanta um copo de água.*{^n}{^n}A você, e aos mortos.
+Ainda há um futuro para Cairn, contanto que lutemos por isso.
+[[ms]Obrigado[fs]Obrigada].
+Fazia muito tempo que eu não via milho fresco. Eu odiava esse negócio. Agora é como uma bênção.
+Adeus.
+Seus amigos fizeram maravilhas pra manter as nossas relações com a Herdade. Este refúgio não sobreviveria sem a ajuda de pessoas como vocês.
+Todos nós fazemos a nossa parte.
+Seus aliados já fizeram tudo o que precisava ser feito.
+Está bem.
+Fez algum progresso com a Herdade?
+As pessoas lá fora não confiam em nós.
+Ah, eu não posso culpá-las. Estes são tempos difíceis e confiança é uma coisa muito difícil de ser conquistada.
+Farei o que puder.
+Nós vamos sobreviver. Eu garanto.
+Você achou o caminho pra Herdade? Diga-me, há esperança? Nós temos chance?
+Eu encontrei umas pessoas lá fora.
+Interessante. Elas não estavam distribuindo comida, estavam?
+Eu preciso falar com elas. Adeus.
+Como vai a jornada?
+Você pode repetir aonde eu devo ir?
+Siga na direção noroeste ao sair do Cruzamento do Diabo e atravesse a ponte que nós reparamos. A jornada vai [[ms]levá-lo[fs]levá-la] bem pro noroeste, e nós não temos a menor ideia do que há por lá. Comece seguindo pela estrada dos Sopés Arkovianos e atravesse a Velha Arkóvia. Se tivermos sorte, a velha ponte costeira perto das Cachoeiras Gêmeas ainda estará de pé, caso contrário, você terá que ir pela Passagem do Contrabandista. A Passagem do Contrabandista é uma velha rota de contrabando que atravessa as Colinas Partidas. Ela deve [[ms]conduzi-lo[fs]conduzi-la] até a Herdade.{^n}{^n}Nós precisamos descobrir se as terras agrícolas ainda são cultiváveis ou se o Alvorecer Sombrio acabou com elas da mesma forma que acabou com Burrwitch.
+O que é a Passagem do Contrabandista?
+Aquele velho buraco no chão já ajudou muitos contrabandistas a evitar as patrulhas imperiais ao longo da estrada costeira. A Passagem do Contrabandista nunca foi a rota mais segura, mas, se você precisasse evitar olhares curiosos, era uma bênção. Ela me serviu várias vezes em meus anos de jovem frenético. Claro, isso é tudo história antiga agora.
+[[ms]Obrigado[fs]Obrigada].
+Irei até lá agora.
+Eu preciso voltar lá fora.
+Venha [[ms]amigo[fs]amiga], beba um copo de água limpa com o Velho Barnabas pra comemorar a sua vitória em Burrwitch.
+Mornay disse que você tem um plano para resolver o nosso problema de falta de comida.
+Vamos direto ao assunto, então. Antes de o mundo sucumbir, Burrwitch obtinha os seus estoques de comida das vastas terras agrícolas ao noroeste. Agora que a ponte está reparada, nós precisamos encontrar um caminho pra Herdade.{^n}{^n}A jornada vai [[ms]levá-lo[fs]levá-la] bem pro noroeste, e nós não temos a menor ideia do que há por lá. Comece seguindo pela estrada dos Sopés Arkovianos e atravesse a Velha Arkóvia. Se tivermos sorte, a velha ponte costeira perto das Cachoeiras Gêmeas ainda estará de pé, caso contrário, você terá que ir pela Passagem do Contrabandista. A Passagem do Contrabandista é uma velha rota de contrabando que atravessa as Colinas Partidas. Ela deve [[ms]conduzi-lo[fs]conduzi-la] até a Herdade.{^n}{^n}Nós precisamos descobrir se as terras agrícolas ainda são cultiváveis ou se o Alvorecer Sombrio acabou com elas da mesma forma que acabou com Burrwitch.
+Vou cuidar disso agora mesmo.
+O que é que eu posso esperar lá fora?
+Já faz meses que ninguém se arrisca a ir a um lugar tão ao norte como a Herdade. Eu nem imagino os horrores que devem ter saído das montanhas depois do Alvorecer Sombrio. Tenha cuidado lá fora.
+Certo.
+Eu já encontrei a Herdade.
+Ó?! Você é do tipo [[ms]ambicioso[fs]ambiciosa]. O que você viu lá fora?
+
+Obrigado pela ajuda! Pelo menos podemos beber algo decente... mesmo que não seja um dedo de uísque.
+Foi um prazer.
+Você conseguiu caçar aqueles Slith? As pessoas estão começando a me implorar por água.{^n}{^n}Eu não sei quantas vezes mais vou poder dizer "vai derreter as suas tripas" antes que elas avancem em mim e levem a água.
+Eu já cuidei disso.
+Bom trabalho! Depois que eu bombear o que resta de água envenenada, o manancial vai ficar limpo o suficiente pra podermos beber dele.{^n}{^n}Eu vou fazer com que todo mundo aqui saiba da ajuda que você me deu. Eles vão ficar muito gratos por poderem beber algo que não dissolve os intestinos.{^n}{^n}Só mais uma coisa: pegue a minha mochila. Ela lhe será útil pra transportar Sucata ou qualquer outra coisa que encontrar. Eu estou velho demais pra isso.
+[[ms]Obrigado[fs]Obrigada]. Fico feliz por ter ajudado.
+Bom trabalho! Depois que eu bombear o que resta de água envenenada, o manancial vai ficar limpo o suficiente pra podermos beber dele.{^n}{^n}Eu vou fazer com que todo mundo aqui saiba da ajuda que você me deu. Eles vão ficar muito gratos por poderem beber algo que não dissolve os intestinos.
+[[ms]Obrigado[fs]Obrigada]. Fico feliz por ter ajudado.
+Você já limpou o covil dos Slith?
+Ainda não. Você pode repetir a localização dele?
+Abra o alçapão na cabana que está atrás de mim. Ele se conecta às entranhas da prisão, que devem [[ms]levá-lo[fs]levá-la] à caverna.{^n}{^n}Mate a Matriarca Slith que provavelmente está poluindo as nossas reservas de água e o veneno deverá desaparecer sozinho.
+Vou cuidar disso.
+Bem, a boa notícia é que eu consegui consertar a bomba. O único problema é que a água cheira a esgoto, só que umas dez vezes pior.{^n}{^n}Eu não sentia um cheiro tão podre desde...
+Desde quando?
+Desde que eu limpei um covil de Slith, há muito tempo. Eles são répteis abomináveis e habitam pântanos e cavernas úmidas.{^n}{^n}Secretam um poderoso veneno na água que a torna potável pra eles, mas quase sempre fatal pra nós. Eu aposto que tem um ninho na caverna de onde bombeamos a nossa água.{^n}{^n}Eu estou muito velho pra toda essa espeleologia. Preciso que você vá lá embaixo e mate a Matriarca.
+Como eu faço para chegar à caverna?
+Esta chave vai abrir o alçapão na cabana que está atrás de mim, perto daquele maldito portal. Ele se conecta às entranhas da prisão, que devem [[ms]levá-lo[fs]levá-la] à caverna.{^n}{^n}Mate a Matriarca Slith que provavelmente está poluindo as nossas reservas de água e o veneno deverá desaparecer sozinho.{^n}{^n}Faça isso e o seu nome será lembrado aqui no Cruzamento do Diabo toda vez que alguém beber um copo de água.
+Vou cuidar dos Slith.
+Não tenho tempo para isso.
+Você conseguiu a Sucata?
+Será que isto é suficiente?
+Perfeito! Em breve, a bomba eólica vai voltar a funcionar. O Cruzamento do Diabo vai ter água potável de novo. Tudo graças a você.{^n}{^n}O primeiro copo é por minha conta.
+Fico feliz por ter ajudado.
+
+Você conseguiu a Sucata?
+Ainda não. Onde eu posso encontrá-la?
+Procure nas casas em ruínas e no Velho Lixão do outro lado do Cruzamento Inferior, depois da Colina Sepulcral. Destrua algumas pilhas de lixo. Atente pros corpos das coisas que vagam por lá.{^n}{^n}Em pouco tempo você vai encontrar o suficiente!
+Eu vou voltar.
+O Capitão enviou você? Se ele tem gente sobrando pra ceder ao Velho Barnabas, é porque você deve ter feito um ótimo trabalho com os Mortos. Vamos ao que interessa, sim?{^n}{^n}A nossa bomba eólica quebrou de novo e estamos ficando sem água. Sem materiais, eu não posso consertá-la.{^n}{^n}Eu poderia derreter as armas que temos, mas não gosto muito da ideia de ser devorado durante o meu sono. Eu preciso de Sucata do Cruzamento Inferior.
+Onde eu posso encontrá-la?
+Procure nas casas em ruínas e no Velho Lixão do outro lado do Cruzamento Inferior, depois da Colina Sepulcral. Destrua algumas pilhas de lixo. Atente pros corpos das coisas que vagam por lá.{^n}{^n}Onde você vai conseguir a Sucata não importa, o que importa é que você a traga pra mim o mais rápido possível. Nós estamos ficando sem água potável, sem falar que não podemos nem mais tomar banho.
+Vou conseguir a Sucata de que você precisa.
+Desculpe. Não tenho tempo.
+
+Hum... por que vocês não recolhem água do rio?
+Você viu os corpos flutuando por lá?{^n}{^n}As águas fluviais daqui estão cheias de podridão e doenças. A nossa única esperança é este poço.{^n}{^n}Agora você vai conseguir um pouco de Sucata ou eu devo me contentar com a sua insolência?
+
+Esta Sucata é suficiente?
+Impressionante! Nós não estávamos tendo sorte catando materiais por causa dos Mortos que infestam o Cruzamento Inferior, mas você parece ser mais do que capaz de mantê-los sob controle. Em breve, a bomba eólica vai voltar a funcionar. O Cruzamento do Diabo vai ter água potável de novo. Tudo graças a você.{^n}{^n}O primeiro copo é por minha conta.
+Fico feliz por ter ajudado.
+
+Meu aliado trouxe a Sucata?
+Sim! Nós não estávamos tendo sorte catando materiais por causa dos Mortos que infestam o Cruzamento Inferior, mas vocês parecem ser mais do que capazes de mantê-los sob controle. O Cruzamento do Diabo vai ter água potável de novo. Tudo graças a vocês.{^n}{^n}O primeiro copo é por minha conta.
+Ficamos felizes por ter ajudado.
+
+Então você é [[ms]o cara[fs]a moça] que nós quase enforcamos! Eu não via nenhum sentido naquilo, mas ninguém se importa com o que o Velho Barnabas pensa.{^n}{^n}Você deve falar com o Capitão. Ele é que vai decidir se tem espaço pra você no Cruzamento do Diabo.
+Cuide-se.

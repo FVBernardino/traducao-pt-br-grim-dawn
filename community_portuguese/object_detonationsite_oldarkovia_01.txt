@@ -1,0 +1,7 @@
+Local de Detonação
+Este bloqueio foi erguido por bandidos locais, mas para quê? O que estão tentando manter do lado de fora?{^n}{^n}A demolição requer 1 unidade de Dinamite.
+Dinamite insuficiente.
+Demolir a Barricada.
+Sair.
+Você demoliu esta barricada.
+Ok.

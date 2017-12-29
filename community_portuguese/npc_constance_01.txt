@@ -1,0 +1,55 @@
+Constance
+Estou tentando manter a calma diante das crianças, mas o ataque recente realmente me abalou.{^n}{^n}Espero que você encontre uma solução. Você sempre encontra.
+Nós vamos manter vocês a salvo.
+Fiquem a salvo.
+Estou tentando manter a calma diante das crianças, mas o ataque recente realmente me abalou.{^n}{^n}Espero que você encontre uma solução. Você sempre encontra.
+Nós vamos manter vocês a salvo.
+Fiquem a salvo.
+Obrigada pela comida.{^n}{^n}Estas crianças não vão morrer de fome graças a você.
+
+
+Só estou fazendo a minha parte.
+Por favor, se você voltar lá fora, traga algo para estes pequeninos comerem.{^n}{^n}Eu não tenho coragem de dizer a eles que nós estamos entrando em racionamento de novo.
+
+Como é que Oscar e Judith estão?
+Essas pobres crianças. Passaram por tanta coisa, e agora correm o risco de morrer de fome aqui conosco.{^n}{^n}É um novo mundo cruel, não é lugar para crianças.
+Verei o que posso fazer.
+Farei o que puder.
+Eu... eu sinto muito por [[ms]tê-lo[fs]tê-la] menosprezado. Você faz tanta coisa para nos manter a salvo.
+Esses são os seus filhos?
+Não, os meus filhos estão mortos. Eu os deixei sozinhos em casa enquanto fui... visitar o vizinho. O Capitão John me encontrou escondida no porão do vizinho como uma covarde. Que espécie de deuses malucos permitem que inocentes sejam massacrados enquanto miseráveis como eu são poupados? O Capitão John me trouxe aqui e confiou estas crianças, Jane e Alex, aos meus cuidados. Cuidar deles é a única coisa que me faz seguir em frente.
+Sinto muito pela sua perda.
+Como é que Oscar e Judith estão?
+Essas pobres crianças. Passaram por tanta coisa, mas eu acho que estão começando a se acostumar ao Cruzamento do Diabo.
+Você vai conseguir cuidar deles?
+É o mínimo que posso fazer pelo Capitão John. Eu vou me esforçar ao máximo para criá-los.
+[[ms]Obrigado[fs]Obrigada].
+Fico feliz em ouvir isso.
+Só estou fazendo a minha parte.
+Olá. Seus amigos foram muito úteis ao trazerem o tecido de que preciso.
+Adeus.
+Você encontrou algum tecido?
+Sim. Aqui está.
+Ótimo! Isto é mais do que suficiente para dar uma arrumada neste lugar. Também deve sobrar um pouco para confeccionar umas roupas novas. Muita gente aqui está vestindo trapos.{^n}{^n}Ó, e por favor, pegue este casaco. Eu estava fazendo estes para Brigs e os outros guardas, mas acho que é você quem merece o primeiro.
+[[ms]Obrigado[fs]Obrigada]. Fico feliz por ter ajudado.
+Teve sorte lá fora?
+Você pode repetir onde eu devo procurar?
+Eu procuraria na Orla, em Burrwitch. As docas recebiam remessas de mercadorias regularmente antes do Alvorecer Sombrio. Tomara que haja um pouco de tecido em meio aos destroços.
+Irei a Burrwitch agora.
+
+
+Ainda estou procurando.
+Sinto muito se insultei você antes. As suas origens me pareceram um tanto... alarmantes.{^n}{^n}Ouvi dizer que você desbrava os perigos para além do Cruzamento Inferior. Eu gostaria de saber se você poderia ajudar a recolher alguns materiais.
+De que você precisa?
+Veja bem, eu era uma costureira antes do Alvorecer Sombrio. Nada de especial, só ganhava o suficiente para sobreviver. Mas agora eu vejo uma oportunidade de usar minhas habilidades para fazer a diferença por aqui.{^n}{^n}Tenho vontade de costurar umas tendas novas e, caso sobre tecido, umas roupas novas também. Alex e Jane merecem algo melhor que isso. Se você pudesse fazer a gentileza de recolher qualquer tecido que encontrasse, as pessoas aqui ficariam muito agradecidas. Você poderia começar a procurar na Orla, em Burrwitch.
+Vou encontrar o tecido.
+Tenho coisas mais importantes para fazer.
+Este tecido é suficiente?
+
+
+Adeus.
+Você é [[ms]aquele[fs]aquela] que estava [[ms]possuído[fs]possuída]! Fique longe de mim e das crianças ou vou gritar e o Capitão John vai vir fazer com você aquilo que deveria ter feito desde o início!
+Calma, senhora. Eu não vou machucá-los. Eu só queria conversar.
+Por favor... deixe-me em paz e fique longe das crianças.
+Como quiser.
+Está bem.

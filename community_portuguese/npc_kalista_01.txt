@@ -1,0 +1,98 @@
+Kalista
+[[ms]Quieto[fs]Quieta], [[ms]humanozinho[fs]humanazinha]! Nós não queremos estragar a diversão para os outros, não é?
+Seu monstro.
+Por favor, eu estou com tanto medo.
+Alguém está chegando. Aguente firme.
+Por favor, ajude-me. Eu estou com tanto medo.
+Como foi que você ficou presa aqui?
+Eu desobedeci a mamãe e saí para brincar por aí. Vim parar aqui nesta caverna quando a saída colapsou atrás de mim.{^n}{^n}*Kalista choraminga ao falar.*{^n}{^n}Por favor, eu só quero ir para casa junto do papai e da mamãe. Eles moram num acampamento próximo daqui.
+É claro que eu vou ajudar você. (Abrir Portal)
+Já volto.
+Por que é que eles não vieram procurar você?
+Eu... eu não sei. Por que é que isso importa? Talvez eles não tenham conseguido achar este lugar embaixo de todas essas rochas.{^n}{^n}*Kalista está prestes a chorar.*{^n}{^n}Você está me assustando com todas essas perguntas. Eu só preciso sair desta prisão!
+Tudo bem, acalme-se. Vou levar você para casa. (Abrir Portal)
+Já volto.
+
+
+Onde é que está o seu acampamento?
+Você deve ter passado pelo acampamento no caminho até aqui. Eu sinto que... quer dizer, eu sei que a minha gente está lá embaixo, no vale; provavelmente esperando por mim!{^n}{^n}*Kalista choraminga.*{^n}{^n}Por favor, você precisa me deixar sair; eu tenho que escapar deste lugar!
+Vou levar você para casa. (Abrir Portal)
+Já volto.
+Por que é que os seus pais não procuraram você?
+
+Há quanto tempo você está aqui?
+Eu... eu não sei. Vários dias.{^n}{^n}Aqui é escuro e assustador. E... e, às vezes, eu ouço coisas rastejando, mas não consigo vê-las.{^n}{^n}Gostaria muito de ir para casa agora. Eu estou com fome; muita fome...
+Vou levar você para casa. (Abrir Portal)
+Já volto.
+Alguém não deveria estar procurando você?
+
+
+Eu acho estranho que você tenha sobrevivido aqui por conta própria.
+E eu acho estranho que você esteja tão [[ms]desconfiado[fs]desconfiada]. Essa desconfiança deve ser reflexo do seu mau caráter!{^n}{^n}O seu coração está tão amargurado que você não vai ajudar uma criança perdida a encontrar o caminho de casa?{^n}{^n}Por favor, ajude-me!
+Vou levar você para casa. (Abrir Portal)
+Já volto.
+Por que é que ninguém veio procurar você?
+
+
+
+De onde você é?
+Eu moro com o papai e a mamãe num acampamento próximo daqui. Eles dizem que nós somos... Row... Nômades, mas eu não sei o que isso significa.{^n}{^n}Eu só quero ir para casa.
+Vou levar você para casa. (Abrir Portal)
+Já volto.
+Como foi que você ficou presa aqui?
+Eu desobedeci a mamãe e saí para brincar por aí. Vim parar aqui nesta caverna quando a saída colapsou atrás de mim.{^n}{^n}*Kalista choraminga ao falar.*{^n}{^n}Por favor, eu só quero ir para casa junto do papai e da mamãe. Eles moram num acampamento próximo daqui.
+É claro que eu vou ajudar você. (Abrir Portal)
+Já volto.
+
+
+
+Por que é que eles não vieram procurar você?
+Eu... eu não sei. Por que é que isso importa? Talvez eles não tenham conseguido achar este lugar embaixo de todas essas rochas.{^n}{^n}*Kalista está prestes a chorar.*{^n}{^n}Você está me assustando com todas essas perguntas. Eu só preciso sair desta prisão!
+Tudo bem, acalme-se. Vou levar você para casa. (Abrir Portal)
+Já volto.
+
+
+Tem algo estranho aqui.
+*Chamas cintilam nos olhos de Kalista.*{^n}{^n}Tire-me daqui agora!
+Você é um embusteiro, demônio. (Atacar)
+Vou poupar você, por enquanto.
+Há quanto tempo você está aqui?
+Eu... eu não sei. Vários dias.{^n}{^n}Aqui é escuro e assustador. E... e, às vezes, eu ouço coisas rastejando, mas não consigo vê-las.{^n}{^n}Gostaria muito de ir para casa agora.
+Vou levar você para casa. (Abrir Portal)
+Já volto.
+
+Alguém não deveria estar procurando você?
+
+Eu acho estranho que você tenha sobrevivido aqui por conta própria.
+E eu acho estranho que você esteja tão [[ms]desconfiado[fs]desconfiada]. Essa desconfiança deve ser reflexo do seu mau caráter!{^n}{^n}O seu coração está tão amargurado que você não vai ajudar uma criança perdida a encontrar o caminho de casa?{^n}{^n}Por favor, ajude-me!
+Vou levar você para casa. (Abrir Portal)
+Já volto.
+
+Por que é que ninguém veio procurar você?
+
+
+Uma garotinha sozinha aqui?!
+*Kalista fica séria de repente.*{^n}{^n}Eu não sou uma garotinha. Eu tenho quase isto aqui de idade.{^n}{^n}*Kalista levanta a mão com todos os dedos esticados.*{^n}{^n}Foi a mamãe quem disse.
+
+
+Há quanto tempo você está aqui?
+Eu... eu não sei. Vários dias.{^n}{^n}Aqui é escuro e assustador. E... e, às vezes, eu ouço coisas rastejando, mas não consigo vê-las.{^n}{^n}Gostaria muito de ir para casa agora. Eu estou com fome; muita fome...
+Vou levar você para casa. (Abrir Portal)
+Já volto.
+
+
+Alguém não deveria estar procurando você?
+Eu... eu não sei. Por que é que isso importa? Talvez eles não tenham conseguido achar este lugar embaixo de todas essas rochas.{^n}{^n}*Kalista está prestes a chorar.*{^n}{^n}Você está me assustando com todas essas perguntas. Eu só preciso sair desta prisão!
+Tudo bem, acalme-se. Vou levar você para casa. (Abrir Portal)
+Já volto.
+
+Eu acho estranho que você tenha sobrevivido aqui por conta própria.
+E eu acho estranho que você esteja tão [[ms]desconfiado[fs]desconfiada]. Essa desconfiança deve ser reflexo do seu mau caráter!{^n}{^n}O seu coração está tão amargurado que você não vai ajudar uma criança perdida a encontrar o caminho de casa?{^n}{^n}Por favor, ajude-me!
+Vou levar você para casa. (Abrir Portal)
+Já volto.
+
+
+
+
+
+Já volto.

@@ -1,0 +1,73 @@
+Kory, o Guardião
+Prazer, [[ms]amigo[fs]amiga]! Eu já vi você antes?... Talvez tenhamos nos encontrado... em alguma estrada por aí? Meu nome é Kory. Sou um viajante... um mercador... um guardião do desconhecido. Houve um tempo em que... bem... não importa. Já viajei para lugares distantes, sempre nas sombras.
+Interessante esse casaco que você está vestindo...
+Ah, certamente... Ele tem a marca do espadachim. Eu fui um aventureiro como você, uma vez...
+(Receber Ilusão: Casaco do Espadachim)
+Ah, certamente... Ele tem a marca do espadachim. Eu fui um aventureiro como você, uma vez...{^n}{^n}Mas você já está de posse desse item maravilhoso.
+É verdade, eu já tenho o casaco.
+*Aperto de Mão Secreto*
+*Kory sussurra.*{^n}{^n}[[ms]Bem-vindo[fs]Bem-vinda], [[ms]irmão[fs]irmã]. Vigilância eterna.
+(Receber Ilusão: Peruca Empoada)
+*Kory sussurra.*{^n}{^n}[[ms]Bem-vindo[fs]Bem-vinda], [[ms]irmão[fs]irmã]. Vigilância eterna.{^n}{^n}Mas você já está de posse desse item maravilhoso.
+É verdade, eu já tenho a peruca.
+Aceita uma bebida?
+*Kory ergue uma garrafa de Cerveja de Burrwitch.*{^n}{^n}À sua saúde!
+(Receber Item: Cerveja de Burrwitch)
+*Kory ergue uma garrafa de Cerveja de Burrwitch.*{^n}{^n}À sua saúde!{^n}{^n}Espero que goste dessa que você já tem.
+É verdade, eu já tenho a cerveja.
+O que é isso que está brilhando em seu bolso?
+Ó, isto?{^n}{^n}*Kory segura um frasco em cujo interior rodopia uma intensa luz azul.*{^n}{^n}Isto, [[ms]meu amigo[fs]minha amiga], é um Fogo-fátuo. Eles são úteis em lugares escuros.
+(Receber Item: Fogo-fátuo num Frasco)
+Ó, isto?{^n}{^n}*Kory segura um frasco em cujo interior rodopia uma intensa luz azul.*{^n}{^n}Isto, [[ms]meu amigo[fs]minha amiga], é um Fogo-fátuo. Mas você já tem o seu.
+É verdade, eu já tenho o fogo-fátuo.
+Tem alguma Medalha de Guerra?
+Eu ouso dizer que sou um veterano de guerra.{^n}{^n}Qual delas lhe interessa?
+Que tal essa dourada?
+Ah! Vejo que você é [[ms]um veterano[fs]uma veterana] das antigas guerras.{^n}{^n}Aqui, seus anos de dedicação lhe renderam esta distinção.{^n}{^n}*Kory presta continência.*
+(Receber Item: Distinção do Apoiador)
+Ah! Vejo que você é [[ms]um veterano[fs]uma veterana] das antigas guerras.{^n}{^n}*Kory presta continência.*{^n}{^n}Você certamente merece a distinção por seu serviço valoroso.
+(Prestar continência também)
+Que tal essa alaranjada?
+Ah! Também serviu nas grandes Guerras Kickstarter de 2012?{^n}{^n}Aqui, você merece.{^n}{^n}*Kory presta continência.*
+(Receber Item: Medalha de Serviço Kickstarter)
+Ah! Também serviu nas grandes Guerras Kickstarter de 2012?{^n}{^n}*Kory presta continência.*{^n}{^n}Você certamente merece essa medalha.
+(Prestar continência também)
+Que tal essa esverdeada?
+Ah! [[ms]Um veterano[fs]Uma veterana] das grandes Guerras Kickstarter de 2012?{^n}{^n}Aqui, você merece.{^n}{^n}*Kory presta continência.*
+(Receber Item: Medalha de Veterano Kickstarter)
+Ah! [[ms]Um veterano[fs]Uma veterana] das grandes Guerras Kickstarter de 2012?{^n}{^n}*Kory presta continência.*{^n}{^n}Você certamente merece essa medalha.
+(Prestar continência também)
+Que tal essa adornada com joias?
+Ah! [[ms]Um oficial[fs]Uma oficiala] das grandes Guerras Kickstarter de 2012?{^n}{^n}Aqui, você merece.{^n}{^n}*Kory presta continência.*
+(Receber Item: Medalha de Oficial Kickstarter)
+Ah! [[ms]Um oficial[fs]Uma oficiala] das grandes Guerras Kickstarter de 2012?{^n}{^n}*Kory presta continência.*{^n}{^n}Você certamente merece essa medalha.
+(Prestar continência também)
+Que belos capacetes!
+Sim, [[ms]amigo[fs]amiga], eu tenho uma boa seleção.{^n}{^n}De qual deles você mais gosta?
+Diga, o que é esse belo chapéu?
+Ora, é simplesmente o chapéu perfeito para você!
+(Receber Ilusão: Chapéu do Almirante)
+Ora, é simplesmente o chapéu perfeito para você!
+É verdade, eu já tenho um por boas razões.
+Esse elmo parece ser caro.
+Ele já foi usado por um grande general.{^n}{^n}Mas tenho certeza de que você cuidaria bem dele.
+(Receber Ilusão: Elmo do General do Sul)
+Ele já foi usado por um grande general.{^n}{^n}Mas tenho certeza de que você cuida bem dele.
+É verdade, eu já tenho esse elmo.
+Esse parece feroz.
+Ah, sim. Era da minha avó.{^n}{^n}Que os deuses deem descanso à alma dela.{^n}{^n}Cuide bem dele.
+(Receber Ilusão: Elmo Pavoroso do Pilhador)
+Ah, sim. Era da minha avó.{^n}{^n}Que os deuses deem descanso à alma dela.{^n}{^n}Eu presumo que você tenha cuidado bem dele.
+É verdade, eu já tenho esse elmo.
+Esse elmo parece inspirador.
+Eu não vejo muitos como este por estas bandas. Pertencia a um guerreiro muito habilidoso.{^n}{^n}Espero que você ganhe o direito de usá-lo.
+(Receber Ilusão: Elmo do Venerável Guerreiro)
+Eu não vejo muitos como este por estas bandas. Pertencia a um guerreiro muito habilidoso.{^n}{^n}Espero que você tenha ganhado o direito de usá-lo.
+É verdade, eu já tenho esse elmo.
+Estou [[ms]cansado[fs]cansada] dessas Ilusões.
+Não diga mais nada. Eu tenho o produto ideal para você.
+(Receber Item: Remove-ilusão)
+Então livre-se delas com o Remove-ilusão!
+É verdade, eu já tenho isso.
+Hum, certo. Adeus.
+Eu gostaria de ver os eventos no Forte Ikon novamente. (Reproduzir Introdução)

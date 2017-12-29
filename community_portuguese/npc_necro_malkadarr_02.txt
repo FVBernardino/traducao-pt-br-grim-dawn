@@ -1,0 +1,56 @@
+Malkadarr
+Batalhar mais uma vez, é tão... bom.
+Tenho algumas perguntas.
+Fale.
+Você é imortal?
+Pelo tempo que as cinzas queimarem dentro de mim ou que a Guardiã julgar necessário.
+Tenho outra pergunta.
+Adeus.
+O que é que vai acontecer agora?
+Agora nós avançamos contra o inimigo com a Legião do nosso lado.{^n}{^n}A Guardiã deseja que eu faça essa aliança durar até o fim.
+Você é escravo dela?
+Isso soa um tanto áspero, mas, de certa forma.{^n}{^n}Tudo o que a Guardiã quiser deverá ser feito.
+Por que é que você aceita isso?
+Para ter acesso aos maiores segredos da Necromancia, eu tive que concordar com esta vinculação, a fim de que nada do que eu aprendesse fosse perdido caso eu perecesse.{^n}{^n}É um preço que valeu a pena pagar; uma honra, não uma maldição.
+Você me obedece?
+*Malkadarr gargalha.*{^n}{^n}Você pode ter participado do meu retorno, mas não foi você que realizou a vinculação.
+Tenho outra pergunta.
+Entendo.
+Tenho outra pergunta.
+Um preço alto pelo conhecimento.
+Tenho outra pergunta.
+Parece ser um destino terrível.
+Tenho outra pergunta.
+Muito bom.
+Como é ser um morto-vivo?
+Que pergunta estranha. Como é estar [[ms]vivo[fs]viva]?{^n}{^n}Eu não sinto nenhuma dor, nenhuma fome, nunca me canso... As limitações dos mortais não me afligem mais.
+Tenho outra pergunta.
+Adeus.
+Deixe pra lá.
+Bem-vindo de volta, Malkadarr.
+Pela vontade da Guardiã, eu voltei.
+Quem é você?
+Eu sou Malkadarr, o primeiro círculo da Ordem.{^n}{^n}Eu estava morto, mas não estou mais. A Guardiã achou conveniente me trazer de volta a serviço da Ordem.
+Uma ressurreição? Impressionante.
+Uma ressurreição? Isso é inquietante.
+Adeus.
+Então, é a você que devo agradecer pela minha ressurreição?
+O que é que vai acontecer agora?
+A Guardiã é quem vai decidir isso. Eu estou à disposição dela.
+Você é escravo dela?
+Isso soa um tanto áspero, mas, de certa forma.{^n}{^n}Tudo o que a Guardiã quiser deverá ser feito.
+Por que é que você aceita isso?
+Para ter acesso aos maiores segredos da Necromancia, eu tive que concordar com esta vinculação, a fim de que nada do que eu aprendesse fosse perdido caso eu perecesse.{^n}{^n}É um preço que valeu a pena pagar; uma honra, não uma maldição.
+Você me obedece?
+*Malkadarr gargalha.*{^n}{^n}Você pode ter participado do meu retorno, mas não foi você que realizou a vinculação.
+Entendo.
+Um preço alto pelo conhecimento.
+Parece ser um destino terrível.
+Vou falar com ela, então.
+Bem-vindo de volta, Malkadarr.
+Pela vontade da Guardiã, eu voltei.
+Quem é você?
+Eu sou Malkadarr, o primeiro círculo da Ordem.{^n}{^n}Eu estava morto, mas não estou mais. A Guardiã achou conveniente me trazer de volta a serviço da Ordem.
+Uma ressurreição? Impressionante.
+Uma ressurreição? Isso é inquietante.
+Adeus.

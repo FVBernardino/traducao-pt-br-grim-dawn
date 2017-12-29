@@ -1,0 +1,102 @@
+Local de Defesa
+Este parece ser um bom lugar para colocar algumas defesas.{^n}{^n}As defesas só podem ser construídas enquanto a Provação estiver inativa. Depois que um local de defesa for ativado, ele não poderá ser substituído.
+Criar Foco do Frio Mortal
+Os Focos do Frio Mortal lançam orbes de gelo em inimigos distantes, retardando seu avanço, com chance de congelar, mas seu dano é relativamente baixo.{^n}{^n}(Requer 5 Tributos da Provação e 2500 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 2500 Pedaços de Ferro)
+Materiais insuficientes.
+Considerar outras opções.
+
+Como eu ganho Tributos?
+Os Tributos são a moeda da Provação, dada pelo seu Mestre àqueles que ele acha... divertidos.{^n}{^n}Você não pode ter mais de 100 Tributos por vez.
+Considerar as opções.
+Afastar-se
+Afastar-se
+Os Focos do Frio Mortal lançam orbes de gelo em inimigos distantes, retardando seu avanço, com chance de congelar, mas seu dano é relativamente baixo.{^n}{^n}(Requer 5 Tributos da Provação e 7000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 7000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Os Focos do Frio Mortal lançam orbes de gelo em inimigos distantes, retardando seu avanço, com chance de congelar, mas seu dano é relativamente baixo.{^n}{^n}(Requer 5 Tributos da Provação e 10000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 10000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Criar Foco Infernal
+Os Focos Infernais frequentemente lançam rajadas de fogo que reduzem armadura em inimigos próximos em uma grande área, mas seu alcance é limitado.{^n}{^n}(Requer 5 Tributos da Provação e 2500 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 2500 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Os Focos Infernais frequentemente lançam rajadas de fogo que reduzem armadura em inimigos próximos em uma grande área, mas seu alcance é limitado.{^n}{^n}(Requer 5 Tributos da Provação e 7000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 7000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Os Focos Infernais frequentemente lançam rajadas de fogo que reduzem armadura em inimigos próximos em uma grande área, mas seu alcance é limitado.{^n}{^n}(Requer 5 Tributos da Provação e 10000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 10000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Criar Foco Evocador de Tempestades
+Os Focos Evocadores de Tempestades ocasionalmente lançam um raio elétrico que reduz resistências em inimigos distantes, mas atingem um número limitado de alvos e atacam lentamente.{^n}{^n}(Requer 5 Tributos da Provação e 2500 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 2500 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Os Focos Evocadores de Tempestades ocasionalmente lançam um raio elétrico que reduz resistências em inimigos distantes, mas atingem um número limitado de alvos e atacam lentamente.{^n}{^n}(Requer 5 Tributos da Provação e 7000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 7000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Os Focos Evocadores de Tempestades ocasionalmente lançam um raio elétrico que reduz resistências em inimigos distantes, mas atingem um número limitado de alvos e atacam lentamente.{^n}{^n}(Requer 5 Tributos da Provação e 10000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 10000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Criar Estandarte do Muro de Pedra
+Os Estandartes do Muro de Pedra concedem defesas bônus aos jogadores próximos.{^n}{^n}(Requer 5 Tributos da Provação e 2500 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 2500 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Os Estandartes do Muro de Pedra concedem defesas bônus aos jogadores próximos.{^n}{^n}(Requer 5 Tributos da Provação e 7000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 7000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Os Estandartes do Muro de Pedra concedem defesas bônus aos jogadores próximos.{^n}{^n}(Requer 5 Tributos da Provação e 10000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 10000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Criar Estandarte da Vanguarda
+Os Estandartes da Vanguarda concedem estatísticas ofensivas bônus aos jogadores próximos.{^n}{^n}(Requer 5 Tributos da Provação e 2500 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 2500 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Os Estandartes da Vanguarda concedem estatísticas ofensivas bônus aos jogadores próximos.{^n}{^n}(Requer 5 Tributos da Provação e 7000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 7000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Os Estandartes da Vanguarda concedem estatísticas ofensivas bônus aos jogadores próximos.{^n}{^n}(Requer 5 Tributos da Provação e 10000 Pedaços de Ferro)
+Criar esta defesa (gastar 5 Tributos + 10000 Pedaços de Ferro)
+Materiais insuficientes.
+
+
+Afastar-se
+Afastar-se

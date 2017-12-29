@@ -1,0 +1,7 @@
+Local de Detonação
+Esta formação rochosa não parece ser natural. Ela deve ser o local descrito no testamento antigo.{^n}{^n}Os peões fizeram um ótimo trabalho ao encobrir o tesouro. Você pode explodir a obstrução usando explosivos potentes. As velhas minas abandonadas na Velha Arkóvia são provavelmente o melhor lugar para encontrá-los.{^n}{^n}A desobstrução requer 1 unidade de Dinamite.
+Dinamite insuficiente.
+Explodir a Obstrução.
+Sair.
+Você explodiu esta obstrução.
+Ok.

@@ -1,0 +1,65 @@
+Angrim
+Vá embora.
+Adeus.
+Nós não temos mais nada para conversar.
+Eu perdi o Malleum Menhir.
+Sim, eu o achei logo depois que você saiu. Você continua me insultando com a sua presença. Pegue-o e vá embora.
+[[ms]Obrigado[fs]Obrigada].
+Está bem.
+Por favor, faça com que Duncan use o martelo para trazer justiça para Cairn.
+Eu perdi o Malleum Menhir.
+Você deveria ter mais cuidado com ele. Martelos de forja como este são extremamente difíceis de serem igualados. Você tem sorte que eu o achei.
+Desculpe, e [[ms]obrigado[fs]obrigada]!
+O que é que você vai fazer agora?
+Assim como você, eu tenho que continuar a minha jornada. Eu vou achar uma maneira de contornar esta avalanche e depois vou procurar a Legião Negra.
+O que é a Legião Negra?
+A Legião Negra?! Os Vassalos da Morte?! Você já ouviu falar da elite do Império, certo?! Ou você vivia sob uma rocha antes do Alvorecer Sombrio?!
+Por que é que você os procura?
+Eu ouvi rumores de que alguns membros da Legião escaparam do caos que eclodiu na capital. Eu pretendo encontrá-los e ajudá-los na luta contra os invasores.
+Boa sorte na sua busca.
+Eu... hum... Deixe pra lá.
+Boa sorte.
+Certo.
+Saudações, [[ms]forasteiro[fs]forasteira]. Espero que você esteja aqui lutando com boas intenções.
+Eu estou aqui pelo Malleum Menhir.
+O que é que você sabe sobre isso?
+Duncan precisa dele para ajudar os refugiados.
+Aquele garoto tem talento. Às vezes, até eu me surpreendo com a maneira como ele imbui propriedades mágicas em seu ofício, mas eu prefiro uma espada bem afiada e um escudo robusto a essa bobagem.{^n}{^n}Duncan foi o meu melhor aprendiz, mas ele ainda precisa aprender certas prioridades. Aquelas pessoas que ele está tentando ajudar não podem nem ajudar a si mesmas. O nosso conhecimento é um dom raro. Nós não podemos desperdiçá-lo ajudando aqueles que se recusam a lutar por Cairn.
+Eu tenho um grupo no Cruzamento do Diabo. Você poderia se juntar a nós.
+Cruzamento do Diabo, hã? Você parece ser uma pessoa capaz. Se o restante do seu grupo for como você, bem... a humanidade pode ter uma chance.{^n}{^n}Está bem, eu serei seu armeiro. Juntos, nós vamos lutar contra os invasores e retomar Cairn para a humanidade!
+Pensando bem, é hora de o martelo mudar de dono.
+Eu acho que vou apenas levar o martelo.
+Vejo você no Cruzamento do Diabo. (Aliar-se a Angrim: Abrir Portal)
+É hora de o martelo mudar de dono.
+É verdade. Duncan usa uma inovadora técnica de forjadura em suas armas mágicas e se empenha muito no trabalho, mas ele ainda não tem a experiência necessária para forjar armas para soldados de verdade e mestres das lâminas.{^n}{^n}Eu não posso deixar que o poder do Malleum Menhir seja desperdiçado enquanto estivermos em guerra.
+Eu farei com que o trabalho dele seja benéfico à humanidade. (Aliar-se a Duncan)
+Você vai colocá-lo para trabalhar, hã? Você parece ser uma pessoa capaz.{^n}{^n}*Angrim suspira.*{^n}{^n}Está bem, Duncan herdará o Malleum Menhir. Leve-o para ele. Que ele faça caridade, mas depois...
+[[ms]Obrigado[fs]Obrigada]. Ele e eu faremos coisas magníficas.
+Você seria muito útil no Cruzamento do Diabo.
+Eu acho que vou levá-lo à força, então.
+
+Não importa. Eu vou levá-lo. À força, se for preciso.
+Você não está achando que eu vou simplesmente deixar que você o leve, está?
+Não tente impor resistência.
+Eu não só fabrico armas como também sei usá-las.{^n}{^n}Se você quiser o Malleum Menhir, terá que pegá-lo em cima do meu cadáver.
+Desculpe. Eu só estou tentando ajudar Duncan.
+Não me faça pedir novamente. (Aliar-se a Duncan)
+Parece que não é possível argumentar com você. Que assim seja. Tire o orgulho da minha vida de mim.{^n}{^n}Você é uma piada ambulante nestes tempos difíceis.
+Que bom que conseguimos nos entender.
+Que assim seja. (Aliar-se a Duncan: Atacar)
+Desculpe. Eu só estou tentando ajudar Duncan.
+Então eu acho que você deve morrer. (Aliar-se a Duncan: Atacar)
+O que é que você está fazendo aqui?
+O mesmo que você, suponho. Procurando o meu propósito na luta para salvar Cairn. A Legião Negra ainda está por aí e eles devem precisar de um ferreiro.
+A Legião Negra?
+A Legião Negra?! Os Vassalos da Morte?! Você já ouviu falar da elite do Império, certo?! Ou você vivia sob uma rocha antes do Alvorecer Sombrio?!
+Por que é que você os procura?
+Eu ouvi rumores de que alguns membros da Legião escaparam do caos que eclodiu na capital. Eu pretendo encontrá-los e ajudá-los na luta contra os invasores.
+
+Boa sorte na sua busca.
+
+Eu... hum... Deixe pra lá.
+
+Adeus.
+Vá embora.
+Adeus.

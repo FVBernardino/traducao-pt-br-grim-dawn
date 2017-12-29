@@ -1,0 +1,47 @@
+Velha Arkóvia
+Pagando Tributos
+Entregue o Item ou Mate o Bandido
+Alicia, de Novo Porto na Velha Arkóvia, disse que os bandidos locais estão extorquindo peixes e sucata dos moradores do vilarejo e a cota aumenta cada vez mais. Toda a sua gente está engajada na pesca e, por isso, não consegue coletar a sucata necessária. Se não entregarem sucata suficiente a Silas, seu capataz, ele, sem dúvida, executará alguém. Alicia deixou bem claro que você não deve fazer nenhum mal a Silas, pois ela teme represálias. Ela pediu a você que coletasse a sucata que faltava em nome dos moradores do vilarejo. Os bandidos têm um reduto sobre as Quatro Colinas e lá deve haver sucata.
+Colete Sucata
+Entregue a Sucata a Silas em Novo Porto
+Retorne
+Você entregou a sucata a Silas, garantindo que Novo Porto não sofrerá com a ira dos bandidos. Você deve informar Alicia de que Silas está satisfeito.
+Retorne até Alicia em Novo Porto
+
+
+
+
+
+Retorno Após Suborno
+Você subornou Silas e, por isso, ele deve deixar Novo Porto em paz. Você deve informar Alicia de que os bandidos não serão mais um problema.
+
+Retorne até Alicia em Novo Porto
+
+
+
+
+
+Mate Silas
+Você optou por matar Silas e não perpetuar a extorsão que acontece em Novo Porto. Mate Silas e coloque fim à sua tirania sobre os pescadores.
+
+
+Mate Silas
+
+Silas Está Morto
+Você matou Silas, libertando Novo Porto da influência dos bandidos. Você deve informar Alicia sobre o acontecido.
+Retorne até Alicia em Novo Porto
+
+
+
+
+
+
+Silas Fugiu
+Você matou Cronley e dispersou sua gangue. Silas fugiu antes que você tivesse a chance de confrontá-lo. Converse com Alicia e dê-lhe as boas novas.
+
+Retorne até Alicia em Novo Porto
+
+
+
+
+

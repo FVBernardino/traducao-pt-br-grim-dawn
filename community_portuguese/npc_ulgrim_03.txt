@@ -1,0 +1,145 @@
+Ulgrim
+Saia daqui. As minhas espadas estão sedentas de sangue de troll, mas ficarão satisfeitas com o seu.
+Tudo bem, estou indo.
+E então, o quão condenados estamos?
+Eu assegurei o caminho via portal.
+Bom trabalho. Não posso dizer que gostei da minha primeira viagem de portal, mas certamente é melhor do que a alternativa.
+Vejo todos vocês na Herdade. (Abrir Portal)
+Agora que chegamos a esse ponto, não posso dizer que estou ansioso para experienciar uma viagem de portal. Espero que você saiba o que está fazendo.
+Vejo todos vocês na Herdade. (Abrir Portal)
+Espero que a sua jornada para a Herdade esteja indo bem.
+Você pode repetir aonde eu devo ir?
+A velha rota através das minas está bloqueada, cortesia dos Etéreos. Você vai precisar entrar nas Profundezas da Montanha perto daqui e encontrar uma saída para a Trilha do Garimpeiro. Continue na direção norte e você acabará encontrando a Herdade. Não tem erro.
+Tudo bem. Estou partindo, então.
+Vou levá-los a um lugar seguro em breve.
+Vejam só, se não é [[ms]o meu velho amigo[fs]a minha velha amiga] do Cruzamento do Diabo! Eu tinha a sensação de que você iria passar por aqui.
+Ulgrim?! O que é que você está fazendo aqui?
+Eu não fui totalmente honesto com você. Eu não sou um cozinheiro, pelo menos não por profissão, embora talvez tivesse sido um caminho melhor...{^n}{^n}Na verdade, eu sou um assassino e antigo Primeiro Lâmina do Imperador Erulano. Era um título que eu nem sempre me orgulhava de ter, já que a minha linha de trabalho não era sempre virtuosa, mas eu lidei com ameaças ao império. Agora a humanidade inteira está ameaçada por inimigos mais letais do que qualquer outra coisa que já enfrentamos. É, no entanto, um momento em que eu posso usar os meus talentos para um propósito mais nobre.{^n}{^n}Você também não foi totalmente [[ms]honesto[fs]honesta] comigo, [[ms]"Possesso"[fs]"Possessa"], mas não se preocupe, eu sou o guardião de muitos segredos.
+
+Por que você se juntou a mim no Cruzamento do Diabo só para partir novamente?
+O meu trabalho era explorar o interior, obter detalhes das fortalezas inimigas e investigar fraquezas.{^n}{^n}A sua menção às pessoas sobrevivendo no Cruzamento do Diabo foi intrigante, então eu quis ver por mim mesmo. Tendo aprendido tudo o que podia sobre a área, senti que era hora de voltar para os meus homens na Herdade.
+Seus homens?
+Não posso dizer que gosto mais do que eles, mas estou trabalhando junto com a Legião Negra. Eles são tudo o que resta das forças do império.
+
+
+
+Parece que você tem tudo sob controle.
+
+
+
+Primeiro Lâmina do Imperador?
+Olhe, eu sei que você tem muitas perguntas, mas agora não é o momento.{^n}{^n}Precisamos levar essas pessoas para a Herdade.
+
+
+
+Então como eu posso ajudar?
+Eu me deparei com esses refugiados na Passagem do Contrabandista. Eles estavam aprisionados e logo iriam se tornar comida ou entretenimento para os trolls. Eu tinha que fazer alguma coisa. Agora estamos presos aqui, em meio a uma batalha entre os trolls e as forças dos Etéreos.{^n}{^n}O túnel para a Herdade está bloqueado por fogo etéreo e a única opção agora é uma passagem através das Profundezas da Montanha. Trata-se de um lugar horrendo no fundo do mundo, infestado por toda sorte de coisas terríveis que odeiam o sol.{^n}{^n}Não há como essas pessoas sobreviverem lá embaixo. No Cruzamento do Diabo, eu vi que você tinha o poder de abrir portais. Preciso que você abra caminho até a Herdade, assegure um portal e volte até nós.{^n}{^n}Então, por favor, ajude essas pessoas. Mais abaixo há uma entrada para as Profundezas. De lá você vai chegar à Estrada Poeirenta, a qual vai [[ms]levá-lo[fs]levá-la] à Herdade. Seja [[ms]rápido[fs]rápida]! Eu não sei por quanto tempo vou conseguir manter os trolls afastados antes que eles venham com força total.
+Vou encontrar um caminho para a Herdade.
+Sinto muito. Não posso fazer isso.
+Eu já estive lá. Posso levá-los até lá via portal.
+
+
+Então [[ms]o[fs]a] [[ms]"Possesso"[fs]"Possessa"] voltou. [[ms]Pronto[fs]Pronta] para dar uma mãozinha ou você ainda não "confia" em mim?
+
+Qual é a situação aqui?
+Eu não fui totalmente honesto com você. Eu não sou um cozinheiro, pelo menos não por profissão, embora talvez tivesse sido um caminho melhor...{^n}{^n}Na verdade, eu sou um assassino e antigo Primeiro Lâmina do Imperador Erulano. Era um título que eu nem sempre me orgulhava de ter, já que a minha linha de trabalho não era sempre virtuosa, mas eu lidei com ameaças ao império. Agora a humanidade inteira está ameaçada por inimigos mais letais do que qualquer outra coisa que já enfrentamos. É, no entanto, um momento em que eu posso usar os meus talentos para um propósito mais nobre.{^n}{^n}Mas você também não foi totalmente [[ms]honesto[fs]honesta] comigo, [[ms]"Possesso"[fs]"Possessa"].
+
+
+
+Qual é a situação aqui?
+Eu me deparei com esses refugiados na Passagem do Contrabandista. Eles estavam aprisionados e logo iriam se tornar comida ou entretenimento para os trolls. Eu tinha que fazer alguma coisa. Agora estamos presos aqui, em meio a uma batalha entre os trolls e as forças dos Etéreos.{^n}{^n}O túnel para a Herdade está bloqueado por fogo etéreo e a única opção agora é uma passagem através das Profundezas da Montanha. Trata-se de um lugar horrendo no fundo do mundo, infestado por toda sorte de coisas terríveis que odeiam o sol.{^n}{^n}Não há como essas pessoas sobreviverem lá embaixo. No Cruzamento do Diabo, eu vi que você tinha o poder de abrir portais. Preciso que você abra caminho até a Herdade, assegure um portal e volte até nós.{^n}{^n}Então, por favor, ajude essas pessoas. Mais abaixo há uma entrada para as Profundezas. De lá você vai chegar à Estrada Poeirenta, a qual vai [[ms]levá-lo[fs]levá-la] à Herdade. Seja [[ms]rápido[fs]rápida]! Eu não sei por quanto tempo vou conseguir manter os trolls afastados antes que eles venham com força total.
+Vou encontrar um caminho para a Herdade.
+Sinto muito. Não posso fazer isso.
+Eu já estive lá. Posso levá-los até lá via portal.
+
+Não é problema meu.
+Então [[ms]o[fs]a] [[ms]"Possesso"[fs]"Possessa"] voltou. [[ms]Pronto[fs]Pronta] para dar uma mãozinha?
+
+Qual é a situação aqui?
+Eu me deparei com esses refugiados na Passagem do Contrabandista. Eles estavam aprisionados e logo iriam se tornar comida ou entretenimento para os trolls. Eu tinha que fazer alguma coisa. Agora estamos presos aqui, em meio a uma batalha entre os trolls e as forças dos Etéreos.{^n}{^n}O túnel para a Herdade está bloqueado por fogo etéreo e a única opção agora é uma passagem através das Profundezas da Montanha. Trata-se de um lugar horrendo no fundo do mundo, infestado por toda sorte de coisas terríveis que odeiam o sol.{^n}{^n}Não há como essas pessoas sobreviverem lá embaixo. No Cruzamento do Diabo, eu vi que você tinha o poder de abrir portais. Preciso que você abra caminho até a Herdade, assegure um portal e volte até nós.{^n}{^n}Então, por favor, ajude essas pessoas. Mais abaixo há uma entrada para as Profundezas. De lá você vai chegar à Estrada Poeirenta, a qual vai [[ms]levá-lo[fs]levá-la] à Herdade. Seja [[ms]rápido[fs]rápida]! Eu não sei por quanto tempo vou conseguir manter os trolls afastados antes que eles venham com força total.
+Vou encontrar um caminho para a Herdade.
+Sinto muito. Não posso fazer isso.
+Eu já estive lá. Posso levá-los até lá via portal.
+
+Adeus.
+Vejam só, se não é [[ms]o meu velho amigo[fs]a minha velha amiga] do Cruzamento do Diabo! Eu tinha a sensação de que você iria passar por aqui.
+Ulgrim?! O que é que você está fazendo aqui?
+
+Eu não fui totalmente honesto com você. Eu não sou um cozinheiro, pelo menos não por profissão, embora talvez tivesse sido um caminho melhor...{^n}{^n}Na verdade, eu sou um assassino e antigo Primeiro Lâmina do Imperador Erulano. Era um título que eu nem sempre me orgulhava de ter, já que a minha linha de trabalho não era sempre virtuosa, mas eu lidei com ameaças ao império. Agora a humanidade inteira está ameaçada por inimigos mais letais do que qualquer outra coisa que já enfrentamos. É, no entanto, um momento em que eu posso usar os meus talentos para um propósito mais nobre.{^n}{^n}Você também não foi totalmente [[ms]honesto[fs]honesta] comigo, [[ms]"Possesso"[fs]"Possessa"], mas não se preocupe, eu sou o guardião de muitos segredos.
+De que você me chamou?
+De [[ms]"Possesso"[fs]"Possessa"]. Bem, agora não mais, do ponto de vista semântico. O Etéreo deixou o seu corpo um pouco antes de você ser [[ms]enforcado[fs]enforcada], não foi?
+Como é que você sabe tudo isso?
+Modéstia à parte, as minhas fontes são muito boas. Mas você confiou em mim, e agora eu vou confiar em você.
+
+
+
+Eu não sei se ainda posso confiar em você.
+
+
+
+
+Então como eu posso ajudar?
+Eu me deparei com esses refugiados na Passagem do Contrabandista. Eles estavam aprisionados e logo iriam se tornar comida ou entretenimento para os trolls. Eu tinha que fazer alguma coisa. Agora estamos presos aqui, em meio a uma batalha entre os trolls e as forças dos Etéreos.{^n}{^n}O túnel para a Herdade está bloqueado por fogo etéreo e a única opção agora é uma passagem através das Profundezas da Montanha. Trata-se de um lugar horrendo no fundo do mundo, infestado por toda sorte de coisas terríveis que odeiam o sol.{^n}{^n}Não há como essas pessoas sobreviverem lá embaixo. No Cruzamento do Diabo, eu vi que você tinha o poder de abrir portais. Preciso que você abra caminho até a Herdade, assegure um portal e volte até nós.{^n}{^n}Então, por favor, ajude essas pessoas. Mais abaixo há uma entrada para as Profundezas. De lá você vai chegar à Estrada Poeirenta, a qual vai [[ms]levá-lo[fs]levá-la] à Herdade. Seja [[ms]rápido[fs]rápida]! Eu não sei por quanto tempo vou conseguir manter os trolls afastados antes que eles venham com força total.
+Vou encontrar um caminho para a Herdade.
+Sinto muito. Não posso fazer isso.
+Eu já estive lá. Posso levá-los até lá via portal.
+
+Como você sabia que eu viria aqui?
+Você parece querer ajudar o pessoal do Cruzamento do Diabo. Eles vão ficar sem comida em breve.{^n}{^n}Se eu fosse procurar uma nova fonte de comida, viria aqui também.
+O que é que você está fazendo aqui?
+Então nos encontramos novamente. Não sei se você se lembra, mas nós nos cruzamos nos arredores de Burrwitch.{^n}{^n}Eu imaginei que alguém teria que passar por aqui mais cedo ou mais tarde. Não é nenhum segredo que as pessoas no Cruzamento do Diabo precisam de comida e a Herdade é a escolha lógica.
+Como foi que você veio parar aqui?
+Eu não fui totalmente honesto com você. Eu não sou um cozinheiro, pelo menos não por profissão, embora talvez tivesse sido um caminho melhor...{^n}{^n}Na verdade, eu sou um assassino e antigo Primeiro Lâmina do Imperador Erulano. Era um título que eu nem sempre me orgulhava de ter, já que a minha linha de trabalho não era sempre virtuosa, mas eu lidei com ameaças ao império. Agora a humanidade inteira está ameaçada por inimigos mais letais do que qualquer outra coisa que já enfrentamos. É, no entanto, um momento em que eu posso usar os meus talentos para um propósito mais nobre.{^n}{^n}Mas você também não foi totalmente [[ms]honesto[fs]honesta] comigo, [[ms]"Possesso"[fs]"Possessa"].
+De que você me chamou?
+De [[ms]"Possesso"[fs]"Possessa"]. Bem, agora não mais, do ponto de vista semântico. O Etéreo deixou o seu corpo um pouco antes de você ser [[ms]enforcado[fs]enforcada], não foi?
+Como é que você sabe tudo isso?
+Eu sei que você fez uma grande bagunça no esconderijo de Cronley. Não que ele não merecesse. Aquele cara era um bastardo maluco e mereceu tudo o que aconteceu com ele.{^n}{^n}Eu também sei dos seus atos heroicos lá em Burrwitch. O Carcereiro Krieg quase derrotou um dos inquisidores mais poderosos que eu já conheci, mas você foi capaz de vencê-lo.{^n}{^n}Modéstia à parte, as minhas fontes são muito boas.
+Você realmente sabe muito sobre mim.
+Faz parte do ofício. Mas deixemos isso para depois. Agora que você chegou, talvez possamos finalmente sair deste pequeno apuro.
+
+Não quero participar disso.
+Eu sei dos seus atos heroicos lá em Burrwitch. O Carcereiro Krieg quase derrotou um dos inquisidores mais poderosos que eu já conheci, mas você foi capaz de vencê-lo.{^n}{^n}E você ainda passou por Arkóvia sem se importar com as atividades de Cronley. Intencional? Eu preciso ponderar mais sobre isso.{^n}{^n}Modéstia à parte, as minhas fontes são muito boas.
+
+Eu sei que você teve que lutar contra feras e Etéreos para chegar aqui, mas você ainda se recusa a enfrentar os verdadeiros demônios do mundo.{^n}{^n}Modéstia à parte, as minhas fontes são muito boas.
+
+Eu sei que você teve que lutar contra feras e Etéreos para chegar aqui, mas você ainda se recusa a enfrentar os verdadeiros demônios do mundo.{^n}{^n}Modéstia à parte, as minhas fontes são muito boas.
+
+Primeiro Lâmina do Imperador?
+Olhe, eu sei que você tem muitas perguntas, mas agora não é o momento.{^n}{^n}Precisamos levar essas pessoas para a Herdade.
+
+Parece que você tem tudo sob controle.
+Como eu posso ajudar?
+Eu me deparei com esses refugiados na Passagem do Contrabandista. Eles estavam aprisionados e logo iriam se tornar comida ou entretenimento para os trolls. Eu tinha que fazer alguma coisa. Agora estamos presos aqui, em meio a uma batalha entre os trolls e as forças dos Etéreos.{^n}{^n}O túnel para a Herdade está bloqueado por fogo etéreo e a única opção agora é uma passagem através das Profundezas da Montanha. Trata-se de um lugar horrendo no fundo do mundo, infestado por toda sorte de coisas terríveis que odeiam o sol.{^n}{^n}Não há como essas pessoas sobreviverem lá embaixo. No Cruzamento do Diabo, eu vi que você tinha o poder de abrir portais. Preciso que você abra caminho até a Herdade, assegure um portal e volte até nós.{^n}{^n}Então, por favor, ajude essas pessoas. Mais abaixo há uma entrada para as Profundezas. De lá você vai chegar à Estrada Poeirenta, a qual vai [[ms]levá-lo[fs]levá-la] à Herdade. Seja [[ms]rápido[fs]rápida]! Eu não sei por quanto tempo vou conseguir manter os trolls afastados antes que eles venham com força total.
+Vou encontrar um caminho para a Herdade.
+Sinto muito. Não posso fazer isso.
+Eu já estive lá. Posso levá-los até lá via portal.
+
+Como você sabia que eu iria passar por aqui?
+Saudações, [[ms]"Possesso"[fs]"Possessa"]. Eu tinha a sensação de que você iria passar por aqui mais cedo ou mais tarde. Você tem um dom para ir aonde a morte é mais presente.
+De que você me chamou?
+De [[ms]"Possesso"[fs]"Possessa"]. Bem, agora não mais, do ponto de vista semântico. O Etéreo deixou o seu corpo um pouco antes de você ser [[ms]enforcado[fs]enforcada], não foi?
+Como é que você sabe tudo isso?
+Eu sei que você fez uma grande bagunça no esconderijo de Cronley. Não que ele não merecesse. Aquele cara era um bastardo maluco e mereceu tudo o que aconteceu com ele.{^n}{^n}Eu também sei dos seus atos heroicos lá em Burrwitch. O Carcereiro Krieg quase derrotou um dos inquisidores mais poderosos que eu já conheci, mas você foi capaz de vencê-lo.{^n}{^n}Modéstia à parte, as minhas fontes são muito boas.
+Você realmente sabe muito sobre mim.
+Faz parte do ofício. Ó, mas onde estão os meus modos?! Meu nome é Ulgrim, Primeiro Lâmina do Imperador, ao seu dispor.{^n}{^n}Agora que você chegou, talvez possamos finalmente sair deste pequeno apuro.
+
+Primeiro Lâmina do Imperador?
+Olhe, eu sei que você tem muitas perguntas, mas agora não é o momento.{^n}{^n}Precisamos levar essas pessoas para a Herdade.
+
+Não estou nem aí.
+Eu sei dos seus atos heroicos lá em Burrwitch. O Carcereiro Krieg quase derrotou um dos inquisidores mais poderosos que eu já conheci, mas você foi capaz de vencê-lo.{^n}{^n}E você ainda passou por Arkóvia sem se importar com as atividades de Cronley. Intencional? Eu preciso ponderar mais sobre isso.{^n}{^n}Modéstia à parte, as minhas fontes são muito boas.
+
+Eu sei que você teve que lutar contra feras e Etéreos para chegar aqui, mas você ainda se recusa a enfrentar os verdadeiros demônios do mundo.{^n}{^n}Modéstia à parte, as minhas fontes são muito boas.
+
+Eu sei que você teve que lutar contra feras e Etéreos para chegar aqui, mas você ainda se recusa a enfrentar os verdadeiros demônios do mundo.{^n}{^n}Modéstia à parte, as minhas fontes são muito boas.
+
+Como eu posso ajudar?
+Eu me deparei com esses refugiados na Passagem do Contrabandista. Eles estavam aprisionados e logo iriam se tornar comida ou entretenimento para os trolls. Eu tinha que fazer alguma coisa. Agora estamos presos aqui, em meio a uma batalha entre os trolls e as forças dos Etéreos.{^n}{^n}O túnel para a Herdade está bloqueado por fogo etéreo e a única opção agora é uma passagem através das Profundezas da Montanha. Trata-se de um lugar horrendo no fundo do mundo, infestado por toda sorte de coisas terríveis que odeiam o sol.{^n}{^n}Não há como essas pessoas sobreviverem lá embaixo. No Cruzamento do Diabo, eu vi que você tinha o poder de abrir portais. Preciso que você abra caminho até a Herdade, assegure um portal e volte até nós.{^n}{^n}Então, por favor, ajude essas pessoas. Mais abaixo há uma entrada para as Profundezas. De lá você vai chegar à Estrada Poeirenta, a qual vai [[ms]levá-lo[fs]levá-la] à Herdade. Seja [[ms]rápido[fs]rápida]! Eu não sei por quanto tempo vou conseguir manter os trolls afastados antes que eles venham com força total.
+Vou encontrar um caminho para a Herdade.
+Sinto muito. Não posso fazer isso.
+Eu já estive lá. Posso levá-los até lá via portal.
+
+Vejam só, se não é [[ms]o meu[fs]a minha] melhor [[ms]amigo[fs]amiga] do Cruzamento do Diabo!{^n}{^n}Como você pode ver, nós estamos com um probleminha aqui, mas eu tenho tudo sob controle. Por enquanto...
+Boa sorte.
+Saia daqui. As minhas espadas estão sedentas de sangue de troll, mas ficarão satisfeitas com o seu.
+Tudo bem, estou indo.

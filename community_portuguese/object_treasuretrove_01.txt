@@ -1,0 +1,7 @@
+Tesouro
+Este baú está trancado com correntes grossas.{^n}{^n}Sua abertura requer 1 unidade de Dinamite.
+Dinamite insuficiente.
+Abrir o baú.
+Sair.
+Você abriu este baú.
+Ok.

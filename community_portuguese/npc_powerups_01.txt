@@ -1,0 +1,32 @@
+Torralia, a Arquimaga Imortal
+Meu mestre me informou que devo lhe oferecer meus serviços.{^n}{^n}Mas eu não trabalho de graça. Traga-me quaisquer Tributos que você ganhar aqui e eu vou lhe conceder Bênçãos Celestiais.
+Quais são as minhas opções?
+Há quatro Bênçãos à sua disposição:{^n}- A Bênção de Ulo [[ms]o[fs]a] protege contra efeitos de duração e de controle.{^n}- A Orientação de Empyrion lhe concede uma fortitude inigualável.{^n}- O Poder de Amatok [[ms]o[fs]a] torna mais [[ms]poderoso[fs]poderosa].{^n}- O Pacto de Ulzuin acelera suas habilidades.{^n}{^n}Qual delas vai ser?
+Ganhar a Bênção de Ulo (12 Tributos)
+Ganhar a Orientação de Empyrion (12 Tributos)
+Ganhar o Poder de Amatok (12 Tributos)
+Ganhar o Pacto de Ulzuin (12 Tributos)
+Moeda Insuficiente (São necessários 12 Tributos)
+
+O que são os Tributos?
+Os Tributos são a moeda da Provação.{^n}{^n}Ganhe o favor do nosso mestre e você será [[ms]recompensado[fs]recompensada] com Tributos baseados no seu desempenho.
+
+Entendo.
+Quero provar minha Devoção.
+Você só precisa olhar para o céu para testemunhar o poder incompreensível que nos rodeia.{^n}{^n}Pague Tributo aos deuses e talvez eles lhe demonstrem misericórdia.{^n}{^n}(Torralia trocará seus Tributos por Pontos de Devoção)
+Meu Tributo aos deuses. (3 Tributos)
+Moeda Insuficiente (São necessários 3 Tributos)
+Deixe pra lá.
+Meu Tributo aos deuses. (5 Tributos)
+Moeda Insuficiente (São necessários 5 Tributos)
+Deixe pra lá.
+Meu Tributo aos deuses. (10 Tributos)
+Moeda Insuficiente (São necessários 10 Tributos)
+Deixe pra lá.
+Meu Tributo aos deuses. (18 Tributos)
+Moeda Insuficiente (São necessários 18 Tributos)
+Deixe pra lá.
+Meu Tributo aos deuses. (30 Tributos)
+Moeda Insuficiente (São necessários 30 Tributos)
+Deixe pra lá.
+Agora não.

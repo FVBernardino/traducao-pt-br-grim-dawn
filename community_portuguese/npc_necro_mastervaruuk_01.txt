@@ -1,0 +1,105 @@
+Mestre Varuuk
+Que o espectro da morte proteja o seu caminho.
+Adeus.
+É doloroso ouvir que, depois de chegarmos tão perto de reencontrar nosso mestre, essa esperança virou frustração.
+Um dia nós vamos encontrar Uroboruuk.
+O mestre de vocês não quer ser encontrado.
+Malkadarr foi devolvido para nós.{^n}{^n}Tudo graças a você. A Ordem estava certa em confiar em você.
+É uma aliança proveitosa.
+Que o espectro da morte proteja o seu caminho.
+Qual é a função da Guardiã?
+Adeus.
+Eu não quero nada com você enquanto você se envolver com gente que se alia aos Escolhidos de Kymon.
+Adeus.
+Que o espectro da morte proteja o seu caminho.
+Adeus.
+Você lidou com Noveria?
+Eu recolhi a essência dela.
+Excelente trabalho. Eu estava preocupado com a possibilidade de ela ser poderosa demais para você, mas você provou ser bastante [[ms]engenhoso[fs]engenhosa].{^n}{^n}Nós só precisamos de mais uma coisa para trazer Malkadarr de volta, mas não cabe a mim discutir isso. Quando puder, fale com a Guardiã. Ela lhe contará os detalhes.
+A Guardiã?
+A Guardiã dos Tomos. Ela é a guardiã do conhecimento da Ordem. Ela se tornou a líder de facto da Ordem após o desaparecimento de Uroboruuk.
+Uroboruuk desapareceu?
+Sim, infelizmente nosso mestre nos deixou há muitos anos. Com que finalidade, nós não sabemos.{^n}{^n}Ele não nos deixou nenhuma informação a respeito da sua partida, tampouco tentou contatar alguém da Ordem.
+Alguém foi atrás dele?
+Sim, uns quantos. Alguns nunca mais voltaram. Devem ter morrido ou ainda estão procurando.{^n}{^n}Antes do Alvorecer Sombrio, nossos talentosos acólitos saíam mundo afora por um ano a fim de procurar nosso mestre. Era uma espécie de rito de passagem.
+Talvez ele volte um dia.
+Entendo.
+Vou falar com ela.
+Vou fazer isso.
+Você lidou com Noveria?
+Onde eu devo procurar?
+Viaje para o norte, perto do Forte Haron. Procure a Pedreira Quebrarrocha; é uma área cheia de Fogo Etéreo. Rastreie uma Etérea chamada Noveria Tempesfogo. Ela já foi uma grande feiticeira, mas agora é apenas um joguete dos Etéreos.{^n}{^n}Destrua Noveria e recolha a essência dela.
+Vou fazer isso.
+Ainda não.
+O Rito da Ressurreição requer encantamentos poderosos, e uma fonte igualmente poderosa de energia.{^n}{^n}Sem uma fonte de energia, o ritual acabaria drenando os participantes e deixando-os como carcaças ressequidas.
+Como podemos evitar isso?
+Os Etéreos são uma manifestação do próprio Éter, uma fonte de pura energia arcana. Quanto mais poderoso o Etéreo, maior a intensidade com que o espírito dele vai arder no ritual.{^n}{^n}Ao norte, perto do Forte Haron, há uma mina chamada Pedreira Quebrarrocha. Ela ficou cheia de Fogo Etéreo e é uma das frentes dos Etéreos nesta região. Viaje para lá e rastreie uma Etérea chamada Noveria Tempesfogo. Ela já foi uma grande feiticeira, mas agora é apenas um joguete dos Etéreos. Eu vou lhe conceder uma dádiva da Ordem para ajudar a combater a aptidão arcana de Noveria e a conter a essência dela. Destrua Noveria em nome da Ordem!
+Vou recolher a essência.
+Não vou entrar naquele buraco dos infernos.
+Eu já fiz isso com a ajuda de outrem.
+
+Vou voltar mais tarde.
+Você recolheu os Selos Ctônicos?
+São estes os Selos que você procura?
+Sim, estes Selos parecem estar em ótimo estado. Eles serão muito úteis para trazer Malkadarr de volta a este mundo.{^n}{^n}Agora nós precisamos de uma fonte de poder arcano. Estou com ela bem aqui na minha mente.
+O que é que vem agora?
+
+Há outros assuntos que requerem a minha atenção.
+Você recolheu os Selos Ctônicos?
+Onde eu devo procurar?
+O Culto de Ch'thon usa os Selos em seus rituais de evocação. Quanto mais poderoso o membro, maior a probabilidade de ele carregar um.{^n}{^n}Cace os cultistas no Bosque Sangrento e além. Em seguida, retorne até mim com os Selos.
+Isso vai ser feito.
+Ainda não.
+O Culto de Ch'thon tem experiência em rituais de evocação, algo que podemos usar a nosso favor.{^n}{^n}Nós vamos tomar do Culto o que precisamos e incapacitá-los no processo. [[ms]Interessado[fs]Interessada]?
+Continue.
+O Culto usa Selos Ctônicos de Vinculação para manter os portais no Vazio. Muitos dos seus membros mais poderosos carregam sempre esses Selos consigo.{^n}{^n}Caso esses Selos sejam negados ao Culto, seus rituais serão desestabilizados, negando-lhes reforços valiosos.{^n}{^n}A perda deles é o nosso ganho. Traga-me os Selos e vou usá-los para estabilizar o nosso próprio ritual.
+Vou recolher os Selos.
+Encontre outra pessoa.
+São estes os Selos que você procura?
+
+Talvez em outra ocasião.
+Você fez como eu lhe pedi, [[ms]iniciado[fs]iniciada]?
+Sim, eu tenho os restos mortais.
+Você entrou num antro de desespero e saiu [[ms]ileso[fs]ilesa]. Impressionante.{^n}{^n}Talvez você seja realmente [[ms]digno[fs]digna] da Ordem. Se estiver [[ms]interessado[fs]interessada], a próxima tarefa é tanto uma oportunidade para atacar os inimigos da Legião quanto para ajudar na nossa causa.
+O que é?
+
+Talvez em outra ocasião.
+Você fez como eu lhe pedi, [[ms]iniciado[fs]iniciada]?
+Onde eu devo procurar os restos mortais?
+O culto tem vários acampamentos espalhados pelo Bosque Sangrento.{^n}{^n}Qualquer um deles poderia ser o lugar onde Malkadarr foi capturado.
+Eu vou procurar.
+Ainda não.
+Se você deseja lutar ao lado da Ordem da Vigília da Morte, primeiro deve nos provar seu valor.{^n}{^n}Mostre-nos que você não tem medo da morte e vamos lhe mostrar os segredos dela.
+O que é que eu devo fazer?
+Malkadarr, o nosso membro mais proeminente depois da Guardiã, foi morto recentemente numa emboscada dos Ctônicos. Seus restos mortais estão agora na posse dos cultistas, em algum lugar no Bosque Sangrento.{^n}{^n}Nós não podemos perder uma mente como Malkadarr. A Guardiã apelou para que o Rito da Ressurreição fosse executado no venerado necromante.{^n}{^n}Cabe a você, [[ms]meu iniciado[fs]minha iniciada] aspirante, aventurar-se no Bosque Sangrento e recuperar os restos mortais de Malkadarr.
+Vou recuperar os restos mortais.
+Esqueça. Parece ser suicídio.
+Eu já recuperei os restos mortais.
+Você entrou naquele antro de desespero sem ter nenhum motivo? Impressionante.{^n}{^n}Talvez você seja realmente [[ms]digno[fs]digna] da Ordem. Se estiver [[ms]interessado[fs]interessada], a próxima tarefa é tanto uma oportunidade para atacar os inimigos da Legião quanto para ajudar na nossa causa.
+O que é?
+
+Talvez mais tarde.
+O que é o Rito da Ressurreição?
+É um ritual sagrado realizado em tempos difíceis para trazer de volta um membro falecido da Ordem. Eu não estou falando de ressurreição em sentido literal. Malkadarr não voltará à sua forma mortal. Em vez disso, ele continuará a servir à Ordem como um fantasma, um retornado.{^n}{^n}Posso contar com você para recuperar o que sobrou dele?
+Vou recuperar os restos mortais.
+Esqueça. Parece ser suicídio.
+
+Vou voltar mais tarde para discutir isso.
+Eu não tinha ideia de que a Legião Negra trabalhava com a nossa laia.{^n}{^n}Venha, venha, há muito a ser feito.
+
+Quando me disseram que estávamos esperando alguém da Legião Negra, eu não imaginava que Haruuv enviaria [[ms]um inquisidor[fs]uma inquisidora].{^n}{^n}Diga-me, [[ms]inquisidor[fs]inquisidora], por que deveríamos confiar em você?
+Todos estamos lutando pela humanidade.
+É verdade, [[ms]inquisidor[fs]inquisidora].{^n}{^n}Que assim seja, nós lhe daremos uma chance.
+
+Eu quero unir a humanidade contra o verdadeiro inimigo.
+É um objetivo nobre, mas qual é o preço que você está [[ms]disposto[fs]disposta] a pagar por tais aspirações?{^n}{^n}Que assim seja, [[ms]inquisidor[fs]inquisidora], nós lhe daremos uma chance.
+
+Você deve ser [[ms]o[fs]a] representante da Legião Negra.{^n}{^n}Venha, venha, há muito a ser feito.
+Você queria falar comigo?
+
+[[ms]Bem-vindo[fs]Bem-vinda] a este santuário.{^n}{^n}Aqui você encontrará a paz para expandir seu conhecimento e buscar o que sua alma procura.
+Adeus.
+Não tente nenhum dos seus truques enquanto estiver aqui, [[ms]inquisidor[fs]inquisidora], ou sua recepção durará pouco.
+Adeus.
+Que o espectro da morte proteja o seu caminho.
+Adeus.

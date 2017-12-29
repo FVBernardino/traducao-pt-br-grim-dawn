@@ -1,0 +1,65 @@
+Alicia
+Por favor, vá embora. Não temos nada para lhe oferecer.
+Estou só de passagem. Adeus.
+Você entregou a sucata a Silas?
+Eu o subornei para que ele deixasse vocês em paz.
+Obrigada! Eu nunca imaginei que um dia seríamos libertos dessa opressão, mas parece que a lealdade de Silas podia ser comprada. Por favor, pegue a sucata que coletamos para o tributo. É o mínimo que podemos fazer.
+[[ms]Obrigado[fs]Obrigada].
+Você entregou a sucata a Silas?
+Sim. Ele parecia satisfeito.
+Obrigada! Esta situação pode não ser a ideal, mas, enquanto estivermos fornecendo peixes e sucata a eles, eles nos deixarão em paz.
+Gostaria de poder fazer mais.
+Receio que este seja o nosso destino. Pelo menos eles mantêm a área livre de feras. Adeus, [[ms]forasteiro[fs]forasteira]. E obrigada novamente.
+De nada. Cuide-se.
+Boa sorte. Adeus.
+Sim. Ele parecia satisfeito.
+Obrigada! Ele fugiu logo após ouvir a notícia da morte de Cronley. Acho que ele teve um último tributo.
+De nada. Cuide-se.
+Estamos, finalmente, livres da opressão de Cronley. Tudo graças a você.
+Fico feliz por ter ajudado.
+A notícia da morte de Cronley se espalhou rapidamente. Nosso capataz, Silas, fugiu assim que ele ouviu. Estamos, finalmente, livres da opressão de Cronley. Tudo graças a você!
+Eles não devem mais incomodar vocês.
+Eu não sei como podemos recompensar você, mas, por favor, aceite esta sucata. Era para o nosso próximo tributo a Silas, mas agora não precisamos mais dela.
+[[ms]Obrigado[fs]Obrigada].
+Eles não devem mais incomodar vocês.
+Eu não sei como podemos recompensar você, mas, por favor, aceite esta sucata. Era para o nosso próximo tributo a Silas, mas agora não precisamos mais dela.
+[[ms]Obrigado[fs]Obrigada].
+Eles não devem mais incomodar vocês.
+Eu não sei como podemos recompensar você, mas, por favor, aceite esta sucata. Era para o nosso próximo tributo a Silas, mas agora não precisamos mais dela.
+[[ms]Obrigado[fs]Obrigada].
+Eu não posso acreditar que você matou Silas. Se ele não relata... Ó não! Não, não...
+Vou cuidar do resto da gangue dele também.
+Obrigada novamente pela ajuda! Esta situação pode não ser a ideal, mas, enquanto estivermos fornecendo peixes e sucata a Silas e seu grupo, eles nos deixarão em paz.
+Gostaria de poder fazer mais.
+Receio que este seja o nosso destino. Pelo menos eles mantêm a área livre de feras. Adeus, [[ms]forasteiro[fs]forasteira]. E obrigada novamente.
+De nada. Cuide-se.
+Boa sorte. Adeus.
+Como você pôde fazer isso conosco? Quando Silas não relatar, a gangue dele vai investigar.
+Acabei com essa extorsão. A gangue dele é a próxima.
+Por favor, apenas vá embora. Rezo para que possamos passar desta noite.
+Eu fiz o que tinha que ser feito.
+Você está [[ms]louco[fs]louca]? Eu tinha lhe avisado que não era para machucar Silas, mas você me ignorou. Por que você fez isso?
+Essa extorsão deve acabar.
+Não é tão simples assim. Silas era apenas um lacaio. A situação era delicada e você agiu como [[ms]um bruto estúpido[fs]uma bruta estúpida]!
+Vou cuidar dos mestres dele também. Adeus.
+Estou cuidando disso. Adeus.
+Teve sorte lá fora?
+Onde eu posso encontrar sucata?
+A esta altura, a maioria das casas nos Sopés Arkovianos provavelmente já foram vasculhadas. Presumo que alguém como você poderia fazer os bandidos provarem do seu próprio remédio invadindo as Quatro Colinas. Silas não teria nenhuma pista. Ele sabe que não nos atreveríamos a chegar perto dos acampamentos.
+[[ms]Obrigado[fs]Obrigada]. Vou cuidar disso.
+Ainda estou recolhendo sucata.
+Você está [[ms]louco[fs]louca]? Se acontecer alguma coisa com Silas, o resto da gangue dele vai sair em busca de vingança!
+Estou cuidando disso. Adeus.
+A menos que você queira trabalhar, é melhor dar meia-volta e sair daqui. Não temos nada para dar e não precisamos de ninguém para nos causar problemas.
+O que está acontecendo aqui?
+O que está acontecendo é que estamos tentando ficar vivos e isso significa trabalhar duro para a gangue de Cronley. Somos um grupo variado de sobreviventes que vieram parar aqui em busca de proteção ou foram capturados pelos capangas de Cronley e forçados a trabalhar.{^n}{^n}Os homens de Cronley nos usam como bem entendem e é uma vida dura, mas este lugar é melhor do que aquilo que conhecíamos lá fora, na estrada. Eu vou suportar qualquer coisa para manter minha filha em segurança e, pelo menos por enquanto, ela é muito jovem para que os homens de Cronley a incomodem.
+Tem algo que eu possa fazer para ajudar?
+O Silas ali assegura que não saiamos da linha e alcancemos a cota de Cronley. As águas têm ficado cada vez mais perigosas e temos enfrentado dificuldades com a pesca, mas acho que podemos encher nossas redes a tempo para o tributo. Porém, ainda temos que recolher sucata.{^n}{^n}Nós não podemos deixar de alcançar nossa cota. Na última vez que isso aconteceu, Silas levou uma garotinha para o acampamento dele e nós nunca mais a vimos. Por favor, se você quer mesmo ajudar, recolha a sucata para o nosso tributo e entregue-a a Silas.{^n}{^n}Por mais que as coisas pareçam estar ruins para nós, a tendência é só piorar. A gangue de Cronley controla todas as colinas com vista para Novo Porto e, com toda a certeza, vão notar se Silas desaparecer. O castigo seria severo, então, por favor, não faça nenhuma estupidez. Nós é que sofreríamos as consequências.
+Claro. Vou ajudá-los com o tributo.
+Sinto muito. Não posso ajudá-los.
+Eu poderia levar todos vocês até o Cruzamento do Diabo através de um portal.
+É uma oferta estranha, mas não podemos partir. Os refugiados aqui se tornaram como uma família uns para os outros. Algumas das crianças são mantidas reféns pelos homens de Cronley para assegurar que não escapemos. Nós todos cuidamos uns dos outros aqui e sabemos que, se um de nós escapasse, aqueles que permanecessem seriam punidos.
+O que você queria que eu fizesse, então?
+Entendo.
+Boa sorte, então. Adeus.
+Estou só de passagem. Adeus.

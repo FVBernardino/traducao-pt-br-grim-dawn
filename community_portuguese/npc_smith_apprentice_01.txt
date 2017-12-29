@@ -1,0 +1,67 @@
+Duncan
+Saudações, viajante.
+Adeus.
+Eu já estou quase terminando. Vejo você no Cruzamento do Diabo.
+Vejo você lá.
+Eu não culpo você pela sua decisão. Angrim é um ótimo ferreiro, o melhor por estas bandas. Farei o que puder por essas pessoas com o que tenho à disposição.
+Adeus.
+Você está de volta! Tem o Malleum Menhir?
+Sinto muito, mas o martelo fica com Angrim.
+Ah... Entendo... Então eu acho que é hora de dizer adeus. Se me der licença, eu tenho que cuidar da forja.
+Adeus.
+Você está de volta! Tem o Malleum Menhir?
+Eu convenci Angrim a se separar dele. Aqui está.
+Estou impressionado. Angrim é um cabeça-dura, mas que bom que vocês não resolveram isso na porrada. Obrigado, eu vou fazer muita coisa boa com este martelo.
+Então você vai se juntar a mim no Cruzamento do Diabo?
+Sim, claro. Primeiro devo terminar meu trabalho aqui. Agora que tenho o martelo de forja do meu mestre, posso fornecer equipamentos de qualidade a essas pessoas.{^n}{^n}Vejo você no Cruzamento do Diabo quando eu terminar, prometo.
+Vejo você lá.
+Eu tinha o martelo, mas o perdi.
+O quê?! Volte lá fora e encontre-o. Aquele martelo é inestimável!
+Deixe comigo.
+Você está de volta! Tem o Malleum Menhir?
+Eu tive que matar Angrim para obtê-lo, mas aqui está.
+Gostaria que as coisas não tivessem chegado a esse ponto. É um preço terrível a se pagar por esta relíquia sagrada. Mas o bem de todos nós é mais importante do que a vida de um só.{^n}{^n}Eu vou ter que trabalhar ainda mais para assegurar que a morte de Angrim não foi em vão.
+Então você vai se juntar a mim no Cruzamento do Diabo?
+Sim, claro. Primeiro devo terminar meu trabalho aqui. Agora que tenho o martelo de forja do meu mestre, posso fornecer equipamentos de qualidade a essas pessoas.{^n}{^n}Vejo você no Cruzamento do Diabo quando eu terminar, prometo.
+Vejo você lá.
+Eu tinha o martelo, mas o perdi.
+O quê?! Volte lá fora e encontre-o. Aquele martelo é inestimável!
+Deixe comigo.
+E então? Falou com Angrim?
+Você pode repetir onde ele está?
+O meu mestre deixou o acampamento hoje cedo, rumo ao nordeste. Ele não deve estar muito longe.
+
+
+Vou encontrá-lo.
+O que é o Malleum Menhir?
+É um velho martelo de forja, passado através de gerações de ferreiros. Está agora nas mãos do meu mestre, Angrim, mas eu sinto que é chegada a hora de passá-lo para mãos mais jovens.
+Você pode repetir onde Angrim está?
+
+Entendo.
+Por que você acha que o martelo deve ficar com você?
+Não me entenda mal, o meu mestre é um ferreiro perito. As armas que ele cria são da mais alta qualidade, mas ele está relutante em experimentar com técnicas de forjamento arcano. Nisso, eu sou superior e ele sabe.{^n}{^n}Mais importante, porém, é que eu quero ajudar pessoas e o meu mestre quer apenas preparar soldados para a batalha contra os Etéreos. É um objetivo nobre, mas a humanidade não vai prosperar se só os nossos soldados sobreviverem.
+Você pode repetir onde Angrim está?
+
+Entendo.
+Ainda estou procurando.
+Olá, viajante. Se você se encontrar andando por estas bandas, poderia nos ajudar a localizar alguém? Eu estou um pouco ocupado com a forja.
+Alguém desapareceu?
+O meu mestre, Angrim, deixou o acampamento hoje cedo. Ele estava determinado a encontrar um grupo de sobreviventes que considerasse "digno" do nosso talento como ferreiros. Só que nós temos opiniões diferentes sobre quem realmente precisa da nossa ajuda.{^n}{^n}Angrim quer mobilizar um exército para lutar contra os Etéreos. Eu prefiro salvar o maior número de pessoas que puder, independentemente de poderem lutar ou não. Eu quero muito ajudar essas pessoas, mas, sem o martelo de forja do meu mestre, o sagrado Malleum Menhir, não posso fazer nada que valha a pena.
+Um ferreiro?! Você seria muito útil no Cruzamento do Diabo.
+Se você recuperar o Malleum Menhir, terei o maior prazer em me unir a você no Cruzamento do Diabo, depois que eu o usar para ajudar aqui.{^n}{^n}Por favor, encontre o meu mestre e recupere o Malleum Menhir. Eu o vi rumando para o nordeste. Ele não deve ter ido muito longe.
+Vou encontrar Angrim.
+Sinto muito. Não posso ajudá-lo.
+Por que você acha que o martelo deve ficar com você?
+Não me entenda mal, o meu mestre é um ferreiro perito. As armas que ele cria são da mais alta qualidade, mas ele está relutante em experimentar com técnicas de forjamento arcano. Nisso, eu sou superior e ele sabe.{^n}{^n}Mais importante, porém, é que eu quero ajudar pessoas e o meu mestre quer apenas preparar soldados para a batalha contra os Etéreos. É um objetivo nobre, mas a humanidade não vai prosperar se só os nossos soldados sobreviverem.
+
+
+Entendo.
+O que é o Malleum Menhir?
+É um velho martelo de forja, passado através de gerações de ferreiros. Está agora nas mãos do meu mestre, Angrim, mas eu sinto que é chegada a hora de passá-lo para mãos mais jovens.
+
+
+Entendo.
+O que você está fazendo aqui?
+Armando essas pessoas contra os perigos de Cairn. Fazendo o melhor que posso com o que tenho à disposição.
+Em que você precisa de ajuda?
+Adeus.

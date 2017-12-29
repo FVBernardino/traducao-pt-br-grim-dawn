@@ -1,0 +1,11 @@
+Palda
+Seja [[ms]cauteloso[fs]cautelosa], viajante.{^n}{^n}Os selvagens que vivem nas Quatro Colinas destruíram esta outrora magnífica estrutura em um esforço para capturar suas vítimas.{^n}{^n}Com a ponte destruída e a estrada para a Passagem do Contrabandista arrasada por tormentas, o caminho para o norte está barrado para nós.
+Não há outro caminho?
+Há um outro, mas você seria [[ms]um tolo[fs]uma tola] se tentasse ir por ele.{^n}{^n}Ao sul daqui, há ruínas da antiga cidade de Arkóvia. Há uma passagem lá, através da Catacumba Arkoviana, que leva até as Colinas Partidas.{^n}{^n}Seria sensato dar meia-volta. Aquele é o reino dos mortos amaldiçoados.
+Os mortos amaldiçoados?
+Sim, os remanescentes do povo amaldiçoado de Arkóvia.{^n}{^n}A história deles é trágica, mas ninguém pode contar isso melhor do que Amkala, lá no nosso acampamento perto de Novo Porto.
+Vou ter que falar com ela.
+[[ms]Obrigado[fs]Obrigada] pelo aviso.
+Vou ter isso em mente.
+Infelizmente eu não tenho escolha.
+Vou tomar cuidado.

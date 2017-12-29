@@ -1,0 +1,163 @@
+Mornay
+São poucas as pessoas pelas quais tenho um grande respeito, e você e Bourbon estão entre elas.
+Você explorou outras áreas?
+Eu explorei muitas regiões depois que o Alvorecer Sombrio ocorreu. Sobre o que você gostaria de saber?
+O que há ao noroeste?
+As estradas ao noroeste são traiçoeiras. A presença Etérea lá é menos intensa, mas criaturas horríveis proliferam nas terras selvagens e espíritos sem descanso caminham pelo mundo. Não menos perigosos são os humanos violentos e cruéis à espreita nas estradas para atacar os mais fracos. A situação é a mesma em todas as regiões que eu explorei, ou uma poderosa força inimiga exerce o controle ou vários grupos menores lutam pelo poder, cada qual perigoso à sua própria maneira. O reino está destruído e eu não sei como poderemos ter esperança de recuperá-lo.
+
+[[ms]Obrigado[fs]Obrigada].
+O que você pode me dizer sobre a Herdade?
+A Herdade não vai ser fácil de recuperar. Está uma verdadeira bagunça. Há corrupções Etéreas espalhadas vagando pelos campos, mas o Culto de Ch'thon tem uma presença maior. Uma das coisas mais horríveis que eu encontrei, entre uma série de atrocidades, foram as fazendas Ctônicas de sangue: filas e mais filas de humanos enforcados em postes, alguns mortos, outros ainda vivos, cujo sangue escorria para bacias de captura tal como a seiva recolhida das árvores. Eu ouvi dizer que os Ctônicos usam o sangue para fortalecer sua magia e evocar criaturas do vazio. Para piorar, insetos gigantescos e aterrorizantes tão grandes quanto cavalos infestaram alguns dos campos. Aposto que chegaram aqui através do véu enfraquecido entre as realidades. Há também os necromantes...
+
+[[ms]Obrigado[fs]Obrigada].
+O quão longe você foi para o norte?
+Quanto mais se viaja para o norte, mais se encontra anomalias estranhas causadas pelo poder etéreo: distorções na realidade, vórtices rodopiantes de energia, campos de fogo etéreo... coisas que desafiam os sentidos. Em alguns lugares, o próprio ar pode matar. Não há como lutar contra isso, você só tem que correr e esperar que suas pernas sejam rápidas o suficiente. Mesmo que a humanidade expulse esses intrusos e os mande de volta para seus reinos, como vamos restaurar a terra?
+
+[[ms]Obrigado[fs]Obrigada].
+O que mais há lá fora?
+Eu não sei se é apenas delírio de esperança ou algo mais, mas alguns dos andarilhos que eu encontrei falaram de outro enclave humano nas montanhas. Falaram sobre uma fortaleza feita de sal-gema que poderia repelir qualquer ataque Etéreo. Essa fantasia não leva em conta que o sal se dissolve na chuva. Embora isso possa ser bobagem fantasiosa, há muitas minas velhas nas montanhas. É possível que algumas pessoas tenham encontrado refúgio em uma velha mina de sal.
+
+[[ms]Obrigado[fs]Obrigada].
+Pensando bem, deixe pra lá. Adeus.
+Eu vi Elsa lá fora. Ela ainda está viva.
+Você não faz ideia do quanto isso me deixa aliviado. Tenho que ir encontrá-la!
+Não. Ela não quer nada com você.
+*Mornay suspira.*{^n}{^n}Provavelmente você está [[ms]certo[fs]certa]. Eu só queria consertar as coisas. Elsa é muito parecida com a minha esposa, você sabe, antes de ela ser levada pelos Etéreos. Pelo menos eu sei que Elsa está a salvo.
+É melhor seguir em frente.
+É uma jornada perigosa. Não se arrisque.
+Eu sobrevivi lá fora por semanas. Não se preocupe comigo.
+
+Deixe pra lá.
+Sim, você deveria.
+Ah, de volta à estrada. O Cruzamento do Diabo já estava mesmo começando a ficar pequeno. Obrigado novamente por ter me dado essa notícia.
+Boa sorte.
+
+Darius não estava com Elsa.
+Maldição! Talvez... talvez ela tenha escapado e corrido para a Herdade? Ou talvez eles a tenham vendido... Eu tenho que voltar lá fora. Se há uma chance de Elsa estar viva, eu tenho que encontrá-la. Devo isso a ela.
+Boa sorte.
+Adeus.
+Vá embora. Eu estou aqui para falar com o Capitão.
+Adeus.
+Agora que nós não estamos mais em nenhum perigo iminente, precisamos lidar com um inimigo mais sutil: a fome. O Cruzamento do Diabo está ficando sem comida e os nossos suprimentos estão quase acabando. Precisamos de uma fonte confiável de comida, e rápido.{^n}{^n}Barnabas tem algumas ideias sobre o que podemos fazer. Fale com ele imediatamente.
+Vou falar com Barnabas.
+Preciso fazer outra coisa primeiro.
+Agora que o Cruzamento do Diabo não está mais em nenhum perigo iminente, você precisa lidar com um inimigo mais sutil: a fome. O Cruzamento do Diabo está ficando sem comida e os suprimentos estão quase acabando. Essas pessoas precisam de uma fonte confiável de comida, e rápido.{^n}{^n}Barnabas tem algumas ideias sobre o que você pode fazer. Fale com ele imediatamente.{^n}{^n}Quanto a mim, eu irei lá fora novamente. Preciso encontrar Elsa.
+Vou falar com Barnabas.
+Preciso fazer outra coisa primeiro.
+E então? Acabou?
+Darius está morto e a gangue dele está espalhada.
+O mundo é um lugar um pouco mais seguro agora que aquele monstro está morto. E quanto a Elsa? Você deve ter visto alguma coisa.
+Eu a vi lá fora. Ela ainda está viva.
+Você não faz ideia do quanto isso me deixa aliviado. Tenho que ir encontrá-la!
+Não. Ela não quer nada com você.
+*Mornay suspira.*{^n}{^n}Provavelmente você está [[ms]certo[fs]certa]. Eu só queria consertar as coisas. Elsa é muito parecida com a minha esposa, você sabe, antes de ela ser levada pelos Etéreos. Pelo menos eu sei que Elsa está a salvo.
+É melhor seguir em frente. O que faremos agora?
+É uma jornada perigosa. Não se arrisque.
+Eu sobrevivi lá fora por semanas. Não se preocupe comigo.
+
+Deixe pra lá. O que faremos agora?
+
+Sim, você deveria.
+O Cruzamento do Diabo já estava mesmo começando a ficar pequeno. Obrigado novamente por ter me dado essa notícia.
+Boa sorte. O que faremos agora?
+
+Eu não encontrei nenhum sinal de Elsa. (Mentir)
+
+Darius não estava com Elsa.
+Maldição! Talvez... talvez ela tenha escapado e corrido para a Herdade? Ou talvez eles a tenham vendido... Eu tenho que voltar lá fora. Se há uma chance de Elsa estar viva, eu tenho que encontrá-la. Devo isso a ela.
+O que faremos agora?
+
+O mundo é um lugar um pouco mais seguro agora que aquele monstro está morto.
+Mais alguma coisa?
+
+
+Falaremos mais tarde.
+Como vai a campanha contra Darius?
+Você pode repetir aonde eu devo ir?
+Siga na direção noroeste ao sair do Cruzamento do Diabo e siga pela estrada que atravessa os Sopés Arkovianos até você entrar na Velha Arkóvia. As Quatro Colinas estão no ponto mais ao norte. A gangue de Darius tem vários acampamentos fortificados por lá, incluindo um velho poço de mina.{^n}{^n}Na última vez que eu vi Quade, ele estava movendo o grupo dele perto das Quatro Colinas.
+Vou cuidar disso.
+Vou voltar lá fora em breve.
+Ótimo. Cada minuto perdido é um minuto a mais que Darius tem para planejar o próximo passo dele.
+Tchau.
+Eu encontrei Elsa, ela ainda está lá fora nas terras selvagens.
+Você não faz ideia do quanto isso me deixa aliviado. Tenho que ir encontrá-la!
+Não. Ela não quer nada com você.
+*Mornay suspira.*{^n}{^n}Provavelmente você está [[ms]certo[fs]certa]. Eu só queria consertar as coisas. Elsa é muito parecida com a minha esposa, você sabe, antes de ela ser levada pelos Etéreos. Pelo menos eu sei que Elsa está a salvo.
+É melhor seguir em frente.
+É uma jornada perigosa. Não se arrisque.
+Eu sobrevivi lá fora por semanas. Não se preocupe comigo.
+
+Deixe pra lá.
+Sim, você deveria.
+O Cruzamento do Diabo já estava mesmo começando a ficar pequeno. Obrigado novamente por ter me dado essa notícia. Mas nós precisamos cuidar de Cronley primeiro.
+Boa sorte.
+Darius não está com Elsa.
+Maldição! Talvez... talvez ela tenha escapado e corrido para a Herdade? Ou talvez eles a tenham vendido... Eu tenho que voltar lá fora. Se há uma chance de Elsa estar viva, eu tenho que encontrá-la. Devo isso a ela.
+Boa sorte.
+Darius Cronley...{^n}{^n}Na última vez que eu vi a cara dele, quase o enforcaram por duplo homicídio. O Carcereiro interveio no último minuto a favor de comutar a pena em prisão perpétua no Cruzamento do Diabo. Ao que parece, havia motivos ulteriores.{^n}{^n}Darius Cronley é o diabo em pessoa, desonesto e manipulador com uma propensão a todo tipo de pecado. É ele quem comanda essa gangue e é atrás dele que devemos ir agora.
+Você tem um plano?
+Nós precisamos atingi-los de maneira brutal e rápida, sem dar chance de contra-ataque. Eu vi apenas uma parte das operações deles na região, mas eles estão realmente entrincheirados nas Quatro Colinas, na Velha Arkóvia.{^n}{^n}"Punhais" certamente não era o único tenente de Darius, então eu sugiro que você encontre os outros e os mate. Nós não queremos que um deles assuma o comando após cuidarmos de Darius. Eu não tenho nenhum nome para você, mas eles provavelmente têm apelidos de presidiário tão inteligentes como o nosso falecido amigo "Punhais".{^n}{^n}Mas para acabar definitivamente com isso, você precisa matar o cabeça da operação, Darius Cronley. Se o que eu ouvi é verdade, você vai encontrá-lo escondido nas minas localizadas embaixo das Quatro Colinas.{^n}{^n}Por fim, a minha colega batedora, Elsa, ainda deve estar lá fora com eles. Se eu tivesse que arriscar um palpite, diria que Cronley a tem em suas garras. Salve-a daquele bruto. Eu ouvi dizer que você é muito capaz, então não me decepcione.{^n}{^n}Quando você se encontrar lá fora, eu recomendo que procure um homem chamado Quade. Ele e seu grupo deixaram a vida pacífica dos Nômades para trás a fim de lutar contra os bandidos. E que bom que eles fizeram isso. Foi o pessoal de Quade que me salvou das garras da morte.
+Vou cuidar disso.
+Eu vou voltar.
+Eu já lidei com Cronley.
+
+
+O que aconteceu com Elsa?
+Eu parti com outra batedora, Elsa, para fazer um reconhecimento das terras ao noroeste pouco depois de termos assegurado o Cruzamento do Diabo. O que nós encontramos foi um ermo dominado por feras predadoras, psicopatas sanguinários e refugiados em fuga em constante terror.{^n}{^n}A nossa missão em conjunto acabou quando um grupo de bandidos cruéis nos surpreendeu durante a noite. Elsa não queria que eu acendesse uma fogueira naquela noite, mas eu tinha certeza de que estávamos bem escondidos. Não fui cauteloso o suficiente e ela pagou o preço. Pensei que poderia protegê-la de qualquer coisa, mas, quando ela precisou, levei uma bala nas costelas e caí antes mesmo de a luta começar. Elsa lutou como um demônio, derrubando dois bandidos antes de a deixarem inconsciente. Eles a levaram consigo e me deixaram lá para morrer.{^n}{^n}Mas eu não podia desistir sabendo que aqueles criminosos estavam com Elsa. Eu manquei e depois me arrastei tentando voltar ao Cruzamento do Diabo, mas cheguei apenas para descobrir que a ponte tinha sido destruída. Caí em desespero e pensei que era o meu fim.{^n}{^n}Acordei algum tempo depois no que restava de um pequeno vilarejo de pescadores na costa. O bando de nômades de Quade tinha me encontrado e tratado as minhas feridas. Tão logo pude ficar de pé, peguei um barco a remo qualquer e voltei ao Cruzamento do Diabo. Eu não vou abandonar Elsa para ser torturada ou coisa pior nas mãos daqueles assassinos. Ela é tudo o que me resta neste mundo.
+Vou cuidar disso.
+Eu vou voltar.
+
+Você pode repetir qual era o plano?
+
+Eu já encontrei Elsa.
+Você não faz ideia do quanto isso me deixa aliviado. Assim que eliminarmos Cronley eu vou me mandar daqui. Tenho que ir encontrá-la!
+Não. Ela não quer nada com você.
+*Mornay suspira.*{^n}{^n}Provavelmente você está [[ms]certo[fs]certa]. Eu só queria consertar as coisas. Elsa é muito parecida com a minha esposa, você sabe, antes de ela ser levada pelos Etéreos. Pelo menos eu sei que Elsa está a salvo.
+É melhor seguir em frente. E quanto a Cronley?
+
+É uma jornada perigosa. Não se arrisque.
+Eu sobrevivi lá fora por semanas. Não se preocupe comigo.
+
+Deixe pra lá. E quanto a Cronley?
+
+Sim, você deveria.
+O Cruzamento do Diabo já estava mesmo começando a ficar pequeno. Obrigado novamente por ter me dado essa notícia. Mas agora nós temos coisas mais importantes para fazer.
+Sim, você tinha um plano?
+
+Você tem um plano?
+Nós precisamos atingi-los de maneira brutal e rápida, sem dar chance de contra-ataque. Eu vi apenas uma parte das operações deles na região, mas eles estão realmente entrincheirados nas Quatro Colinas, na Velha Arkóvia.{^n}{^n}"Punhais" certamente não era o único tenente de Darius, então eu sugiro que você encontre os outros e os mate. Nós não queremos que um deles assuma o comando após cuidarmos de Darius. Eu não tenho nenhum nome para você, mas eles provavelmente têm apelidos de presidiário tão inteligentes como o nosso falecido amigo "Punhais".{^n}{^n}Mas para acabar definitivamente com isso, você precisa matar o cabeça da operação, Darius Cronley. Se o que eu ouvi é verdade, você vai encontrá-lo escondido nas minas localizadas embaixo das Quatro Colinas.{^n}{^n}Quando você se encontrar lá fora, eu recomendo que procure um homem chamado Quade. Ele e seu grupo deixaram a vida pacífica dos Nômades para trás a fim de lutar contra os bandidos. E que bom que eles fizeram isso. Foi o pessoal de Quade que me salvou das garras da morte.
+Vou cuidar disso.
+Eu vou voltar.
+E então? Eles gostaram do nosso presentinho?
+Eu matei o homem que estava no comando, um tal de "Punhais".
+Você trabalha rápido. Eu gosto disso. Isso será muito útil para o que virá a seguir.
+Qual é o nosso próximo alvo?
+
+Ainda aqui? Tem uma bala no meu peito, mas eu mesmo irei lá fora se você insistir.
+Você pode repetir aonde eu devo ir?
+Não temos tempo para isso. Siga na direção noroeste ao sair do Cruzamento do Diabo e atravesse a ponte para chegar aos Sopés Arkovianos. Procure os bandidos e apresente-se a eles.
+Estou indo.
+Irei agora mesmo.
+Você deve ser [[ms]o[fs]a] jovem que causou um rebuliço em minha ausência. Você fez um bom trabalho ao despachar Krieg. Eu conheci aquele homem em vida, não quero nem pensar no que ele se tornou como um Etéreo.
+O Capitão Bourbon me mandou falar com você sobre os bandidos.
+Sim, um velho incômodo voltou para nos atormentar. Por enquanto o rio os mantém afastados, graças à ponte destruída. Parece que os bastardos tomaram gosto pelo mesmíssimo lugar do qual outrora estavam tão ansiosos para escapar.{^n}{^n}Eu não vou fazer rodeios. Nós estamos em guerra e, se não levarmos a luta até eles, eles certamente a trarão até nós. Eu prefiro lutar do meu jeito. Você não?
+Qual é o plano de ação?
+Antes de mais nada, nós temos que reparar aquela ponte. Eu tenho homens prontos para fazer o trabalho e um pouco de sucata para começar, você só precisa fornecer o resto dos materiais.{^n}{^n}Feito isso, quero que você entre nos Sopés Arkovianos e mostre para aqueles bastardos que nós não somos um prêmio a ser conquistado. Na última vez que eu os vi, eles estavam se mobilizando para algo grande do outro lado do rio. Por que você não vai até lá e se apresenta a eles?
+Entendido.
+O que aconteceu durante a sua expedição ao noroeste?
+Eu parti com outra batedora, Elsa, para fazer um reconhecimento das terras ao noroeste pouco depois de termos assegurado o Cruzamento do Diabo. O que nós encontramos foi um ermo dominado por feras predadoras, psicopatas sanguinários e refugiados em fuga em constante terror.{^n}{^n}A nossa missão em conjunto acabou quando um grupo de bandidos cruéis nos surpreendeu durante a noite. Elsa não queria que eu acendesse uma fogueira naquela noite, mas eu tinha certeza de que estávamos bem escondidos. Não fui cauteloso o suficiente e ela pagou o preço. Pensei que poderia protegê-la de qualquer coisa, mas, quando ela precisou, levei uma bala nas costelas e caí antes mesmo de a luta começar. Elsa lutou como um demônio, derrubando dois bandidos antes de a deixarem inconsciente. Eles a levaram consigo e me deixaram lá para morrer.{^n}{^n}Mas eu não podia desistir sabendo que aqueles criminosos estavam com Elsa. Eu manquei e depois me arrastei tentando voltar ao Cruzamento do Diabo, mas cheguei apenas para descobrir que a ponte tinha sido destruída. Caí em desespero e pensei que era o meu fim.{^n}{^n}Acordei algum tempo depois no que restava de um pequeno vilarejo de pescadores na costa. Um bando de nômades tinha me encontrado e tratado as minhas feridas. Tão logo pude ficar de pé, peguei um barco a remo qualquer e voltei ao Cruzamento do Diabo. Eu não vou abandonar Elsa para ser torturada ou coisa pior nas mãos daqueles assassinos. Ela é tudo o que me resta neste mundo. Precisamos organizar uma ofensiva e cada segundo conta!
+Você não acha que está misturando vingança pessoal com isso?
+O Alvorecer Sombrio levou a minha esposa. Elsa é como uma filha para mim e eu não vou deixar que ela seja levada também. Eu vejo assim, o Cruzamento do Diabo precisa desta situação resolvida o mais rápido possível e eu quero aqueles miseráveis mortos por terem levado Elsa. Parece que os nossos objetivos se alinham, hã?
+Está bem.
+Qual é o plano de ação?
+Agora que a ponte ao noroeste está reparada, quero que você entre nos Sopés Arkovianos e mostre para aqueles bastardos que nós não somos um prêmio a ser conquistado. Na última vez que eu os vi, eles estavam se mobilizando para algo grande do outro lado do rio. Por que você não vai até lá e se apresenta a eles?
+Eu já atravessei a ponte e matei um homem chamado "Punhais".
+Entendido.
+O que aconteceu durante a sua expedição ao noroeste?
+Eu parti com outra batedora, Elsa, para fazer um reconhecimento das terras ao noroeste pouco depois de termos assegurado o Cruzamento do Diabo. O que nós encontramos foi um ermo dominado por feras predadoras, psicopatas sanguinários e refugiados em fuga em constante terror.{^n}{^n}A nossa missão em conjunto acabou quando um grupo de bandidos cruéis nos surpreendeu durante a noite. Elsa não queria que eu acendesse uma fogueira naquela noite, mas eu tinha certeza de que estávamos bem escondidos. Não fui cauteloso o suficiente e ela pagou o preço. Pensei que poderia protegê-la de qualquer coisa, mas, quando ela precisou, levei uma bala nas costelas e caí antes mesmo de a luta começar. Elsa lutou como um demônio, derrubando dois bandidos antes de a deixarem inconsciente. Eles a levaram consigo e me deixaram lá para morrer.{^n}{^n}Mas eu não podia desistir sabendo que aqueles criminosos estavam com Elsa. Eu manquei e depois me arrastei tentando voltar ao Cruzamento do Diabo, mas cheguei apenas para descobrir que a ponte tinha sido destruída. Caí em desespero e pensei que era o meu fim.{^n}{^n}Acordei algum tempo depois no que restava de um pequeno vilarejo de pescadores na costa. Um bando de nômades tinha me encontrado e tratado as minhas feridas. Tão logo pude ficar de pé, peguei um barco a remo qualquer e voltei ao Cruzamento do Diabo. Eu não vou abandonar Elsa para ser torturada ou coisa pior nas mãos daqueles assassinos. Ela é tudo o que me resta neste mundo. Precisamos organizar uma ofensiva e cada segundo conta!
+Você não acha que está misturando vingança pessoal com isso?
+O Alvorecer Sombrio levou a minha esposa. Elsa é como uma filha para mim e eu não vou deixar que ela seja levada também. Eu vejo assim, o Cruzamento do Diabo precisa desta situação resolvida o mais rápido possível e eu quero aqueles miseráveis mortos por terem levado Elsa. Parece que os nossos objetivos se alinham, hã?
+Eu já atravessei a ponte e matei um homem chamado "Punhais".
+Está bem.
+Vá embora. Eu estou aqui para falar com o Capitão.
+Adeus.

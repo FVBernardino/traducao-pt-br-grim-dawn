@@ -1,0 +1,17 @@
+#Loading Tips
+
+
+#Tutorial Pages
+
+tagGDX1TutorialTip65Title=Ilusionista
+tagGDX1TutorialTip65TextA=Illusionist são capazes de transformar a aparência do seu equipamento, substituindo-o pela aparência de itens similares que você havia adquirido anteriormente. Este catálogo de ilusões é armazenado em caracteres (separados pelo modo Normal e Hardcore).
+tagGDX1TutorialTip65SubtitleA=Mudar Aparência
+tagGDX1TutorialTip65TextB=Para alterar a aparência de um item, selecione o slot do equipamento no lado direito, depois a ilusão desejada no catálogo à esquerda. Uma vez que esteja satisfeito com as mudanças, pressione o botão Aplicar Ilusão para pagar o custo de Ferro e aplique seu novo visual!
+tagGDX1TutorialTip65SubtitleB=Resetar Aparência
+tagGDX1TutorialTip65TextC=Se você decidir restaurar um item para sua aparência original, basta clicar com o botão direito do mouse no slot do equipamento desejado para alternar entre sua aparência atual e padrão. Para confirmar a alteração, pressione o botão Aplicar Ilusão.
+tagGDX1TutorialTip65TextD=A aplicação da aparência padrão de um item não tem custo de Ferro.
+
+
+#Quick Tips
+
+tagGDX1QuickTip65={^z}Ilusionista{^-}{^n}{^n}O Ilusionista permite que você altere a aparência de seus itens com outros itens similares que você adquiriu.

@@ -1,0 +1,26 @@
+A Busca por Comida
+Precisamos de Comida
+Fale com Barnabas
+Agora que Cronley e sua gangue não mais constituem uma ameaça, o Capitão Bourbon considera imprescindível lidar com a diminuição do estoque de comida da prisão. Mornay encarregou você de falar com Barnabas sobre uma possível solução para o problema.
+Fale com Barnabas no Cruzamento do Diabo
+Atravesse a Passagem do Contrabandista
+Agora que a ponte para os Sopés Arkovianos está reparada, você deve trilhar seu caminho por terras selvagens e descobrir uma rota que leve até a outrora próspera comunidade agrícola que abastecia a região de Burrwitch. Comece seguindo pela estrada dos Sopés Arkovianos e atravesse a Velha Arkóvia. Se a ponte próxima às Cachoeiras Gêmeas ainda estiver de pé, você poderá atravessá-la e entrar nas terras agrícolas, caso contrário, terá que encontrar outro caminho. Barnabas mencionou uma velha rota de contrabando que atravessa as Colinas Partidas. Se você não puder atravessar a ponte, procure a Passagem do Contrabandista.
+Atravesse a ponte próxima às Cachoeiras Gêmeas e entre na Herdade
+(Ou) Viaje através da Passagem do Contrabandista
+
+Explore para além da Passagem do Contrabandista
+Você viajou através da Passagem do Contrabandista e chegou à Ravina do Morto. Se Barnabas estiver certo, a partir daqui deve haver um caminho para a Herdade.
+Siga pela Trilha do Garimpeiro para chegar à Herdade
+
+Limpe a área ao redor do Portal
+Você chegou à Herdade, mas a entrada está infestada de Etéreos. Você precisará eliminá-los e assegurar o portal antes que os portões sejam abertos e você possa entrar.
+Elimine os Etéreos que estão do lado de fora da Herdade
+
+Fale com Douglass
+A Herdade foi aberta para você, mas a situação aqui parece tão grave quanto no Cruzamento do Diabo.{^n}{^n}Fale com Douglass Oldbarrow, na Herdade, na esperança de obter a comida de que você precisa.
+Fale com Douglass na Herdade
+
+
+
+
+

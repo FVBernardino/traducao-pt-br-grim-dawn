@@ -1,0 +1,15 @@
+Canteiro de Obras
+Esta ponte conectava Wightmire a Burrwitch. Se você quiser atravessá-la, terá que repará-la primeiro. Se não puder, deverá enfrentar os perigos da Passagem Inundada, localizada nas proximidades.{^n}{^n}A reparação requer 12 unidades de Sucata e 25000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para Burrwitch.
+Sair.
+Esta ponte conectava Wightmire a Burrwitch. Se você quiser atravessá-la, terá que repará-la primeiro. Se não puder, deverá enfrentar os perigos da Passagem Inundada, localizada nas proximidades.{^n}{^n}A reparação requer 8 unidades de Sucata e 10000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para Burrwitch.
+Sair.
+Esta ponte conectava Wightmire a Burrwitch. Se você quiser atravessá-la, terá que repará-la primeiro. Se não puder, deverá enfrentar os perigos da Passagem Inundada, localizada nas proximidades.{^n}{^n}A reparação requer 3 unidades de Sucata e 5000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para Burrwitch.
+Sair.
+Você reparou esta ponte.
+Ok.

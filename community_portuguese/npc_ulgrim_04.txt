@@ -1,0 +1,71 @@
+Ulgrim
+Este problema com o culto me traz más lembranças.{^n}{^n}*Ulgrim balança a cabeça.*{^n}{^n}Você está [[ms]pronto[fs]pronta] para partir?
+Está tudo bem?
+Ó, não é nada.{^n}{^n}Devo me preparar para a jornada.
+Tudo bem. Vejo você por aí.
+Quase.
+Eu fiquei sabendo sobre Karroz. Você deve ser melhor nesse negócio de cultos macabros do que Creed.
+Eu encontrei estas anotações com Karroz.
+*Ulgrim faz uma cara de preocupação enquanto lê os papéis.*{^n}{^n}Isso não pode estar acontecendo de novo... Creed tem que ver isto imediatamente.
+O que você quer dizer com "de novo"?
+Esta não é a primeira vez que esse ritual é realizado. Na última vez, quase destruiu o império.{^n}{^n}O Logorreano não pode ser trazido de volta do vazio.
+Nós vamos detê-los.
+Nós vamos detê-los.
+[[ms]Obrigado[fs]Obrigada]. Eu acho.
+O que eu posso fazer por você?
+
+Adeus.
+Volte outra hora. Eu tenho coisas importantes para resolver.
+Adeus.
+Conseguiu alguma coisa de útil daqueles dois?
+Qual você escolheria?
+Deixando de lado as crenças fanáticas deles, ambos os grupos têm recursos valiosos à disposição.{^n}{^n}Os Escolhidos de Kymon podem ser zelotes religiosos, mas são incrivelmente bem treinados e podem se tornar aliados formidáveis nas batalhas.{^n}{^n}A Ordem da Vigília da Morte... Os poderes que eles têm sobre a morte me dão calafrios, mas são magos poderosos e estão acostumados a enfrentar os terrores do mundo.{^n}{^n}Eu não vou mentir para você. Não é uma escolha fácil.
+Tudo bem.
+Ainda estou decidindo.
+Justo quem eu estava procurando. Os outros podem discordar de mim, mas há uma coisa que eu preciso que você faça.
+O que é?
+Há outros dois grupos de sobreviventes na região dos quais estamos cientes, mas Somer e Creed não os consideram como sendo de valor estratégico. Francamente, eu discordo. Eles podem ser constituídos em grande parte por fanáticos, mas fanáticos conduzidos na direção certa podem ser uma força poderosa.{^n}{^n}Eu solicitei que representantes da Ordem da Vigília da Morte e dos Escolhidos de Kymon nos visitassem e conversassem conosco. Há uma animosidade óbvia entre os dois, mas talvez possamos usar isso contra eles. Eu gostaria que você fosse [[ms]o nosso[fs]a nossa] representante. Fale com eles. Aprenda tudo o que puder e decida qual dos dois grupos será de maior valor estratégico. Eu não consigo vê-los trabalhando juntos, infelizmente.
+Vou falar com os emissários.
+Encontre outra pessoa para ser seu diplomata.
+Por que é que você não conversa com eles?
+Por mais que eu queira fazer política de novo, Creed precisa de mim na mesa de guerra.{^n}{^n}Eu estou pedindo a você porque confio no seu julgamento.
+Vou falar com os emissários.
+Encontre outra pessoa para ser seu diplomata.
+
+O que você pode me dizer sobre os dois grupos?
+Deixando de lado as crenças fanáticas deles, ambos os grupos têm recursos valiosos à disposição.{^n}{^n}Os Escolhidos de Kymon podem ser zelotes religiosos, mas são incrivelmente bem treinados e podem se tornar aliados formidáveis nas batalhas.{^n}{^n}A Ordem da Vigília da Morte... Os poderes que eles têm sobre a morte me dão calafrios, mas são magos poderosos e estão acostumados a enfrentar os terrores do mundo.{^n}{^n}Eu não vou mentir para você. Não é uma escolha fácil.
+Vou falar com os emissários.
+Encontre outra pessoa para ser seu diplomata.
+
+Este lugar pode parecer seguro agora, mas nunca baixe a guarda.{^n}{^n}Nós estamos em guerra com inimigos tortuosos.
+Tenho algumas perguntas.
+Pode perguntar.
+Por que você não gosta da Legião Negra?
+Eles representam os rejeitados do império, unidos sob um estandarte de opressão e falta de controle. A Legião pode ser famosa por suas incontáveis vitórias, mas o que você não ouve falar é da brutalidade e a matança sem sentido.{^n}{^n}Claro, nem todos eles são assim. Muitos são almas sem sorte apanhadas no lado errado da política, mas é difícil remover tanto sangue do seu estandarte com as boas intenções de alguns poucos.
+Tenho outra pergunta.
+Entendo.
+Como foi que você conheceu o Inquisidor Creed?
+Hmm... Eu juro que não consigo me lembrar exatamente de quando nos conhecemos, mas o bom Inquisidor me acompanhou em várias missões desde que o encontro dele com o Carcereiro Krieg levantou suspeitas de corrupção na Capital.{^n}{^n}Sua mente analítica e experiência com o ocultismo provaram ser inestimáveis desde o Alvorecer Sombrio. Pena que era tarde demais para salvarmos Erulan.
+Tenho outra pergunta.
+Entendo.
+O que você fazia como Primeiro Lâmina do Imperador?
+Muito do que eu tinha que fazer não merece ser mencionado. Só digo que eu eliminei ameaças à coroa e mantive uma rede de espionagem que abrangia todo o império.{^n}{^n}A maior parte dessa rede já entrou em colapso, com agentes sumindo ou morrendo, mas ela me foi útil mesmo depois do fim do mundo.
+Tenho outra pergunta.
+Fascinante.
+Deixe pra lá.
+Vou ficar de olho.
+Ainda não conversou com a Capitã?
+Onde ela está?
+Aqui mesmo na Herdade. Procure a megera rabugenta de meia-idade com armadura da Legião Negra.
+Está bem.
+Vou falar com ela em breve.
+Eu vou falar com Creed, mas sugiro que você converse com a Capitã Somer. Ela é a oficiala da Legião Negra encarregada deste bando miserável.{^n}{^n}Procure a megera rabugenta de meia-idade com armadura da Legião Negra. Ela vai lhe explicar a situação.
+Vou falar com ela.
+Talvez mais tarde.
+Eu tinha minhas dúvidas se você conseguiria, mas você sobreviveu.{^n}{^n}Essas pessoas lhe devem suas vidas.
+Eu fiz o que era certo.
+Eu gostaria que isso tivesse sido o fim dos nossos problemas, mas há um problemão no horizonte que ameaça acabar com todos nós.
+O que faremos agora?
+
+Volte outra hora. Eu tenho coisas importantes para resolver.
+Adeus.

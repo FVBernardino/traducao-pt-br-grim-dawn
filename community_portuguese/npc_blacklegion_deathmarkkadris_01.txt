@@ -1,0 +1,57 @@
+Marca da Morte Kadris
+Bom trabalho. É um final apropriado para a lenda do Velho Espinhorror.
+Ele nem era tão forte.
+Saia daqui. É assunto da Legião Negra.
+Adeus.
+Você voltou. E com alguns arranhões a mais, devo dizer.
+O Velho Espinhorror está morto.
+Muito bem! A morte daquela fera horrenda ajudará a restaurar a ordem nesta região. Os meus superiores ficarão contentes em ouvir isso, pode ter certeza.
+Foi um prazer ajudar.
+Como vai a caçada pelo Velho Espinhorror?
+Onde eu posso encontrar a fera?
+Eu rastreei a fera até a Bacia Sombreada, ao sudeste do acampamento, mas depois ela simplesmente sumiu. Talvez ela esteja se escondendo em alguma caverna na região.
+Certo, estou indo.
+Ainda estou caçando.
+Esta é uma caçada na qual eu venho tendo dificuldades. Histórias locais falam de uma criatura espinhosa conhecida como Velho Espinhorror. Acontece que algumas das histórias são verdadeiras e o Velho Espinhorror foi visto aterrorizando os fazendeiros na Herdade.{^n}{^n}Eu consegui encontrar umas trilhas, mas as perdi na Bacia Sombreada, ao sul. Talvez ele esteja se escondendo em uma das cavernas que há por lá, mas eu não tenho certeza. Se você caçar o Velho Espinhorror, eu farei com que os meus superiores na Herdade saibam das suas contribuições. Que se dane, eu lhe darei algumas moedas como recompensa.
+Vou caçar essa fera.
+Não estou [[ms]interessado[fs]interessada] em caçar.
+Você está com sorte. Eu já matei o horror espinhoso carmesim.
+
+Teve sorte com as mantícoras?
+Eu tenho o veneno de que você precisa.
+Minha nossa, esta glândula está pulsando com veneno. É uma ótima amostra. Como prometido, uma espada mantícora para você. Deve servir bem contra humanos... menos amigáveis, e esperamos que contra ctônicos também.{^n}{^n}Você parece ser muito capaz. Caso esteja [[ms]interessado[fs]interessada] em algumas moedas, eu tenho uma caçada na qual você poderia me ajudar.
+O que você procura?
+
+Teve sorte com as mantícoras?
+Onde eu devo procurá-las?
+As mantícoras vagam pelo Deserto Dentado, ao oeste. Tenha cuidado. Eu preciso do veneno numa glândula, não em suas veias.
+Vou tomar cuidado.
+Ainda não lidei com uma Espreitadora do Deserto.
+Você deve ser [[ms]um baita slith[fs]uma baita slith] por ter conseguido chegar até aqui [[ms]sozinho[fs]sozinha]. Eu sou o Marca da Morte Kadris, da Legião Negra. O que [[ms]o[fs]a] traz aqui, [[ms]cidadão[fs]cidadã]?
+Estou explorando a região.
+Entendo. Bem, eu não posso [[ms]impedi-lo[fs]impedi-la] de prosseguir, mas devo [[ms]avisá-lo[fs]avisá-la] de que as terras selvagens daqui não devem ser levadas na brincadeira. O Deserto Dentado, ao oeste, está cheio de mantícoras, mas, se você for [[ms]tolo[fs]tola] o suficiente para se aventurar até lá, talvez possa trazer uma coisa para mim.
+Claro. De que você precisa?
+As Mantícoras Espreitadoras do Deserto possuem um veneno muito potente em suas caudas farpadas. Ele é bastante cáustico e pode queimar praticamente tudo. A minha esperança é que a Legião possa usá-lo contra os invasores Ctônicos.{^n}{^n}Nós estamos lidando com um grande grupo de cultistas perto da Herdade e eles estão começando a evocar os maiores demônios do vazio. Precisamos revidar rápido, ou logo não haverá um lar para defendermos. Se você me trouxer uma glândula de veneno de uma Espreitadora do Deserto, eu lhe darei, com um sorriso no rosto, uma espada revestida com o veneno. Deve fazer um bom estrago em batalha. O que me diz?
+Vou lhe conseguir o veneno.
+Não, [[ms]obrigado[fs]obrigada]. Parece ser perigoso.
+Na verdade, eu já consegui um pouco de veneno de mantícora.
+
+Não estou [[ms]interessado[fs]interessada].
+O que vocês estão fazendo aqui?
+O meu esquadrão foi mandado para cá, nos Sertões dos Pinheiros, para caçar as perigosas feras que rondam a Herdade. É uma tarefa cansativa, mas alguém precisa fazê-la.
+Precisa de ajuda?
+
+Boa sorte.
+[[ms]Cidadão[fs]Cidadã]? O império não havia caído?
+Enquanto houver um membro respirando na Legião Negra, a batalha não acabará.{^n}{^n}Podemos ter perdido a capital, mas não perdemos a guerra!
+Precisa de ajuda?
+
+Você é ingênuo.
+A Legião Negra?
+Hum... sim?! A Elite Imperial?! Os Conquistadores de Venmar?! Você deve ser do interior.{^n}{^n}Eles também não sabiam muito sobre nós na Herdade.
+Onde é que fica a Herdade?
+É para lá que você quer ir? Você está indo pelo caminho errado, [[ms]amigo[fs]amiga].{^n}{^n}A Herdade está muito longe, ao norte daqui. Siga pela Estrada Poeirenta.
+[[ms]Obrigado[fs]Obrigada].
+
+Adeus.
+Estou só de passagem.

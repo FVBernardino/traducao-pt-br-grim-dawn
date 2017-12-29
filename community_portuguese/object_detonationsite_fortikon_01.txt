@@ -1,0 +1,7 @@
+Local de Detonação
+Este portão colapsou, mas parece ter sido de maneira deliberada. Com explosivos suficientes, o caminho poderia ser reaberto.{^n}{^n}A desobstrução requer alguns Explosivos Potentes.
+Você não possui os Explosivos Potentes.
+Demolir a Barricada.
+Sair.
+Você demoliu esta barricada.
+Ok.

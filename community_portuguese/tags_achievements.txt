@@ -1,0 +1,228 @@
+# Achievement Groups
+
+achGroupAct1=Ato I
+achGroupAct2=Ato II
+achGroupAct3=Ato III
+achGroupChallenges=Desafios
+achGroupCharacter=Personagem
+achGroupMonsters=Monstros
+achGroupStory=História
+achGroupWorld=Mundo
+
+# Achievements
+
+ach001Title=Matador de Monstros
+ach001Desc=Erradique 25 Monstros Heroicos (marcados por uma Estrela).
+
+ach002Title=Matador Heroico
+ach002Desc=Erradique 100 Monstros Heroicos (marcados por uma Estrela).
+
+ach003Title=Matador Lendário
+ach003Desc=Erradique 1000 Monstros Heroicos (marcados por uma Estrela).
+
+ach004Title=Nêmesis
+ach004Desc=Mate um Monstro Nêmesis na Dificuldade Elite ou Supremo.
+
+ach005Title=Imparável
+ach005Desc=Mate Seis Monstros Nêmesis na Dificuldade Elite ou Supremo.
+
+ach006Title=Purificando o Mundo
+ach006Desc=Limpe Cairn de 25.000 Monstros.
+
+ach007Title=O Início de uma Carnificina
+ach007Desc=Limpe Cairn de 50.000 Monstros.
+
+ach008Title=Um Oceano de Sangue
+ach008Desc=Limpe Cairn de 100.000 Monstros.
+
+ach009Title=Amigos no Apocalipse
+ach009Desc=Torne-se Venerado(a) por uma Facção.
+
+ach010Title=O Exemplo de Cairn
+ach010Desc=Torne-se Venerado(a) por 6 Facções.
+
+ach011Title=Servo de Empyrion
+ach011Desc=Torne-se Venerado(a) pelos Escolhidos de Kymon.
+
+ach012Title=Seguidor de Uroboruuk
+ach012Desc=Torne-se Venerado(a) pela Ordem da Vigília da Morte.
+
+ach013Title=O Fim da Depravação
+ach013Desc=Mate 'Salazar, Lâmina de Ch'thon' no Santuário Depravado.
+
+ach014Title=Estilhaçando o Lâmina de Ch'thon
+ach014Desc=Mate 'Salazar, Lâmina de Ch'thon' no Santuário Depravado na Dificuldade Supremo.
+
+ach015Title=O Executor Executado
+ach015Desc=Mate 'Alkamos, Senhor Executor' nos Passos do Tormento.
+
+ach016Title=O Fim do Tormento
+ach016Desc=Mate 'Alkamos, Senhor Executor' nos Passos do Tormento na Dificuldade Supremo.
+
+ach017Title=Executor Imortal
+ach017Desc=Mate 'Alkamos, Senhor Executor' nos Passos do Tormento no Modo Hardcore.
+
+ach018Title=Fazendo Justiça
+ach018Desc=Mate o Carcereiro Krieg no Laboratório Oculto.
+
+ach019Title=Uma Velha Ameaça
+ach019Desc=Mate Darius Cronley.
+
+ach020Title=Sangue por Sangue
+ach020Desc=Mate 'Karroz, Signo de Ch'thon'.
+
+ach021Title=A Ruína de Cairn
+ach021Desc=Mate o 'Logorreano, a Voz de Ch'thon'.
+
+ach022Title=Purificando a Conflagração
+ach022Desc=Mate o Arauto das Chamas na Conflagração.
+
+ach023Title=Sem Medo de um Foguinho
+ach023Desc=Mate o Arauto das Chamas na Conflagração na Dificuldade Supremo.
+
+ach024Title=Estripando Vermentranhas
+ach024Desc=Mate Vermentranhas na Bacia do Contrabandista.
+
+ach025Title=Você Tem Estômago
+ach025Desc=Mate Vermentranhas na Bacia do Contrabandista na Dificuldade Supremo.
+
+ach026Title=Consertar é a Especialidade Dela
+ach026Desc=Resgate Darlet em Burrwitch.
+
+ach027Title=Pelo Malleum Menhir
+ach027Desc=Recorra à Ajuda de um Ferreiro.
+
+ach028Title=Sem Sopas para Você
+ach028Desc=Resgate Ulgrim nos Arredores de Burrwitch.
+
+ach029Title=Criador Aprendiz
+ach029Desc=Crie 10 itens.
+
+ach030Title=Criador Experiente
+ach030Desc=Crie 100 itens.
+
+ach031Title=Criador Mestre
+ach031Desc=Crie 1000 itens.
+
+ach032Title=Relíquias do Passado
+ach032Desc=Crie uma Relíquia.
+
+ach033Title=Poder Transcendente
+ach033Desc=Crie uma Relíquia Transcendente.
+
+ach034Title=Poder Mítico
+ach034Desc=Crie uma Relíquia Mítica.
+
+ach035Title=Explorador Júnior
+ach035Desc=Abra 10 Baús Únicos.
+
+ach036Title=Para o Explorador Vão os Espólios
+ach036Desc=Abra 20 Baús Únicos.
+
+ach037Title=Buscando as Estrelas
+ach037Desc=Restaure 10 Santuários de Devoção.
+
+ach038Title=Devoção Verdadeira
+ach038Desc=Restaure 50 Santuários de Devoção.
+
+ach039Title=Sobrevivente
+ach039Desc=Alcance o nível 10.
+
+ach040Title=Campeão
+ach040Desc=Alcance o nível 35.
+
+ach041Title=Herói
+ach041Desc=Alcance o nível 50.
+
+ach042Title=Lenda
+ach042Desc=Alcance o nível 85.
+
+ach043Title=Lenda Imortal
+ach043Desc=Alcance o nível 85 no Modo Hardcore.
+
+ach044Title=Salvador de Cairn
+ach044Desc=Complete o Jogo na Dificuldade Supremo.
+
+ach045Title=Salvador Imortal
+ach045Desc=Complete o Jogo na Dificuldade Supremo, Modo Hardcore.
+
+ach046Title=Decisões Difíceis
+ach046Desc=Resolva a situação em Novo Porto sem recorrer à violência.
+
+ach047Title=Sem Exceções
+ach047Desc=Mate Anasteria.
+
+ach048Title=Eu Não Estava Esperando Você, Humano
+ach048Desc=Mate o Carcereiro Krieg no Modo Veterano sem que o seu personagem alcance o nível 11.
+
+ach049Title=Assegurando Burrwitch
+ach049Desc=Assegure o Portal de Burrwitch no Modo Veterano.
+
+ach050Title=Escondido na Passagem Inundada
+ach050Desc=Descubra o que está escondido atrás das pedras desmoronadas na Passagem Inundada.
+
+ach051Title=O Segredo de Cronley
+ach051Desc=Descubra o Segredo de Darius Cronley.
+
+ach052Title=Riqueza Escondida
+ach052Desc=Encontre o tesouro enterrado nas terras agrícolas perto da Herdade.
+
+ach053Title=Nas Profundezas, Ele Viveu Esquecido
+ach053Desc=Mate 'Gollus, o Morador do Abismo'.
+
+ach054Title=A Sala da Morte
+ach054Desc=Sobreviva à Câmara das Almas.
+
+ach055Title=Deixe-me Apanhar Minhas Notas
+ach055Desc=Colete 5 Notas.
+
+ach056Title=Colecionador de Notas
+ach056Desc=Colete 20 Notas.
+
+ach057Title=Erudito
+ach057Desc=Colete 50 Notas.
+
+ach058Title=Os Campos do Desespero
+ach058Desc=Sobreviva aos Campos do Desespero.
+
+ach059Title=Ruína Celestial
+ach059Desc=Derrote o Avatar de Mogdrogen.
+
+ach060Title=Shar'Zul Extinto
+ach060Desc=Mate 'Shar'Zul, Arauto do Caos' no Bastião do Caos.
+
+ach061Title=O Bastião Conquistado
+ach061Desc=Mate 'Shar'Zul, Arauto do Caos' no Bastião do Caos na Dificuldade Supremo.
+
+ach062Title=Conquistador Imortal do Caos
+ach062Desc=Mate 'Shar'Zul, Arauto do Caos' no Bastião do Caos no Modo Hardcore.
+
+ach063Title=O Campeão da Ordem
+ach063Desc=Mate o Arconte Barthollem em nome da Ordem da Vigília da Morte na Dificuldade Supremo.
+
+ach064Title=O Escolhido de Kymon
+ach064Desc=Mate Malkadarr em nome dos Escolhidos de Kymon na Dificuldade Supremo.
+
+ach065Title=Purificando a Imolação
+ach065Desc=Mate o Arauto da Destruição na Imolação.
+
+ach066Title=Acabando com o Arauto
+ach066Desc=Mate o Arauto da Destruição na Imolação na Dificuldade Supremo.
+
+ach067Title=Defensor de Cairn
+ach067Desc=Complete o Jogo.
+
+ach068Title=Campeão de Cairn
+ach068Desc=Complete o Jogo na Dificuldade Elite.
+
+ach069Title=As Chamas de Valbury
+ach069Desc=Sobreviva às Chamas de Valbury.
+
+ach070Title=O Senhor Supremo Derrotado
+ach070Desc=Mate o Senhor Supremo Van Aldritch em Porto Valbury.
+
+ach071Title=Porto Valbury Vingada
+ach071Desc=Mate o Senhor Supremo Van Aldritch em Porto Valbury na Dificuldade Supremo.
+
+ach072Title=Subjugador Imortal de Valbury
+ach072Desc=Mate o Senhor Supremo Van Aldritch em Porto Valbury no Modo Hardcore.

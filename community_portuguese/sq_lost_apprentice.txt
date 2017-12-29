@@ -1,0 +1,27 @@
+Cruzamento do Diabo
+A Aprendiza do Inventor
+Encontre a Inventora
+Kasparov mandou que sua aprendiza, Darlet, coletasse peças para sua pesquisa e ela ainda não retornou. Se ela ainda estiver viva, com certeza está em um dos porões nas Propriedades de Burrwitch.{^n}{^n}Kasparov se sente um pouco responsável por ela e implorou a você que a encontrasse.
+Encontre a Aprendiza de Kasparov nos porões embaixo das Propriedades de Burrwitch
+
+Transporte a Inventora para Fora
+Você encontrou a Aprendiza de Kasparov, Darlet, em um porão embaixo das Propriedades de Burrwitch.{^n}{^n}Você deve abrir um portal para que ela possa voltar ao Cruzamento do Diabo.
+Transporte a Aprendiza de Kasparov para um lugar seguro
+
+Transporte a Inventora para um Lugar Seguro
+Você encontrou a Aprendiza de Kasparov, Darlet, em um porão embaixo das Propriedades de Burrwitch.{^n}{^n}Você deve encontrar uma forma de transportá-la de volta ao Cruzamento do Diabo. Ela disse que Kasparov pode ajudar.
+Encontre uma forma de transportar a Aprendiza de Kasparov para um lugar seguro
+Fale com Darlet
+A Aprendiza de Kasparov deve estar em segurança no Cruzamento do Diabo.{^n}{^n}Fale com ela para saber como ela está se recuperando de sua terrível experiência.
+
+
+Fale com Darlet no Cruzamento do Diabo
+
+
+
+
+
+
+
+
+

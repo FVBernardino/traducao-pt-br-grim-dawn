@@ -1,0 +1,24 @@
+Collin Taverin
+Obrigado por ter tirado a minha dúvida.
+Sinto muito.
+A tenacidade de Ulgrim é incrível. Ele mal chegou aqui e já está se coordenando com os oficiais.{^n}{^n}Eu acho que nunca o vi dormir ou descansar, nem mesmo depois que ele espantou os trolls na Ravina do Morto. Como pode um homem fazer tanto?
+É que ele precisa.
+Você encontrou a minha irmã?
+Sim, ela estava nas Profundezas da Montanha. Sinto muito.
+Eu... tinha um pressentimento.{^n}{^n}Obrigado pela informação. Eu... Desculpe...
+Sinto muito pela sua perda.
+Você encontrou a minha irmã?
+Você pode repetir onde a sua irmã está?
+Dahlia entrou sozinha nas Profundezas da Montanha, perto da Ravina do Morto. Ela foi em busca de resgate e suprimentos. Por favor, encontre-a.
+Farei o que puder.
+Ainda estou procurando.
+Você é [[ms]aquele[fs]aquela] que nos ajudou lá na Ravina do Morto. Eu queria saber se você pode me ajudar de novo.
+O que é?
+Minha irmã, Dahlia, cansou de ficar esperando pela morte na Ravina do Morto. Apesar da insistência de Ulgrim para que ela ficasse, ela partiu sozinha para as profundezas em busca de resgate e suprimentos.{^n}{^n}Agora que já chegamos à Herdade e minha irmã não está em lugar nenhum, estou começando a achar que ela não conseguiu sair das Profundezas da Montanha. Você poderia fazer o favor de procurá-la? Eu temo o pior.
+Vou procurá-la.
+Sinto muito. Não posso ajudá-lo.
+Eu já a encontrei. Sinto muito.
+
+Desculpe. Estou [[ms]ocupado[fs]ocupada] agora.
+Eu não consigo acreditar que nós sobrevivemos à Ravina do Morto. Se pelo menos Dahlia estivesse aqui comigo...
+Adeus.

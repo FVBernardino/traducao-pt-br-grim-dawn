@@ -1,0 +1,6 @@
+Umkalo
+Estes são tempos perigosos, viajante. As estradas não são mais seguras como costumavam ser.{^n}{^n}Normalmente eu [[ms]o[fs]a] convidaria para se sentar ao lado da nossa fogueira, mas seria melhor se você deixasse este lugar...
+Você pode me dizer alguma coisa sobre a região?
+Se você estiver indo para o norte, tome cuidado nas terras agrícolas. Elas foram invadidas por Dermápteros.{^n}{^n}Eles são mais numerosos perto do ninho, onde a rainha deles reside.{^n}{^n}Caso você encontre um buraco grande no chão, é melhor manter distância.
+[[ms]Obrigado[fs]Obrigada] pelo aviso.
+[[ms]Obrigado[fs]Obrigada].

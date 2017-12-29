@@ -1,0 +1,22 @@
+Haruuv
+Saudações. Espero que tudo esteja indo bem na nossa guerra contra os invasores.
+Onde fica o santuário da Ordem da Vigília da Morte?
+Nós tomamos uma pequena cripta localizada além do Bosque Sangrento, ao norte. Infelizmente, ela fica próxima ao Bastião da Amargura, o maldito refúgio dos Escolhidos de Kymon.
+[[ms]Obrigado[fs]Obrigada].
+Adeus.
+Você profana este lugar com a sua presença, zelote.
+Estou saindo.
+Saudações.
+Adeus.
+Você entrou na presença da Ordem da Vigília da Morte. Prossiga com cautela, [[ms]forasteiro[fs]forasteira].
+Adeus.
+Por favor, visite o nosso santuário. O Mestre Varuuk vai querer falar com você.
+Onde fica o santuário de vocês?
+O nosso santuário fica ao oeste das ruínas do antigo forte conhecido como Bastião da Amargura, ao norte.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte da Herdade e atravessar os Campos em Pousio.
+[[ms]Obrigado[fs]Obrigada].
+Estou indo.
+Eu lhe peço que procure o nosso santuário, ao norte. Nós nos apoderamos de uma pequena cripta escondida nas montanhas, ao oeste do Bastião da Amargura.{^n}{^n}Para chegar lá, você deve pegar a estrada ao norte e atravessar os Campos em Pousio. Quando você alcançar as ruínas do antigo forte, estará perto da nossa casa.{^n}{^n}Uma vez lá dentro, encontre o Mestre Varuuk. Ele vai querer falar com [[ms]o nosso novo aliado[fs]a nossa nova aliada].
+Vou procurar o santuário de vocês.
+Talvez em outra ocasião.
+Você entrou na presença da Ordem da Vigília da Morte. Prossiga com cautela, [[ms]forasteiro[fs]forasteira].
+Adeus.

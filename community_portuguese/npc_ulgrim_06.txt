@@ -1,0 +1,62 @@
+Ulgrim
+Não fique aí [[ms]parado[fs]parada] olhando para o meu lindo rosto. Há trabalho a fazer!
+Adeus.
+Seus aliados parecem ter as coisas sob controle.
+Adeus.
+Não fique aí [[ms]parado[fs]parada] olhando para o meu lindo rosto. Há trabalho a fazer!
+Adeus.
+Vejo você dentro da Tumba dos Vigilantes, logo depois do Selo do Logorreano.{^n}{^n}Agora vá!
+Onde é que fica a Tumba dos Vigilantes?
+A Tumba dos Vigilantes fica na extremidade nordeste da Necrópole. Ela é fortemente protegida pelo Culto de Ch'thon e pelos demônios do Vazio, portanto tenha cuidado.{^n}{^n}Vejo você logo depois do Selo do Logorreano.
+Vejo você lá dentro.
+Está bem.
+O Culto de Ch'thon é numeroso demais para que possamos atacá-los frontalmente, mas podemos sabotar os esforços deles com alguns ataques precisos, enquanto os nossos amigos da Legião Negra os mantêm distraídos em outros lugares.
+O que você tem em mente?
+Parece que o ritual está sendo alimentado por sangue recolhido em acampamentos do culto, entregue aqui em abomináveis Carroções Sangrentos.{^n}{^n}Para complicar, o fluxo constante de sangue está mantendo um selo ctônico sobre a entrada da Tumba dos Vigilantes. Eu posso conseguir rompê-lo com um pouco de esforço, mas não há como você seguir junto comigo. Você vai ter que interromper o fornecimento de sangue primeiro. A tumba está dividida em três níveis, com o piso inferior selado atrás de antigas proteções; mas, se o culto está fornecendo sangue nessas quantidades, eles já devem tê-las transposto.{^n}{^n}Eu vou entrar na tumba e ver se consigo interromper o ritual lá dentro. Enquanto isso, você deve lidar com os Carroções Sangrentos. Quando tiver terminado, junte-se a mim no nível inferior, logo depois do Selo do Logorreano. Se tivermos sorte, vamos deter o Culto de Ch'thon antes mesmo que o Logorreano mova um membro tentaculado.
+Nós vamos deter o culto.
+Não há outra pessoa para lidar com isso?
+Eu já destruí os carroções.
+Ótimo.{^n}{^n}Agora tudo o que resta é a simples tarefa de atacar o coração das forças do inimigo, invadindo a Tumba dos Vigilantes e assegurando o local do ritual antes que o culto possa causar mais danos.{^n}{^n}Vejo você dentro da tumba.
+Vamos acabar com isso.
+Tenho algumas perguntas.
+Não sei se agora é a hora.
+Você parece estranhamente abalado com o retorno do Logorreano.
+Não é nada. Só estou triste de descobrir que esse mal nunca poderá realmente ser contido.{^n}{^n}*Ulgrim dá um sorriso irônico.*{^n}{^n}Se eu ficar muito emotivo durante a luta, é só me entregar um lenço.
+Qual é o nosso próximo passo?
+
+Tenho outra pergunta.
+Já volto.
+Quer dizer que essa coisa já foi evocada antes?
+Sim, há muitos séculos, na Batalha de Ikon. Ninguém sabe ao certo se eram os Carineanos realizando uma última e desesperada manobra ou se o Logorreano foi atraído por todo aquele sangue derramado, mas os resultados foram catastróficos.{^n}{^n}E agora sabemos qual era o verdadeiro propósito por trás da Necrópole.
+Qual é o nosso próximo passo?
+
+Tenho outra pergunta.
+Já volto.
+O que acontece se falharmos?
+Aí eu espero que você tenha um deus que [[ms]o[fs]a] proteja, porque estaremos todos condenados.{^n}{^n}Eu prefiro não pensar em eventualidades para as quais não vou estar vivo, então vamos nos concentrar em ter sucesso.
+Qual é o nosso plano, então?
+
+Tenho outra pergunta.
+Já volto.
+Precisaremos discutir isso mais tarde.
+Você demorou bastante.{^n}{^n}Pensei que eu teria que salvar o mundo sozinho.
+Qual é o plano?
+
+Prepare-se. O pesadelo enterrado sob a Necrópole é bem real.
+Tenho algumas perguntas.
+Não sei se agora é a hora.
+Você parece estranhamente abalado com o retorno do Logorreano.
+Não é nada. Só estou triste de descobrir que esse mal nunca poderá realmente ser contido.{^n}{^n}*Ulgrim dá um sorriso irônico.*{^n}{^n}Se eu ficar muito emotivo durante a luta, é só me entregar um lenço.
+Tenho outra pergunta.
+Vou ter isso em mente.
+Quer dizer que essa coisa já foi evocada antes?
+Sim, há muitos séculos, na Batalha de Ikon. Ninguém sabe ao certo se eram os Carineanos realizando uma última e desesperada manobra ou se o Logorreano foi atraído por todo aquele sangue derramado, mas os resultados foram catastróficos.{^n}{^n}E agora sabemos qual era o verdadeiro propósito por trás da Necrópole.
+Tenho outra pergunta.
+Erros do passado voltando.
+Qual é o nosso plano de ação?
+A Legião Negra vai criar uma distração enquanto você e eu nos encarregamos dos detalhes escabrosos.{^n}{^n}Nós vamos ter que interromper o fluxo de sangue para a câmara do ritual e, em seguida, o próprio ritual, na Tumba dos Vigilantes.{^n}{^n}Não há nada como uma boa e velha missão suicida para fazer o coração bater.
+Tenho outra pergunta.
+Sim, hum... com certeza...
+Por mim, tudo bem.
+Deixe pra lá.
+Adeus.

@@ -1,0 +1,27 @@
+Irmão Molltair
+A sua decisão de se arrepender das suas práticas é sábia. Que Empyrion abençoe o seu caminho e guie você de volta para a luz.
+Onde fica o refúgio dos Escolhidos de Kymon?
+Fica além do Bosque Sangrento. Nós nos refugiamos num antigo forte conhecido como Bastião da Amargura. Siga pela estrada ao norte.
+[[ms]Obrigado[fs]Obrigada].
+Adeus.
+Você escolheu sabiamente, [[ms]amigo[fs]amiga]. Que Empyrion abençoe o seu caminho.
+Onde fica o refúgio dos Escolhidos de Kymon?
+Fica além do Bosque Sangrento. Nós nos refugiamos num antigo forte conhecido como Bastião da Amargura. Siga pela estrada ao norte.
+[[ms]Obrigado[fs]Obrigada].
+Adeus.
+Você não pertence a este lugar. Saia agora e talvez continue [[ms]vivo[fs]viva].
+Tudo bem, estou indo.
+Você escolheu sabiamente, [[ms]amigo[fs]amiga]. Que Empyrion abençoe o seu caminho.
+Adeus.
+Somente aqueles que procuram a verdade de Empyrion são bem-vindos aqui. Você deve sair.
+Adeus.
+Você é [[ms]esperado[fs]esperada] no nosso enclave.
+Onde está localizado o enclave de vocês?
+Saia pelos portões ao norte e entre nos Campos em Pousio. Siga pela estrada até chegar às ruínas da antiga fortaleza conhecida como Bastião da Amargura. O nosso enclave está na torre.
+[[ms]Obrigado[fs]Obrigada].
+Estou indo.
+Eu lhe peço que visite o nosso enclave, ao norte. Nós tomamos uma parte do Bastião da Amargura e a transformamos na nossa nova casa.{^n}{^n}Para nos encontrar, pegue a estrada ao norte e atravesse os Campos em Pousio. Quando você alcançar as ruínas, procure a torre.{^n}{^n}Uma vez lá, por favor, fale com o Irmão Elluvius. Ele vai colocar você no nosso caminho iluminado.
+Vou procurar o enclave de vocês.
+Talvez em outra ocasião.
+Somente aqueles que procuram a verdade de Empyrion são bem-vindos aqui. Você deve sair.
+Adeus.

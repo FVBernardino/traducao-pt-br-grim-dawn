@@ -1,0 +1,13 @@
+Jasper
+Por favor, [[ms]forasteiro[fs]forasteira], abaixe sua arma; nós não somos bandidos! Fomos capturados e forçados a trabalhar nesta mina. Espero que você esteja aqui para nos libertar.
+Vocês eram escravos aqui?
+É o que parecia e não há nada pior para um nômade do que estar confinado. Fazemos parte de um bando de nômades que montou acampamento em uma área isolada de Wightmire para tentar evitar problemas, mas os problemas nos encontraram mesmo assim.{^n}{^n}Capturaram quatro de nós, mas o jovem Larkin e outros dois homens que já estavam aqui morreram por excesso de trabalho. Seus corpos foram simplesmente deixados aqui conosco... Os nômades trilham o caminho da paz, mas devo dizer que o mundo é um lugar melhor desde que você acabou com esses bandidos.
+Eu posso abrir um portal e levá-los ao Cruzamento do Diabo.
+Um portal? Interessante. Agradeço sua gentil oferta, mas devemos voltar para a nossa gente, no pântano. Aquele é o nosso caminho.
+Está bem.
+Vamos contar a sua façanha à nossa gente. Caso algum dia você se encontre na companhia de Nômades, terá um lugar garantido ao lado da nossa fogueira.
+Cuidem-se.
+Eu matei os bandidos. Vocês estão livres.
+
+Obrigado novamente por ter nos devolvido a liberdade. Descansaremos um pouco e depois nos juntaremos à nossa gente.
+Boa viagem.

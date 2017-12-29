@@ -1,0 +1,23 @@
+Kuldo
+A minha trajetória é longa e eu já vi muita coisa neste mundo. Que sabedoria você busca, viajante?
+Não sei exatamente, o que você tem a dizer?
+
+Muitos, até mesmo entre a nossa gente, esqueceram a origem do nosso nome. "Nômades" é um nome estrangeiro confundido com o nosso verdadeiro nome, Rhowari, o povo de Rhowan. Com o tempo, ficamos tão acostumados a sermos chamados de Nômades que muitos de nós passaram a preferi-lo. Nós nos tornamos viajantes livres e indiferentes e acabamos perdendo nossa verdadeira identidade.
+A movimentação de nômades entre povoados não é sempre bem-vista e, por isso, descobrimos muitos caminhos ocultos por este reino. Caso queira ir para além de Wightmire, saiba que a ponte para o Vilarejo de Burrwitch foi destruída, mas embaixo dela há uma entrada para uma passagem inundada que pode [[ms]levá-lo[fs]levá-la] até lá. Contudo, eu só tomaria aquele caminho em caso de extrema necessidade, pois a caverna, que já era perigosa em tempos melhores, foi ficando cada vez mais cheia de Slith e outras monstruosidades.
+Desde o Alvorecer Sombrio, muitos horrores entraram em nosso mundo e os que aqui estavam proliferaram sem o olhar atento dos caçadores do Império que os mantinha sob controle. Ainda assim, as criaturas mais perigosas que você vai encontrar em suas viagens são os humanos. É difícil distinguir um amigo de um inimigo quando se trata de pessoas, afinal, nós somos as criaturas mais astutas. Tome cuidado com as gangues de criminosos e os dementes solitários nas estradas, pois muitas vezes fingem ser almas desesperadas à procura de ajuda.
+Os cultos Ctônicos já existiam antes de o primeiro viajante pegar a estrada. Sob o Império, eles foram declarados ilegais e começaram a operar na clandestinidade. Quando os inquisidores descobriam cultos, os lâminas noturnas do Imperador eram enviados para caçar e executar os praticantes. Mesmo assim, eles não puderam ser erradicados e agora ficam cada vez mais poderosos, pois muitas pessoas se juntam a eles em busca de um propósito ou salvação. Ainda mais preocupante, eu ouvi boatos que dão conta de que os cultos recentemente têm tido sucesso em evocar os servos monstruosos do deus deles para andar por este mundo.
+O mundo material que você vê ao seu redor não é o limite da realidade, tampouco este é o único reino de existência. Nosso folclore fala de viajantes que encontraram caminhos escondidos que permitem atravessar o véu entre as realidades e passar para outros reinos de existência. Aqueles que retornaram descrevem mundos fantásticos, muito diferentes do nosso. A chegada dos Etéreos é prova disso e os portais que eles usam para burlar a distância e o tempo, a fim de viajar instantaneamente de um lugar a outro, são feridas no véu da realidade. Nós, nômades, já vimos muitas coisas não Etéreas atravessarem seus portais para entrar no nosso mundo. Mesmo que pudéssemos expulsar a todas, será que um dia essas feridas vão curar?
+O Primeiro Viajante foi Rhowan, um rei da Velha Arkóvia, a cidade que outrora governou sobre estas terras e muitas outras. Dizem que Rhowan encontrou um velho na estrada enquanto retornava de uma batalha. O velho falou sobre muitas coisas estranhas e revelou ser um deus que tinha andado por todos os cantos deste mundo desde o início dos tempos. Ele alertou Rhowan de que uma grande desgraça se abateria sobre Arkóvia devido à obsessão de seu povo por títulos e posses. Quando Rhowan retornou, ele renunciou ao seu trono e suas terras e pegou a estrada, levando consigo apenas o que podia carregar. Muitos se juntaram a ele e ficaram conhecidos como os Rhowari, que acabaram originando os nômades atuais. Rhowan foi ridicularizado pela maioria dos Arkovianos, incluindo sua própria família que o julgou louco, mas, no fim, a profecia do velho se cumpriu; Arkóvia ruiu e suas terras são amaldiçoadas até hoje.
+Interessante. O que mais você tem para me contar, meu velho?
+
+Até mais, meu velho.
+Eu preciso ir.
+Que o seu caminho seja o verdadeiro.
+Pensando bem, você tem alguma sabedoria para compartilhar?
+Adeus.
+Você é [[ms]o primeiro[fs]a primeira] a nos encontrar em muito tempo. Fique à vontade para se aquecer na nossa fogueira, mas, quando for embora, peço que guarde segredo sobre este acampamento.
+Claro, eu posso fazer isso.
+Você está [[ms]convidado[fs]convidada] a voltar, contanto que não traga violência para este local.
+Alguma sabedoria para compartilhar sobre o caminho à frente?
+
+[[ms]Obrigado[fs]Obrigada], eu vou me lembrar disso.

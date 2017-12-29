@@ -1,0 +1,31 @@
+Cruzamento do Diabo
+A Caravana Perdida
+Você Encontrou uma Caravana
+Você encontrou pelo caminho uma caravana destruída, perto da Ribanceira Nebulosa. Há sinais de luta, mas nenhum sinal do condutor.{^n}{^n}Pode-se ver sangue e rastros de Slith levando às profundezas do pântano. Talvez o condutor ainda esteja vivo. Dê uma olhada nos acampamentos de Slith na Ribanceira Nebulosa em busca do desafortunado viajante.
+Procure o Condutor da Caravana nos Acampamentos de Slith próximos à Estrada de Burrwitch
+
+Fale com o Condutor da Caravana
+Luther Graves está gravemente ferido, preso em uma jaula Slith na Ribanceira Nebulosa. A julgar pelos cadáveres humanos em torno dele, ele foi o sortudo.{^n}{^n}Fale com ele e descubra o que aconteceu.
+Fale com o Condutor da Caravana capturado
+
+
+
+
+Transporte Luther Graves para um lugar seguro (Backup para personagens antigos, não deve mais ser o caso)
+Luther Graves está gravemente ferido, preso em uma jaula Slith na Ribanceira Nebulosa. A julgar pelos cadáveres humanos em torno dele, ele foi o sortudo.{^n}{^n}Fale com ele e descubra o que aconteceu.
+Fale com o Condutor da Caravana capturado
+
+Converse com Luther Graves no Cruzamento do Diabo
+Luther Graves deve estar em segurança no Cruzamento do Diabo.{^n}{^n}Fale com ele para ver como ele está se saindo.
+
+
+
+Fale com Luther Graves no Cruzamento do Diabo
+
+
+
+
+
+
+
+

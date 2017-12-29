@@ -1,0 +1,25 @@
+Sargenta Serriv
+Aquela serraria vai ser de grande ajuda para tornarmos este lugar mais habitável. Obrigada.
+Adeus.
+Espero que você não esteja aqui só para passear.
+Adeus.
+Teve sorte com a serraria?
+A serraria está livre dos Ctônicos.
+Eu vou enviar homens para lá imediatamente. Precisamos assegurar que ela continue assim.{^n}{^n}Bom trabalho.
+[[ms]Obrigado[fs]Obrigada].
+Teve sorte com a serraria?
+Você pode repetir onde a serraria está?
+Saia pelos portões norte em direção ao Bosque Sangrento. A serraria não está longe, mas está infestada de Ctônicos.
+Vou dar um jeito nisso.
+Vai demorar um pouco para acabar com os Ctônicos.
+Com licença, [[ms]cidadão[fs]cidadã], mas eu estava pensando se você poderia me ajudar em uma coisa.
+De que você precisa?
+A Herdade está ficando sem materiais de construção. Já sucateamos o telhado do celeiro para reforçar as paredes, mas há um limite naquilo que podemos fazer com chapas de metal. Uma das contruções aqui daria um ótimo dormitório, mas está completamente degradada.{^n}{^n}Vamos precisar de madeira serrada e eu sei exatamente onde consegui-la. O problema é que a serraria mais próxima está infestada de Ctônicos. Eu insisti com a Capitã no fato de que os nossos homens precisam de um lugar decente para dormir, mas ela acha que haveria muitas mortes se tentássemos retomar a serraria.{^n}{^n}Você não recebe ordens dela. Você faz o que quiser. Por favor, vá até o Bosque Sangrento, ao norte, e retome a Serraria de Gryver. Depois dos seus atos heroicos na Colheita Macabra, alguns monstrinhos Ctônicos vão ser moleza.
+Vou limpar a serraria.
+Dê um jeito nisso você mesma.
+Desculpe. Não posso ajudá-la.
+Espero que você não esteja aqui só para passear.
+Precisa que algo seja feito?
+Se você quer ajudar, converse com a Capitã Somer.
+Adeus.
+Adeus.

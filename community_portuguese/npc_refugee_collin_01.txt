@@ -1,0 +1,31 @@
+Collin Taverin
+Minha irmã deve estar morta. Que os deuses me levem de uma vez! Eu não aguento mais este inferno.
+Não desista ainda.
+Obrigado por ter tirado a minha dúvida.
+Sinto muito.
+Você encontrou a minha irmã?
+Sim, ela estava nas Profundezas da Montanha. Sinto muito.
+Eu... tinha um pressentimento.{^n}{^n}Obrigado pela informação. Eu... Desculpe...
+Sinto muito pela sua perda.
+Você encontrou a minha irmã?
+Você pode repetir onde a sua irmã está?
+Dahlia entrou sozinha nas Profundezas da Montanha em busca de resgate e suprimentos. A entrada fica lá embaixo, ao oeste. Por favor, encontre-a.
+Farei o que puder.
+Ainda estou procurando.
+Sinto muito por ter bisbilhotado, mas eu ouvi que você passou pela Ravina do Morto.
+Isso mesmo. Por quê?
+Eu estou com uma ferida aberta no flanco e a minha irmã, Dahlia, cansou de ficar esperando aqui. Apesar da insistência de Ulgrim para que ela ficasse, ela partiu sozinha para as profundezas em busca de resgate e suprimentos médicos.{^n}{^n}Já se passou mais de um dia e agora eu tenho... tenho medo de que alguma coisa possa ter acontecido. Você poderia fazer o favor de procurá-la? Eu temo o pior.
+Vou procurar Dahlia.
+Sinto muito. Não posso ajudá-lo.
+Eu já a encontrei. Sinto muito.
+
+Sinto muito por ter bisbilhotado, mas eu ouvi que você vai passar pelas Profundezas da Montanha.
+Isso mesmo. Por quê?
+Eu estou com uma ferida aberta no flanco e a minha irmã, Dahlia, cansou de ficar esperando aqui. Apesar da insistência de Ulgrim para que ela ficasse, ela partiu sozinha para as profundezas em busca de resgate e suprimentos médicos.{^n}{^n}Já se passou mais de um dia e agora eu tenho... tenho medo de que alguma coisa possa ter acontecido. Você poderia fazer o favor de procurá-la? Eu temo o pior.
+Vou procurar Dahlia.
+Sinto muito. Não posso ajudá-lo.
+Eu já a encontrei. Sinto muito.
+
+Vou levá-lo a um lugar seguro em breve.
+Minha irmã deve estar morta. Que os deuses me levem de uma vez! Eu não aguento mais este inferno.
+Não desista ainda.

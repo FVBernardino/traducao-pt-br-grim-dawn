@@ -1,0 +1,142 @@
+Recompensas da Herdade
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você retorna triunfantemente e uma Recompensa é cumprida.
+Relatar.
+
+Afastar-se da Mesa de Recompensas.
+Você já está em uma Recompensa para a Herdade.
+Afastar-se da Mesa de Recompensas.
+A Herdade está sendo atacada por todos os lados.{^n}{^n}Se não receberem mais ajuda, tudo o que lutaram para construir poderá desmoronar.
+Dar uma olhada na recompensa.
+Não há mais Recompensas postadas pela Herdade.
+Afastar-se da Mesa de Recompensas.
+Dar uma olhada na recompensa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afastar-se da Mesa de Recompensas.
+Os Etéreos corrompem tudo o que há de bom neste mundo. Presenciamos quando eles transformaram nossos espantalhos em monstruosidades possuídas que caçam a nossa gente.{^n}{^n}Ironicamente, os Ceifeiros Assombrados são capazes de atrair corvos e vinculá-los à sua vontade. Queremos que essas abominações sejam destruídas e estamos oferecendo pedaços de ferro para que isso seja feito.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os gorgulhos Dermápteros são o estágio larval imaturo dos espécimes maiores.{^n}{^n}Se eles forem eliminados, a população Dermáptera adulta deverá sofrer uma redução. Eles não são muito perigosos individualmente, mas é melhor tomar cuidado. Quando estão em grande número, podem ser tão letais quanto os adultos.{^n}{^n}Estamos oferecendo pedaços de ferro como recompensa por esse extermínio.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Trolls sempre foram um problema oriundo do sul, mas nós nunca havíamos encontrado nada como as Vanguardas Carnedisformes que estão atacando a Herdade.{^n}{^n}Elas são uma grave ameaça para a segurança deste refúgio e devem ser eliminadas.{^n}{^n}Daremos pedaços de ferro para qualquer homem ou mulher que ajudar a proteger a Herdade.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+As mantícoras são caçadoras ferozes, mas é com as Alfas que você deve tomar cuidado. Elas são as que viajam para além das áreas onde as mantícoras costumam caçar, guiando grupos inteiros para novas áreas.{^n}{^n}Não podemos deixar que as Mantícoras se espalhem para as áreas em torno da Herdade. Elimine as Alfas no Deserto Dentado e no Bosque Sangrento e você receberá pedaços de ferro como recompensa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Espinhosos praticamente tomaram as terras ao sudeste. Se quisermos recuperar as estradas que levam ao Cruzamento do Diabo, devemos começar a eliminá-los.{^n}{^n}As Monstruosidades Espinhosas são as reprodutoras em seus grupos e devem ser aniquiladas.{^n}{^n}Uma bolsa com pedaços de ferro está sendo oferecida para quem levar a cabo essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Etéreos são uma praga sobre o nosso mundo, uma praga que agora assola nossas casas e nossos campos. Aonde quer que os Etéreos vão, vemos seus Dominadores espalharem corrupção a cada passo.{^n}{^n}Se quisermos recuperar nossos campos, devemos acabar com a fonte dessa mácula que está sobre nossa terra.{^n}{^n}A maior parte do que temos vai para a Legião, mas temos alguns materiais recuperados que podemos compartilhar com quem estiver disposto a ajudar.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Trolls Verrugapedras são uma raça teimosa de semiferas assassinas. Já tentamos eliminá-los por duas vezes na história recente, mas, nas duas tentativas, eles acabaram voltando. Agora que o mundo está em ruínas, os trolls vêm se espalhando.{^n}{^n}Eles já infestaram a Passagem do Contrabandista. Devemos nos certificar de que eles nunca tentarão rumar para o norte. Ensine-os a temer a humanidade e elimine os Trolls Verrugapedras. Estamos oferecendo de bom grado uma recompensa em pedaços de ferro para que isso seja feito.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Quando eu era mais novo, costumava percorrer uma rota de contrabando que passava entre a Herdade e Burrwitch. Nossas operações estavam concentradas num lugar que chamávamos de Bacia do Contrabandista, perto de Burrwitch.{^n}{^n}Ouvi dizer que o lugar foi massacrado por um dranghoul conhecido como Vermentranhas. A fera banqueteou-se com a carne de meus companheiros e dispersou seus ossos.{^n}{^n}Eu quero vingança. Quero o Devorador de Homens morto. Guardei alguns materiais valiosos em meus dias de contrabandista. Terei o maior prazer em compartilhá-los com quem abater aquela fera.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Ouvimos histórias de terror a respeito de trolls que invadem casas no meio da noite e capturam moças virgens, mas nenhuma história é tão horrenda quanto a de 'Bogloth, o Bebedor de Medula'.{^n}{^n}Bogloth não se interessa apenas pelas virgens. Ele deixa famílias inteiras arruinadas, matando os habitantes da casa e arrancando os ossos de seus corpos.{^n}{^n}Bogloth foi visto recentemente perto da Passagem do Contrabandista, que é provavelmente o seu esconderijo. Acabe com aquele monstro e você receberá como recompensa alguns dos nossos suprimentos recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Dermápteros infestaram nossos campos. Eles banqueteiam-se em nossos meses de trabalho extenuante. Mas há entre eles um mais voraz do que qualquer outro Dermáptero que já vimos.{^n}{^n}Trata-se de um gorgulho enorme ao qual chamamos de Gafanhoto. Normalmente, os Dermápteros fazem ecdise muito antes de atingir tal dimensão. Não queremos nem pensar no que ele se tornará.{^n}{^n}É melhor matá-lo antes que ele se transforme. Estamos oferecendo uma recompensa em materiais recuperados para quem desbravar as Colmeias Dermápteras.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Vizires Dermápteros são a principal progênie da rainha. Quando um deles é selecionado para ascender a Grande Vizir, é mandado de volta à colmeia para banquetear-se até ficar com um tamanho monstruoso.{^n}{^n}Um desses Dermápteros, o Vizir Haxin, parece ser o próximo. Se ele for morto antes de atingir a fase final de sua metamorfose, os Dermápteros perderão um guardião valioso. Procure essa monstruosidade nos campos antes que ela se torne um problema grande demais para ser contido. Esse ato de coragem será recompensado com materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Temos ouvido queixas a respeito de pesadelos febris sobre sangue e escuridão. A última vez que ouvi falar de tal fenômeno foi quando um Trog Magossangrento estava realizando um ritual nas profundezas da terra.{^n}{^n}Alguém precisa ir até as Profundezas da Montanha e eliminar o Trog que está causando isso. Estamos oferecendo materiais recuperados como recompensa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Phabius Crowsworth é um dos moradores locais, mas, infelizmente, estava em Burrwitch com a família quando o Alvorecer Sombrio ocorreu.{^n}{^n}Com base nas histórias que ouvi sobre o que aconteceu no vilarejo, eu temo o pior. Por favor, se Phabius foi transformado em um daqueles monstros mortos-vivos, quero que ele possa descansar em paz.{^n}{^n}Terei o maior prazer em compartilhar meus suprimentos recuperados em troca de paz de espírito.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Embaixo das montanhas ao sul há um sistema de cavernas que chamamos de Profundezas da Montanha. É um lugar terrível, cheio de terrores que jamais deveriam ver a luz do dia.{^n}{^n}No entanto, conforme a população de Rastejantes das Cavernas aumenta, eles começam a caçar fora das cavernas. Já faz muito tempo desde que sua população foi reduzida. Alguém precisa ir até lá e lidar com isso. Quem matar Rastejantes das Cavernas será recompensado com materiais recuperados provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Herdade está sob ataque constante. Devemos reparar as muralhas se quisermos que resistam, mas estamos ficando sem suprimentos.{^n}{^n}Requeremos Sucata e precisamos dela imediatamente. Quem nos trouxer Sucata receberá um pouco dos nossos materiais recuperados como recompensa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+'Ungoliax, a Tece-melancolia' é uma rainha aranha tortuosa da qual todos os aracnídeos locais se originam. Ela se esconde em algum lugar nas cavernas da Bacia Sombreada.{^n}{^n}A Herdade já tem problemas demais. As aranhas não precisam ser adicionadas à lista. Quem acabar com ela receberá uma boa quantia em pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Meu avô costumava nos contar histórias sobre cavernas localizadas bem abaixo da terra, repletas de plantas brilhantes e de um musgo que ilumina tudo como se fosse dia.{^n}{^n}Mas ele também nos alertou das criaturas aterrorizantes que habitam as profundezas esquecidas. Segundo ele, uma delas poderia ficar invisível num instante e atacar sua presa a partir das sombras.{^n}{^n}Não tenho autorização para ir até o lado de fora das muralhas, mas adoraria saber se as histórias são verdadeiras. A colmeia Dermáptera nas Terras Agrícolas Putrefatas é o lugar mais profundo em que consigo pensar, mas não há nada mais profundo do que isso nestas terras, não é?{^n}{^n}Por favor, se você descobrir a verdade, terei o maior prazer em compartilhar algumas das minhas coisas raras com você.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Os Grandes Vizires Dermápteros são os mais leais protetores da rainha. Eles protegerão a colmeia com suas vidas, se necessário.{^n}{^n}Que tal se déssemos uma agitadinha na colmeia? Se os guardiões da rainha forem destruídos, a colmeia certamente ficará tumultuada.{^n}{^n}Para deixar as coisas mais interessantes, separamos alguns pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Deixamos que a Rainha Dermáptera Ravna crescesse durante muito tempo. Sua ninhada espalhou-se desenfreadamente por nossas terras e nem mesmo os Etéreos fizeram algo para impedir.{^n}{^n}Mais cedo ou mais tarde, os Dermápteros devorarão tudo o que resta nos campos e se voltarão para a Herdade. Quando isso acontecer, estarão tão numerosos que seu ataque parecerá uma inundação de gafanhotos.{^n}{^n}Não podemos permitir que isso aconteça. A Rainha Ravna deve morrer. Como recompensa por essa tarefa ousada, estamos oferecendo alguns materiais recuperados.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Sangrentauro é um dranghoul impiedoso que foi visto reunindo os grobles locais num lugar conhecido como Fortaleza do Tirano.{^n}{^n}Normalmente, os grobles não representam uma grande ameaça. Eles brigam entre si com quase a mesma frequência com que atacam postos avançados humanos. Mas, com alguém como Sangrentauro os liderando, podem vir a constituir uma séria ameaça para a Herdade.{^n}{^n}Sangrentauro deve ser morto antes que isso aconteça. Quem acabar com seu reinado receberá uma boa quantia em pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Herdade está sendo atacada por todos os lados.{^n}{^n}Se não receberem mais ajuda, tudo o que lutaram para construir poderá desmoronar.
+
+Afastar-se da Mesa de Recompensas.
+As pessoas da Herdade ainda não consideram você [[ms]um aliado próximo[fs]uma aliada próxima].{^n}{^n}É necessária a reputação [[ms]Respeitado[fs]Respeitada] para acessar a Mesa de Recompensas.
+Afastar-se da Mesa de Recompensas.

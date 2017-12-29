@@ -1,0 +1,29 @@
+Eva
+Obrigada novamente! Você salvou muitas vidas.
+Foi um prazer ajudá-los.
+Seus aliados ajudaram a salvar muitas vidas.
+Fico feliz em ouvir isso.
+Você voltou! Tem a Geleia Real?
+Sim, aqui está.
+Perfeito! Você não faz ideia do quanto isto nos ajudará! Por favor, leve um pouco com você. Você nunca sabe quando vai precisar. E, por favor, deixe-me lhe mostrar como é preparado. É o mínimo que podemos fazer por todas as vidas que você salvou.
+[[ms]Obrigado[fs]Obrigada].
+Volto logo.
+Como vai a caçada por Geleia Real?
+Você pode repetir a localização das colmeias?
+Tem duas grandes que conheço: uma ao sul, perto da Costa Rochosa, e outra ao norte, perto das Cachoeiras Gêmeas. Por favor, apresse-se.
+Irei agora mesmo.
+Ainda estou recolhendo.
+Você vai ter que me perdoar, mas eu preciso cuidar dos feridos.
+Você tem muitos feridos.
+Sim, a batalha contra os brutos de Cronley provou ser desgastante para a nossa gente. Temo que alguns deles não passem desta noite.
+Posso fazer algo para ajudar?
+Ó?! Pode sim! Somos muito poucos para deixar este acampamento desprotegido, mas você poderia procurar as colmeias de vespas na Velha Arkóvia. Tem duas grandes que conheço: uma ao sul, perto da Costa Rochosa, e outra ao norte, perto das Cachoeiras Gêmeas.{^n}{^n}Se você me trouxesse um pouco de Geleia Real, eu poderia preparar um velho remédio dos Nômades conhecido por acelerar enormemente a cicatrização. Se você fizer isso por nós, eu ficarei mais do que feliz em lhe mostrar como é preparado. É o mínimo que poderíamos fazer.
+Vou encontrar a Geleia Real.
+Sinto muito. Não posso fazer isso agora.
+Esta Geleia Real é suficiente?
+Perfeito! Você não faz ideia do quanto isto nos ajudará! Por favor, leve um pouco com você. Você nunca sabe quando vai precisar. E, por favor, deixe-me lhe mostrar como é preparado. É o mínimo que podemos fazer por todas as vidas que você salvou.
+[[ms]Obrigado[fs]Obrigada].
+Sinto muito.
+Adeus.
+Saudações, [[ms]forasteiro[fs]forasteira]. Desculpe, mas não posso falar agora. Preciso cuidar dos feridos.
+Vou sair do seu caminho.

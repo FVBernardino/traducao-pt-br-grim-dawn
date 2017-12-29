@@ -1,0 +1,11 @@
+Lisandra
+Tire-nos daqui!
+A ajuda está chegando.
+Eu não sei quem você é, mas isso nem me importa. Você não é [[ms]um[fs]uma] cultista. Pelo menos não se parece com [[ms]um[fs]uma].{^n}{^n}Por favor, tire-nos daqui. Aqueles bastardos estão nos levando para fora da jaula, um de cada vez. Nós fomos forçados a vê-los drenar todo o sangue de um homem. Foi horrível.
+Eu posso levar todos vocês à Herdade através de um portal.
+A esta altura eu aceito qualquer coisa. Só nos leve para casa.
+Vejo vocês na Herdade. (Abrir Portal)
+Eu não sei quem você é, mas isso nem me importa. Você não é [[ms]um[fs]uma] cultista. Pelo menos não se parece com [[ms]um[fs]uma].{^n}{^n}Por favor, tire-nos daqui. Aqueles bastardos estão nos levando para fora da jaula, um de cada vez. Nós fomos forçados a vê-los drenar todo o sangue de um homem. Foi horrível.
+Eu posso levar todos vocês à Herdade através de um portal.
+A esta altura eu aceito qualquer coisa. Só nos leve para casa.
+Vejo vocês na Herdade. (Abrir Portal)

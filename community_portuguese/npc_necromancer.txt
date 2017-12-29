@@ -1,0 +1,74 @@
+Balvoruuk
+Saudações.
+Tenho algumas perguntas.
+Pode perguntar.
+Por que os mortos-vivos não atacam você?
+Eu disfarço a minha presença de modo que não a percebam, e Kalderos é só mais um espírito vagando por Cairn. No entanto, a ilusão não funcionaria contra a enorme quantidade de mortos-vivos vagando pela Catacumba; esse é o nosso dilema.
+Tenho outra pergunta.
+Entendo.
+Por que você está aqui banindo os mortos?
+Os pecados de Arkóvia não precisam mais corromper esta terra. Eu faço isso porque deve ser feito.
+Tenho outra pergunta.
+Adeus.
+O que é a Ordem da Vigília da Morte?
+Tudo o que você precisa saber é que eu estou aqui a serviço de Cairn.
+Tenho outra pergunta.
+Tudo bem.
+Deixe pra lá.
+Adeus.
+Saudações.
+Onde Kalderos está?
+Ele está esperando por você nos Passos do Tormento, conforme combinado. Os Passos do Tormento estão localizados nas Colinas Partidas.
+[[ms]Obrigado[fs]Obrigada].
+
+Adeus.
+Saudações.
+Adeus.
+Você fez como eu lhe pedi?
+Os Oligarcas estão mortos.
+Esplêndido. A minha confiança em você não foi descabida. Fale com Kalderos em frente aos Passos do Tormento, nas Colinas Partidas. Ele vai [[ms]guiá-lo[fs]guiá-la].
+Está bem.
+
+Adeus.
+Você fez como eu lhe pedi?
+Você pode repetir aonde eu devo ir?
+Você deve se aventurar na Catacumba Arkoviana. A entrada está localizada ao oeste daqui. Lá você vai encontrar os espíritos dos Oligarcas. Bana aquelas almas podres deste mundo!
+Irei até lá agora.
+
+Adeus.
+Saudações, colega praticante da arte sagrada.{^n}{^n}Você não me conhece, mas eu ouvi falar de você. Eu sou Balvoruuk, da Ordem da Vigília da Morte. Suas habilidades me levam a crer que você pode ser a pessoa certa para me ajudar em minha... tarefa.
+Tarefa?
+Sim. Eu estou aqui para purgar esta terra de vários espíritos malignos. A presença pútrida deles já corrompeu Arkóvia por tempo demais.{^n}{^n}No entanto, meus mestres subestimaram a quantidade de súditos com que esses antigos Oligarcas se cercaram. A Catacumba Arkoviana está infestada de mortos; admito, bem mais do que eu poderia dar conta sem a ajuda de meus irmãos. Mas você, você está rapidamente provando ser uma força vingadora que este mundo jamais viu antes. Vá até a Catacumba e bana os espíritos de Nomos Dred, Laudos Vagra e Rhovena Kur. Quando tiver terminado, procure o meu companheiro, Kalderos, na entrada dos Passos do Tormento. Ele vai [[ms]guiá-lo[fs]guiá-la] ao seu destino final.
+Vou realizar essa tarefa.
+Não posso fazer isso.
+Eu já bani os Oligarcas.
+Esplêndido. A minha confiança em você não foi descabida. Fale com Kalderos em frente aos Passos do Tormento, nas Colinas Partidas. Ele vai [[ms]guiá-lo[fs]guiá-la].
+Está bem.
+Não quero participar disso.
+E quanto a esse espírito?
+Kalderos assusta você? Pensei que [[ms]um[fs]uma] necromante como você estivesse [[ms]acostumado[fs]acostumada] a tais visões.{^n}{^n}Não tema, ele é nosso aliado e jurou servir. Agora você vai ouvir a minha proposta ou vai continuar olhando para os olhos sem vida do meu companheiro?
+O que você quer que eu faça?
+Não quero participar nas suas intrigas.
+Não quero saber.
+Saudações. Você não me conhece, mas eu ouvi falar de você. Eu sou Balvoruuk, da Ordem da Vigília da Morte. Suas façanhas me levam a crer que você pode ser a pessoa certa para me ajudar em minha... tarefa.
+Tarefa?
+Sim. Eu estou aqui para purgar esta terra de vários espíritos malignos. A presença pútrida deles já corrompeu Arkóvia por tempo demais.{^n}{^n}No entanto, meus mestres subestimaram a quantidade de súditos com que esses antigos Oligarcas se cercaram. A Catacumba Arkoviana está infestada de mortos; admito, bem mais do que eu poderia dar conta sem a ajuda de meus irmãos. Mas você, você está rapidamente provando ser uma força vingadora que este mundo jamais viu antes. Vá até a Catacumba e bana os espíritos de Nomos Dred, Laudos Vagra e Rhovena Kur. Quando tiver terminado, procure o meu companheiro, Kalderos, na entrada dos Passos do Tormento. Ele vai [[ms]guiá-lo[fs]guiá-la] ao seu destino final.
+Vou realizar essa tarefa.
+Não posso fazer isso.
+Eu já bani os Oligarcas.
+Esplêndido. A minha confiança em você não foi descabida. Fale com Kalderos em frente aos Passos do Tormento, nas Colinas Partidas. Ele vai [[ms]guiá-lo[fs]guiá-la].
+Está bem.
+Não quero participar disso.
+Esse espírito! Você é um necromante?
+Kalderos assusta você? Sim, eu sou da Ordem. Eu esperava que [[ms]um[fs]uma] pária como você fosse mais [[ms]compreensivo[fs]compreensiva] em relação às perseguições que as pessoas que praticam a minha... arte sofrem.{^n}{^n}Agora você vai ouvir a minha proposta ou vai continuar olhando para os olhos sem vida do meu companheiro?
+O que você quer que eu faça?
+Eu deveria matar você aqui mesmo.
+Eu lhe asseguro que todas as formas de hostilidade contra mim são totalmente inúteis. Além disso, eu não estou aqui para discutir com você. Se você não quiser realizar minha tarefa, nosso encontro acaba agora.
+O que você quer que eu faça?
+Nós já terminamos.
+Eu deveria matar você aqui mesmo.
+Como esperado de alguém como você. Mas eu lhe asseguro que todas as formas de hostilidade contra mim são totalmente inúteis.{^n}{^n}Além disso, eu não estou aqui para discutir com você. Se você não quiser realizar minha tarefa, nosso encontro acaba agora e você tem ameaças muito maiores do que eu para lidar.
+O que você quer que eu faça?
+Nós já terminamos.
+Eu não me envolvo com pessoas da sua laia.
+Não quero saber.

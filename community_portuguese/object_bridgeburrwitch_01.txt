@@ -1,0 +1,20 @@
+Canteiro de Obras
+Agora que a ponte está livre de entulhos, ela pode ser reparada, permitindo que você a atravesse para chegar ao Pântano do Leste.{^n}{^n}A reparação requer 10 unidades de Sucata e 20000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para o Pântano do Leste.
+Sair.
+Agora que a ponte está livre de entulhos, ela pode ser reparada, permitindo que você a atravesse para chegar ao Pântano do Leste.{^n}{^n}A reparação requer 10 unidades de Sucata e 12000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para o Pântano do Leste.
+Sair.
+Agora que a ponte está livre de entulhos, ela pode ser reparada, permitindo que você a atravesse para chegar ao Pântano do Leste.{^n}{^n}A reparação requer 10 unidades de Sucata e 8000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte para o Pântano do Leste.
+Sair.
+Esta ponte conectava Burrwitch ao Pântano do Leste. O lixo acumulado nas vigas de sustentação impossibilita qualquer reparo.{^n}{^n}Os entulhos podem ser removidos por meio de explosivos potentes. As velhas minas abandonadas na Velha Arkóvia são provavelmente o melhor lugar para encontrá-los.{^n}{^n}A remoção requer 1 unidade de Dinamite.
+Materiais insuficientes.
+Liberar o local de reparação.
+
+Sair.
+Você reparou esta ponte.
+Ok.
