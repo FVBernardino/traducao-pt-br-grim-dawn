@@ -1,11 +1,11 @@
 Ralkama
-Beware, traveler. The lands ahead are as foul as they are deadly.{^n}{^n}The stench of wendigo is heavy upon the air.{^n}{^n}Travel safe.
+Cuidado, viajante. As terras adiante são tão sujas como mortíferas.{^n}{^n}O fedor do wendigo está pesado no ar.{^n}{^n}Viage em segurança.
 Wendigo?
-The vile spirit taints the heart and corrupts the soul.{^n}{^n}None who have given in to its allure remain human for long...
+O espírito vil infecta o coração e corrompe a alma.{^n}{^n}Ninguém que tenha cedido ao seu fascínio permanece humano por muito tempo...
 
-That is concerning.
-Where are you headed?
-We had thought the way north safer. We are turning back to Wightmire.{^n}{^n}And so should you.
+Isso é preocupante.
+Onde você está indo?
+Nós pensamos que o caminho norte fosse mais seguro. Estamos voltando para o Wightmire.{^n}{^n}E você também deveria.
 
-Noted.
-Travel safe.
+Anotado.
+Viage em segurança.

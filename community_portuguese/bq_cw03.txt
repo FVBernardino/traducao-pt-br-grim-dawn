@@ -1,13 +1,13 @@
-Bounties
-Bounty: Mossflingers
-Bounty
-Ravager's hunger must be sated.{^n}{^n}Cleanse Ugdenbog of the creatures called Mossflingers.{^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
+Recompensas
+R: Lançamusgos
+Recompensa
+A fome de Assolador deve ser saciada.{^n}{^n}Purifique Ugdenbog das criaturas chamadas de Lançamusgos.{^n}{^n}Quem concluir esse objetivo será recompensado com pedaços de ferro.
 
-Slay Ugdenbog Mossflingers
+Mate Lançamusgos de Ugdenbog
 
-Turn In
-You have completed the task for Barrowholm and should return to the Bounty Table for your reward.
-Return to the Barrowholm Bounty Table
+Retorne
+Você concluiu a tarefa para Barrowholm e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Barrowholm
 
 
 

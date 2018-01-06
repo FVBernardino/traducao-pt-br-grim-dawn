@@ -1,27 +1,27 @@
 John Bourbon
-Então, outro monstro foi banido deste mundo.{^n}{^n}Você está começando a me dar esperança de que algum dia haverá um fim em toda essa tragédia.
-Só podemos esperar.
-Alguma coisa para reportar sobre a situação em Malmouth?
-Não são boas notícias.
-Conversamos depois.
-Então, é isso que vai levar então? O vazio?{^n}{^n}Não posso dizer que eu invejo você.
+Então, outro monstro foi banido deste mundo.{^n}{^n}Você está começando a me dar esperança de que algum dia haverá um fim de toda essa tragédia.
+Só podemos ter esperança.
+Alguma informação sobre a situação em Malmouth?
+Ainda não há boas notícias.
+Conversaremos depois.
+Então, é isso que vai levá-lo? O vazio?{^n}{^n}Não posso dizer que eu invejo você.
 Nós não temos escolha.
-Espero que você saiba o que está fazendo, confiando nessas bruxas.{^n}{^n}Tenho fé em você e Creed, mas acho esses métodos ... inquietantes.
-O Pacto tem pessoas boas, apenas incompreendidas.
+Espero que você saiba o que está fazendo, confiando nessas bruxas.{^n}{^n}Tenho fé em você e Creed, mas acho esses métodos...inquietantes.
+A Seita tem pessoas boas, apenas incompreendidas.
 Farei o que for preciso para nos manter seguros.
 É um mal necessário.
-Boa sorte em Ugdenbog. Eu viajei ao norte de Burrwitch várias vezes e a viagem nunca foi agradável.{^n}{^n}Não consigo imaginar que está melhor com a falta de patrulhas e atividades humanas.
-Existe algo que deveria estar ciente?
-Gloomwald e Ugdenbog são algumas das áreas mais perigosas da região, mesmo antes do Grim Dawn.{^n}{^n}Patrulhas regulares mantiveram as estradas em grande parte seguras para viajar, mas sempre houve um risco ao viajar entre Burrwitch e os assentamentos do norte. Aqueles que podiam pagar geralmente preferiam ir de barco.{^n}{^n}Eu não sei sobre esse pântano, mas é um terreno fértil para os predadores.
+Boa sorte em Ugdenbog. Eu só viajei ao norte de Burrwitch poucas vezes e as viagens nunca foram agradáveis.{^n}{^n}Não consigo imaginar que está melhor agora com a falta de patrulhas e atividades humanas.
+Alguma coisa que eu deveria saber?
+Gloomwald e Ugdenbog são algumas das áreas mais perigosas da região, mesmo antes do Alvorecer Sombrio.{^n}{^n}Patrulhas regulares mantiveram grande parte das estradas seguras para viajar, mas sempre houve um risco ao viajar entre Burrwitch e os assentamentos do norte. Aqueles que podiam pagar geralmente preferiam ir de barco.{^n}{^n}Eu não sei o que é esse pântano, mas é um terreno fértil para os predadores.
 
 Bom saber.
-Qual é o próximo passo para Devil's Crossing?
-Vamos limpar essa bagunça, cerrar nossas defesas.{^n}{^n}Prepare-se para o pior.{^n}{^n}Como sempre, vamos perseverar.
+Qual é o próximo passo do Cruzamento do Diabo?
+Vamos limpar essa bagunça, melhorar nossas defesas.{^n}{^n}Nos preparar para o pior{^n}{^n}Como sempre, vamos perseverar.
 
-Vamos suportar.
+Vamos aguentar.
 Adeus.
 Eu sabia que eliminar Krieg não seria o fim de nossos problemas, mas nunca imaginei isso.
-Qual é o próximo passo para Devil's Crossing?
-Vamos limpar essa bagunça, cerrar nossas defesas.{^n}{^n}Prepare-se para o pior.{^n}{^n}Como sempre, vamos perseverar.
-Vamos suportar.
+Qual é o próximo passo do Cruzamento do Diabo?
+Vamos limpar essa bagunça, melhorar nossas defesas.{^n}{^n}Nos preparar para o pior{^n}{^n}Como sempre, vamos perseverar.
+Vamos aguentar.
 Adeus.

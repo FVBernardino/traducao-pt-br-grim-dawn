@@ -1,13 +1,13 @@
-Bounties
-Bounty: The Betrayer
-Bounty
-The witch Janaxia has betrayed the Coven and turned to the ways of the Wendigo.{^n}{^n}She must not be permitted to continue down this foul path.{^n}{^n}Find her hut in the Southern end of Ugdenbog and kill Janaxia, the Betrayer.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for eliminating this traitor.
+Recompensas
+R: A Traidora
+Recompensa
+A bruxa Janaxia traiu a Seita e converteu-se às práticas do Wendigo.{^n}{^n}Não devemos permitir que ela continue nesse caminho torpe.{^n}{^n}Encontre a cabana dela no extremo sul de Ugdenbog e mate 'Janaxia, a Traidora'.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa pela eliminação dessa traidora.
 
-Slay Janaxia
+Mate Janaxia
 
-Turn In
-You have completed the task for the Coven of Ugdenbog and should return to the Bounty Table for your reward.
-Return to the Coven of Ugdenbog Bounty Table
+Retorne
+Você concluiu a tarefa para a Seita de Ugdenbog e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Seita de Ugdenbog
 
 
 

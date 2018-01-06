@@ -1,9 +1,9 @@
-Arcane Supplies
-A collection of arcane enchantments, ointments and supplies.{^n}{^n}The resistance may be looking for these.
+Suprimentos Arcanos
+Uma coleção de unguentos, suprimentos e encantamentos arcanos.{^n}{^n}A resistência pode estar procurando por eles.
 
-This collection of arcane enchantments, ointments and supplies might be just what Captain Wilfor was hoping to find out here.{^n}{^n}They should serve the resistance well.
-Send the supplies to the Resistance Hideout.
-Step away from the supplies.
-A collection of arcane enchantments, ointments and supplies.{^n}{^n}These should serve the resistance well.
-Send the supplies to the Resistance Hideout.
-Step away from the supplies.
+Esta coleção de unguentos, suprimentos e encantamentos arcanos pode ser exatamente o que o Capitão Wilfor estava esperando encontrar aqui.{^n}{^n}Eles devem servir bem à resistência.
+Enviar os suprimentos para o Esconderijo da Resistência.
+Afastar-se dos suprimentos.
+Uma coleção de unguentos, suprimentos e encantamentos arcanos.{^n}{^n}Eles devem servir bem à resistência.
+Enviar os suprimentos para o Esconderijo da Resistência.
+Afastar-se dos suprimentos.

@@ -1,15 +1,15 @@
-Bounties
-Bounty: Habnor
-Bounty
-The imbalance has spread far beyond the reaches of Ugdenbog.{^n}{^n}There have been reports of a massive creature attacking members of the coven in Gloomwald.{^n}{^n}Eliminate it for the good of the coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
+Recompensas
+R: Habnor
+Recompensa
+O desequilíbrio espalhou-se para muito além dos confins de Ugdenbog.{^n}{^n}Houve relatos de uma criatura enorme atacando membros da seita em Gloomwald.{^n}{^n}Elimine-a pelo bem da seita.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa por essa tarefa.
 
 
 
-Slay Habnor
+Mate Habnor
 
-Turn In
-You have completed the task for the Coven of Ugdenbog and should return to the Bounty Table for your reward.
-Return to the Coven of Ugdenbog Bounty Table
+Retorne
+Você concluiu a tarefa para a Seita de Ugdenbog e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Seita de Ugdenbog
 
 
 

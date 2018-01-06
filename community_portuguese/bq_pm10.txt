@@ -1,10 +1,10 @@
-Bounties
-Bounty: Aetherial Missive
-Bounty
-The resistance requires more Aetherial Missives in order to study the language of the enemy.{^n}{^n}If their messages can be cracked, then the resistance can better plan its movements around Aetherial activity hot spots.{^n}{^n}Anyone that delivers an Aetherial Missive will be rewarded with iron bits.
+Recompensas
+R: Missiva Etérea
+Recompensa
+A resistência requer mais Missivas Etéreas a fim de estudar o idioma do inimigo.{^n}{^n}Se as mensagens deles puderem ser decifradas, a resistência poderá planejar melhor seus movimentos para os locais de intensa atividade dos Etéreos.{^n}{^n}Quem entregar uma Missiva Etérea será recompensado com pedaços de ferro.
 
-Collect an Aetherial Missive
-Deliver the Aetherial Missive to the Malmouth Bounty Table
+Colete uma Missiva Etérea
+Entregue a Missiva Etérea na Mesa de Recompensas de Malmouth
 
 
 

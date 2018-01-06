@@ -1,13 +1,13 @@
-Bounties
-Bounty: Carraxus Foul
-Bounty
-The beast Carraxus Foul has long plagued the Coven of Ugdenbog. {^n}{^n}Find the creatures lair in the Northeast of Gloomwald and slay Carraxus Foul for the safety of the Coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for slaying this beast.
+Recompensas
+R: Carraxus Torpe
+Recompensa
+A fera Carraxus Torpe há muito atormenta a Seita de Ugdenbog.{^n}{^n}Encontre a toca da criatura no nordeste de Gloomwald e mate Carraxus Torpe pela segurança da Seita.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa pela morte dessa fera.
 
-Slay Carraxus Foul
+Mate Carraxus Torpe
 
-Turn In
-You have completed the task for the Coven of Ugdenbog and should return to the Bounty Table for your reward.
-Return to the Coven of Ugdenbog Bounty Table
+Retorne
+Você concluiu a tarefa para a Seita de Ugdenbog e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Seita de Ugdenbog
 
 
 

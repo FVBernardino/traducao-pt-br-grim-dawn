@@ -1,13 +1,13 @@
 Ugdenbog
-Cleanse the Corruption
-Slay Boss
-Mogdrogen's Avatar has shown himself before you in Ugdenbog. As the god of beasts is occupied elsewhere, he has asked you to assist him in cleansing the Ancient Grove of Ugdenbog of the vile corruption growing within it.{^n}{^n}Only when the Heart of the Forest has been purged will the grove be allowed to cleanse itself of the Aetherial and Ch'thonic taint.{^n}{^n}This task will require a Skeleton Key.
+Elimine a Corrupção
+Mate o Chefe
+O Avatar de Mogdrogen apareceu para você em Ugdenbog. Como o deus das feras está ocupado em outro lugar, ele pediu a você que o ajudasse a purificar o Bosque Antigo de Ugdenbog da corrupção vil crescente dentro dele.{^n}{^n}Somente quando o Coração da Floresta for purgado o bosque poderá purificar-se da mácula Etérea e Ctônica.{^n}{^n}Esta tarefa requer uma Chave Esquelética.
 
-Cleanse the Ancient Grove
+Purifique o Bosque Antigo
 
-Return to Mogdrogen
-You have cleansed the corruption within the heart of the Ancient Grove.{^n}{^n}Return to Mogdrogen in Ugdenbog and report on your success.
-Speak to Mogdrogen in Ugdenbog
+Retorne até Mogdrogen
+Você eliminou a corrupção no coração do Bosque Antigo.{^n}{^n}Retorne até Mogdrogen, em Ugdenbog, e informe sobre o seu sucesso.
+Fale com Mogdrogen em Ugdenbog
 
 
 

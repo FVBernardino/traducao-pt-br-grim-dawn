@@ -1,13 +1,13 @@
-Bounties
-Bounty: Keeper of the Gates
-Bounty
-The Malmouth resistance requires aid.{^n}{^n}A massive Aetherial is hindering the transport of supplies in and out of the city through the Candle District.{^n}{^n}Go to there and destroy Bollag, Keeper of the Gates.{^n}{^n}The resistance has scavenged materials as compensation for bringing down this brute.
+Recompensas
+R: Zelador dos Portões
+Recompensa
+A resistência de Malmouth requer ajuda.{^n}{^n}Um enorme Etéreo está dificultando o transporte de suprimentos para dentro e para fora da cidade através do Distrito da Vela.{^n}{^n}Vá até lá e destrua 'Bollag, Zelador dos Portões'.{^n}{^n}A resistência tem materiais recuperados como recompensa pela morte desse bruto.
 
-Slay Bollag
+Mate Bollag
 
-Turn In
-You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
-Return to the Malmouth Bounty Table
+Retorne
+Você concluiu a tarefa para a Resistência de Malmouth e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Malmouth
 
 
 

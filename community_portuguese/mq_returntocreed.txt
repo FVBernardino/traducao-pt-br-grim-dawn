@@ -1,8 +1,8 @@
-The March to Malmouth
-Return to Inquisitor Creed
-Return to Creed
-Inquisitor Creed may have some news regarding Ulgrim's situation.{^n}{^n}Go speak with him at Fort Ikon immediately.
-Speak to Inquisitor Creed at Fort Ikon
+A Marcha para Malmouth
+Retorno ao Inquisidor Creed
+Retorne até Creed
+O Inquisidor Creed pode ter algumas novidades sobre a situação de Ulgrim.{^n}{^n}Vá falar com ele, no Forte Ikon, imediatamente.
+Fale com o Inquisidor Creed no Forte Ikon
 
 
 

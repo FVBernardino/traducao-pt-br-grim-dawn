@@ -1,17 +1,17 @@
-Coven of Ugdenbog
-Power in the Circles
-Activate The Totems
-There is power in circles, or so Matron Malostria says. She has implored you to seek out the circles of power in Ugdenbog, near the Coven's Refuge, and release the vile spirits trapped within them. Slay the spirits and cleanse the circles in preparation for Malostria's protective ritual.
+Seita de Ugdenbog
+Poder nos Círculos
+Ative os Totens
+Há poder nos círculos, é o que diz a Matrona Malostria. Ela implorou a você que procurasse os círculos de poder em Ugdenbog, perto do Refúgio da Seita, e libertasse os espíritos vis aprisionados dentro deles. Mate os espíritos e purifique os círculos em preparação para o ritual protetor de Malostria.
 
 
-Cleanse the Eastern Circle
-Cleanse the Northern Circle
-Cleanse the Western Circle
+Purifique o Círculo do leste
+Purifique o Círculo do norte
+Purifique o Círculo do oeste
 
 
-Return to Matron
-You have prepared the three circles of power, as Matron Malostria had instructed. Return to her at the Coven's Refuge.
-Speak to Matron Malostria at the Coven's Refuge
+Retorne até a Matrona
+Você preparou os três círculos de poder, conforme a Matrona Malostria havia ordenado. Retorne até ela, no Refúgio da Seita.
+Fale com a Matrona Malostria no Refúgio da Seita
 
 
 

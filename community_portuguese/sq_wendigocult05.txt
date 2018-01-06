@@ -1,13 +1,13 @@
 Barrowholm
-The Feast
-Return to Scorv Egdenor
-Ravager will soon be here and it will hunger for the hearts of the living. But not just any hearts will do for the spirit's first meal.{^n}{^n}You have been instructed by Scorv to set out into Ugdenbog and Gloomwald and slay three Wendigo Ancients known as Handarroth, Ollivioth and Yuvoloth. These creatures have long ago outlived their purpose and must now perform one final duty for Ravager: act as a catalyst for his glorious entry into Cairn. The Great Wendigo Spirit has called to them and drawn them out of hiding so that you can perform the necessary rites.{^n}{^n}Once you have collected the hearts of the three ancients, bring them to Scorv Egdenor at Barrowholm.
+O Banquete
+Retorne até Scorv Egdenor
+Assolador em breve estará aqui e terá fome de corações dos vivos. Mas não é qualquer coração que servirá para a primeira refeição do espírito.{^n}{^n}Scorv encarregou você de entrar em Ugdenbog e Gloomwald e matar três Wendigos Anciães conhecidos como Handarroth, Ollivioth e Yuvolloth. Essas criaturas há muito tempo serviram ao seu propósito e agora devem realizar um último serviço para Assolador: agir como um catalisador para sua gloriosa entrada em Cairn. O Grande Espírito Wendigo os chamou e os fez sair de onde se escondiam para que você pudesse realizar os ritos necessários.{^n}{^n}Quando tiver coletado os corações dos três anciães, leve-os para Scorv Egdenor, em Barrowholm.
 
 
-Collect Handarroth's Heart
-Collect Ollivioth's Heart
-Collect Yuvoloth's Heart
-Bring the Hearts to Scorv Egdenor in Barrowholm
+Colete o Coração de Handarroth
+Colete o Coração de Ollivioth
+Colete o Coração de Yuvolloth
+Leve os Corações para Scorv Egdenor em Barrowholm
 
 
 

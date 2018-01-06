@@ -1,12 +1,12 @@
 Barrowholm
-Mine Pests
-Clear out mine
-In case of emergencies, Barrowholm would stock up on critical supplies by storing them within the nearby Barrowholm Mine to the east. That mine has now become infested with pests eager to claim the food stocks for themselves.{^n}{^n}Barrowholm will not last long without those supplies. Enter the mine and clear out any Ugdenbog Pitcreepers skulking around in there.
-Clear out Ugdenbog Pitcreepers in the Barrowholm Mine
+Pragas da Mina
+Limpe a Mina
+Em casos de emergência, Barrowholm estocava suprimentos críticos na Mina de Barrowholm nas proximidades, ao leste. Essa mina agora ficou infestada de pragas ávidas por reivindicar os estoques de alimentos para si.{^n}{^n}Barrowholm não durará muito sem esses suprimentos. Entre na mina e acabe com quaisquer Rastejantes da Mina de Ugdenbog que estiverem espreitando por lá.
+Acabe com Rastejantes da Mina de Ugdenbog na Mina de Barrowholm
 
-Return to Tyvald
-You have cleared out the infestation within the mine and should report back to Tyvald in Barrowholm.
-Speak to Tyvald Hallows at Barrowholm
+Retorne até Tyvald
+Você acabou com a infestação na mina e deve apresentar-se a Tyvald, em Barrowholm.
+Fale com Tyvald Hallows em Barrowholm
 
 
 

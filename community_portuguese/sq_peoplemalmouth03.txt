@@ -1,13 +1,13 @@
 Malmouth
-Liberate the Liberators
-Rescue The Resistance
-Several members of the Resistance never returned from their recent excurson into Aetherial territory. Captain Wilfor wasn't sure they'd be up to the task, and it appears he was correct. Unfortunately it now means that a scavenging operation in the Steelcap District has turned into a rescue. Find Hyram and Nadia along with any other survivors, if they are still alive.
-Find and Rescue Hyram
-Find and Rescue Nadia
+Liberte os Libertadores
+Resgate a Resistência
+Vários membros da Resistência nunca voltaram de sua recente excursão ao território Etéreo. O Capitão Wilfor não tinha certeza se eles seriam capazes de realizar a tarefa, e parece que ele estava certo. Infelizmente, isso agora significa que uma operação de catação no Distrito do Aço se transformou em um resgate. Encontre Hyram e Nadia, juntamente com quaisquer outros sobreviventes, se ainda estiverem vivos.
+Encontre e resgate Hyram
+Encontre e resgate Nadia
 
-Return to Captain Wilfor
-You have successfully rescued Hyram and Nadia and should report back to Captain Wilfor at the Resistance Hideout.
-Speak to Captain Wilfor at the Resistance Hideout
+Retorne até o Capitão Wilfor
+Você resgatou com sucesso Hyram e Nadia e deve apresentar-se ao Capitão Wilfor, no Esconderijo da Resistência.
+Fale com o Capitão Wilfor no Esconderijo da Resistência
 
 
 

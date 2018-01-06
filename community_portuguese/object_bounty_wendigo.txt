@@ -1,23 +1,21 @@
-Barrowholm Bounties
-The people of Barrowholm want nothing to do with you.
-Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Recompensas de Barrowholm
+As pessoas de Barrowholm não querem nada com você.
+Afastar-se da Mesa de Recompensas.
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Afastar-se da Mesa de Recompensas.
+Você retorna triunfantemente e uma Recompensa é cumprida.
+Relatar.
 
-Step away from the Bounty Table.
-You are already on a Bounty for Barrowholm.
-Step away from the Bounty Table.
-You have earned the cult's trust and as such can gaze upon their more secretive works.
-Take a look at the bounty.
-You have fulfilled all of the posted Bounties for this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
-
-
+Afastar-se da Mesa de Recompensas.
+Você já está em uma Recompensa para Barrowholm.
+Afastar-se da Mesa de Recompensas.
+Você ganhou a confiança do culto e, como tal, pode ver seus trabalhos mais secretos.
+Dar uma olhada na recompensa.
+Você já completou todas as Recompensas postadas para esta sessão.
+Afastar-se da Mesa de Recompensas.
+Dar uma olhada na recompensa.
 
 
 
@@ -30,79 +28,81 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-Ravager demands death in his name.{^n}{^n}Strike deep within the Void's Edge and the Fringes of Sanity, seek out and slay the beasts called Oppressors. {^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-Ravager demands death in his name.{^n}{^n}Scour the Void's Edge and Fringes of Sanity and cleanse it of those called Bloodkeepers.{^n}{^n}Anyone that accomplishes this goal will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-Ravager's hunger must be sated.{^n}{^n}Cleanse Ugdenbog of the creatures called Mossflingers.{^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Afastar-se da Mesa de Recompensas.
+Assolador demanda morte em seu nome.{^n}{^n}Alcance as profundezas da Beira do Vazio e da Borda da Sanidade, procure e mate as feras chamadas de Opressores.{^n}{^n}Quem concluir esse objetivo será recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Ravager calls for death in his name.{^n}{^n}Scour the Void's Edge, the Chthonian called Dar'Vagol must be destroyed.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Assolador demanda morte em seu nome.{^n}{^n}Vasculhe a Beira do Vazio e a Borda da Sanidade e purifique-as daqueles chamados de Guardiões de Sangue.{^n}{^n}Quem concluir esse objetivo será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Ravager's hunger must be sated.{^n}{^n}Slay Rhidal'Gulvor in the Cinder Wastes.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A fome de Assolador deve ser saciada.{^n}{^n}Purifique Ugdenbog das criaturas chamadas de Lançamusgos.{^n}{^n}Quem concluir esse objetivo será recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Cleanse The Undergrowth.{^n}{^n}Find the one called Swillius, in The Undergrowth, and claim his life in honor of the Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Assolador exige morte em seu nome.{^n}{^n}Vasculhe a Beira do Vazio, o Ctônico chamado Dar'Vagol deve ser destruído.{^n}{^n}Quem destruir esse inimigo será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Ravager calls for death in his name.{^n}{^n}Search Gloomwald for the one called Polterrios and end his life.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A fome de Assolador deve ser saciada.{^n}{^n}Mate Rhidal'Gulvor nos Ermos Abrasados.{^n}{^n}Quem destruir esse inimigo será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-His hunger must be sated.{^n}{^n}Find Vladris, in the camps East of Barrowholm, and end his life in honor of Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Purifique a Submata.{^n}{^n}Encontre aquele chamado Swillius, na Submata, e reivindique a vida dele em honra a Assolador.{^n}{^n}Quem destruir esse inimigo será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Ravager's hunger must be sated{^n}{^n}Seek out the one called Yoknar, in the bogs south of Barrowholm, and take his life in honor of Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Assolador exige morte em seu nome.{^n}{^n}Procure em Gloomwald aquele chamado Polterrios e acabe com a vida dele.{^n}{^n}Quem destruir esse inimigo será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Ravager demands a powerful relic to feast upon. Only one tainted enough will do.{^n}{^n}The relic known as Corruption should appease our master, if but for a fleeting moment.{^n}{^n}Anyone that brings a Corruption Relic as an offering to the Great One will be rewarded with a Manticore Eye.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A fome Dele deve ser saciada.{^n}{^n}Encontre Vladris, nos acampamentos ao leste de Barrowholm, e acabe com a vida dele em honra a Assolador.{^n}{^n}Quem destruir esse inimigo será recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Packla, the once human chosen who has begun her transition, has grown violent in her hunger, lashing out even against her greater wendigos.{^n}{^n}This displeases Ravager. Packla must be brought down immediately. Seek her out in the cannibal camps scattered across Gloomwald.{^n}{^n}Anyone that swiftly delivers Ravager's will shall be rewarded with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A fome de Assolador deve ser saciada.{^n}{^n}Procure aquele chamado Yoknar, nos pântanos ao sul de Barrowholm, e tire a vida dele em honra a Assolador.{^n}{^n}Quem destruir esse inimigo será recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Find Bargoll, the Mouldering Mound, in Ugdenbog and destroy it in the name of the Ravager.{^n}{^n}Anyone that destroys this threat to our hideout will be compensated with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Assolador demanda uma relíquia poderosa para banquetear-se. Somente uma corrompida o suficiente servirá.{^n}{^n}A relíquia conhecida como Corrupção deve apaziguar nosso mestre, mesmo que seja por um momento fugaz.{^n}{^n}Quem trouxer uma Relíquia Corrupção como oferenda ao Grandioso será recompensado com um Olho de Mantícora.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Ravager demands death in his name. {^n}{^n}Pay respect to the dead god and slay the one called Lunal'Valgoth in the Fringes of Sanity.{^n}{^n}Anyone that disposes of this challenger to Ravager's domain will be rewarded with materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Packla, a outrora humana escolhida que iniciou sua transição, ficou com uma fome violenta, atacando até mesmo seus wendigos superiores.{^n}{^n}Isso desagrada a Assolador. Packla deve ser eliminada imediatamente. Procure-a nos acampamentos de canibais espalhados por Gloomwald.{^n}{^n}Quem fizer rapidamente a vontade de Assolador será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Ravager will not be challenged.{^n}{^n}Enter the Void's Edge and slay the one called Ekket'Zul. {^n}{^n}Anyone that disposes of this usurper to Ravager's domain will be rewarded with rare materials from our stores.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Encontre 'Bargoll, o Monte Putrescente' em Ugdenbog e destrua-o em nome de Assolador.{^n}{^n}Quem destruir essa ameaça ao nosso esconderijo será recompensado com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-You have earned the cult's trust and as such can gaze upon their more secretive works.
+Assolador demanda morte em seu nome.{^n}{^n}Preste homenagem ao deus morto e mate aquele chamado Lunal'Valgoth na Borda da Sanidade.{^n}{^n}Quem acabar com esse desafiante dos domínios de Assolador será recompensado com materiais provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Step away from the Bounty Table.
-Barrowholm does not yet count you among its allies.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Assolador não será desafiado.{^n}{^n}Entre na Beira do Vazio e mate aquele chamado Ekket'Zul.{^n}{^n}Quem acabar com esse usurpador dos domínios de Assolador será recompensado com materiais raros provenientes de nossos estoques.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+Você ganhou a confiança do culto e, como tal, pode ver seus trabalhos mais secretos.
+
+Afastar-se da Mesa de Recompensas.
+Barrowholm ainda não inclui você entre seus aliados.{^n}{^n}É necessária a reputação [[ms]Respeitado[fs]Respeitada] para acessar a Mesa de Recompensas.
+Afastar-se da Mesa de Recompensas.

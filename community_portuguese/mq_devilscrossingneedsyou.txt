@@ -1,13 +1,13 @@
-The March to Malmouth
-Devil's Crossing Needs You
-Complete Area A
-Inquisitor Creed is seeking ways to rescue Ulgrim from the jaws of the void. In the meantime, there are unsettled matters in Devil's Crossing that require your attention.{^n}{^n}Assist Captain Bourbon in any way you can.
+A Marcha para Malmouth
+O Cruzamento do Diabo Precisa de Você
+Complete a Área A
+O Inquisidor Creed está buscando maneiras de resgatar Ulgrim das garras do vazio. Enquanto isso, há questões não resolvidas no Cruzamento do Diabo que requerem sua atenção.{^n}{^n}Ajude o Capitão Bourbon de todas as formas que puder.
 
-Assist Devil's Crossing
+Ajude o Cruzamento do Diabo
 
-Return to Creed
-You have assisted Devil's Crossing and dealt with the cruel Warden Krieg.{^n}{^n}Return to Inquisitor Creed in Fort Ikon to discuss Ulgrim's situation.
-Speak to Inquisitor Creed at Fort Ikon
+Retorne até Creed
+Você ajudou o Cruzamento do Diabo e lidou com o cruel Carcereiro Krieg.{^n}{^n}Retorne até o Inquisidor Creed, no Forte Ikon, para discutir a situação de Ulgrim.
+Fale com o Inquisidor Creed no Forte Ikon
 
 
 

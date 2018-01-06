@@ -1,15 +1,15 @@
-Bounties
-Bounty: Yoknar
-Bounty
-Ravager's hunger must be sated{^n}{^n}Seek out the one called Yoknar, in the bogs south of Barrowholm, and take his life in honor of Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with iron bits.
+Recompensas
+R: Yoknar
+Recompensa
+A fome de Assolador deve ser saciada.{^n}{^n}Procure aquele chamado Yoknar, nos pântanos ao sul de Barrowholm, e tire a vida dele em honra a Assolador.{^n}{^n}Quem destruir esse inimigo será recompensado com pedaços de ferro.
 
 
 
-Slay Yoknar
+Mate Yoknar
 
-Turn In
-You have completed the task for Barrowholm and should return to the Bounty Table for your reward.
-Return to the Barrowholm Bounty Table
+Retorne
+Você concluiu a tarefa para Barrowholm e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Barrowholm
 
 
 

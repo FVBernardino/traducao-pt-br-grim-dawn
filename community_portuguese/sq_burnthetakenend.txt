@@ -1,8 +1,8 @@
-Coven of Ugdenbog
-A Familiar Witch
-Speak to Rallia
-You found Rallia at the Coven's Refuge.{^n}{^n}She was ever grateful for your rescue back in the Blood Grove and put in a few kind words in your favor amongst the coven.
-Speak to Rallia
+Seita de Ugdenbog
+Uma Bruxa Familiar
+Fale com Rallia
+Você encontrou Rallia no Refúgio da Seita.{^n}{^n}Ela ficou muito agradecida pelo resgate no Bosque Sangrento e disse algumas palavras gentis a seu favor para a seita.
+Fale com Rallia
 
 
 

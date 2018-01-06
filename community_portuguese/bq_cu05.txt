@@ -1,15 +1,15 @@
-Bounties
-Bounty: Blazing Vanguard
-Bounty
-The Aetherial called Crognoth is hindering the Coven's recruitment efforts in Malmouth.{^n}{^n}Find Crognoth in the Malmouth Candle District and destroy it.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
+Recompensas
+R: Vanguarda Chamejante
+Recompensa
+O Etéreo chamado Crognoth está dificultando os esforços de recrutamento da Seita em Malmouth.{^n}{^n}Encontre Crognoth no Distrito da Vela de Malmouth e destrua-o.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa por essa tarefa.
 
 
 
-Slay Crognoth
+Mate Crognoth
 
-Turn In
-You have completed the task for the Coven of Ugdenbog and should return to the Bounty Table for your reward.
-Return to the Coven of Ugdenbog Bounty Table
+Retorne
+Você concluiu a tarefa para a Seita de Ugdenbog e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Seita de Ugdenbog
 
 
 

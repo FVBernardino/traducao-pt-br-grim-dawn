@@ -1,12 +1,12 @@
-Coven of Ugdenbog
-Pruning the Weeds
-The Giant Plant
-Garradia has tasked you with entering the lair known as the Undergrowth, deep within Ugdenbog. Therein thrives the infestation known as Sylvarria, a twisted creature whose roots grow far and deep across Ugdenbog.{^n}{^n}Sylvarria has grown out of control and her black roots could threaten even the Coven. It is time that she be pruned.
-Slay Sylvarria
+Seita de Ugdenbog
+Podando as Ervas Daninhas
+A Planta Gigante
+Garradia encarregou você de entrar na toca conhecida como Submata, nas profundezas de Ugdenbog. Ali floresce a infestação conhecida como Sylvarria, uma criatura tortuosa cujas raízes crescem longínqua e profundamente em Ugdenbog.{^n}{^n}Sylvarria ficou fora de controle e suas raízes negras podem ameaçar até mesmo a Seita. É hora de ela ser podada.
+Mate Sylvarria
 
-Return to Garradia
-You have slain the creature known as Sylvarria.{^n}{^n}Return to Garradia at the Coven's Refuge in Ugdenbog to inform her of your success.
-Speak to Garradia at the Coven's Refuge
+Retorne até Garradia
+Você matou a criatura conhecida como Sylvarria.{^n}{^n}Retorne até Garradia, no Refúgio da Seita em Ugdenbog, e informe-a do seu sucesso.
+Fale com Garradia no Refúgio da Seita
 
 
 

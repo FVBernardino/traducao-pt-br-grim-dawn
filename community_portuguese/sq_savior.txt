@@ -1,27 +1,27 @@
 Malmouth
-Savior
-Speak to Nicoh Erin
-Nicoh Erin appears to have been rescuing children from the Malmouth Candle District. You managed to convince him that the resistance can protect the children and he agreed to move them to the Sewer Hideout. You should speak to him to see how they're doing.
+Salvador
+Fale com Nicoh Erin
+Nicoh Erin parece ter resgatado crianças do Distrito da Vela de Malmouth. Você conseguiu convencê-lo de que a resistência pode proteger as crianças e ele concordou em levá-las para o Esconderijo no Esgoto. Você deve falar com ele para ver como eles estão.
 
 
-Speak to Nicoh Erin at the Resistance Hideout
-
-
-
+Fale com Nicoh Erin no Esconderijo da Resistência
 
 
 
-Kill Nicoh
-Nicoh Erin claimed he was rescuing children from the Malmouth Candle District but he grew belligerent when you offered to help. He refused to move the children to safety and became violent. Do what must be done to make sure the children stay safe.
 
 
-Kill Nicoh Erin
 
-Speak to Nissa
-Nicoh Erin refused to listen to reason and take the children to safety, so you did what had to be done. Speak to the young girl Nissa in the Candle District and send the children to the Resistance Hideout.
+Mate Nicoh
+Nicoh Erin afirmou que estava resgatando crianças do Distrito da Vela de Malmouth, mas ficou beligerante quando você se ofereceu para ajudar. Ele recusou-se a levar as crianças para um local seguro e ficou violento. Faça o que deve ser feito para garantir que as crianças fiquem seguras.
 
 
-Speak to Nissa at the Candle District
+Mate Nicoh Erin
+
+Fale com Nissa
+Nicoh Erin recusou-se a ouvir a razão e levar as crianças para um local seguro, então você fez o que tinha que fazer. Fale com a jovem Nissa no Distrito da Vela e mande as crianças para o Esconderijo da Resistência.
+
+
+Fale com Nissa no Distrito da Vela
 
 
 

@@ -1,9 +1,9 @@
-Detonation Site
-The gates to Crown Hill are heavily fortified. It would take some immensely powerful explosives to blast them open.
-Requires the Resistance Explosives.
-Requires Creed's Additive.
-Requires the Resistance Explosives with Creed's Additive.
-Destroy the Gates.
-Leave it.
-You have destroyed the Crown Hill Gates.
+Local de Detonação
+Os portões da Colina da Coroa são fortemente reforçados. Seriam necessários alguns explosivos imensamente poderosos para explodi-los.
+Requer os Explosivos da Resistência.
+Requer o Aditivo de Creed.
+Requer os Explosivos da Resistência com o Aditivo de Creed.
+Destruir os Portões.
+Sair.
+Você destruiu os Portões da Colina da Coroa.
 Ok.

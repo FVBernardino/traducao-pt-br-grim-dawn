@@ -1,13 +1,13 @@
-Bounties
-Bounty: Packla
-Bounty
-Packla, the once human chosen who has begun her transition, has grown violent in her hunger, lashing out even against her greater wendigos.{^n}{^n}This displeases Ravager. Packla must be brought down immediately. Seek her out in the cannibal camps scattered across Gloomwald.{^n}{^n}Anyone that swiftly delivers Ravager's will shall be rewarded with materials from our stores.
+Recompensas
+R: Packla
+Recompensa
+Packla, a outrora humana escolhida que iniciou sua transição, ficou com uma fome violenta, atacando até mesmo seus wendigos superiores.{^n}{^n}Isso desagrada a Assolador. Packla deve ser eliminada imediatamente. Procure-a nos acampamentos de canibais espalhados por Gloomwald.{^n}{^n}Quem fizer rapidamente a vontade de Assolador será recompensado com materiais provenientes de nossos estoques.
 
-Slay Packla
+Mate Packla
 
-Turn In
-You have completed the task for Barrowholm and should return to the Bounty Table for your reward.
-Return to the Barrowholm Bounty Table
+Retorne
+Você concluiu a tarefa para Barrowholm e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Barrowholm
 
 
 

@@ -1,13 +1,13 @@
-Bounties
-Bounty: Fleshshaper Hinissius
-Bounty
-The portlight must be lit for the Legion's ships to use the Blackiron Docks.{^n}{^n}The resistance requests aid in the removal of an Aetherial called Hinissius in the city's lighthouse.{^n}{^n}Successfully destroying this monstrosity will be compensated with iron bits.
+Recompensas
+R: Molda-carne Hinissius
+Recompensa
+A luz do porto deve estar acesa para que os navios da Legião usem as Docas Blackiron.{^n}{^n}A resistência pede ajuda na remoção de um Etéreo chamado Hinissius, no farol da cidade.{^n}{^n}A destruição bem-sucedida dessa monstruosidade será recompensada com pedaços de ferro.
 
-Slay Fleshshaper Hinissius
+Mate o Molda-carne Hinissius
 
-Turn In
-You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
-Return to the Malmouth Bounty Table
+Retorne
+Você concluiu a tarefa para a Resistência de Malmouth e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Malmouth
 
 
 

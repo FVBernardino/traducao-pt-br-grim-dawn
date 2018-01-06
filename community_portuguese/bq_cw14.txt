@@ -1,13 +1,13 @@
-Bounties
-Bounty: Progenitor of Darkness
-Bounty
-Ravager will not be challenged.{^n}{^n}Enter the Void's Edge and slay the one called Ekket'Zul. {^n}{^n}Anyone that disposes of this usurper to Ravager's domain will be rewarded with rare materials from our stores.
+Recompensas
+R: Progenitor das Trevas
+Recompensa
+Assolador não será desafiado.{^n}{^n}Entre na Beira do Vazio e mate aquele chamado Ekket'Zul.{^n}{^n}Quem acabar com esse usurpador dos domínios de Assolador será recompensado com materiais raros provenientes de nossos estoques.
 
-Slay Ekket'Zul
+Mate Ekket'Zul
 
-Turn In
-You have completed the task for Barrowholm and should return to the Bounty Table for your reward.
-Return to the Barrowholm Bounty Table
+Retorne
+Você concluiu a tarefa para Barrowholm e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Barrowholm
 
 
 

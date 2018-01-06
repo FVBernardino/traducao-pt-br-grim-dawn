@@ -1,21 +1,21 @@
-The March to Malmouth
-Into the Jaws of Madness
-A Place of Power
-Garradia of the Coven of Ugdenbog has kept her end of the bargain. She marked Ulgrim's Keepsake with a ritual binding and informed you of an ancient altar once used by the coven during its darker years. It has fallen into disuse and the site has since been reclaimed by the swamp, but the veil is weakened there and should serve as a conduit for what you seek.{^n}{^n}Bring Ulgrim's Keepsake to the Altar of Rattosh, located in Ugdenbog to the north of Barrowholm, and perform Garradia's ritual.
+A Marcha para Malmouth
+Nas Garras da Loucura
+Um Lugar de Poder
+Garradia, da Seita de Ugdenbog, cumpriu sua parte da barganha. Ela marcou a Recordação de Ulgrim com uma vinculação ritualística e informou você sobre um antigo altar, outrora usado pela seita durante seus anos mais sombrios. Ele caiu em desuso e o local foi reivindicado pelo pântano desde então, mas o véu é enfraquecido lá e deve servir como um conduto para o que você procura.{^n}{^n}Leve a Recordação de Ulgrim até o Altar de Rattosh, localizado em Ugdenbog, ao norte de Barrowholm, e realize o ritual de Garradia.
 
-Bring Ulgrim's Keepsake to the Altar of Rattosh
-Perform the ritual to locate Ulgrim
-
-
+Leve a Recordação de Ulgrim até o Altar de Rattosh
+Realize o ritual para localizar Ulgrim
 
 
-Enter Rift
-Using Garradia's ritual, you were able to open a rift to the Chthonic void and, with luck, Ulgrim. The warrior was pulled in to the darkness from which the Loghorrean itself was spawned and so you must now travel deep into the void, deeper than anyone had ever dared before.{^n}{^n}Enter the portal at the Altar of Rattosh and traverse the Desolate Wastes to find the portal to the Void's Edge.
-Find the entrance to the Void's Edge within the Desolate Wastes
 
-Speak to Ulgrim
-The Void's Edge looms before you and with it some of the void's most dangerous beings. Make your way carefully through this treacherous place and find out what happened to Ulgrim.
-Find Ulgrim at the Void's Edge
+
+Entre no Portal
+Usando o ritual de Garradia, você conseguiu abrir um portal para o vazio Ctônico e, com sorte, Ulgrim. O guerreiro foi puxado para a escuridão da qual o próprio Logorreano foi originado e, por isso, você deve agora viajar para as profundezas do vazio, mais profundamente do que qualquer um já ousou antes.{^n}{^n}Entre no portal no Altar de Rattosh e atravesse os Ermos Desolados para encontrar o portal para a Beira do Vazio.
+Encontre a entrada da Beira do Vazio nos Ermos Desolados
+
+Fale com Ulgrim
+A Beira do Vazio está diante de você e, com ela, alguns dos seres mais perigosos do vazio. Abra caminho cuidadosamente por este lugar traiçoeiro e descubra o que aconteceu com Ulgrim.
+Encontre Ulgrim na Beira do Vazio
 
 
 

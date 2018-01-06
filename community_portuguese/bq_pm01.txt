@@ -1,13 +1,13 @@
-Bounties
-Bounty: Imps
-Bounty
-The most foul Aetherial creation can not be permitted to roam the streets of our city. {^n}{^n}The taken children must be laid to rest.{^n}{^n}Find Aetherial Imps roaming Malmouth and eliminate them.{^n}{^n}Success on this mission will be suitably rewarded with iron bits.
+Recompensas
+R: Diabretes
+Recompensa
+Não podemos permitir que a criação mais torpe dos Etéreos vague pelas ruas da nossa cidade.{^n}{^n}As crianças possessas devem descansar.{^n}{^n}Encontre Diabretes Etéreos vagando por Malmouth e elimine-os.{^n}{^n}O sucesso nessa missão será devidamente recompensado com pedaços de ferro.
 
-Slay Aetherial Imps
+Mate Diabretes Etéreos
 
-Turn In
-You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
-Return to the Malmouth Bounty Table
+Retorne
+Você concluiu a tarefa para a Resistência de Malmouth e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Malmouth
 
 
 

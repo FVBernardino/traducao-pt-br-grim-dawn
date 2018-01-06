@@ -1,9 +1,9 @@
-Abandoned Weapons
-Some weapons, the resistance may be looking for these.
-Step away.
-These weapons would serve the resistance well.{^n}{^n}Just what Captain Wilfor was looking for.
-Send the weapons to the Resistance Hideout.
-Step away from the weapons.
-These weapons should serve the resistance well.
-Send the weapons to the Resistance Hideout.
-Step away from the weapons.
+Armas Abandonadas
+Algumas armas, a resistência pode estar procurando por elas.
+Afastar-se.
+Estas armas iriam servir bem à resistência.{^n}{^n}Exatamente o que o Capitão Wilfor estava procurando.
+Enviar as armas para o Esconderijo da Resistência.
+Afastar-se das armas.
+Estas armas devem servir bem à resistência.
+Enviar as armas para o Esconderijo da Resistência.
+Afastar-se das armas.

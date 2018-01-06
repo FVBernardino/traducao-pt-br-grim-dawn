@@ -1,10 +1,10 @@
-Bounties
-Bounty: Corruption
-Bounty
-Ravager demands a powerful relic to feast upon. Only one tainted enough will do.{^n}{^n}The relic known as Corruption should appease our master, if but for a fleeting moment.{^n}{^n}Anyone that brings a Corruption Relic as an offering to the Great One will be rewarded with a Manticore Eye.
+Recompensas
+R: Corrupção
+Recompensa
+Assolador demanda uma relíquia poderosa para banquetear-se. Somente uma corrompida o suficiente servirá.{^n}{^n}A relíquia conhecida como Corrupção deve apaziguar nosso mestre, mesmo que seja por um momento fugaz.{^n}{^n}Quem trouxer uma Relíquia Corrupção como oferenda ao Grandioso será recompensado com um Olho de Mantícora.
 
-Craft a Corruption Relic
-Deliver Corruption to the Barrowholm Bounty Table
+Crie a Relíquia Corrupção
+Entregue a Relíquia Corrupção na Mesa de Recompensas de Barrowholm
 
 
 

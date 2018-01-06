@@ -1,13 +1,13 @@
-Bounties
-Bounty: Venomgaze
-Bounty
-The Coven needs assistance maintaining balance in the Ugdenbog.{^n}{^n}The population of Basilisks has grown out of control. The most dangerous among them must be removed. It's time for a hunt.{^n}{^n}Eliminate Venomgaze Basilisks in Ugdenbog.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
+Recompensas
+R: Olharviroso
+Recompensa
+A Seita precisa de ajuda para manter o equilíbrio em Ugdenbog.{^n}{^n}A população de Basiliscos ficou fora de controle. Os mais perigosos entre eles devem ser removidos. É hora de caçar.{^n}{^n}Elimine Basiliscos Olharvirosos em Ugdenbog.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa por essa tarefa.
 
-Slay Venomgaze Basilisks
+Mate Basiliscos Olharvirosos
 
-Turn In
-You have completed the task for the Coven of Ugdenbog and should return to the Bounty Table for your reward.
-Return to the Coven of Ugdenbog Bounty Table
+Retorne
+Você concluiu a tarefa para a Seita de Ugdenbog e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Seita de Ugdenbog
 
 
 

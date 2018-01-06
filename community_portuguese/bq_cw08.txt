@@ -1,15 +1,15 @@
-Bounties
-Bounty: Vladris
-Bounty
-His hunger must be sated.{^n}{^n}Find Vladris, in the camps East of Barrowholm, and end his life in honor of Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with iron bits.
+Recompensas
+R: Vladris
+Recompensa
+A fome Dele deve ser saciada.{^n}{^n}Encontre Vladris, nos acampamentos ao leste de Barrowholm, e acabe com a vida dele em honra a Assolador.{^n}{^n}Quem destruir esse inimigo será recompensado com pedaços de ferro.
 
 
 
-Slay Vladris
+Mate Vladris
 
-Turn In
-You have completed the task for Barrowholm and should return to the Bounty Table for your reward.
-Return to the Barrowholm Bounty Table
+Retorne
+Você concluiu a tarefa para Barrowholm e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Barrowholm
 
 
 

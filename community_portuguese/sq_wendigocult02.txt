@@ -1,13 +1,13 @@
 Barrowholm
-Travelers Beware
-Deceive Travelers
-Few travelers make their way through Ugdenbog these days, most unaware of its dangers. Jordyth has asked you to find those who have become victims to nearby cannibals in northern Ugdenbog and bring them here to Barrowholm.{^n}{^n}More bodies means more mouths to feed, but it also means more hands to get work done and keep everybody safe.
-Rescue Travelers in Northern Ugdenbog
-Rescue Travelers in Northeastern Ugdenbog
+Tomem Cuidado, Viajantes
+Engane os Viajantes
+Poucos viajantes atravessam Ugdenbog nos dias de hoje, e a maioria desconhece os seus perigos. Jordyth pediu a você que encontrasse aqueles que se tornaram vítimas de canibais próximos no norte de Ugdenbog e os trouxesse aqui para Barrowholm.{^n}{^n}Mais corpos significa mais bocas para alimentar, mas também significa mais mãos para fazer o trabalho e manter todos a salvo.
+Resgate os viajantes no norte de Ugdenbog
+Resgate os viajantes no nordeste de Ugdenbog
 
-Return to Jordyth
-You have rescued the lost travelers and brought them to Barrowholm. Speak to Jordyth Evelline to let him know of your success.
-Speak to Jordyth Evelline at Barrowholm
+Retorne até Jordyth
+Você resgatou os viajantes perdidos e os trouxe para Barrowholm. Fale com Jordyth Evelline para informá-lo sobre o seu sucesso.
+Fale com Jordyth Evelline em Barrowholm
 
 
 

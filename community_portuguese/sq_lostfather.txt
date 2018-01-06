@@ -1,13 +1,13 @@
-The Search for Ulgrim
-Lost Father
-Find Garett Torven
-Amala's father, Garett, was too injured to go on and Amala was forced to abandon him in Gloomwald in order to seek assistance. She eventually found her way to Devil's Crossing, but her father is still out there.{^n}{^n}Amala has hopes that he is still alive, but many dangers lurk within the thorned wood. She has beseeched you to seek out Garett in Gloomwald on your way up to Ugdenbog, north of the Burrwitch Estates.
-Find Garett Torven in Gloomwald
+A Busca por Ulgrim
+Pai Perdido
+Encontre Garett Torven
+O pai de Amala, Garett, estava muito ferido para continuar e Amala foi forçada a abandoná-lo em Gloomwald para procurar ajuda. Ela acabou chegando ao Cruzamento do Diabo, mas seu pai ainda está lá fora.{^n}{^n}Amala tem esperança de que ele ainda esteja vivo, mas muitos perigos se escondem na mata espinhenta. Ela suplicou a você que procurasse Garett em Gloomwald no caminho até Ugdenbog, ao norte das Propriedades de Burrwitch.
+Encontre Garett Torven em Gloomwald
 
 
-Return to Amala
-You found Amala's father and sent him to the safety of Devil's Crossing.{^n}{^n}Speak to Amala in Devil's Crossing to see how he is faring.
-Speak with Amala Torven in Devil's Crossing
+Retorne até Amala
+Você encontrou o pai de Amala e o enviou para a segurança do Cruzamento do Diabo.{^n}{^n}Fale com Amala, no Cruzamento do Diabo, para ver como ele está se saindo.
+Fale com Amala Torven no Cruzamento do Diabo
 
 
 

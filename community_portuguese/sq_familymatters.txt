@@ -1,13 +1,13 @@
 Malmouth
-Family Matters
-Slay Thralls
-Dravis is being brash and arrogant. He willingly stepped into the void itself to pursue his father. Daila has asked you to look into this lead. Dravis had entered the Cinder Wastes, through a rift somewhere in Mourndale.
-Pursue Dravis into the Cinder Wastes
+Assuntos de Família
+Mate os Servos
+Dravis está sendo impetuoso e arrogante. Ele adentrou desejosamente o próprio vazio para perseguir seu pai. Daila pediu a você que investigasse. Dravis entrou nos Ermos Abrasados através de um portal em algum lugar em Valetriste.
+Persiga Dravis nos Ermos Abrasados
 
-Return to Daila
-There was no sign of Dravis, but you did find another clue on his fallen minions. Return it to Daila in Mourndale, outside of Malmouth.
-Collect Dravis' Offering from his Thrall
-Bring Dravis' Offering to Daila in Mourndale
+Retorne até Daila
+Não havia nenhum sinal de Dravis, mas você encontrou outra pista com seus asseclas abatidos. Entregue-a a Daila, em Valetriste, do lado de fora de Malmouth.
+Colete a Oferenda de Dravis de seu Servo
+Leve a Oferenda de Dravis para Daila em Valetriste
 
 
 

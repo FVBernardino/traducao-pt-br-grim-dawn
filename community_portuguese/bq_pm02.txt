@@ -1,13 +1,13 @@
-Bounties
-Bounty: Architects of Flesh
-Bounty
-We must seek vengeance for the atrocities committed in Malmouth.{^n}{^n}Find and eliminate the monstrosities called Architects of Flesh.{^n}{^n}The resistance has scavenged materials as reward for the successful completion of this task.
+Recompensas
+R: Arquitetos de Carne
+Recompensa
+Devemos buscar vingança pelas atrocidades cometidas em Malmouth.{^n}{^n}Encontre e elimine as monstruosidades chamadas de Arquitetos de Carne.{^n}{^n}A resistência tem materiais recuperados como recompensa pela conclusão bem-sucedida dessa tarefa.
 
-Slay Architect of Flesh
+Mate Arquitetos de Carne
 
-Turn In
-You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
-Return to the Malmouth Bounty Table
+Retorne
+Você concluiu a tarefa para a Resistência de Malmouth e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Malmouth
 
 
 

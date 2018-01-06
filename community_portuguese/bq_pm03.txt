@@ -1,13 +1,13 @@
-Bounties
-Bounty: Regurgitators
-Bounty
-We must continue our efforts to reclaim the city and its infrastructure.{^n}{^n}Scour the city streets and the sewers beneath, seek out and eliminate Aetherial Regurgitators. {^n}{^n}Success on this mission will be suitably rewarded with iron bits.
+Recompensass
+R: Regurgitadores
+Recompensa
+Devemos continuar nossos esforços para recuperar a cidade e sua infraestrutura.{^n}{^n}Vasculhe as ruas da cidade e os esgotos abaixo, procure e elimine Regurgitadores Etéreos.{^n}{^n}O sucesso nessa missão será devidamente recompensado com pedaços de ferro.
 
-Slay Aetherial Regurgitators
+Mate Regurgitadores Etéreos
 
-Turn In
-You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
-Return to the Malmouth Bounty Table
+Retorne
+Você concluiu a tarefa para a Resistência de Malmouth e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Malmouth
 
 
 

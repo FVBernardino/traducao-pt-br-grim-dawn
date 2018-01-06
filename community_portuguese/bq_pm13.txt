@@ -1,13 +1,13 @@
-Bounties
-Bounty: Fleshweaver Haraxis
-Bounty
-The Malmouth resistance requires aid. {^n}{^n}A powerful Aetherial fleshshaper known as Haraxis is roaming the Malmouth Harbor in search of new victims for its gruesome task.{^n}{^n}Find it and destroy it.{^n}{^n}Successfully destroying this monstrosity will be compensated with scavenged materials.
+Recompensas
+R: Tece-carne Haraxis
+Recompensa
+A resistência de Malmouth requer ajuda.{^n}{^n}Um poderoso molda-carne Etéreo conhecido como Haraxis está vagando pelo Porto de Malmouth em busca de novas vítimas para sua horripilante tarefa.{^n}{^n}Encontre-o e destrua-o.{^n}{^n}A destruição bem-sucedida dessa monstruosidade será recompensada com materiais recuperados.
 
-Slay Fleshweaver Haraxis
+Mate o Tece-carne Haraxis
 
-Turn In
-You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
-Return to the Malmouth Bounty Table
+Retorne
+Você concluiu a tarefa para a Resistência de Malmouth e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Malmouth
 
 
 

@@ -1,11 +1,11 @@
-Coven of Ugdenbog
-The Coven's Walls
-Gather Materials
-Garradia has asked you to gather some materials to prepare for the Coven's new protective ritual. She requires Venomgaze Bile from Venomgaze Basilisks, a Horn from a Leafmane Alpha, and an Ugdenbloom found growing around the bog or from the Ugdenbog Golems.{^n}{^n}When you have all three, bring them to Garradia at the Coven's Refuge in Ugdenbog in exchange for iron bits.
-Gather Venomgaze Bile
-Gather Leafmane Alpha Horn
-Gather Ugdenbloom
-Bring the materials to Garradia at the Coven's Refuge
+Seita de Ugdenbog
+As Muralhas da Seita
+Recolha os Materiais
+Garradia pediu a você que recolhesse alguns materiais em preparação para o novo ritual protetor da Seita. Ela requer Bílis de Olharviroso, proveniente de Basiliscos Olharvirosos, um Chifre de Jubafolha Alfa, e um Ugdenbroto, que cresce no pântano ou em Golens de Ugdenbog.{^n}{^n}Quando tiver todos os três, leve-os para Garradia, no Refúgio da Seita em Ugdenbog, em troca de pedaços de ferro.
+Recolha Bílis de Olharviroso
+Recolha Chifre de Jubafolha Alfa
+Recolha Ugdenbroto
+Leve os materiais para Garradia no Refúgio da Seita
 
 
 

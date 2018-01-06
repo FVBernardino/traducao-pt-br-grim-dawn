@@ -1,10 +1,10 @@
 Malmouth
-Survivors
-Rescue the survivors
-You found a couple of survivors in the Steelcap District and sent one of them back to the resistance stronghold, but unfortunately one was too injured to be moved.
+Sobreviventes
+Resgate os Sobreviventes
+Você encontrou dois sobreviventes no Distrito do Aço e enviou um deles de volta à fortaleza da resistência, mas, infelizmente, um estava muito ferido para ser enviado.
 
 
-Rescue Vivian
+Resgate Vivian
 
 
 

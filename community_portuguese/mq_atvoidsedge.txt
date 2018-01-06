@@ -1,16 +1,16 @@
-The March to Malmouth
-Along the Void's Edge
-Escape the Void
-You found Ulgrim alive, though worse for wear. While he is in no state to fight chthonians, your have restored the warrior to his senses and offered him a glimmer of hope.{^n}{^n}However, you are both still very much trapped within the void. If Garradia spoke the truth, then you can use the void to travel between other parts of Cairn. Though the way ahead is filled with nightmarish foes, you must push onward.
+A Marcha para Malmouth
+Ao Longo da Beira do Vazio
+Escape do Vazio
+Você encontrou Ulgrim vivo, embora extenuado. Apesar de ele não estar em condições de lutar contra os ctônicos, você fez o guerreiro recobrar a razão e ofereceu-lhe um vislumbre de esperança.{^n}{^n}No entanto, vocês ainda estão presos dentro do vazio. Se Garradia falou a verdade, você pode usar o vazio para viajar para outras partes de Cairn. Embora o caminho adiante esteja cheio de inimigos de pesadelo, você deve prosseguir.
 
 
-Escape to the other side of the Void's Edge
+Escape para o outro lado da Beira do Vazio
 
-Speak to Ulgrim
-You found another portal within the Void's Edge and escaped back to Cairn into what appears to be an area ravaged by Aetherfire and Chthonian forces.{^n}{^n}Speak to Ulgrim to decide your next move.
+Fale com Ulgrim
+Você encontrou outro portal na Beira do Vazio e escapou de volta para Cairn no que parece ser uma área devastada por Fogo Etéreo e pelas forças Ctônicas.{^n}{^n}Fale com Ulgrim para decidir seu próximo passo.
 
 
-Speak to Ulgrim in the Malmouth Outskirts
+Fale com Ulgrim nos Arredores de Malmouth
 
 
 

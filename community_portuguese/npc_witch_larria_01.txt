@@ -1,46 +1,46 @@
 Larria
-It's clear you too have seen through the deceit of Barrowholm.{^n}{^n}Their kind must not be allowed to exist if this world is to be safe.
-What do you mean?
-Their god, Ravager, is a vicious and vengeful being that will bring about a darkness the likes of which is only rivaled by the Aetherials and the Chthonians.{^n}{^n}To see their cult dismantled is to ensure that he never returns to our world.
-I see.
-Good riddance, I say.
-Farewell.
-Thank you for the warning.{^n}{^n}I will leave here as soon as I've gathered a few things.
-What were you doing here?
-It's no secret that the Wendigo spirit is a malevolent being, and it seems to have found new allies within the people of Barrowholm.{^n}{^n}While my sisters in the Coven are sitting idly by as this unfolds, I refused to. So I set out on my own and began to sabotage Barrowholm's sorcery.{^n}{^n}It was paltry things at first, but they seem to be building up to something big, so I was going to step up my efforts. I suppose that is why you were sent here.{^n}{^n}Take my advice, stay as far away from those people as you can.
+É claro que você também viu através da farsa de Barrowholm.{^n}{^n}Para que este mundo torne-se seguro, o tipo deles não deve ser permitido existir.
+O que você quer dizer?
+O deus deles, Ravager, é um ser vicioso e vingativo que provocará uma escuridão que é apenas rival a dos Etérios e dos Chtonicos.{^n}{^n}Ver seu culto desmantelado é garantir que ele nunca volte ao nosso mundo.
+Entendo.
+Boa sorte, eu digo.
+Adeus.
+Obrigado pelo aviso.{^n}{^n}Vou sair daqui assim que juntar algumas coisas.
+O que você estava fazendo aqui?
+Não é segredo que o espírito do Wendigo seja um ser malévolo, e parece ter encontrado novos aliados dentro do povo de Barrowholm.{^n}{^n}Enquanto minhas irmãs no refúgio estão ociosamente sentadas enquanto isso se desenrola, eu me recusei. Então eu parti por conta própria e comecei a sabotar a bruxaria de Barrowholm.{^n}{^n}Inicialmente, foram coisas insignificantes, mas elas parecem estar se acumulando em algo grande, então eu irei intensificar meus esforços. Suponho que é por isso que você foi [[ms]enviado[fs]enviada] aqui.{^n}{^n}Siga meu conselho, fique o mais longe possível daquelas pessoas.
 
-I'll deal with this my own way.
-I'll consider it.
-Where will you go?
-I may return to the Coven, though I am not all that welcome there after my little outburst regarding Barrowholm.{^n}{^n}I may head further east, away from all this.
+Eu vou lidar eles do meu jeito.
+Vou considerar isso.
+Onde você irá?
+Posso voltar ao refúgio, embora eu não seja tão bem-vinda lá depois da minha pequena explosão em relação a Barrowholm.{^n}{^n}Posso ir mais para o leste, longe de tudo isso.
 
-Farewell.
-Farewell.
-Begone from this place.
-I was just leaving.
-I don't know who you are, but please leave.
-I'm here to warn you about the Wendigo Cult.
-Warn me? I am keenly aware of the dangers of thwarting their plans.{^n}{^n}What's changed?
-They wanted me to murder you, but I cannot.
+Adeus.
+Adeus.
+Vá embora deste lugar.
+Eu estava indo embora.
+Não sei quem você é, mas saia.
+Estou aqui para avisá-la sobre o Culto do Wendigo.
+Avisar-me? Estou inteiramente consciente dos perigos de frustrar seus planos.{^n}{^n}O que mudou?
+Eles queriam que eu te assassinasse, mas não posso.
 
-I'll be back.
-The Wendigo Cult wishes you dead.
-That isn't exactly news to me.{^n}{^n}Why are you here? Did they send you to be my executioner?
-I refuse to kill you.
-Well that is certainly a relief, though knowing now that the Wendigo fanatics are out to get me does not bode well for my efforts here.{^n}{^n}Perhaps it is best if I avoid any confrontations for a while. Lay low.{^n}{^n}I do not know why you are working with them, but you came to warn me so I suppose I won't ask. Please tell whoever sent you that I am dead. I will make sure that I am not found.{^n}{^n}Thank you.
-Stay safe.
-Farewell.
-I'm sorry, but you must die. (Attack)
-I'll be back.
-I was sent here to kill you.
-Is telling me ahead of time supposed to make me feel better?{^n}{^n}Or is it supposed to make you feel better?
+Eu voltarei.
+O Culto do Wendigo quer você morta.
+Isso não é exatamente novidade para mim.{^n}{^n}Por quê você está aqui? Eles enviaram você para ser meu [[ms]executor[fs]executora]?
+Eu me recuso a matar você.
+Bem, esse é certamente um alívio, embora saber agora que os fanáticos do Wendigo estão querendo me pegar não é bom para meu trabalho aqui.{^n}{^n}Talvez seja melhor evitar confrontos por um tempo. Passar despercebida.{^n}{^n}Eu não sei por que você está trabalhando com eles, mas você veio me avisar, então eu suponho que não devo perguntar. Diga a quem lhe enviou que estou morta. Certificarei de não me encontrarem.{^n}{^n}Obrigada.
+Fique segura.
+Adeus.
+Me desculpe, mas você deve morrer. (Atacar)
+Eu voltarei.
+Enviaram-me aqui para matá-la.
+Está me dizendo com antecedência pra me fazer sentir melhor?{^n}{^n}Ou é suposto fazer você se sentir melhor?
 
-Nothing personal. (Attack)
-I'll be back.
-Scorv Egdenor sends his regards. (Attack)
-Alright, I'm leaving.
-I don't know who you are, but please leave.
-What are you doing here?
-That is none of your concern.
-Fine.
-Alright, I'm leaving.
+Nada pessoal. (Atacar)
+Eu voltarei.
+Scorv Egdenor envia seus cumprimentos. (Atacar)
+Tudo bem, eu vou embora.
+Não sei quem você é, mas saia.
+O que você está fazendo aqui?
+Isso não é da sua conta.
+Ótimo.
+Tudo bem, eu vou embora.

@@ -1,13 +1,13 @@
-Bounties
-Bounty: Bloodkeepers
-Bounty
-Ravager demands death in his name.{^n}{^n}Scour the Void's Edge and Fringes of Sanity and cleanse it of those called Bloodkeepers.{^n}{^n}Anyone that accomplishes this goal will be compensated with materials from our stores.
+Recompensas
+R: Guardiões de Sangue
+Recompensa
+Assolador demanda morte em seu nome.{^n}{^n}Vasculhe a Beira do Vazio e a Borda da Sanidade e purifique-as daqueles chamados de Guardiões de Sangue.{^n}{^n}Quem concluir esse objetivo será recompensado com materiais provenientes de nossos estoques.
 
-Slay Chthonian Bloodkeepers
+Mate Guardiões de Sangue Ctônicos
 
-Turn In
-You have completed the task for Barrowholm and should return to the Bounty Table for your reward.
-Return to the Barrowholm Bounty Table
+Retorne
+Você concluiu a tarefa para Barrowholm e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Barrowholm
 
 
 

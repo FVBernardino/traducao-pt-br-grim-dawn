@@ -1,28 +1,28 @@
-The Liberation of Malmouth
-The Living Factory
-Sabotage
-The Aetherial Fleshworks infest vast portions of the city of Malmouth, a terrifying sight considering all this was grown from living human flesh. The entrance is nearly impenetrable, but Ulgrim believes if you sabotage the vents spewing out vast amounts of heat and steam across Crown Hill, the Fleshworks will be forced to open or else risk critical failure. Once you have destroyed the vents, head for the entrance to the Aetherial stronghold on the northern end of Crown Hill.
+A Libertação de Malmouth
+A Fábrica Viva
+Sabotagem
+A Usina de Carne Etérea infestou vastas porções da cidade de Malmouth, uma visão aterradora considerando-se que tudo isso foi criado a partir de carne humana viva. A entrada é quase impenetrável, mas Ulgrim acredita que, se você sabotar os respiradouros que expelem grandes quantidades de calor e vapor por toda a Colina da Coroa, a Usina de Carne será forçada a se abrir ou se arriscará a falha crítica. Uma vez que você tenha destruído os respiradouros, vá para a entrada da fortaleza dos Etéreos, no extremo norte da Colina da Coroa.
 
-Destroy the Northern Exhaust Vent
-Destroy the Eastern Exhaust Vent
-Destroy the Southern Exhaust Vent
-
-
-Slay the Shaper of Flesh
-The Fleshworks will not be without defenses and it is unlikely that you'll be able to simply walk into the Sanctum of Flesh and dispatch the monster in charge of all these atrocities. You must figure out a way to unlock the inner factory.{^n}{^n}Once the Sanctum of Flesh is open to you, you must deal with whoever, or whatever, is in charge and rid Malmouth of the Aetherials once and for all.
+Destrua o Respiradouro Exaustor do norte
+Destrua o Respiradouro Exaustor do leste
+Destrua o Respiradouro Exaustor do sul
 
 
-
-
-Slay the Guardians of the Sanctum of Flesh
-Slay the Shaper of Flesh
-
-Report to Creed
-You've done the impossible by slaying the mastermind of the Malmouth invasion. Report back to Inquisitor Creed at the Resistance Hideout of your success.
+Mate o Modelador de Carne
+A Usina de Carne não estará sem defesas e é improvável que você possa simplesmente entrar no Santuário de Carne e despachar o monstro encarregado de todas essas atrocidades. Você deve descobrir uma maneira de desbloquear a fábrica interna.{^n}{^n}Uma vez que o Santuário de Carne esteja aberto para você, você deverá lidar com quem quer que esteja, ou o que quer que esteja, no comando e livrar Malmouth dos Etéreos de uma vez por todas.
 
 
 
-Speak with Inquisitor Creed at the Resistance Hideout
+
+Mate os Guardiões do Santuário de Carne
+Mate o Modelador de Carne
+
+Apresente-se a Creed
+Você fez o impossível ao matar o mentor da invasão de Malmouth. Relate o seu sucesso ao Inquisidor Creed, no Esconderijo da Resistência.
+
+
+
+Fale com o Inquisidor Creed no Esconderijo da Resistência
 
 
 

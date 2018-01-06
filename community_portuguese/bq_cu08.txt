@@ -1,15 +1,15 @@
-Bounties
-Bounty: Chillpincer
-Bounty
-Chillpincer has been growing a brood within Barrowholm Mine to the North. {^n}{^n}If left unchecked, this could have grave consequences for the ecosystem, and our safety. Chillpincer must be slain...{^n}{^n}The death of this fiend will be rewarded with iron bits.
+Recompensas
+R: Pinçafria
+Recompensa
+Pinçafria vem criando uma ninhada na Mina de Barrowholm, ao norte.{^n}{^n}Se não for controlado, isso poderá ter graves consequências para o ecossistema e para nossa segurança. Pinçafria deve ser morto...{^n}{^n}A morte desse demônio será recompensada com pedaços de ferro.
 
 
 
-Slay Chillpincer
+Mate Pinçafria
 
-Turn In
-You have completed the task for the Coven of Ugdenbog and should return to the Bounty Table for your reward.
-Return to the Coven of Ugdenbog Bounty Table
+Retorne
+Você concluiu a tarefa para a Seita de Ugdenbog e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Seita de Ugdenbog
 
 
 

@@ -1,15 +1,15 @@
-Bounties
-Bounty: Stormtitan
-Bounty
-The Malmouth resistance requires aid. {^n}{^n}A massive Aetherial called Stormtitan is wreaking havoc in the Steelcap District. {^n}{^n}Find the creature and eliminate it.{^n}{^n}The resistance has scavenged materials as reward for slaying this abomination.
+Recompensas
+R: Tempestitã
+Recompensa
+A resistência de Malmouth requer ajuda.{^n}{^n}Um enorme Etéreo chamado Tempestitã está causando estragos no Distrito do Aço.{^n}{^n}Encontre a criatura e elimine-a.{^n}{^n}A resistência tem materiais recuperados como recompensa pela morte dessa abominação.
 
 
 
-Slay Stormtitan
+Mate Tempestitã
 
-Turn In
-You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
-Return to the Malmouth Bounty Table
+Retorne
+Você concluiu a tarefa para a Resistência de Malmouth e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Malmouth
 
 
 

@@ -1,10 +1,10 @@
 Malmouth
-Rictor's Thanks
-Rictor stash
-A wounded survivor named Rictor told you about his stash, hidden in a shop near the Blackiron Docks.{^n}{^n}As he is not long for this world, he offered what he had gathered as thanks to you for taking care of Vivien.
+Agradecimento de Rictor
+Estoque de Rictor
+Um sobrevivente ferido chamado Rictor falou sobre o seu estoque, escondido em uma loja perto das Docas Blackiron.{^n}{^n}Como não lhe resta muito tempo de vida, ele ofereceu o que havia acumulado como agradecimento a você por cuidar de Vivian.
 
 
-Open Rictor's Stash
+Abra o Estoque de Rictor
 
 
 

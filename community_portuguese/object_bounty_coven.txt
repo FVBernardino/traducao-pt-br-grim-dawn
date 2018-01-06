@@ -1,21 +1,19 @@
-Coven of Ugdenbog Bounties
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
+Recompensas da Seita de Ugdenbog
+Você retorna com os materiais em suas mãos e uma Recompensa é cumprida.
+Relatar.
 
-Step away from the Bounty Table.
-You return triumphantly, a Bounty fulfilled.
-Report in.
+Afastar-se da Mesa de Recompensas.
+Você retorna triunfantemente e uma Recompensa é cumprida.
+Relatar.
 
-Step away from the Bounty Table.
-You are already on a Bounty for the Coven of Ugdenbog.
-Step away from the Bounty Table.
-The Coven of Ugdenbog sees you as an ally.{^n}{^n}If you wish to remain on good terms, then there is always more that could be done.
-Take a look at the bounty.
-You have fulfilled all of the posted Bounties for this session.
-Step away from the Bounty Table.
-Take a look at the bounty.
-
-
+Afastar-se da Mesa de Recompensas.
+Você já está em uma Recompensa para a Seita de Ugdenbog.
+Afastar-se da Mesa de Recompensas.
+A Seita de Ugdenbog vê você como [[ms]um aliado[fs]uma aliada].{^n}{^n}Se você deseja manter a boa relação, há sempre mais coisas que poderiam ser feitas.
+Dar uma olhada na recompensa.
+Você já completou todas as Recompensas postadas para esta sessão.
+Afastar-se da Mesa de Recompensas.
+Dar uma olhada na recompensa.
 
 
 
@@ -28,79 +26,81 @@ Take a look at the bounty.
 
 
 
-Step away from the Bounty Table.
-The Wendigo cult has plagued the Coven for far too long.{^n}{^n}Eliminating Wendigo Ancients in Ugdenbog may slow their attacks for a time.{^n}{^n}Your efforts will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-The Coven needs assistance maintaining balance in the Ugdenbog.{^n}{^n}The population of Basilisks has grown out of control. The most dangerous among them must be removed. It's time for a hunt.{^n}{^n}Eliminate Venomgaze Basilisks in Ugdenbog.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
 
-The ravenous living plants of Ugdenbog are growing out of control.{^n}{^n}Help the Coven restore balance by destroying their Poisonous Blooms.{^n}{^n}The Coven has set aside iron bits as compensation for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Afastar-se da Mesa de Recompensas.
+O culto do Wendigo atormentou a Seita por tempo demais.{^n}{^n}Eliminar Wendigos Anciães em Ugdenbog pode retardar os ataques deles por um tempo.{^n}{^n}Seus esforços serão recompensados com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Matron Malostria has had visions of a horrific Aetherial creation rampaging through the outskirts of Malmouth.{^n}{^n}The creature has already killed several new recruits trying to leave the city.{^n}{^n}Destroy the beast called Vanoxxis Bile in the Malmouth Outskirts, for the future of the Coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A Seita precisa de ajuda para manter o equilíbrio em Ugdenbog.{^n}{^n}A população de Basiliscos ficou fora de controle. Os mais perigosos entre eles devem ser removidos. É hora de caçar.{^n}{^n}Elimine Basiliscos Olharvirosos em Ugdenbog.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa por essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-The Aetherial called Crognoth is hindering the Coven's recruitment efforts in Malmouth.{^n}{^n}Find Crognoth in the Malmouth Candle District and destroy it.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+As vorazes plantas viventes de Ugdenbog estão ficando fora de controle.{^n}{^n}Ajude a Seita a restaurar o equilíbrio destruindo seus Brotos Venenosos.{^n}{^n}A Seita está oferecendo pedaços de ferro como recompensa por essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-The imbalance has spread far beyond the reaches of Ugdenbog.{^n}{^n}There have been reports of a massive creature attacking members of the coven in Gloomwald.{^n}{^n}Eliminate it for the good of the coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A Matrona Malostria teve visões de uma horrível criação Etérea aterrorizando os Arredores de Malmouth.{^n}{^n}A criatura já matou vários novos recrutas que tentavam sair da cidade.{^n}{^n}Destrua a fera chamada Vanoxxis Bile nos Arredores de Malmouth, pelo futuro da Seita.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa por essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-The Coven needs assistance maintaining balance in the Ugdenbog.{^n}{^n}Despite our efforts the Basilisk threat continues to grow.{^n}{^n}Perhaps it's time we dealt a more precise blow.{^n}{^n}Find the beast called Silancar, at the heart of Ugdenbog, and destroy it.{^n}{^n}The death of this fiend will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+O Etéreo chamado Crognoth está dificultando os esforços de recrutamento da Seita em Malmouth.{^n}{^n}Encontre Crognoth no Distrito da Vela de Malmouth e destrua-o.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa por essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Chillpincer has been growing a brood within Barrowholm Mine to the North. {^n}{^n}If left unchecked, this could have grave consequences for the ecosystem, and our safety. Chillpincer must be slain...{^n}{^n}The death of this fiend will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+O desequilíbrio espalhou-se para muito além dos confins de Ugdenbog.{^n}{^n}Houve relatos de uma criatura enorme atacando membros da seita em Gloomwald.{^n}{^n}Elimine-a pelo bem da seita.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa por essa tarefa.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-The Wendigo are as a blight upon Ugdenbog.{^n}{^n}To defend the land we must continue to fight this plague. {^n}{^n}Find the Wendigo called Vagarroth, in the cult camps around Ugdenbog, and destroy it.{^n}{^n}The death of this fiend will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A Seita precisa de ajuda para manter o equilíbrio em Ugdenbog.{^n}{^n}Apesar dos nossos esforços, a ameaça dos Basiliscos continua crescendo.{^n}{^n}Talvez seja o momento de desferirmos um golpe mais preciso.{^n}{^n}Encontre a fera chamada Sllancar, no coração de Ugdenbog, e destrua-a.{^n}{^n}A morte desse demônio será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-The Coven seeks an unusual relic to aid them in their rituals.{^n}{^n}The Mistborn trolls of the Broken Hills have learned the art of crafting what is known as a Mistborn Talisman, which their shamans use to crudely wield magic.{^n}{^n}The Coven wishes to study its magic for their own purposes. As compensation, the Coven will relinquish some Blood of Ch'thon they've gathered.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Pinçafria vem criando uma ninhada na Mina de Barrowholm, ao norte.{^n}{^n}Se não for controlado, isso poderá ter graves consequências para o ecossistema e para nossa segurança. Pinçafria deve ser morto...{^n}{^n}A morte desse demônio será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-The beast Carraxus Foul has long plagued the Coven of Ugdenbog. {^n}{^n}Find the creatures lair in the Northeast of Gloomwald and slay Carraxus Foul for the safety of the Coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for slaying this beast.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+Os Wendigos são como uma praga sobre Ugdenbog.{^n}{^n}Para defender a terra, devemos continuar combatendo essa praga.{^n}{^n}Encontre o Wendigo chamado Vagarroth, nos acampamentos do culto em Ugdenbog, e destrua-o.{^n}{^n}A morte desse demônio será recompensada com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-The witch Janaxia has betrayed the Coven and turned to the ways of the Wendigo.{^n}{^n}She must not be permitted to continue down this foul path.{^n}{^n}Find her hut in the Southern end of Ugdenbog and kill Janaxia, the Betrayer.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for eliminating this traitor.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A Seita procura uma relíquia incomum para ajudá-los em seus rituais.{^n}{^n}Os trolls da Névoa das Colinas Partidas aprenderam a arte de criar o que é conhecido como Talismã da Névoa, que seus xamãs usam para praticar grosseiramente a magia.{^n}{^n}A Seita deseja estudar sua magia para seus próprios propósitos. Como recompensa, a Seita entregará um pouco de Sangue de Ch'thon que eles recolheram.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-The ancient plant Sylvarria has grown too wide and too deep. Her roots and tendrils now infest all of Ugdenbog.{^n}{^n}Find Sylvarria, in the Undergrowth, and remove her so others may grow in her place.{^n}{^n}Your efforts will be rewarded with iron bits.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A fera Carraxus Torpe há muito atormenta a Seita de Ugdenbog.{^n}{^n}Encontre a toca da criatura no nordeste de Gloomwald e mate Carraxus Torpe pela segurança da Seita.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa pela morte dessa fera.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-It seems nothing is safe from the Chthonic corruption.{^n}{^n}An ancient Manticore called Ragarroth is its most recent victim of Chthonic corruption and a great threat to the balance in Ugdenbog.{^n}{^n}Find the the creature within the Ancient Grove and return it to the land.{^n}{^n}The Coven has set aside some of their most valuable ritual supplies as compensation for dealing with this threat to nature.
-Accept the Bounty.
-Step away from the Bounty Table.
-Next Bounty.
+A bruxa Janaxia traiu a Seita e converteu-se às práticas do Wendigo.{^n}{^n}Não devemos permitir que ela continue nesse caminho torpe.{^n}{^n}Encontre a cabana dela no extremo sul de Ugdenbog e mate 'Janaxia, a Traidora'.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos como recompensa pela eliminação dessa traidora.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-The Coven of Ugdenbog sees you as an ally.{^n}{^n}If you wish to remain on good terms, then there is always more that could be done.
+A antiquíssima planta Sylvarria cresceu demais e profundamente. As raízes e gavinhas dela agora infestam todo Ugdenbog.{^n}{^n}Encontre Sylvarria, na Submata, e remova-a para que outras possam crescer no lugar dela.{^n}{^n}Seus esforços serão recompensados com pedaços de ferro.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
 
-Step away from the Bounty Table.
-The Coven of Ugdenbog does not yet trust you to handle their most secretive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
-Step away from the Bounty Table.
+Parece que nada está a salvo da corrupção Ctônica.{^n}{^n}Uma Mantícora anciã chamada Ragarroth é a vítima mais recente da corrupção Ctônica e uma grande ameaça ao equilíbrio em Ugdenbog.{^n}{^n}Encontre a criatura no Bosque Antigo e devolva-a à terra.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos mais valiosos como recompensa por lidar com essa ameaça à natureza.
+Aceitar a Recompensa.
+Afastar-se da Mesa de Recompensas.
+Próxima Recompensa.
+
+A Seita de Ugdenbog vê você como [[ms]um aliado[fs]uma aliada].{^n}{^n}Se você deseja manter a boa relação, há sempre mais coisas que poderiam ser feitas.
+
+Afastar-se da Mesa de Recompensas.
+A Seita de Ugdenbog ainda não confia em você para levar a cabo suas tarefas mais secretas.{^n}{^n}É necessária a reputação [[ms]Respeitado[fs]Respeitada] para acessar a Mesa de Recompensas.
+Afastar-se da Mesa de Recompensas.

@@ -1,13 +1,13 @@
-Bounties
-Bounty: Steward of Darkness
-Bounty
-Ravager demands death in his name. {^n}{^n}Pay respect to the dead god and slay the one called Lunal'Valgoth in the Fringes of Sanity.{^n}{^n}Anyone that disposes of this challenger to Ravager's domain will be rewarded with materials from our stores.
+Recompensas
+R: Ordenança das Trevas
+Recompensa
+Assolador demanda morte em seu nome.{^n}{^n}Preste homenagem ao deus morto e mate aquele chamado Lunal'Valgoth na Borda da Sanidade.{^n}{^n}Quem acabar com esse desafiante dos domínios de Assolador será recompensado com materiais provenientes de nossos estoques.
 
-Slay Lunal'Valgoth
+Mate Lunal'Valgoth
 
-Turn In
-You have completed the task for Barrowholm and should return to the Bounty Table for your reward.
-Return to the Barrowholm Bounty Table
+Retorne
+Você concluiu a tarefa para Barrowholm e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Barrowholm
 
 
 

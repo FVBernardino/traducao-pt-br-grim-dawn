@@ -1,146 +1,146 @@
 # Achievement Groups
 
-achGDX1Group1=Ashes of Malmouth
+achGDX1Group1=Cinzas de Malmouth
 
 # Achievements
 
-achGDX1001Title=The Fight Continues
-achGDX1001Desc=Clear the Aetherial Barrier north of Burrwitch.
+achGDX1001Title=A Luta Continua
+achGDX1001Desc=Destrua a Barreira Etérea ao norte de Burrwitch.
 
-achGDX1002Title=Embrace New Friendships
-achGDX1002Desc=Choose to remain friendly with the people of Barrowholm.
+achGDX1002Title=Abrace Novas Amizades
+achGDX1002Desc=Escolha permanecer amigável às pessoas de Barrowholm.
 
-achGDX1003Title=Embrace New Foes
-achGDX1003Desc=Choose to be hostile with the people of Barrowholm.
+achGDX1003Title=Abrace Novos Inimigos
+achGDX1003Desc=Escolha ser hostil às pessoas de Barrowholm.
 
-achGDX1004Title=Into the Void
-achGDX1004Desc=Activate the Altar of Rattosh.
+achGDX1004Title=Para o Vazio
+achGDX1004Desc=Ative o Altar de Rattosh.
 
-achGDX1005Title=It's Me, Your Friend
-achGDX1005Desc=Convince an old friend that you are on his side.
+achGDX1005Title=Sou Eu, Seu Amigo
+achGDX1005Desc=Convença um velho amigo de que você está do lado dele.
 
-achGDX1006Title=Friendly Brawl
-achGDX1006Desc=Beat some sense into an old friend.
+achGDX1006Title=Desavença Amigável
+achGDX1006Desc=Incuta um pouco de juízo em um velho amigo.
 
-achGDX1007Title=For Malmouth
-achGDX1007Desc=Retake the Malmouth Resistance Base in the Steelcap District.
+achGDX1007Title=Por Malmouth
+achGDX1007Desc=Retome a Base da Resistência de Malmouth no Distrito do Aço.
 
-achGDX1008Title=Centennial Legend
-achGDX1008Desc=Reach level 100.
+achGDX1008Title=Lenda Centenária
+achGDX1008Desc=Alcance o nível 100.
 
-achGDX1009Title=Monomythic Centennial
-achGDX1009Desc=Reach level 100 in Hardcore Mode.
+achGDX1009Title=Centenário Monomítico
+achGDX1009Desc=Alcance o nível 100 no Modo Hardcore.
 
-achGDX1010Title=A Stab in the Dark
-achGDX1010Desc=Slay Ekket'Zul, Progenitor of Darkness at the Void's Edge.
+achGDX1010Title=Uma Punhalada na Escuridão
+achGDX1010Desc=Mate 'Ekket'Zul, Progenitor das Trevas' na Beira do Vazio.
 
-achGDX1011Title=An End to the Darkness
-achGDX1011Desc=Slay Ekket'Zul, Progenitor of Darkness at the Void's Edge on Ultimate Difficulty.
+achGDX1011Title=Um Fim às Trevas
+achGDX1011Desc=Mate 'Ekket'Zul, Progenitor das Trevas' na Beira do Vazio na Dificuldade Supremo.
 
-achGDX1012Title=Knock Knock
-achGDX1012Desc=Slay Bollag, Keeper of the Gates at the Malmouth Bridge.
+achGDX1012Title=Toc Toc
+achGDX1012Desc=Mate 'Bollag, Zelador dos Portões' na Ponte de Malmouth.
 
-achGDX1013Title=Gate Crasher
-achGDX1013Desc=Slay Bollag, Keeper of the Gates at the Malmouth Bridge on Ultimate Difficulty.
+achGDX1013Title=Arrebentador de Portões
+achGDX1013Desc=Mate 'Bollag, Zelador dos Portões' na Ponte de Malmouth na Dificuldade Supremo.
 
-achGDX1014Title=So Others May Grow
-achGDX1014Desc=Slay Sylvarria in the Undergrowth.
+achGDX1014Title=Para que Outras Possam Crescer
+achGDX1014Desc=Mate Sylvarria na Submata.
 
-achGDX1015Title=Weed Killer
-achGDX1015Desc=Slay Sylvarria in the Undergrowth on Ultimate Difficulty.
+achGDX1015Title=Matador de Ervas Daninhas
+achGDX1015Desc=Mate Sylvarria na Submata na Dificuldade Supremo.
 
-achGDX1016Title=It's You Again!
-achGDX1016Desc=Slay Fleshshaper Krieg in the Fleshworks.
+achGDX1016Title=É Você Outra Vez!
+achGDX1016Desc=Mate o Molda-carne Krieg na Usina de Carne.
 
-achGDX1017Title=Remember Me?
-achGDX1017Desc=Slay Fleshshaper Krieg in the Fleshworks on Ultimate Difficulty.
+achGDX1017Title=Lembra de Mim?
+achGDX1017Desc=Mate o Molda-carne Krieg na Usina de Carne na Dificuldade Supremo.
 
-achGDX1018Title=No Strings on Me
-achGDX1018Desc=Settle the score with the Aetherial that possessed you.
+achGDX1018Title=Sem Cordas em Mim
+achGDX1018Desc=Acerte as contas com o Etéreo que possuiu você.
 
-achGDX1019Title=I'm My Own Master
-achGDX1019Desc=Settle the score with the Aetherial that possessed you on Ultimate Difficulty.
+achGDX1019Title=Eu Sou Meu Próprio Mestre
+achGDX1019Desc=Acerte as contas com o Etéreo que possuiu você na Dificuldade Supremo.
 
-achGDX1020Title=Crush the Mountain
-achGDX1020Desc=Slay Galakros, the Mountain in the Malmouth Sewers.
+achGDX1020Title=Esmagar a Montanha
+achGDX1020Desc=Mate 'Galakros, a Montanha' nos Esgotos de Malmouth.
 
-achGDX1021Title=Mountain Slayer
-achGDX1021Desc=Slay Galakros, the Mountain in the Malmouth Sewers on Ultimate Difficulty.
+achGDX1021Title=Matador de Montanhas
+achGDX1021Desc=Mate 'Galakros, a Montanha' nos Esgotos de Malmouth na Dificuldade Supremo.
 
-achGDX1022Title=The Scourge of Malmouth
-achGDX1022Desc=Slay Theodin Marcell, the Shaper of Flesh in the Sanctum of Flesh.
+achGDX1022Title=O Flagelo de Malmouth
+achGDX1022Desc=Mate 'Theodin Marcell, o Modelador de Carne' no Santuário de Carne.
 
-achGDX1023Title=Revenge for the Fallen
-achGDX1023Desc=Slay Theodin Marcell, the Shaper of Flesh in the Sanctum of Flesh on Ultimate Difficulty.
+achGDX1023Title=Vingança pelos Caídos
+achGDX1023Desc=Mate 'Theodin Marcell, o Modelador de Carne' no Santuário de Carne na Dificuldade Supremo.
 
-achGDX1024Title=Ravaged
-achGDX1024Desc=Defeat one of the manifestations of Ravager, the Wendigo Spirit.
+achGDX1024Title=Assolado
+achGDX1024Desc=Derrote uma das manifestações de Assolador, o Espírito Wendigo.
 
-achGDX1025Title=The Jewel in the Mud
-achGDX1025Desc=Reach Revered reputation with Barrowholm.
+achGDX1025Title=A Joia na Lama
+achGDX1025Desc=Torne-se Venerado(a) por Barrowholm.
 
-achGDX1026Title=Ugdenbog Rituals
-achGDX1026Desc=Reach Revered reputation with the Coven of Ugdenbog.
+achGDX1026Title=Rituais de Ugdenbog
+achGDX1026Desc=Torne-se Venerado(a) pela Seita de Ugdenbog.
 
-achGDX1027Title=Hero of the People
-achGDX1027Desc=Reach Revered reputation with the Malmouth Resistance.
+achGDX1027Title=Herói do Povo
+achGDX1027Desc=Torne-se Venerado(a) pela Resistência de Malmouth.
 
-achGDX1028Title=Revered Champion
-achGDX1028Desc=Become Revered with 9 Factions.
+achGDX1028Title=Campeão Venerado
+achGDX1028Desc=Torne-se Venerado(a) por 9 Facções.
 
-achGDX1029Title=Defender of Malmouth
-achGDX1029Desc=Complete the Ashes of Malmouth.
+achGDX1029Title=Defensor de Malmouth
+achGDX1029Desc=Complete as Cinzas de Malmouth.
 
-achGDX1030Title=Champion of Malmouth
-achGDX1030Desc=Complete the Ashes of Malmouth on Elite Difficulty.
+achGDX1030Title=Campeão de Malmouth
+achGDX1030Desc=Complete as Cinzas de Malmouth na Dificuldade Elite.
 
-achGDX1031Title=Savior of Malmouth
-achGDX1031Desc=Complete the Ashes of Malmouth on Ultimate Difficulty.
+achGDX1031Title=Salvador de Malmouth
+achGDX1031Desc=Complete as Cinzas de Malmouth na Dificuldade Supremo.
 
-achGDX1032Title=Mass Extermination
-achGDX1032Desc=Rid Cairn of 200000 Monsters.
+achGDX1032Title=Extermínio em Massa
+achGDX1032Desc=Limpe Cairn de 200.000 Monstros.
 
-achGDX1033Title=Unequaled Slayer
-achGDX1033Desc=Eradicate 2000 Heroic Monsters (marked by a Star).
+achGDX1033Title=Matador Inigualável
+achGDX1033Desc=Erradique 2000 Monstros Heroicos (marcados por uma Estrela).
 
-achGDX1034Title=A Mad Stash
-achGDX1034Desc=Raid Ivonda's Hidden Stash.
+achGDX1034Title=Um Estoque Muito Louco
+achGDX1034Desc=Confisque o Estoque Escondido de Ivonda.
 
-achGDX1035Title=Nemesis More Like MEHmesis
-achGDX1035Desc=Slay Ten Nemesis monsters on Elite or Ultimate Difficulty.
+achGDX1035Title=Nêmesis Está Mais para MEHmesis
+achGDX1035Desc=Mate Dez Monstros Nêmesis na Dificuldade Elite ou Supremo.
 
-achGDX1036Title=Pet Hoarder
-achGDX1036Desc=Summon 18 pets at the same time.
+achGDX1036Title=Acumulador de Companheiros
+achGDX1036Desc=Evoque 18 companheiros ao mesmo tempo.
 
-achGDX1037Title=Ashen Devotion
-achGDX1037Desc=Restore 55 Devotion Shrines.
+achGDX1037Title=Devoção Cinzenta
+achGDX1037Desc=Restaure 55 Santuários de Devoção.
 
-achGDX1038Title=Exceptional Explorer
-achGDX1038Desc=Open 25 One-Shot Chests.
+achGDX1038Title=Explorador Excepcional
+achGDX1038Desc=Abra 25 Baús Únicos.
 
-achGDX1039Title=Loremaster
-achGDX1039Desc=Collect 70 Lore Notes.
+achGDX1039Title=Mestre Historiador
+achGDX1039Desc=Colete 70 Notas.
 
-achGDX1040Title=Immortal Savior of Malmouth
-achGDX1040Desc=Complete the Ashes of Malmouth on Ultimate Difficulty, Hardcore Mode.
+achGDX1040Title=Salvador Imortal de Malmouth
+achGDX1040Desc=Complete as Cinzas de Malmouth na Dificuldade Supremo, Modo Hardcore.
 
-achGDX1041Title=The Blood Trials
-achGDX1041Desc=Survive the Blood Trials in the Ancient Grove.
+achGDX1041Title=As Provações Sangrentas
+achGDX1041Desc=Sobreviva às Provações Sangrentas no Bosque Antigo.
 
-achGDX1042Title=The Wild Tamed
-achGDX1042Desc=Slay Gargabol, Heart of the Wild in the Ancient Grove.
+achGDX1042Title=O Selvagem Domado
+achGDX1042Desc=Mate 'Gargabol, Coração das Selvas' no Bosque Antigo.
 
-achGDX1043Title=Taming the Untamed
-achGDX1043Desc=Slay Gargabol, Heart of the Wild in the Ancient Grove on Ultimate Difficulty.
+achGDX1043Title=Domando o Indomado
+achGDX1043Desc=Mate 'Gargabol, Coração das Selvas' no Bosque Antigo na Dificuldade Supremo.
 
-achGDX1044Title=Immortal Wild Tamer
-achGDX1044Desc=Slay Gargabol, Heart of the Wild in the Ancient Grove on Hardcore Mode.
+achGDX1044Title=Domador Imortal de Selvagens
+achGDX1044Desc=Mate 'Gargabol, Coração das Selvas' no Bosque Antigo no Modo Hardcore.
 
-achGDX1045Title=The Ancient of Ugdenbog
-achGDX1045Desc=Slay Kra'vall, Ancient of the Waters.
+achGDX1045Title=O Ancião de Ugdenbog
+achGDX1045Desc=Mate 'Kra'vall, Ancião das Águas'.
 
-achGDX1046Title=Slayer of Myths
-achGDX1046Desc=Slay Kra'vall, Ancient of the Waters on Ultimate Difficulty.
+achGDX1046Title=Matador de Mitos
+achGDX1046Desc=Mate 'Kra'vall, Ancião das Águas' na Dificuldade Supremo.
 
 achGDX1047Title=
 achGDX1047Desc=

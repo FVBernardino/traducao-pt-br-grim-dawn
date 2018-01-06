@@ -1,8 +1,8 @@
 Malmouth
-Hargate's Mysteries
-Use Hargate's Formula
-You encountered a strange aether crystal formation within Malmouth that resonated with energy. After studying it using Hargate's Formula, you changed its mutagenic properties.
-Study the Crystal Formation using Hargate's Formula
+Mistérios de Hargate
+Use a Fórmula de Hargate
+Você encontrou uma estranha formação de cristais etéreos em Malmouth que ressoava com energia. Após estudá-la usando a Fórmula de Hargate, você mudou suas propriedades mutagênicas.
+Estude a Formação de Cristais usando a Fórmula de Hargate
 
 
 

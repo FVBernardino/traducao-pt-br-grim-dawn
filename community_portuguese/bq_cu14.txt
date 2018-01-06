@@ -1,13 +1,13 @@
-Bounties
-Bounty: Connivius Earthshell
-Bounty
-It seems nothing is safe from the Chthonic corruption.{^n}{^n}An ancient Manticore called Ragarroth is its most recent victim of Chthonic corruption and a great threat to the balance in Ugdenbog.{^n}{^n}Find the the creature within the Ancient Grove and return it to the land.{^n}{^n}The Coven has set aside some of their most valuable ritual supplies as compensation for dealing with this threat to nature.
+Recompensas
+R: Ragarroth
+Recompensa
+Parece que nada está a salvo da corrupção Ctônica.{^n}{^n}Uma Mantícora anciã chamada Ragarroth é a vítima mais recente da corrupção Ctônica e uma grande ameaça ao equilíbrio em Ugdenbog.{^n}{^n}Encontre a criatura no Bosque Antigo e devolva-a à terra.{^n}{^n}A Seita está oferecendo alguns de seus suprimentos ritualísticos mais valiosos como recompensa por lidar com essa ameaça à natureza.
 
-Slay Ragarroth the Tormented
+Mate Ragarroth, a Atormentada
 
-Turn In
-You have completed the task for the Coven of Ugdenbog and should return to the Bounty Table for your reward.
-Return to the Coven of Ugdenbog Bounty Table
+Retorne
+Você concluiu a tarefa para a Seita de Ugdenbog e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas da Seita de Ugdenbog
 
 
 

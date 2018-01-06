@@ -1,13 +1,13 @@
 Malmouth
-Arming the Resistance
-Gather Supplies
-In order to fight back, the Aetherial needs to arm its resistance fighters. Without easy access to the forges and arcane circles, the resistance cannot simply forge new weapons. They have to rely on scavenging. Captain Wilfor's scavengers have become aware of two such stashes out among the ruins of the rowhouses in the Steelcap District. Recover these for the resistance.
-Find the Weapon Supplies
-Find the Arcane Supplies
+Armando a Resistência
+Recolha os Suprimentos
+A fim de contra-atacar, a Etérea precisa armar seus combatentes da resistência. Sem acesso fácil às forjas e aos círculos arcanos, a resistência não pode simplesmente forjar novas armas. Eles dependem da catação. Os catadores do Capitão Wilfor ficaram sabendo de dois desses estoques entre as ruínas das casas geminadas no Distrito do Aço. Recupere-os para a resistência.
+Encontre os Suprimentos Bélicos
+Encontre os Suprimentos Arcanos
 
-Return to Captain
-You have recovered the supplies for the resistance and should report back to Captain Wilfor at the Resistance Hideout.
-Speak to Captain Wilfor at the Resistance Hideout
+Retorne até o Capitão
+Você recuperou os suprimentos para a resistência e deve apresentar-se ao Capitão Wilfor, no Esconderijo da Resistência.
+Fale com o Capitão Wilfor no Esconderijo da Resistência
 
 
 

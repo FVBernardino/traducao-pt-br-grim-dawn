@@ -1,12 +1,12 @@
-The March to Malmouth
-A Jewel in the Mud
-Hostile Return
-You met with Scorv Egdenor of Barrowholm, but refused to assist him, instead opting for a violent means to acquiring the Ugdenbog Fetish.{^n}{^n}As the relic was clearly not within easy reach on the surface, you will have to check the cellar behind Scorv for what you need; but it is locked and Scorv likely has the key.{^n}{^n}Slay Scorv Egdenor in Barrowhold and take his cellar key in order to access the cellar. Once inside, find the Ugdenbog Fetish and return it to Garradia at the Coven's Refuge.
+A Marcha para Malmouth
+Uma Joia na Lama
+Retorno Hostil
+Você conheceu Scorv Egdenor, de Barrowholm, mas recusou-se a ajudá-lo, optando por um meio violento para conseguir o Fetiche de Ugdenbog.{^n}{^n}Como a relíquia claramente não era de fácil acesso, você terá que procurar o que você precisa no porão de Scorv; mas ele está trancado e Scorv muito provavelmente tem a chave.{^n}{^n}Mate Scorv Egdenor em Barrowholm e pegue sua chave para acessar o porão. Uma vez lá dentro, encontre o Fetiche de Ugdenbog e leve-o para Garradia, no Refúgio da Seita.
 
 
 
-Search the Barrowholm Cellar for the Ugdenbog Fetish
-Bring the Ugdenbog Fetish to Garradia at the Coven's Refuge
+Procure o Fetiche de Ugdenbog no Porão de Barrowholm
+Leve o Fetiche de Ugdenbog para Garradia no Refúgio da Seita
 
 
 

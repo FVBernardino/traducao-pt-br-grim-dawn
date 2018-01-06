@@ -1,6 +1,6 @@
 #Faction
-tagFactionBeasts=Bestas
-tagFactionBeastsInfo= Criaturas de pele e garra, grandes e venenosos, de carapaça e espinhos; Todos fazem parte de Cairn. E através de uma das leis mais brutais da natureza, a sobrevivência do mais apto, elas se tornam mais fortes com cada geração. {^n}{^n} Seja através das forças da natureza ou das criações ignorantes da humanidade, as bestas de Cairn aguardam, tornam-se mais fortes, mais ferozes e mais ousadas.
+tagFactionBeasts=Feras
+tagFactionBeastsInfo=Criaturas de pele e garra, de escama e veneno, de carapaça e espinho; todas fazem parte de Cairn. E, por meio de uma das leis mais brutais da natureza, a sobrevivência do mais apto, elas ficam mais fortes a cada geração.{^n}{^n}Seja por meio das forças da natureza, seja por meio das maquinações ignorantes da humanidade, as feras de Cairn vão perdurar, ficar mais fortes, ferozes e ousadas.
 tagFactionBeastsRewards1=Aparições de Nêmesis
 tagFactionBeastsRewards2=Aparições Adicionais de Heróis
 tagFactionBeastsRewards3=Aparições Extras
@@ -9,38 +9,38 @@ tagFactionBeastsRewards5=N/A
 tagFactionBeastsRewards6=N/A
 tagFactionBeastsRewards7=N/A
 tagFactionBeastsRewards8=N/A
-tagFactionUser9=Pacto de Ugdenbog
-tagFactionUser9Info=Quartel General: Ugdenbog {^n}{^n} Não se sabe muito sobre os mistérios do Pacto de Ugdenbog. Uma congregação de bruxas e bruxos, do pacto busca proteger seus irmãos e irmãs perseguidos pela sociedade que não os entende e, assim (muitas vezes com justiça) teme seus poderes. {^n}{^n} Tendo se evadido com sucesso a busca do império Lumirari durante décadas, as bruxas criaram um lugar de descanso profundo dentro do traidor Ugdenbog, um lugar que nem mesmo seus perseguidores mais determinados se atrevem a pisar. Isso vem com seus próprios perigos no entanto. {^n}{^n} Aqueles que encontraram refúgio com o coven devem permanecer sempre vigilantes à medida que novas ameaças, quer sejam de viajantes perdidos que tropeçam em seu esconderijo ou da vida mortal do próprio pântano, continuam a surgir. {^n}{^n} Pior ainda, há segredos dentro do pântano que mesmo o pacto evita, para que os erros do passado não sejam repetidos e o Luminari redescobrir sua trilha.
+tagFactionUser9=Seita de Ugdenbog
+tagFactionUser9Info={^o}Quartel General:{^-} Ugdenbog{^n}{^n}Não se sabe muito sobre a misteriosa Seita de Ugdenbog. Uma congregação de bruxas e bruxos, a seita busca proteger seus irmãos e irmãs perseguidos contra uma sociedade que não entende e, portanto, teme seus poderes (muitas vezes com razão).{^n}{^n}Tendo evadido com sucesso a perseguição dos Luminari do império durante décadas, as bruxas criaram um local de trégua nas profundezas de Ugdenbog, um lugar traiçoeiro no qual nem mesmo seus determinados perseguidores se atrevem a pisar. No entanto, isso tem seus próprios perigos.{^n}{^n}Aqueles que encontraram refúgio na seita devem permanecer sempre vigilantes conforme novas ameaças continuam a surgir, quer sejam de viajantes perdidos que se deparam com seu esconderijo, quer sejam dos animais selvagens do próprio pântano.{^n}{^n}Pior ainda, há segredos dentro do pântano que até mesmo a seita evita, a fim de prevenir que erros do passado sejam repetidos e os Luminari reencontrem seu rastro.
 tagFactionUser9Rewards1=N/A
 tagFactionUser9Rewards2=N/A
 tagFactionUser9Rewards3=N/A
 tagFactionUser9Rewards4=Vazio
-tagFactionUser9Rewards5=Acesso ao vendedor da Facção
-tagFactionUser9Rewards6=Nova missão {^n}Acesso à Mesa de Recompensas {^n}Armas da Facção {^n}Armaduras da Facção {^n}Editor da Facção
-tagFactionUser9Rewards7=Novas masmorras/missões {^n}Aprimoramentos da Facção {^n}Armas da Facção {^n}Acessórios da Facção {^n}Diagramas da Facção {^n}Editor da Facção
-tagFactionUser9Rewards8=Aprimoramentos raros {^n}Mandatos da Facção {^n}Armaduras de Elite da Facção {^n}Editor Lendário da Facção
+tagFactionUser9Rewards5=Acesso a Vendedor da Facção
+tagFactionUser9Rewards6=Nova Missão {^n}Acesso à Mesa de Recompensas {^n}Armas da Facção {^n}Armaduras da Facção {^n}Diagramas da Facção
+tagFactionUser9Rewards7=Novas Missões {^n}Aprimoramentos da Facção {^n}Armas da Facção {^n}Acessórios da Facção {^n}Éditos da Facção {^n}Diagramas da Facção
+tagFactionUser9Rewards8=Aprimoramentos Raros {^n}Mandatos da Facção {^n}Armaduras de Elite da Facção {^n}Diagramas Lendários da Facção
 tagFactionUser10=Barrowholm
-tagFactionUser10Info=Quartel General: Ugdenbog {^n}{^n} Barrowholm, uma verdadeira jóia na lama, oferece um forte contraste com os perigos do turbilhão circundante com suas estruturas quase imaculadas e sua existência pacífica. Seus habitantes são legitimamente protetores de sua casa e oferecem uma incomum mistura de cautela e calorosa hospitalidade para novos visitantes. {^n}{^n} Afinal, em um mundo devastado por Aetherials e Chthonians, algo perfeito como isso deve ser protegido a todo custo.
+tagFactionUser10Info={^o}Quartel General:{^-} Ugdenbog{^n}{^n}Barrowholm, uma verdadeira joia na lama, com suas estruturas quase imaculadas e existência pacífica, oferece um forte contraste com os perigos do pântano circundante. Seus habitantes são, por direito, protetores de seu lar e oferecem uma mistura incomum de cautela e hospitalidade calorosa a novos visitantes.{^n}{^n}Afinal, em um mundo devastado por Etéreos e Ctônicos, algo tão perfeito deve ser protegido a todo custo.
 tagFactionUser10Rewards1=Aparições de Nêmesis
 tagFactionUser10Rewards2=Aparições Adicionais de Heróis
 tagFactionUser10Rewards3=Aparições Extras
 tagFactionUser10Rewards4=Vazio
-tagFactionUser10Rewards5=Acesso ao vendedor da Facção
-tagFactionUser10Rewards6=Nova missão {^n}Acesso à Mesa de Recompensas {^n}Armas da Facção {^n}Armaduras da Facção {^n}Editor da Facção
-tagFactionUser10Rewards7=Nova missão {^n}Aprimoramentos da Facção {^n}Armas da Facção {^n}Acessórios da Facção {^n}Diagramas da Facção {^n}Editor da Facção
-tagFactionUser10Rewards8=Aprimoramentos raros {^n}Mandatos da Facção {^n}Armaduras de Elite da Facção {^n}Editor Lendário da Facção
-tagFactionUser11=Malmouth Resistência
-tagFactionUser11Info=Quartel General: Malmouth {^n}{^n} Outrora o orgulho do leste, Malmouth era uma maravilha industrial no império de Erulan, com um porto naval movimentado e uma economia próspera. Foi também uma das primeiras cidades a cair durante os eventos que se desenrolaram no dia do Grim Dawn. {^n}{^n} Explodido de dentro pelos manipuladores Aetherials, em poucas semanas, Malmouth virou-se de um farol orgulhoso do império para um pesadelo vivo para seus habitantes. Mas nem todos os cidadãos de Malmouth morreram quando o combate estourou. Alguns sobreviveram ... suportaram... resistiram. {^n}{^n} Essas pessoas agora formam a espinha dorsal de uma resistência lutando para recuperar sua cidade dos invasores; mas seus recursos são baixos e as vidas humanas são finitas quando comparadas ao quase infinito exército dos Aetherials que se entrincheiraram em Malmouth.
+tagFactionUser10Rewards5=Acesso a Vendedor da Facção
+tagFactionUser10Rewards6=Nova Missão {^n}Acesso à Mesa de Recompensas {^n}Armas da Facção {^n}Armaduras da Facção {^n}Diagramas da Facção
+tagFactionUser10Rewards7=Nova Missão {^n}Aprimoramentos da Facção {^n}Armas da Facção {^n}Acessórios da Facção {^n}Éditos da Facção {^n}Diagramas da Facção
+tagFactionUser10Rewards8=Aprimoramentos Raros {^n}Mandatos da Facção {^n}Armaduras de Elite da Facção {^n}Diagramas Lendários da Facção
+tagFactionUser11=Resistência de Malmouth
+tagFactionUser11Info={^o}Quartel General:{^-} Malmouth{^n}{^n}Outrora o orgulho do leste, Malmouth era uma maravilha industrial no império Erulano, com um porto naval movimentado e uma economia próspera. Foi também uma das primeiras cidades a cair durante os eventos que se desenrolaram no dia do Alvorecer Sombrio.{^n}{^n}Arrasada desde seu interior por Etéreos manipuladores, em poucas semanas Malmouth passou de um orgulhante farol do império para um pesadelo para seus habitantes. Mas nem todos os cidadãos de Malmouth pereceram quando a luta começou. Alguns sobreviveram... suportaram... resistiram.{^n}{^n}Essas pessoas agora formam a espinha dorsal de uma resistência que luta para recuperar sua cidade dos invasores intriguistas; mas seus recursos estão acabando e as vidas humanas são finitas quando comparadas aos quase infinitos exércitos dos Etéreos que se entrincheiraram em Malmouth.
 tagFactionUser11Rewards1=N/A
 tagFactionUser11Rewards2=N/A
 tagFactionUser11Rewards3=N/A
 tagFactionUser11Rewards4=Vazio
-tagFactionUser11Rewards5=Acesso ao vendedor da Facção
-tagFactionUser11Rewards6=Nova missão {^n}Acesso à Mesa de Recompensas {^n}Armas da Facção {^n}Armaduras da Facção {^n}Editor da Facção
-tagFactionUser11Rewards7=Nova missão {^n}Aprimoramentos da Facção {^n}Armas da Facção {^n}Acessórios da Facção {^n}Diagramas da Facção {^n}Editor da Facção
-tagFactionUser11Rewards8=Aprimoramentos raros {^n}Mandatos da Facção {^n}Armaduras de Elite da Facção {^n}Editor Lendário da Facção
-tagFactionUser12=Linha de Frente Aetherial
-tagFactionUser12Info= Entre os Aetherials que desmoronaram o império da humanidade, em um evento devastador agora chamado de Grim Dawn, havia aqueles que chegaram além do véu primeiro, que se tornariam os arautos da destruição da humanidade. {^n}{^n} Eles foram os primeiros a se infiltrar nas fileiras de Erulan, os primeiros a manipular os seres humanos inconscientes para minar suas próprias cidades e governos. Esta Vanguarda Aetherial agora difunde sua influência corruptora das ruínas que antes eram como faróis do império caído. {^n}{^n} Mas toda essa carnificina era apenas o começo de suas maquinações. Nas mãos dos açougueiros Aetherial, novas e vis criações se agitam nas profundezas de Malmouth. Tudo o que vem a seguir pode marcar o fim da resistência da humanidade
+tagFactionUser11Rewards5=Acesso a Vendedor da Facção
+tagFactionUser11Rewards6=Nova Missão {^n}Acesso à Mesa de Recompensas {^n}Armas da Facção {^n}Armaduras da Facção {^n}Diagramas da Facção
+tagFactionUser11Rewards7=Nova Missão {^n}Aprimoramentos da Facção {^n}Armas da Facção {^n}Acessórios da Facção {^n}Éditos da Facção {^n}Diagramas da Facção
+tagFactionUser11Rewards8=Aprimoramentos Raros {^n}Mandatos da Facção {^n}Armaduras de Elite da Facção {^n}Diagramas Lendários da Facção
+tagFactionUser12=Vanguarda Etérea
+tagFactionUser12Info=Entre os Etéreos que esmigalharam o império da humanidade, em um evento devastador chamado agora de Alvorecer Sombrio, havia aqueles que alcançaram o outro lado do véu primeiro, os que se tornariam os arautos da destruição da humanidade.{^n}{^n}Eles foram os primeiros a infiltrar-se nas fileiras de Erulan, os primeiros a manipular os humanos desavisados para minarem suas próprias cidades e governos. Essa Vanguarda Etérea agora estende sua influência corruptora desde as ruínas que outrora eram orgulhantes faróis do império caído.{^n}{^n}Mas toda essa carnificina era apenas o começo de suas maquinações. Nas mãos dos Molda-carnes Etéreos, novas e vis criações agitam-se nas profundezas de Malmouth. O que quer que venha a seguir pode muito bem marcar o fim da resistência da humanidade.
 tagFactionUser12Rewards1=Aparições de Nêmesis
 tagFactionUser12Rewards2=Aparições Adicionais de Heróis
 tagFactionUser12Rewards3=Aparições Extras
@@ -51,37 +51,37 @@ tagFactionUser12Rewards7=N/A
 tagFactionUser12Rewards8=N/A
 
 #Quest
-tagCodexJournalSubHeadingUgdenbog=Survivors - Ugdenbog
-tagCodexJournalSubHeadingBarrowholm=Survivors - Barrowholm
-tagCodexJournalSubHeadingMalmouth=Survivors - Malmouth
+tagCodexJournalSubHeadingUgdenbog=Sobreviventes - Ugdenbog
+tagCodexJournalSubHeadingBarrowholm=Sobreviventes - Barrowholm
+tagCodexJournalSubHeadingMalmouth=Sobreviventes - Malmouth
 
 #SkillUI
 
-tagSkillUndoClass=Desfazer Class
+tagSkillUndoClass=Anular Classe
 
 #Transmuter
 tagTransmuterWindow=Ilusionista
-tagTransmuteButton=Aplicar ilusão
-tagTransmuteNew=Você adiquiriu uma nova ilusão: {%t0}
+tagTransmuteButton=Aplicar Ilusão
+tagTransmuteNew=Você ganhou uma nova Ilusão: {%t0}
 tagTransmutePageFormat={%d0} / {%d1}
-tagTransmuteNoItems=Você não está usando nenhum equipamento que o ilusionista possa transmutar.
-tagTransmuteTotalGold=Total de Ferro:
-tagTransmuteCost=Custo do Ferro:
+tagTransmuteNoItems=Você não está usando nenhum equipamento que o Ilusionista possa modificar.
+tagTransmuteTotalGold=Pedaços de Ferro:
+tagTransmuteCost=Custo:
 
-SkillDamageAbsorptionReflectPercent={%.0f0}% {^E}Dano absorvido refletido
+SkillDamageAbsorptionReflectPercent={%.0f0}% {^E}de Dano Absorvido Refletido
 
 tagGDX1w=GrimDawn/images/evil
 
 #Maps
 
 tagMapSymbolTransmuteNpc=Ilusionista
-tagMapSymbolTransmuteNpcDesc=Ilusões.
+tagMapSymbolTransmuteNpcDesc=Ilusões de ilusionista.
 
 #Skills
 tagItemSkillModified= {^E}para {^Z}{%s0}
 
 #Char Stats Tab 2
-tagCharStatsInquisitorSkillsBonus=Habilidades Inquisitor
-tagCharStatsInquisitorSkillsBonusInfo=Bônus para todas as habilidades aprendidas como Inquisitor Mestre.
-tagCharStatsNecroSkillsBonus=Habilidadess Necromante
-tagCharStatsNecroSkillsBonusInfo=Bônus para todas as habilidades aprendidas como Necromante Mestre.
+tagCharStatsInquisitorSkillsBonus=Inquisidor
+tagCharStatsInquisitorSkillsBonusInfo=O bônus para todas as habilidades aprendidas na Maestria de Inquisidor.
+tagCharStatsNecroSkillsBonus=Necromante
+tagCharStatsNecroSkillsBonusInfo=O bônus para todas as habilidades aprendidas na Maestria de Necromante.

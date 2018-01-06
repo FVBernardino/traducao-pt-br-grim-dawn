@@ -1,10 +1,10 @@
-Bounties
-Bounty: Mistborn Talisman
-Bounty
-The Coven seeks an unusual relic to aid them in their rituals.{^n}{^n}The Mistborn trolls of the Broken Hills have learned the art of crafting what is known as a Mistborn Talisman, which their shamans use to crudely wield magic.{^n}{^n}The Coven wishes to study its magic for their own purposes. As compensation, the Coven will relinquish some Blood of Ch'thon they've gathered.
+Recompensas
+R: Talismã da Névoa
+Recompensa
+A Seita procura uma relíquia incomum para ajudá-los em seus rituais.{^n}{^n}Os trolls da Névoa das Colinas Partidas aprenderam a arte de criar o que é conhecido como Talismã da Névoa, que seus xamãs usam para praticar grosseiramente a magia.{^n}{^n}A Seita deseja estudar sua magia para seus próprios propósitos. Como recompensa, a Seita entregará um pouco de Sangue de Ch'thon que eles recolheram.
 
-Craft a Mistborn Talisman Relic
-Deliver the Mistborn Talisman to the Coven of Ugdenbog Bounty Table
+Crie a Relíquia Talismã da Névoa
+Entregue a Relíquia Talismã da Névoa na Mesa de Recompensas da Seita de Ugdenbog
 
 
 

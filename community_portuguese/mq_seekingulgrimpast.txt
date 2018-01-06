@@ -1,17 +1,17 @@
-The March to Malmouth
-A Witch's Bargain
-Find The Bog Village
-Garradia of the Coven of Ugdenbog has accepted your offering and agreed to help you in finding a way through the Aetherfire. In a way, finding Ulgrim may be just the key to reaching Malmouth...through the Chthonic void.{^n}{^n}But before she helps you, there is one more thing you must do for her: retrieve the Ugdenbog Fetish from the denizens of a nearby village called Barrowholm. Head out east from the Coven's Refuge and make your way through the bog, headed north, until you've see buildings.
-Find Barrowholm
+A Marcha para Malmouth
+Uma Barganha de Bruxa
+Encontre o Vilarejo no Pântano
+Garradia, da Seita de Ugdenbog, aceitou sua oferta e concordou em ajudar você a encontrar um caminho através do Fogo Etéreo. De certa forma, encontrar Ulgrim pode ser justamente a chave para chegar a Malmouth... através do vazio Ctônico.{^n}{^n}Mas, antes que ela ajude você, há mais uma coisa que você deve fazer para ela: recuperar o Fetiche de Ugdenbog dos habitantes de um vilarejo próximo chamado Barrowholm. Siga na direção leste ao sair do Refúgio da Seita e abra caminho pelo pântano, na direção norte, até ver casas.
+Encontre Barrowholm
 
-Speak to Scorv
-You have found the village that Garradia has instructed you to seek out.{^n}{^n}The man named Scorv Egdenor seems to be in charge. Speak to him in Barrowholm about the Ugdenbog Fetish.
-Speak to Scorv Egdenor in Barrowholm
+Fale com Scorv
+Você encontrou o vilarejo que Garradia havia encarregado você de procurar.{^n}{^n}O homem chamado Scorv Egdenor parece ser o responsável. Fale com ele, em Barrowholm, sobre o Fetiche de Ugdenbog.
+Fale com Scorv Egdenor em Barrowholm
 
-Return to Garradia
-You spoke with Scorv Egdenor in Barrowholm. Now you must acquire the Ugdenbog Fetish and return it to Garradia's at the Coven's Refuge.
-Acquire the Ugdenbog Fetish from Scorv Egdenor
-Bring the Ugdenbog Fetish to Garradia at the Coven's Refuge
+Retorne até Garradia
+Você falou com Scorv Egdenor, em Barrowholm. Agora você deve conseguir o Fetiche de Ugdenbog e devolvê-lo a Garradia, no Refúgio da Seita.
+Consiga o Fetiche de Ugdenbog de Scorv Egdenor
+Leve o Fetiche de Ugdenbog para Garradia no Refúgio da Seita
 
 
 

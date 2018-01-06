@@ -1,11 +1,11 @@
-Altar of Rattosh
-The ancient altar awaits the arrival of another.
-Step away from the altar.
-This must be the altar Garradia spoke of. It emanates with dark power. The veil between realities truly is thinned here.{^n}{^n}With Ulgrim's Keepsake, you should be able to use the altar's power to determine his location within the void.
-Use Ulgrim's Heirloom.
-Leave it.
-Requires Ulgrim's Keepsake.
-This ancient altar seems to have been abandoned long ago.{^n}{^n}Whatever purpose it once served, it now seems to be dormant.
-Step away from the altar.
-The passage to the void has been opened.
-Step away from the altar.
+Altar de Rattosh
+O antigo altar aguarda a chegada de outro.
+Afastar-se do altar.
+Este deve ser o altar do qual Garradia falou. Um poder obscuro emana dele. O véu entre as realidades realmente é enfraquecido aqui.{^n}{^n}Com a Recordação de Ulgrim, você deve ser capaz de usar o poder do altar para determinar a localização dele dentro do vazio.
+Usar a Herança de Ulgrim.
+Sair.
+Requer a Recordação de Ulgrim.
+Este antigo altar parece ter sido abandonado há muito tempo.{^n}{^n}Seja qual for o propósito ao qual ele outrora serviu, ele agora parece estar inativo.
+Afastar-se do altar.
+A passagem para o vazio foi aberta.
+Afastar-se do altar.

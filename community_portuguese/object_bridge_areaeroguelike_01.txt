@@ -1,15 +1,15 @@
-Building Site
-This bridge has collapsed, preventing access to another area of Ugdenbog. It must be restored before you can cross it.{^n}{^n}It will take 40 Scrap and 40000 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge.
-Leave it.
-This bridge has collapsed, preventing access to another area of Ugdenbog. It must be restored before you can cross it.{^n}{^n}It will take 40 Scrap and 25000 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge.
-Leave it.
-This bridge has collapsed, preventing access to another area of Ugdenbog. It must be restored before you can cross it.{^n}{^n}It will take 40 Scrap and 16000 Iron Bits to repair.
-Not enough materials.
-Repair the Bridge.
-Leave it.
-You have restored this bridge.
+Canteiro de Obras
+Esta ponte ruiu, impedindo o acesso a outra área de Ugdenbog. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 40 unidades de Sucata e 40000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte.
+Sair.
+Esta ponte ruiu, impedindo o acesso a outra área de Ugdenbog. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 40 unidades de Sucata e 25000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte.
+Sair.
+Esta ponte ruiu, impedindo o acesso a outra área de Ugdenbog. Ela deve ser reparada antes de você poder atravessá-la.{^n}{^n}A reparação requer 40 unidades de Sucata e 16000 Pedaços de Ferro.
+Materiais insuficientes.
+Reparar a Ponte.
+Sair.
+Você reparou esta ponte.
 Ok.

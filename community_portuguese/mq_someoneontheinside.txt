@@ -1,27 +1,27 @@
-The Liberation of Malmouth
-Someone on the Inside
-Lower the Bridge
-It seems a small group of refugees led by what's left of the city's wardens has managed to cobble together a meager resistance. They've rescued as many of the city's survivors as they could but they just don't have enough manpower. Enter the Candle District through the rebel's hideout, find your way through the slums and lower the city bridge so Creed and the Black Legion can assist in reclaiming Malmouth. 
+A Libertação de Malmouth
+Alguém Infiltrado
+Abaixe a Ponte
+Parece que um pequeno grupo de refugiados liderados pelo que resta dos guardas da cidade conseguiu formar uma diminuta resistência. Eles resgataram tantos sobreviventes da cidade quantos puderam, mas eles simplesmente não têm pessoal suficiente. Entre no Distrito da Vela pelo esconderijo dos rebeldes, abra caminho pelas favelas e abaixe a ponte da cidade para que Creed e a Legião Negra possam ajudar na recuperação de Malmouth.
 
 
 
 
-Enter the Candle District and Lower the City Bridge
+Entre no Distrito da Vela e abaixe a ponte da cidade
 
 
 
-Speak with Creed{^n}
-With the bridge lowered, the Black Legion can enter Malmouth and begin supporting the resistance. Report in to Inquisitor Creed near the riftgate on the far side of the bridge.
+Fale com Creed
+Agora que a ponte foi abaixada, a Legião Negra pode entrar em Malmouth e começar a ajudar a resistência. Apresente-se ao Inquisidor Creed perto do portal do outro lado da ponte.
 
-Speak with Inquisitor Creed at the Malmouth Bridge
+Fale com o Inquisidor Creed na Ponte de Malmouth
 
-Resistance Meet and Greet
-Inquisitor creed wants to speak with the resistance leader to find out more about what's happening to the city and how they can be helped. Meet them in the city sewers at the Resistance Hideout.
-
-
+Encontro com a Resistência
+O Inquisidor Creed quer falar com a líder da resistência para saber mais sobre o que está acontecendo com a cidade e como eles podem ser ajudados. Encontre-se com eles nos esgotos da cidade, no Esconderijo da Resistência.
 
 
-Meet Creed and Korinia in the Sewer Hideout
+
+
+Encontre-se com Creed e Korinia no Esconderijo no Esgoto
 
 
 

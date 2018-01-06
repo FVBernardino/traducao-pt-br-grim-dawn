@@ -1,14 +1,14 @@
-Bounties
-Bounty: Fleshwarped Guardians
-Bounty
-The resistance requires aid in a particularly dire operation.{^n}{^n}The bowels of the city must be cleansed. {^n}{^n}Deep in the Fleshworks, two massive Aetherials guard its core. {^n}{^n}Eliminate Hagalvar, the Bone Monger and Rodalgar, the Flesh Collector so resistance operations can continue.{^n}{^n}Anyone brave enough to take on these abominations will be given their share of the most rare scavenged materials.
+Recompensas
+R: Guardiões Carnedisformes
+Recompensa
+A resistência requer ajuda em uma operação particularmente urgente.{^n}{^n}As entranhas da cidade devem ser purificadas.{^n}{^n}Nas profundezas da Usina de Carne, dois Etéreos enormes protegem seu núcleo.{^n}{^n}Elimine 'Hagalvar, o Negociante de Ossos' e 'Rodalgar, o Colecionador de Carne' para que as operações de resistência possam continuar.{^n}{^n}Quem for corajoso o suficiente para lidar com essas abominações receberá sua parte dos materiais recuperados mais raros.
 
-Slay Hagalvar
-Slay Rodalgar
+Mate Hagalvar
+Mate Rodalgar
 
-Turn In
-You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
-Return to the Malmouth Bounty Table
+Retorne
+Você concluiu a tarefa para a Resistência de Malmouth e deve retornar até a Mesa de Recompensas para receber sua recompensa.
+Retorne até a Mesa de Recompensas de Malmouth
 
 
 

@@ -1,12 +1,12 @@
 Malmouth
-Can't Leave Them
-Find Women
-Rivia at the Resistance Hideout is concerned for the people of Malmouth that never made it to the sewers in time, particularly the women. The Aetherials seem to have taken a strange interest in women in particular. She believes some of them may still survive within the Aetherial Fleshworks. She understands that what she asks of you is incredibly dangerous, but she wants to save those women and thinks you are the only one who could.
-Rescue the Women in the Fleshworks
+Não Posso Deixá-las
+Encontre as Mulheres
+Rivia, no Esconderijo da Resistência, está preocupada com as pessoas de Malmouth que nunca chegaram aos esgotos a tempo, particularmente as mulheres. Os Etéreos parecem ter ficado com um estranho interesse nas mulheres em particular. Ela acredita que algumas delas ainda podem estar vivas na Usina de Carne Etérea. Ela entende que o que ela pede a você é incrivelmente perigoso, mas ela quer salvar essas mulheres e acha que você é a única pessoa que pode fazê-lo.
+Resgate as mulheres na Usina de Carne
 
-Return to Rivia
-You discovered the fate of the women captured by the Aetherials. Report back to Rivia of their grisly fates.
-Speak to Rivia at the Resistance Hideout
+Retorne até Rivia
+Você descobriu o destino das mulheres capturadas pelos Etéreos. Relate seus terríveis destinos a Rivia.
+Fale com Rivia no Esconderijo da Resistência
 
 
 

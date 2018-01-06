@@ -1,14 +1,14 @@
 Barrowholm
-Wendigo Wards
-Restore Wards
-One of Barrowholm's shamans had set up various wards around the perimeter of the village in an effort to scare off the vile inhabitants of the bog. Some of those totems are now failing. Tyvald has asked you to step out into the wilderness and restore those wards. They are spread out on the outskirts of the village.
-Restore the Northern Ward
-Restore the Eastern Ward
-Restore the Southern Ward
+Proteções Wendigos
+Restaure as Proteções
+Um dos xamãs de Barrowholm montou várias proteções ao redor do perímetro do vilarejo em um esforço para assustar os habitantes vis do pântano. Alguns desses totens agora estão falhando. Tyvald pediu a você que se dirigisse às terras selvagens e restaurasse essas proteções. Elas estão espalhadas pelos arredores do vilarejo.
+Restaure a Proteção do norte
+Restaure a Proteção do leste
+Restaure a Proteção do sul
 
-Return to Tyvald
-You have restored the wards.{^n}{^n}Return to Tyvald in Barrowholm with the good news.
-Speak to Tyvald Hallows at Barrowholm
+Retorne até Tyvald
+Você restaurou as proteções.{^n}{^n}Retorne até Tyvald, em Barrowholm, com as boas notícias.
+Fale com Tyvald Hallows em Barrowholm
 
 
 
