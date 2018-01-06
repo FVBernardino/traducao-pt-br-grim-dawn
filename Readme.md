@@ -12,10 +12,8 @@ Acompanhem mais informações da tradução no link oficial: [Fórum Oficial](ht
 
 * Clique no botão verde Clone or Download do lado direto
 * Após o download do .zip extraia todos os arquivos
-* Com os arquivos extraídos clique duas vezes sobre a pasta community_portuguese 
-* Quando acessar o conteúdo da pasta community_portuguese clique CTRL+A (isso irá selecionar todos os arquivos), clique com o botão direito do mouse encima dos arquivos selecionados depois Enviar para -> Pasta Compactada
-* O processo anterior irá gerar um arquivo .zip renomeie esse arquivo para community_portuguese.zip
-* Copie apenas a pasta community_portuguese.zip para C:/Program Files (x86)/Steam/steamapps/common/Grim Dawn/localization
+* Com os arquivos extraídos copie a community_portuguese.zip que já está pronta para ser utilizada
+* Agora basta colar a pasta community_portuguese.zip em C:/Program Files (x86)/Steam/steamapps/common/Grim Dawn/localization ou no local de instalação padrão da sua pasta Steam.
 
 ### Importante
 
